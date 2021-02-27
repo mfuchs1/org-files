@@ -1,0 +1,60 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TITLE: organizer.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Ideas
+
+** Eine neue Idee                                                     :IDEA: 
+:CLOCK:
+CLOCK: [2019-11-12 Di 16:26]--[2019-11-12 Di 16:26] =>  0:00
+:END:
+<2019-11-12 Di>
+
+* Meetings
+
+
+* Tasks
+
+** DONE Sebatsian Kurz gratulieren
+CLOSED: [2020-06-04 Do 20:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-04 Do 20:45]
+:END:
+:CLOCK:
+CLOCK: [2019-10-02 Mi 23:39]--[2019-10-02 Mi 23:40] =>  0:01
+:END:
+[2019-10-02 Mi]
+[[mu4e:msgid:201926091804.1byqsd3h82dnwnj@mailsender.oevp.at][Darf ich auf deine Stimme zählen?]]
+
+Nach dem Ausgang dieser NR-Wahl werde ich Hr. Kurz zum großartigen Wahlsieg gratulieren.
+
+** DONE org-gcal
+CLOSED: [2020-06-04 Do 20:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-04 Do 20:45]
+:END:
+:CLOCK:
+CLOCK: [2019-10-06 So 23:33]--[2019-10-06 So 23:33] =>  0:00
+:END:
+[2019-10-06 So]
+
+** DONE Jahresplanung für Bad Vigaun
+CLOSED: [2020-06-04 Do 20:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-04 Do 20:45]
+:END:
+:CLOCK:
+CLOCK: [2019-10-19 Sa 14:43]--[2019-10-19 Sa 14:43] =>  0:00
+:END:
+[2019-10-19 Sa]
+[[file:~/NMS_BadVigaun/Jahresplanung/2.Klasse/02_BadVigaun.org::*Materialien][Materialien {1/4}]]
+
+* Websites
+
+[[https://github.com/alphapapa/org-web-tools][GitHub - alphapapa/org-web-tools: Commands and functions for retrieving web page content and processing it into and displaying it as Org-mode content.]]
+
+* Mails

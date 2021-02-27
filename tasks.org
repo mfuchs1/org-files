@@ -1,0 +1,414 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+TITLE: tasks.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+"
+* Inbox
+** DONE Antorten, ob wir zur Feier kommen , Link: [[mu4e:msgid:0102016e7eaab3ba-48f9b138-741a-45c1-88da-df9d8ba9a547-000000@eu-west-1.amazonses.com][Weihnachtsfeier 2019]]
+CLOSED: [2020-06-04 Do 22:37]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-04 Do 22:37]
+:END:
+
+** TODO [#A] Isabelle regelmäßig überraschen
+DEADLINE: <2021-02-28 So +1w -2d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-02-25 Do 10:14]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:33]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:43]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2019-11-24 So 22:08]
+- State "DONE"       from "TODO"       [2019-11-24 So 22:08]
+- State "STARTED"    from "TODO"       [2019-11-20 Mi 22:23]
+:END:
+
+
+** TODO [#A] Check Mail
+DEADLINE: <2021-02-26 Fr +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-02-25 Do 10:14]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
+- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
+- State "DONE"       from "TODO"       [2020-12-10 Do 10:19]
+- State "DONE"       from "TODO"       [2020-12-10 Do 10:19]
+- State "DONE"       from "TODO"       [2020-12-09 Mi 11:28]
+- State "DONE"       from "TODO"       [2020-12-09 Mi 11:28]
+- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
+- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
+- State "DONE"       from "TODO"       [2020-12-04 Fr 08:01]
+- State "DONE"       from "TODO"       [2020-12-03 Do 10:14]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
+- State "DONE"       from "TODO"       [2020-09-18 Fr 07:42]
+- State "DONE"       from "TODO"       [2020-09-18 Fr 07:39]
+- State "DONE"       from "TODO"       [2020-09-17 Do 23:18]
+- State "DONE"       from "TODO"       [2020-09-17 Do 23:18]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
+- State "DONE"       from "TODO"       [2020-06-04 Do 22:37]
+- State "DONE"       from "TODO"       [2019-11-24 So 22:35]
+:END:
+
+** DONE [#A] Weihnachtsgeschenke besorgen [12/12]
+CLOSED: [2021-01-04 Mo 10:22] DEADLINE: <2020-12-20 So>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+:END:
+ - [X] Leopold [4/4]
+   - [X] Schaukelpferd (Mutti)
+   - [X] Magnet-Spiel (Isabelle)
+   - [X] Spiel (Elisabeth)
+   - [X] Super-Wings Figuren
+ - [X] Gabriel [5/5]
+   - [X] Stunt-Roller
+   - [X] Spiel (Elisabeth)
+   - [X] Abo Geolino (Mutti)
+   - [X] Lego City Passagierflugzeug
+   - [X] RC Auto (50 Euro von Mick)
+ - [X] Gabriel und Leopold: Kapla-Steine (Mick)
+ - [X] Isabelle: neues Handy (Xiaomi Redmi 9A)
+ - [X] Matthias: ?
+ - [X] Jean-Claude und Francois: 2x Fotoalbum (1. Kommunion)
+ - [X] Amira: DVD "Ostwind - Aufbruch nach Ora" (amazon)
+ - [X] Eltern [2/2]
+   - [X] Fotoalbum (1. Kommunion)
+   - [X] Pasteten
+ - [X] Veronika und Thomas: Foi Gras + Paseten + Rotwein
+ - [X] Julia: Schmack
+ - [X] Lisa: Armband
+ - [X] Michael und Bettina: (Zara Home)
+
+** TODO [#A] Unterricht für die nächste Woche vorbereiten
+DEADLINE: <2021-02-28 So +1w -3d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-02-25 Do 10:15]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:15]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2019-11-24 So 22:18]
+:END:
+
+
+** DONE Konferenz vorbereiten
+CLOSED: [2019-11-23 Sa 09:49] DEADLINE: <2019-11-21 Do>
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-23 Sa 09:49]
+- State "DONE"       from "TODO"       [2019-11-23 Sa 09:34]
+:END:
+:CLOCK:
+CLOCK: [2019-11-12 Di 17:51]--[2019-11-12 Di 17:52] =>  0:01
+:END:
+
+ - Betragen?
+ - Leistungsabfall?
+ - SQA
+ - App "Lernsieg"
+ - 
+
+** DONE Lenovo V340-17IWL bestellt , Link: [[mu4e:msgid:74278248500-1574591640972@digitalrivercontent.net][Lenovo - Ihre Bestellung ist eingegangen (Bestellung Nr. 9638087009)]]
+CLOSED: [2019-11-24 So 22:25] DEADLINE: <2019-11-24 So>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-24 So 22:25]
+:END:
+
+Artikel-/Teilenummer:  81RG000GGE
+
+Prozessor: Intel Core i5-8265U Processor ( 1,60GHz 6MB )
+Betriebssystem: Windows 10 Pro 64
+Displaytyp: 17,3"FHD IPS AntiGlare LED Backlight 1920x1080
+Hauptspeicher: 16.0GB PC4-19200 DDR4 SODIMM 2400MHz
+Massenspeicher: 512GB SSD PCIe
+Optisches Laufwerk: DVD-RW
+Garantie: Ein Jahr Depot or Carry-in
+Netzteil: 45W
+Grafik: Intel HD-Grafik 620
+Akku: 3 Cell Li-Polymer
+Bluetooth: Bluetooth 4.1
+Zeigegerät: ClickPad
+WLAN: Lenovo AC WLAN
+
+Preis: € 789,00
+
+** DONE Kinderbetreuungskosten zurückholen , Link: [[mu4e:msgid:90074f1768034f87a1ca037533a676b8@groedig.at][Gutschein Aktion]]
+CLOSED: [2020-09-18 Fr 07:39]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-09-18 Fr 07:39]
+:END:
+Zuerst bezahlen; dann Gutscheine bei Gemeinde beantragen cite:Wallner.2008
+
+cite:BibelNeu.2016
+
+cite:Bonhoeffer.1997
+
+Noch ein Buch cite:Ganser2012
+
+** DONE Gottesdienst; mit rhythmischen Liedern 
+CLOSED: [2020-09-18 Fr 07:38] SCHEDULED: <2020-07-05 Fr 09:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-09-18 Fr 07:38]
+:END:
+:CLOCK:
+CLOCK: [2020-07-03 Fr 10:36]--[2020-07-03 Fr 10:37] =>  0:01
+:END:
+
+** DONE Telefonlisten anlegen pro Klasse
+CLOSED: [2020-11-17 Di 08:58] DEADLINE: <2020-11-16 Mo 22:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-11-17 Di 08:58]
+:END:
+:CLOCK:
+CLOCK: [2020-11-16 Mo 11:43]--[2020-11-16 Mo 11:46] =>  0:03
+:END:
+Für die Überprüfung der Anwesenheit eine Telefonliste (Socrates) anlegen. Bei Abwesenheit eines Schülers zuerst telefonsich nachfragen, dann fehlend eintragen (Teacher Assistent).
+Mo / 1. Stunde: 2B Google Classroom (Droidcam)
+Mo / 2. Stunde: 1A Microsoft Teams (IP Webcam)
+Di / 1. Stunde: 1B Microsoft Teams (IP Webcam)
+Mi / 1. Stunde: 3A Google Classroom (Droidcam)
+Fr / 1. Stunde: 4C Google Classroom (Droidcam)
+
+*  Meetings
+
+** DONE Schulkonferenz NMS_Golling                                 :MEETING:
+CLOSED: [2019-11-23 Sa 09:50]
+:LOGBOOK:
+- State "DONE"       from "APPT"       [2019-11-23 Sa 09:50]
+:END:
+:CLOCK:
+CLOCK: [2019-11-21 Do 14:37]--[2019-11-21 Do 14:38] =>  0:01
+:END:
+<2019-11-21 Do 16:00>
+
+
+bibliography:/home/matthias/org/Bibliography/Literatur.bib

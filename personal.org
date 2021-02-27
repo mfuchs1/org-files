@@ -1,0 +1,57 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 1B
+#+SELECT_TAGS: JA
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{enumitem,amssymb}
+#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
+#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
+#+TITLE: personal.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Organisation
+[[file:tasks.org][tasks.org]]
+
+[[file:notes.org][Notizen]]
+
+[[file:tagebuch.org][tagebuch.org]]
+
+[[file:organizer.org][organizer.org]]
+
+[[file:notes/2020-09-15-1015 index_zetteldeft.org][index_zetteldeft]]
+
+[[file:org-gcal.org][Probe Familienmesse]]
+
+
+* Perönliches Studium
+[[file:20210122155859-pers_studium.org][Pers_Studium]]
+
+[[file:books.org][books]]
+
+[[file:notes/2020-12-12-1455 Emacs.org][Emacs]]
+
+* Sonstiges
+[[file:corona.org][corona.org]]
+
+

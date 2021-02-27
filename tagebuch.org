@@ -1,0 +1,400 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TITLE: tagebuch.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* 2018
+** 2018-11 November
+*** 2018-11-14 Mittwoch
+**** ein neuer Eintrag
+     :LOGBOOK:
+     CLOCK: [2018-11-14 Mi 10:24]--[2018-11-14 Mi 10:25] =>  0:01
+     :END:
+   [2018-11-14 Mi 10:24]
+
+Hallo
+
+*** 2018-11-18 Sonntag
+**** Emacs ist cool
+:CLOCK:
+CLOCK: [2018-11-18 So 21:23]--[2018-11-18 So 21:24] =>  0:01
+:END:
+[2018-11-18 So 21:23]
+
+Emacs ist wirklich eine geniale Software. Was kann dieses Programm eigentlich nicht?
+
+*** 2018-11-20 Dienstag
+**** Konferenz
+:CLOCK:
+CLOCK: [2018-11-20 Di 16:33]
+:END:
+[2018-11-20 Di 16:33]
+[..] Warum wurde an der NMS / HS "herumgedoktert"? Weil sie in der Stadt nie funktioniert hat. 
+
+Wer will die Begabtenföderung übernehmen?
+
+Sexualpädagogik: TeenStar wurde von allen Schulen verbannt --> nachforschen!
+
+Nachmittagsbetreuung würde bei uns va in der 1. Klassen gebraucht. Sobald wir Werbung machen, sind genügend Schüler da. Dies verlangt große Umbauten: Mittagessen + Raum, Freizeit-Gestaltung, HÜ, etc. BM von Golling ist nicht heiß drauf, da dies mit viel Kosten verbunden ist. Dazu braucht es eigens ausgebildete Pädagogen.
+
+*Sonstiges:* 
+ - Blocken im Turnunterricht, zB Schwimmen --> und wenn ein Schüler nicht Schwimmen geht? in der Verantwortung des Turnlehrers.
+ - Lehrerfahrt: Bad Aussee, ... Termin: 21. - 23.6.2019
+ - Lehrer-Ski-Tag: 9.3. - 10.3.2019 Besenhaus / Altenmarkt; Zauchensee. (1 Nacht plus Frühstück 45 Euro)
+ - Bestellungen: Marktgemeinde Golling - NMS Golling, Schulstraße 211 --> für den Unterricht; was die Gemeinde zahlt. Z.B. Ton für den Werkunterricht.
+ - Projekt Film ist hinfällig
+ 
+*Mitteilungen des Leiters*
+ - Vorträge
+ - Mozart-Ensemble: vielleicht nicht mehr für die 3. Klassen?
+ - Schulform
+ - BO Tage
+ - Skikurs, Wienwoche, Skitage --> Leiter bestimmt
+ - Projekttage / Schulschluss [C-Topf]
+ - Schwerpunktwoche 4. Klassen 25.3. - 27.3.2019
+ - LiftUp (2x)
+ - Schulärztin ist entsetzt über Übergewicht mancher Kinder - mit 20 sind die Kinder zuckerkrank. Impfmoral ist so schlimm wie nie - in manchen Klassen waren nur 6-7 Kinder bei der Impfung! 
+ 
+VS --> NMS: von 67 Schülern gehen 17 Gymnasium anschauen --> wir bräuchten 51 für drei erste Klassen. Wer einmal im Gym war, kommt nimmer NMS anschauen. 17 sind ein bißchen viel. 
+
+Polizei war da wegen "Momo" (WhatsApp Kettenbrief). Gewisse Taten sind strafbar. In den 4. Klassen war einmal Schnupftabak im Umlauf - strafbar! (Ein 16-Jähriger hat unseren Schülern den Tabak organisiert.) Die Situation wurde sehr gut gelöst: Die Schüler mussten es Zuhause erzählen und die Eltern mussten den KV bis 16h00 anrufen. Ein schüler darf auch einmal einen Fehler machen. 
+
+Jugendcoaching: 21.11. + .12. + 17.12.2018
+
+24.11. Cäcilia-Konzert - Matten auflegen Turnssal
+
+Bürgerversammlung [Datum]: Montag kein Turnsaal
+
+27.11. Elternsprechtag: Reli_Lehrer ist nur für 2 Stunden da. WICHTIG: den Kindern mitteilen! Positives mitteilen. 
+
+11.12.2018 + 16.1.2019 14:00-16:00 e-Learning [schulinterne Ausbildung] mindestens bei einem Termin teilnehmen - Anmeldung über "Zettel", nicht PH.
+
+Weihnachtsgottesdienst am Freitag, 21.12.2018, 11:00 Uhr --> Elisabeth anrufen!
+
+Veranstaltungen außerhalb der Schule müssen bekanntgegeben werden --> Dienstauftrag, ...
+
+Stundenvorbereitung bei Dienstverhinderung: ordentliche Vorbereitung, Absprache mit supplierenden Lehrern. Bitte kein Mail an Direktion.
+
+Schüler, die nicht in RU gehen: Eigentlich müssten sie im RU sitzen (Aufsichtspflicht); die Schüler müssen im Stockwerk ihrer Klasse bleiben.
+
+Förderkurs - nach der 6. Stunde eine Stunde frei
+
+Große Pause: Keine Stockwerkwechsel!
+
+Wiederverwendung der Schulbücher: 
+ - 1. Klassen: R, BU,
+ - 2. Klassen: R, ...
+ - 3. Klassen: R, ...
+ - 4. Klassen: R, ...
+--> Einsammeln der Bücher durch Fachlehrer
+
+C-Topf: Skikurs, ... 40 Stunden; Pro Tag 8 Stunden; 
+
+Elternsprechtag Positives über Schüler sagen.
+
+Pünktlichkeit! Nicht zu spät rein, nicht zu früh raus.
+
+Disziplinäre Frühwarnung + Leistungsabfall für den Elternsprechtag; zB "WZ" im Verhalten benötigt Frühwarnung.
+
+Schülerbesprechungen in der Großen Pause.
+
+Beschädigungen von Schuleigentum muss von den Tätern (Schülern, ...) bezahlt werden.
+
+Schulaktivitäten auf die Homepage; Fotos: Einwilligung durch Eltern - rechtlich richtig! Genaue Formulierung, Homepage mit url-link. Mitarbeiter für Homepage gesucht. 
+
+Smartboard - Probleme bitte bei Irmi melden.
+
+Erste-Hilfe-Sackerl zurückgeben. - Wunde: hinlegen, Rettung verständigen, Wunde verbinden (weder waschen noch Salbe). 
+
+Im Brandfall: Zu Beginn der Stunde - wo sind die abwesenden Schüler? Warum?
+
+* 2019
+** 2019-01 Jänner
+*** 2019-01-30 Mittwoch
+**** Notenkonferenz - Semesterende
+:CLOCK:
+CLOCK: [2019-01-30 Mi 15:38]--[2019-01-30 Mi 18:17] =>  2:39
+:END:
+[2019-01-30 Mi 15:38]
+
+Mitteilungen:
+ - Begrüßung - Geburtstage, speziell Ingrid (60)
+ - BM - Grundsatzerlass, geschlechtergerechter Umgang (Stereotypen abbauen, ...); Kopftuch (in unserer Schule kein Thema), in BSP geht's nicht.
+ - Schulbücher; Bücher einsammeln, Bestellungen
+ - SQA, Klassenfeedback (online) --> www.sqa.at [ist es die Zukunft, oder am auslaufen?]
+ - Schülerlotsen
+ - Bildungsdirektion: neue Tel.Nr. und Mailadressen; viele Mitarbeiter kennen sich oft selber nicht aus... ;)
+ - Familienbonus Plus --> Formular E30 ....
+ - Sozialaktion für in Not geratene Lehrer
+ - Begabtenförderung: Dir. (VS Pfarrwerfen)
+ - Abgabetermin für Karenz, u.a.: 4.3.2019
+ - LiftUps: Fortbildungskurse (D, E, M) ... ? Annemarie: Mal aussetzen? (15h verpflichtend an Fortbildung)
+
+Finanzführerschein: Schuldenberatung (4. Klassen); interessant, aber zeitaufwendig. Fächerübergreifend, ... --> heuer nicht mehr. 
+
+Heizen, Lüften im Winter: bei Störungen, zu heiß - zu kalt --> dem Schulwart melden. 
+
+Handyverbot in der Schule: läuft bisher gut (in der Schultasche oder Spint, ausgeschalten(?)). Anfrage von Annemarie: warum nicht gleich und immer im Spint? Abstimmung darüber: Handy nur im Spint? Konsequenzen: Handy abgenommen, am Unterrichtsende zurück; eine Strafe soll es schon sein; --> einstimmig angenommen! 
+
+Passwort wurde geändert! Uff!
+
+Keine Tätlichkeiten gegen Schüler! Nie! Niemals!
+
+Klassen- / Schülerfotos: 24 Euro pro Person.
+Ehemalige Schüler haben im Konferenzzimmer nichts zu suchen, schon gar keinen Kaffee anbieten!
+
+Was bisher geschah? Rückblick.
+
+Vorschau: 31.1.2019 - Theater 3. Klassen
+Schikurs 2. Klassen
+6.2. Polizei 2
+5.3. Skirennen Abtenau
+6.3. Polizei
+12.3. 4. Klassen Kabaret Vogl
+13.3. Prävention Polizei 2. Klassen
+21.3. LiftUp D #
+24.-29.3. Schwerpunktwoche 3. Klassen
+
+Keine Projektwoche in den ... Klassen
+
+Nächste Konferenz 9. April
+
+Schüler ohne RU: im Stockwerk der Stammklasse
+
+10.4. Mauthausen 4. Klassen
+
+Tests, Prüfungen am Ende des Semesters - hui! Mündliche Prüfung auf Wunsch des Schülers - nur einmal im Semester. Diese Prüfung ist nur ein Teil der Notengebung. 
+
+Notengebung: keine Noten herschenken! Hui --> in ein Wespennest gestochen. Das Sehr Gut soll nicht abgewertet werden. 
+
+C-Topf
+KEL-Gespräche sind verpfichtend
+
+Schüler während Unterrichtszeit nie alleine lassen.
+Homepage: Danke für die Betreuung, und an jene die Artikel und Fotos beisteuern
+
+-----
+
+*Notenkonferenz*
+Mahnungen nur bei "grundlegenden" Beurteilungen, sonst "Leistungsverfall". WZ --> nur mit Manhnung vorher.
+
+ein WZ: 3a Ilija - im Semesterzeugnis geht's so durch. Fürs Jahreszeugnis braucht es für ein WZ eine Mahnung, Gespräch mit den Eltern, ...
+
+Hm, eigentlich hätte ich bei bestimmten Schülern (zB in der 3b: Marcel, Fabian, Ivo, Peter, Sebastian, ...) auch ein WZ beantragen sollen. Ich merke es mir für das Sommersemster.
+** 2019-02 Februar
+*** 2019-02-16 Samstag
+**** #01
+:CLOCK:
+CLOCK: [2019-02-16 Sa 23:34]--[2019-02-16 Sa 23:38] =>  0:04
+:END:
+[2019-02-16 Sa 23:34]
+
+Diese Ferien waren sehr erholsam - sowohl für Isabelle als auch für mich. Gabriel war in einem Schikurs, heute (Samstag) war das Abschlussrennen. Isabelle und ich waren so stolz auf sein Können. Wow! 
+
+Für die Schule werde auch noch die passenden Themen finden. Vor allem die erste Stunde am Montag in der vierten Klasse macht mir noch viel Kopfzerbrechen.
+*** 2019-02-25 Montag
+**** Desktop PC mit SSD aufrüsten
+:CLOCK:
+CLOCK: [2019-02-25 Mo 12:05]--[2019-02-25 Mo 12:28] =>  0:23
+:END:
+[2019-02-25 Mo 12:05]
+
+Ich habe über Amazon eine 1TB-SSD von Crucial bestellt. Damit rüste ich den Manjaro-Desktop-PC auf.
+
+***** TODO Plan [0/15]
+
+- [ ] Daten sichern: besonders alle config-Dateien von Emacs, weechat und cmus; offlineimap, mbsync, mu4e, mutt, ... etc; Persönliche Daten: Videos, Musik, Dokumente, ...
+- [ ] Handschriftlich festhalten, welche Programme installiert sind.
+- [ ] Partitionierung notieren: BIOS-UEFI, root, home, SWAP (Größe, Flags, boot-fähig, ...). Z.B. sollte SWAP 30-40% größer sein als der RAM: bei 8GB --> 12-14GB.
+- [ ] PC abschalten
+- [ ] Stromkabel (und alle anderen Kabel)  am PC abstecken
+- [ ] Power-Knopf 3-5 sec gedrückt halten (um Rest-Elektizität zu entfernen)
+- [ ] Deckel abmontieren
+- [ ] SSD-Festplatte einbauen (SATA Kabel anschließen - auch am Motherboard; Stromkabel an SSD-Festplatte anschließen)
+- [ ] PC wieder schließen und anstecken
+- [ ] Hochfahren
+- [ ] Auf der SSD-Festplatte Manjaro XFCE installieren: manuelle Patritionierung. SWAP auf 12 GB setzen. UEFI Partition. 
+- [ ] Neustart
+- [ ] Daten von HDD auf SSD kopieren (?)
+- [ ] HDD neu formatieren als reine Daten-HDD
+- [ ] Sich am schnelleren System erfreuen :)
+-
+** 2019-11 November
+*** 2019-11-08 Freitag
+
+**** DONE [#A] Isabelle immer wieder überraschen
+CLOSED: [2019-11-12 Di 16:11] DEADLINE: <2019-11-09 Sa>
+:CLOCK:
+CLOCK: [2019-11-08 Fr 21:38]--[2019-11-08 Fr 21:52] =>  0:14
+:END:
+[2019-11-08 Fr 21:38]
+
+Isabelle freut sich über kleine, regelmäßige Geschenke, Aufmerksamkeiten, Blumen; vor allem freut sie sich, wenn ich ihr zeige, wie gerne ich mit meiner Familie lebe. Ich soll ein fröhliches Gesicht machen. Immer wieder "Danke" sagen. Sie ist "wie ein Blume, die gegossen werden möchte". 
+
+Wann kann ich wieder einen gemeinsamen Abend organisieren? (Kino, Essen, ...) 
+
+Wenn Isabelle einen meiner Vorschläge korrigiert, dann bitte nicht missmutig sein, akzeptiere es einfach.
+
+Sei dankbar, immer. Schau auf das Schöne und Gute. Habe viel mehr Selbstvertrauen - hm, wie kann ich dies verstärken? Was hat in meiner Kindheit mein Selbstvertrauen erschüttert? 
+
+Sei kein Egoist; wenn du Geld für neue CDs ausgibst, aber nichts für Isabelle kaufst (zB zu ihrem 50. Geburtstag), dann kommst du als Egoist rüber. Auch wenn das nicht deine Absicht war. 
+
+Du schaffst das schon! Aber: tu alles, um deine Ehe mit Isabelle zu schützen und stärken. Investiere dich! Organisiere gemeinsame Aktivitäten.
+* 2020
+** 2020-07 Juli
+*** 2020-07-06 Montag
+
+**** Notenkonferenz NMS Golling
+:CLOCK:
+CLOCK: [2020-07-06 Mo 14:31]--[2020-07-06 Mo 14:40] =>  0:09
+:END:
+[2020-07-06 Mo 14:31]
+
+***** Begrüßung
+amtliche Dinge sind weitergeschickt; Mails durchlesen.
+
+***** Testung
+Safia + Maid bleiben sitzen; und?
+Test kann in den ersten Schulwochen wiederholt werden.
+Bringt nur bei Maid etwas: dadurch wird er ordentlich, womit alles benotet wird. Wie helfen wir ihm besser? Maid nächstes Jahr ordentlich beurteilen wird nichts bringen, da er sehr faul ist. Elternsgespräch sinnvoll. 
+
+***** Stunden
+4.. Stunden und sind nicht in der Lage, alle D-Stunden abzudecken; wir müssen Stunden einsparen.
+
+** 2020-08 August
+*** 2020-08-28 Freitag
+
+**** Gabriel
+:CLOCK:
+CLOCK: [2020-08-28 Fr 11:43]--[2020-08-28 Fr 11:50] =>  0:07
+:END:
+[2020-08-28 Fr 11:43]
+
+Telefonat mit Dr. Flucher-Wolfram: 
+ - "Wir machen uns große Sorgen, wenn du wegläufst. Du bekommst von uns dieses Handy (nur mit Tasten). Was bringst du ein? Was willst du machen, damit es besser läuft?" Auf Augenhöhe reden ...
+ - Bzgl. seinem Grant: drei Tage lang beobachten, ab wann die Wirkung des Ritalin nachlässt; normalerweise nach 6-8 Stunden (ca 14:00 Uhr). Mit Gabriel reden und ihm vorschlagen, dass er um 14:00 5mg vom "normalen" Ritalin zusätzlich einnimmt. 
+
+Der heutige Vormittag verlief normal - alles okay. Die Kinder sind mit Isabelle in die Stadt gefahren (Coq), anschließend geht es zum Spielplatz in Hellbrunn. Mit mir fahren sie am Nachmittag mit dem Fahrrad zur Glan (Luftmatraze mitnehmen; hm - ich befürchte, dies könnte schief gehen). Hl. Schutzengel - beschützt und behütet uns.
+
+** 2020-09 September
+*** 2020-09-17 Donnerstag
+
+**** Gabriel / Dr. Flucher-Wolfram
+:CLOCK:
+CLOCK: [2020-09-17 Do 23:07]--[2020-09-17 Do 23:16] =>  0:09
+:END:
+[2020-09-17 Do 23:07]
+Die letzten Wochen waren richtig schlimm mit Gabriel. Ich möchte gar nicht all seine Dummheiten aufschreiben. Heute um 16:30 hatten wir ein Treffen bei Dr. Flucher-Wolfram. Nach meinen Beobachtungen bestätigt sich, dass die Wirkung von Ritalin bei Gabriel um ca 14:00 nachlässt. Deshalb ist besonders der Abend - und ein wenig der Morgen - "etwas anstrengend". Eine Nebenwirkung von Ritalin ist Appetitlosigkeit. 
+
+Aus diesem Grund schlug die Ärztin ein anderes Medikament vor, dass keine aufputschende Wirkung hat. Positv ist, dass es für 24 Stunden wirkt und nicht den Appetit bremst. Die Umstellung erfolgt schleichend, dh während Ritalin zurückgenommen wird, erhöht man die Dosis von Woche zu Woche beim neuen Medikament. 
+
+Der heutige Abend verlief wesentlich ruhiger - noch mit Ritalin; vor allem auch wegen der neuen Liste.
+
+Es bleibt zu hoffen, dass die Umstellung fürm Gabriel eine echte Hilfe und Verbesserung darstellt.
+
+Als zweite Hilfe kommt hinzu: eine pensionierte Psycholgin will sich Gabriel anschauen. Zusätzlich bräcuhet auch ich psychologische Hilge und Ratschläge, damit bei Gabriels Wutanfällen besser reagieren kann.
+** 2020-11 November
+*** 2020-11-12 Donnerstag
+
+**** Corona und Medien (Vortrag von Daniele Ganser)
+:CLOCK:
+CLOCK: [2020-11-12 Do 22:01]--[2020-11-12 Do 22:05] =>  0:04
+:END:
+[2020-11-12 Do 22:01]
+
+Bsp.: Medien spielen mit Bildern; Facebook "Hoffentloch wird es bei uns nicht so wie in Italien" [Bild von Halle voll mit Särgen] Dieses Bild ist jedoch aus dem Jahr 2013 und zeigt die Särge von ertrunkenen Flüchtlingen.
+
+Medien wissen, dass wir nicht rational reagieren.
+
+Schau nicht nur Bilder an, informiere dich von allen Seiten. Bringe die Zahlen in Relation zueinander. Schau auf: wieviele Tote? Auslastung der Spitäler? Wieviele Erkrankte? (Zahlen immer in Relation zur Bevölkerung).
+*** 2020-11-15 Sonntag
+
+**** Corona
+:CLOCK:
+CLOCK: [2020-11-15 So 23:33]--[2020-11-16 Mo 00:45] =>  1:12
+:END:
+[2020-11-15 So 23:33]
+
+[[https://orf.at/stories/3189878/]]
+ORF: Kurz kündigt Massentests an
+
+Raphael Bonelli: Weiß wirklich NIEMAND, wie die Regierung den Lockdown rechtfertigt? Nicht mal sie selbst!?
+[[https://www.youtube.com/watch?v=CIuCvMABhwg]]
+[[https://www.youtube.com/watch?v=CudltSoymdc]]
+
+Wie kann ich in dieser Situation positiv bleiben? Wie halte ich die Angst und Panik gering? Beten, Lesen, Natur, Spaß haben, vielfältige Information, kein TV (ORF), ...?
+
+Massentests, eventuell später Zwangsimpfungen? Nein, kein Zwang: aber niemand kann verreisen oder kaufen oder arbeiten, wenn er nocht geimpft wird. Also doch Zwang?! 
+
+Tja, manchmal denke ich ans Auswandern - wohin? Nach Schweden? 
+
+Wie rechtfertigt die Regierung den Lockdown? Weiß sie es selbst? Offizielle Stellungnahme der Regierung. Verordnungen können maximal 10 Tage in Kraft sein könenn - daher Beschluss im Parlament. Weil der Lockdown nicht funktioniert hat, soll er jetzt strenger werden. (Und warum gibt man den Lockdown nicht auf - da er ja nicht funktioniert hat?) Ich bin nicht krank, nur weil ich einen Laborwert habe. 
+
+Ferdinand Wegscheider [14.11.2020]: [[https://www.servustv.com/videos/aa-252z6wqew2112/]]
+
+Daniele Ganser: [[https://www.youtube.com/watch?v=kM0JZpd5qEQ]]
+
+ 1. Ich verstehe deine Angst (Virus / Gesundheitsdiktatur) - die Angst der anderen Gruppe.
+ 2. Gespräch: auf welcher Basis hast du deine Ängst?
+ 3. die dritte Gruppe hat gar keine Angst.
+
+Wissenschaft: alle Argumente muss man zur Kenntnis nehmen, seine eigene These immer überprüfen / hinterfragen. Das wird aber jetzt nicht gemacht - oder kaum, sehr wenig. (Es werden Grundrechte, etc eingeschränkt, die Verfassung gebrochen - und niemanden juckt es?) Schon nach den Terroranschlägen war die reale Gefahr, bei einem Terroranschlag zu sterben - ist so gering. Genauso wie die Grafhr so gering, am Virus zu sterben. Die Grundrechte werden dennoch beschnitten! 
+
+Wir werden mit Zahlen bombardiert - neue Fallzahlen: also positiv Getestete. Das bedeutet nicht, ob diese Person krank bzw ansteckend ist.
+
+** 2020-12 Dezember
+
+*** 2020-12-12 Samstag
+
+**** Kinder
+:CLOCK:
+CLOCK: [2020-12-12 Sa 21:22]--[2020-12-12 Sa 21:24] =>  0:02
+:END:
+[2020-12-12 Sa 21:22]
+
+Es wird immer schwieriger mit unseren Kindern. Was ich ihnen sage, interessiert sie nicht. Ständig Opposition, sehr oft "Nein". Es fällt mir immer schwerer, ihnen wohlwollend gegenüber zu sein. Ich weiß nicht mehr, was es heißt, (meine) Kinder zu erziehen. Natürlich sollen sie nicht alles so tun, wie ich es sage - sie sind doch keine Roboter, sondern Personen mit einem eigenen Willen. "Aber" wie geht dann Erziehung? Was tun, wenn man wie ich ständig ein "Nein" hört?
+
+*** 2020-12-16 Mittwoch
+
+**** Corona
+:CLOCK:
+CLOCK: [2020-12-16 Mi 11:05]--[2020-12-16 Mi 11:30] =>  0:25
+:END:
+[2020-12-16 Mi 11:05]
+Wohin führt das alles? Wenn ich mit meinen Kollegen in der Arbeit rede, dann stärkt mich dies. Denn wir denken ähnlich, ich fühle mich nicht allein. Die geringe Teilnahme an den Tests zeigt, wie die Menschen darüber denken. Jetzt werden wir wohl massiv bzgl Impfung mit Propaganda überhäuft. Da heißt es: "Bleibe stark und hoffe auf den Herrn!" - Tipp von Marie-Luise Doppler: "Lass dich nicht spalten; niemand, v.a. die Schüler sollen nicht wissen, wie du bzgl Impfen denkst. Mach dich nicht angreifbar!" Da hat sie recht, allein: das zeigt schon, in welch gefährlichen Zeiten wir leben. Dh ich kann nicht mehr offen sagen, was ich denke; verschiedene Meinungen bzgl Corona entzweien Menschen, spalten Familien. DAS ist furchtbar!
+
+Der Schulstart wurde auf den 11.1.2021 verschoben. Die Tage vom 7.1. und 8.1. wird in den Schulen Betreuung angeboten. Zu den Weihnachtsfeiertagen gibt es privat keine Maskenpflicht (und sonst schon? oder "noch nicht"?). Am 7.1. und 8.1.2021 soll es wieder Massentests für Lehrer UND Schüler geben. [[https://orf.at/stories/3193838/]] Lt. der Gewerkschaft soll es aber keine Verpfichtung zum Testen geben - auf jeden Fall nicht für die Schüler, aber auch nicht für Lehrer. Die Möglichkeit zur Testung wird von der Gewerkschaft begrüßt. 
+
+Ich habe "das alles" schon so satt! An die Regeln habe ich mich immer noch nicht gewöhnt / gewohnt (?). "Ach, eine Maske nicht tragen ist doch nicht schlimm, oder? Trage lieber eine Maske, als sterben oder krank werden!" - Wahnsinn, wer so redet, hast echt wenig Ahnung von zwischenmenschlicher Kommunikation, oder ist schon sehr abstumpft. Dieser Satz kommt von meinem Vater, meiner Mutter, die beide wahrlich keine Experten der Kommunikation sind.
+
+Da schreibe ich noch weiter...
+
+*** 2020-12-20 Sonntag
+
+**** Absurdistan Österreich
+:CLOCK:
+CLOCK: [2020-12-20 So 00:09]--[2020-12-20 So 00:40] =>  0:31
+:END:
+[2020-12-20 So 00:09]
+Kritik von Opposition an „Freitesten“:
+[[https://orf.at/stories/3194413/]]
+
+Weitere Details zu drittem Lockdown
+[[https://orf.at/stories/3194379/]]
+
+Es wird echt immer absurder: Der zweite Lockdown läuft eigentlich weiter; jetzt verkündet die Regierung per Pressekonferenz den dritten Lockdown. Und der hat hat es echt in sich! Um den 18.1.2021 kann man sich "freitesten" (was nach meinem Gefühl verfassungswidrig ist und eigentlich Zwang und Erpressung ist). Eine "Zwangsimpfung" wird es so nicht geben, denn eine Impfung ist eine Körperverletzung, der der zu Impfende seine Zustimmung erteilt (oder eben ablehnt). Daher kann die Regierung beschließen: wer sich nicht impfen lässt, kann nicht mehr arbeiten und / oder einkaufen gehen.
+
+Wenn man ion Wien die U-Bahn benutzt, darf man in den Bergen die Seilbahn benutzen.
+
+Auch bezüglich der Masken wird es absurd: bis jetzt konnten wir jede Art von enganliegenden Masken tragen - auch jene aus Baumwolle, slebst genäht. Wer sich um den 18.1.2021 nicht testen lässt, muss eine Woche länger in die Quarantäne - und muss in dieser Zeit eine FFP2 Maske tragen im Freien.
+[[https://www.youtube.com/watch?v=OtYm4muM5eE]]
+Also wie jetzt: bis jetzt durfte man auch eine Stoffmaske tragen - und jetzt, wenn ich schlimm bin und mich nicht teste, darf ich die nicht mehr aufsetzen, weil sie mich ja nicht schützt (da ich schlimm bin)? Daher muss ich eine FFP2 Maske tragen? Dh bis jetzt nahm die Regierung die Stoffmaksen in Kauf, wissend, dass diese nicht schützen?
+
+Raphael Bonelli:
+[[https://www.youtube.com/watch?v=UbHmpstcxcI]] (Der 3. Lockdown ist ein schwerer Schlag für die Bevölkerung!)
+https://www.youtube.com/watch?v=DeCZZ5ZTb7s (Erpressung der Bevölkerung! Erwartet uns nach der Zwangstestung die Zwangsimfpung?)
+
+In fühle ich Wut / Zorn und / oder Resignation. Wer mit dem Rücken zur Wand steht (Zwangsimpfung), kann schnell aggressiv werden. Mein Vater findet nichts schlimmes daran an einer Zwangsimpfung. "Ein Wahnsinn! Das sind doch Experten, denen muss man vetrauen!" Zwang in einer Demokratie ist nix Arges, findet er; in unseren Zeiten muss man eben die Demokratie und Freiheit ausschalten - irgendwie so dentk er. Zweiteilung der Gesellschaft in Getestete und Ungetestete - das ist sehr bedenklich. Die ersten Massentests waren ein echter Flopp. 
