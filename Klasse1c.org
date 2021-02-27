@@ -1,0 +1,88 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 1C
+#+SELECT_TAGS: JA
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{enumitem,amssymb}
+#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
+#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
+#+TITLE: Klasse1c.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+* Verhalten
+
+* Heftführung
+
+* 1C [KV Gertraud Ellmaier]
+
+| Name / Datum [SW]                     | <2020-09-17 Do>     | <2020-09-21 Mo> | <2020-09-28 Mo>  |           |
+| Property                              | [[file:Schule/01_Golling.org::#Schuhe des Anderen][#Schuhe des Anderen]] | [[file:Schule/01_Golling.org::#Hl. Rupertus][#Hl. Rupertus]]   | [[file:Schule/01_Golling.org::#Seligpreisungen][#Seligpreisungen]] | [[file:Schule/01_Golling.org::#Bibel_NT][#Bibel_NT]] |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Atanasov Zlatko                       |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Gschiel Laura <<GL>>                  |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Hansmann Fabian <<HF>>                |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Kappacher Victoria <<KV>>             |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Leitner Elias <<LE>>                  |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Lienbacher Annika-Sophie <<LiAnn>>    |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Loipold Alexander <<LA>>              |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Meisl Andreas <<MA>>                  |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Moser Nikola <<MN>>                   |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Mujkic Maid <<MM>>                    |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Perkovic Josip                        |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Pichler Anna <<PA>>                   |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Pirau-Gutulea Juliana Patricia <<PJ>> |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Rettenbacher Lukas <<RL>>             |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Rettenbacher Sebastian <<RS>>         |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Russegger Mia <<RM>>                  |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Schröcker Melanie <<SM>>              |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Seiwald Hannah <<SH>>                 |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Siller Thomas <<SiTho>>               |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Sunkler Theresa <<SuThe>>             |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Tigli Yasir                           |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+| Zuchristian Celine <<ZC>>             |                     |                 |                  |           |
+|---------------------------------------+---------------------+-----------------+------------------+-----------|
+

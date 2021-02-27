@@ -1,0 +1,118 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 1A
+#+SELECT_TAGS: JA
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{enumitem,amssymb}
+#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
+#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
+#+TITLE: Klasse1a.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+** Sarah Ziegler                                                        :SZ: 
+:CLOCK:
+CLOCK: [2020-07-26 So 21:16]--[2020-07-26 So 21:17] =>  0:01
+:END:
+<2020-07-26 So>
+[[file:~/org/Schule/01_Golling.org::*\[SW01\] Jahresstoff / ich stehe in den Schuhen des Anderen][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+Sie war eifrig dabei. Ihre Schrift ist sauber.
+
+** Johannes Aschner                                                     :JA: 
+:PROPERTIES:
+:ID:       92355230-bdec-4503-a66e-53acfdda2892
+:END:
+:CLOCK:
+CLOCK: [2020-07-27 Mo 00:27]--[2020-07-27 Mo 00:28] =>  0:01
+:END:
+<2020-07-27 Mo>
+[[file:~/org/Schule/01_Golling.org::*\[SW01\] Jahresstoff / ich stehe in den Schuhen des Anderen][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+Er hat ein wenig gestört - möchte Aufmerksamkeit. [[JA]]
+
+** Sarah Ziegler                                                        :SZ: 
+:CLOCK:
+CLOCK: [2020-07-27 Mo 00:28]--[2020-07-27 Mo 00:28] =>  0:00
+:END:
+<2020-07-27 Mo>
+[[file:~/org/Schule/01_Golling.org::*\[SW01\] Jahresstoff / ich stehe in den Schuhen des Anderen][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+Heute nicht so aufmerksam.
+
+* Verhalten
+
+* Heftführung
+
+* 1A [KV Magdalena Pürrer]
+
+| Name / SW [Datum]               | <2020-09-18 Fr>     | <2020-09-21 Mo> | <2020-09-28 Mo>  |           |
+| Property                        | [[file:Schule/01_Golling.org::#Schuhe des Anderen][#Schuhe des Anderen]] | [[file:Schule/01_Golling.org::#Hl. Rupertus][#Hl. Rupertus]]   | [[file:Schule/01_Golling.org::#Seligpreisungen][#Seligpreisungen]] | [[file:Schule/01_Golling.org::#Bibel_NT][#Bibel_NT]] |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Bernhofer Verena <<BV>>         |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Czegledi Erik <<CE>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Gonschorek Stefan <<GS>>        |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Hölzlsauer Daniel <<HD>>        |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Irrnberger Manuel <<IM>>        |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Kappel Tobias <<KT>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Khatib Mohamad Mahmud           |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Korten Luis <<KL>>              |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Linhuber Noah <<LN>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Maier Hanna <<MH>>              |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Markandey Ramandeep             |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Murauer Sibel <<MS>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Neudorfer Melissa <<NM>>        |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Ruzic Jelena <<RJ>>             |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Schattauer Arthur <<SA>>        |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Schober Fabian  <<SF>>          |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Seidl Kristina <<SK>>           |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Sokic Ivana <<SI>>              |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Steiner Anna <<StA>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Stippler Andre-Leon <<StAndre>> |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Unterrainer Christina <<UC>>    |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Wenger Thomas <<WT>>            |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+| Zorzi Lena <<ZL>>               |                     |                 |                  |           |
+|---------------------------------+---------------------+-----------------+------------------+-----------|
+
+

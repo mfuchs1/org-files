@@ -1,0 +1,96 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 2B
+#+SELECT_TAGS: JA
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{enumitem,amssymb}
+#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
+#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
+#+TITLE: Klasse2b.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+* Verhalten
+
+* Heftführung
+
+* 2B [KV: Christoph Rosner]
+:PROPERTIES:
+:CUSTOM_ID: Klasse2b
+:END:
+
+
+| Name       / SW [Datum]    | <2020-09-14 Mo>       | <2020-09-21 Mo>   | <2020-09-30 Mi>       |                 |
+| Property                   | [[file:Schule/02_Golling.org::#im kleinen das Große][#im kleinen das Große]] | [[file:Schule/02_Golling.org::#Schöpfer erahnen][#Schöpfer erahnen]] | [[file:Schule/02_Golling.org::#Ursprung Volk Israel][#Ursprung Volk Israel]] | [[file:Schule/02_Golling.org::#Film Abraham 1][#Film Abraham 1]] |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Alan Seyma [islam.]        |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Bayraktar Kaan [islam.]    |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Bernhofer Sophie <<BS>>    |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Brückler Jakob <<BJ>>      |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Essl Marie <<EM>>          |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Hollweger Florian <<HF>>   |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Höllweger Michael <<HM>>   |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Kappacher Sara [o.b.]      |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Knapp Nico <<KN>>          |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Knefz Lorenz <<KL>>        |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Knezevic Mato              |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Kronreif Magdalena <<KM>>  |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Lindenthaler Lisa <<LL>>   |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Manov Aana [serb.-orth.]   |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Nestler Juliana [ev. A.B.] |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Niebauer Paul <<NP>>       |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Oberkofler Elisa <<OE>>    |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Proflet Annika <<PA>>      |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Putz Christoph <<PC>>      |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Reheußer Chiara <<RC>>     |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Seiwald Michael <<SM>>     |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Siller Gabriel <<SG>>      |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Wallner Denise [ev. A.B.]  |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+| Zivkovic Kristina <<ZK>>   |                       |                   |                       |                 |
+|----------------------------+-----------------------+-------------------+-----------------------+-----------------|
+ 

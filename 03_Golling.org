@@ -1,0 +1,1998 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{enumitem,amssymb}
+#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
+#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
+#+TITLE: 03_Golling.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+
+
+* Unterrichtsvorbereitung
+
+** Zitate aus dem Lehrplan
+
+*** Inhalt und Anliegen des Religionsunterrichts
+"/In der Mitte des Religionsunterrichts stehen die Schülerinnen und Schüler, ihr Leben und ihr Glaube. Daher sind Inhalt des Religionsunterrichts sowohl das menschliche Leben als auch der christliche Glaube, wie er sich im Laufe der Geschichte entfaltet hat und in den christlichen Gemeinden gelebt wird. Lebens-, Glaubens- und Welterfahrungen der Schülerinnen und Schüler, Lehrerinnen und Lehrer werden dabei aus der Perspektive des christlichen Glaubens reflektiert und gedeutet. Dieser Glaube hat in Jesus Christus seine Mitte./"
+
+"/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So trägt er auch zur Gestaltung des Schullebens bei./"
+
+*** Stellung des Religionsunterrichts an der Sekundarstufe I
+"/Der Religionsunterricht ist Teil des Bildungs- und Erziehungsauftrages der betreffenden Schulart. Religiöse Bildung ist Bestandteil von Allgemein-, wie von Persönlichkeitsbildung. Durch seinen spezifischen Beitrag zur religiös-ethisch-philosophischen Bildungsdimension unterstützt der konfessionelle Religionsunterricht grundlegend alle Aufgabenbereiche der Schule. Durch Wissensvermittlung im Bereich der christlichen Religion, anderer Religionen und Weltanschauungen trägt der Religionsunterricht zum Verstehen unserer Kultur bei, die stark von der jüdisch-christlichen Tradition geprägt ist. Junge Menschen lernen Werte zu entdecken, moralisch zu urteilen und zu handeln./"
+
+*** Das Prinzip des Religionsunterrichts
+"/Religionsunterricht zielt Korrelation als wechselseitige Erschließung von Leben und christlicher Tradition an. Zum einen sind die Erfahrungen der Schülerinnen und Schüler und Lehrerinnen und Lehrer zur Sprache zu bringen. Diese werden vielfältig zum Ausdruck gebracht, reflektiert, auf ihre  religiöse Sinndimension hin erschlossen und mit der biblischen sowie kirchlichen Überlieferung wechselseitig in Beziehung gesetzt./"
+
+"/Zum anderen sind jene fachspezifischen Bildungsinhalte zur Sprache zu bringen, die möglicherweise den Schülerinnen und Schülern vorerst neu und fremd sind. Diese können bisher Selbstverständliches im Leben der Schülerinnen und Schüler in Frage stellen und neue Erfahrungs- und Deutungsmöglichkeiten eröffnen. Ein solcher Religionsunterricht intendiert, dass in den Unterrichtsprozessen die christliche Botschaft erfahrbar wird. Religiöse Übungen bieten im Rahmen der Schule einen Raum, der für religiöse Erfahrungen förderlich ist./"
+
+
+vollständiger Text des Lehrplans (online):
+
+
+** Welche Klasse
+Eine Planung für die dritten Klassen der NMS Golling: 3a, 3b, Sekundarstufe I. Die beiden Klassen sind recht unterschiedlich. 
+
+Die 3a ist als sehr schwierig in der ganzen NMS bekannt, die Leistungen der Schüler liegen unter dem Durchschnitt der Schule. Ein paar Schüler fallen regelmäßig negativ durch ihr Verhalten auf. Die 3b ist eine i-Klasse, auch finden sich "verhaltensauffällige" Schüler. Da es jedoch auch sehr, sehr gute Schüler unter ihnen gibt, ist das Unterrichten hier weniger "anstrengend". In beiden Klassen muss der Lehrer recht streng sein, sonst tanzen die Kinder dem Lehrer auf der Nase herum. 
+
+
+** Jahresplanung
+
+*** DONE [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
+CLOSED: [2020-09-19 Sa 08:24] DEADLINE: <2020-09-14 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Gott liebt mich
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
+- CLOSING NOTE [2019-09-16 Mo 21:47] \\
+  Hm, da hat sich kaum etwas verändert - leider. Der Beginn war aber recht okay.
+    - CLOSING NOTE [2018-09-24 Mo 09:53] \\
+      Die erste verlief okay...
+    :END:
+
+
+**** Ziele LP 2000
+[[#05]] Das Leben und die Mitwelt als Geschenk verstehen; Die Liebe Gottes zur eigenen Person erkennen
+
+**** Kompetenzen
+[[#5d]] Schüler können die Liebe Gottes zur eigenen Person erkennen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Gott liebt mich. Juhuu!
+
+Im NT steht es "schwarz auf weiß" (Jes 43 / Joh 15 / 1 Joh 4). Gott liebt nicht nur - er IST die Liebe, sie ist sein Wesen. 
+
+Bibelstellen lesen und darüber beten. 
+
+**** Hefteintrag
+Mein Leben ist in Gottes Hand geschrieben
+
+
+*** DONE [SW02] Für andere da sein / ein Leben in Gottes neuer Welt 
+CLOSED: [2020-09-27 So 10:37] DEADLINE: <2020-09-21 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: für andere da sein
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-09-27 So 10:37]
+- CLOSING NOTE [2019-09-27 Fr 15:40] \\
+  Hui, da hat sich nicht viel geändert, leider. Hier musste ich schon härter durchgreifen, besonders in der 3C.
+    - CLOSING NOTE [2018-09-24 Mo 09:53] \\
+      In beiden dritten Klassen ließ ich mich leider zum Zorn hinreißen. Die Schüler dürfen keine Minute einen Leerlauf haben gute Struktur der Stunde und viel Arbeit.
+      
+      Auch hier werde ich regelmäßig die Hefte kontrollieren, benoten (mit Noten von 1-5) und die Schüler eventuell abfragen.
+    - CLOSING NOTE [2017-09-25 Mon 17:33] \\
+      Das waren "relativ" gute Stunden.
+    :END:
+
+**** Ziele LP 2000
+[[#05]] Vom Angebot des Lebens verantwortungsvoll Gebrauch machen können
+
+**** Kompetenzen
+[[#5b]] Schüler können vom Angebot des Lebens verantwortungsvoll Gebrauch machen.
+
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+ 
+**** Erarbeitung
+Jesus war für andere da - Pro-Existenz. 
+
+Video von Johannes Hartl "Du bist extrem geliebt" weiter schauen.
+
+Da Gott mich liebt - kann und will ich für andere da sein.
+
+Beispiele aus dem NT - Jesus heilt, vergibt; Gleichnisse vom Reich Gottes.
+
+**** Hefteintrag
+
+
+
+*** DONE [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
+CLOSED: [2020-10-04 So 13:56] DEADLINE: <2020-09-28 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: ich ein Original
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-10-04 So 13:56]
+- CLOSING NOTE [2019-09-27 Fr 15:41] \\
+  Hm, diese Schüler sind echt schwierig...
+    - CLOSING NOTE [2018-09-30 So 15:08] \\
+      Ein schwieriges Thema, die dritten Klassen sind nicht leicht zu unterrichten...
+    - CLOSING NOTE [2017-10-23 Mon 00:31] \\
+      War gut...
+    - Note taken on [2017-09-28 Don 23:52] \\
+      Hui, die heutige Stunde (28.09.2017) in der 3a hat zwar schön begonnen, aber dann gab es wieder eine blöde, und eigentlich sinnlose Diskussion mit Nina zum Thema "Haben Tiere ein Gewissen, einen Geist?" Schlußendlich gab ich Nina eine HÜ: sie soll nachforschen, ob es einen Unterschied zwischen Mensch und Tier gibt - und wenn ja, welchen? Pyramide des Lebens (Stein, Pflanze, Tier, Mensch).
+      
+      "Logische" Konsequenz, falls Tiere eine geistige Seele haben sollten: Nina nimmt ihr Haustier und bittet den nächsten Pfarrer, ihr Tier zu taufen. Dann darf das Tier zur Erstkommunion, zur Firmung, es darf kirchlich heiraten / oder Priester werden? Unsere Erfahrung zeigt, dass Tiere nicht vernunftbegabt sind bzw ein Gewissen haben.
+    :END:
+
+**** Ziele LP 2000
+[[#05]] Das Leben und die Mitwelt als Geschenk verstehen; Suche nach der Wahrheit
+
+**** Kompetenzen
+[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
+[[#5d]] Schüler können die Liebe Gottes zur eigenen Person erkennen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Ich bin ein Original ...
+
+Wer bin ich? Was macht mich zu der Person, die ich bin? 
+
+In meinem Leben ist vieles / alles ein Geschenk - es gehört nicht mir. 
+
+Die Wahrheit über mich / mein Leben? 
+
+Supplierstunde
+[[file:~/NMS_Golling/Die_schnelle_Stunde/Das bin ich.pdf]]
+
+Lesen: 1 Joh 3 + 4
+
+
+**** Hefteintrag
+
+
+*** DONE [SW04] Sind Stars echte Wegbegleiter? / Eine ist zum Dienen bereit
+CLOSED: [2020-10-11 So 09:46] DEADLINE: <2020-10-05 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Wegbegleiter
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-10-11 So 09:46]
+- CLOSING NOTE [2019-10-13 So 12:05] \\
+  War okay ...
+    - CLOSING NOTE [2018-10-07 So 15:32] \\
+      Hui, beiden Klassen sind recht schwierig, aus unterschiedlichen Gründen. Für beide gilt: keine Pause, die Schüler müssen zu jedem Zeitpunkt beschäftigt sein - SIE müssen arbeiten. Das Thema ist schwer, klar. Gegen Ende war es auch in der 3B einigermaßen okay.
+    - CLOSING NOTE [2017-10-18 Mit 09:25] \\
+      Anhand von Dilemma-Geschichten das Wirken des Gewissens erspüren...
+    :END:
+
+**** Ziele LP 2000
+[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können; Ungerechtigkeit - Option für die Armen
+
+**** Kompetenzen
+[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Können Stars echte Wegbegleiter sein? 
+
+Wie steige ich ein? 
+
+Sel. Franziska Schervier [[https://www.heiligenlexikon.de/BiographienF/Franziska_Schervier.html]]
+
+Welche Personen begeistern dich? Wer inspiriert dich? Warum? 
+
+
+**** Hefteintrag
+
+
+
+*** DONE [SW05] Ich möchte, dass einer mit mir geht
+CLOSED: [2020-10-17 Sa 09:51] DEADLINE: <2020-10-12 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: mein Wegbegleiter
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
+- CLOSING NOTE [2019-10-13 So 12:05] \\
+  "Komischerweise" gab es in allen drei Klassen kleine Konflikte. Somit konnten wir dieses Thema sehr konkret bearbeiten.
+    - CLOSING NOTE [2018-10-17 Mi 22:12] \\
+      Es gab zwar ein paar mühsame Momente, aber zum Schluss haben die Schüler ihre Aufgabe gut gelöst.
+    - CLOSING NOTE [2017-10-17 Die 09:16] \\
+      Am Beispiel von Franz Jägerstätter zeigt sich in aller Konsequenz der Anspruch einer Gewissens-Entscheidung.
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Hoffnung auf den Messias; Sich Jesus annähern
+
+**** Kompetenzen
+[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+ 
+**** Erarbeitung
+Wer begleitet mich in meinem Leben? Wem kann ich wirklich vertrauen? Wer hält immer zu mir? 
+
+Wie treu können Menschen sein? Der Mensch ist wesentich auf Gemeinschaft angelegt - es gehört zu seinem Wesen. Manche Tiere können auch alleine leben. Aber die Gruppe gehört nicht wesentlich zu ihrem Sein. Ein Mensch komplett allein - kann er wirklich überleben? 
+
+[[https://www.brgdomath.com/psychologie/sozialpsychologie-und-kommunikation-tk5/]]
+
+Erfahrung: selbst die "besten" Freunde verletzen mich, lassen mich im Stich. Und es gibt Dinge, über die rede ich nicht einmal mit meinen besten Freunden. Wem kann ich sie erzählen?
+
+Ziel: Könnte dieser treue Freund auch Jesus sein? 
+
+**** Hefteintrag
+
+
+*** DONE [SW06] Collage: Wie kann ich mich Jesus annähern?
+CLOSED: [2020-10-24 Sa 11:58] DEADLINE: <2020-10-19 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: sich Jesus annähern
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-10-24 Sa 11:58]
+    - CLOSING NOTE [2018-10-21 So 14:56] \\
+      Kein Problem diese Woche, das der Film wirklich gut ist.
+    - CLOSING NOTE [2017-10-23 Mon 00:32] \\
+      Die Kinder freuen sich sehr, in Gruppen arbeiten zu können - es klappt allerdings weniger gut als in den vierten Klassen. Unbeliebte Schüler werdne schnell mal hinausgeekelt. 
+      
+      Bin gespannt auf die Präsentationen...
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Sich Jesus annähern
+
+**** Kompetenzen
+[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Sich Jesus annähern - Collage gestalten
+ - Menschen nähern sich Jesus (NT)
+ - Kranke, Sünder, Fragende, Suchende, ...
+ - Wie reagiert Jesus?
+ - Auf wen geht Jesus von sich aus zu?
+ - ...
+
+**** Hefteintrag
+
+
+
+*** DONE [SW07] Herbstferien
+CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Herbstferien
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2018-10-27 Sa 12:56] \\
+      Super spannender Film über Jeremia. In beiden Klassen gab es wieder einmal zwei Schüler, die den Film gestört haben: sie mussten eine Zusammenfassung schreiben.
+    - CLOSING NOTE [2017-10-31 Die 09:31] \\
+      Die einzelnen Gruppen sind in dieser Woche so gut wie fertig geworden. Das Thema hat den Schülern interessiert, sie arbeiten sehr gerne in Gruppen.
+    :END:
+
+<2020-10-26 Mo> Nationalfeiertag
+
+
+*** DONE [SW08] Vergebung ohne Grenzen
+CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Vergebung ohne Grenzen
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2017-11-02 Don 16:21] \\
+      Die Präsentation hat auch in dieser, sehr kurzen Woche nicht geklappt; ganz bestimmt aber nächste Woche!
+    :END:
+
+<2020-11-02 Mo> Allerseelen (schulfrei) - Ende Herbstferien
+
+**** Ziele LP 2000
+[[#03]] Vergebung ohne Grenzen - sich von Jesus leiten lassen
+
+**** Kompetenzen
+[[#3b]] Schüler kennen Formen der Vergebung und Versöhnung im Alltag, in der Bibel und im Leben der Kirche und können sich auf heilsame Veränderungen einlassen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Erarbeitung
+Bibelstellen zum Thema "Vergebung":
+ - David und Batseba
+ - Lk 15
+ - Joh 21 (Jesus und Petrus)
+ - Wie oft vergeben? + Gleichnis
+ - Paulusbriefe
+ - Vaterunser
+
+
+**** Hefteintrag
+
+
+*** DONE [SW09] Judentum
+CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Judentum
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
+    - CLOSING NOTE [2018-11-11 So 14:20] \\
+      Diese Stunden waren etwas schwierig - eventuell auch meiner mangelnden Vorbereitung geschuldet. Andererseits sind die beiden 3. Klassen sicher auch "anstrengend". Die 3B hat es am Freitag auf jeden Fall übertrieben.
+    - Note taken on [2018-11-09 Fr 09:58] \\
+      Wow, das war eine anstrengende Stunde in der 3B:
+      
+      Tipps für die Zukunft:
+       - Text plus Fragen Kontrolle durch Lehrer und Benotung
+       - Aufzeichnungen, wann welcher Schüler sich in der Stunde "schlimm" aufführt.
+       - Info-zettel an Eltern: Gespräch wegen disziplinären Gründen Elternsprechtag.
+       - Text auswendig lernen
+       - KEINE Gruppenarbeit mehr
+       - nur mehr Einzelarbeit mit "konkreten" Aufgaben: Text lesen, Fragen beantworten, Noten.
+
+    - CLOSING NOTE [2017-11-11 Sam 12:05] \\
+      Die Präsentationen verliefen wirklich toll - ich war sehr zufrieden mit den Schülern. Einzige Ausnahme: die Gruppe vo Jakob Pilz (3B). Diese mickrige Präsentation verdient ein Nicht Genügend. Ich gab den Schülern eine zweite Chance (nächste Woche). Bleibt die Arbeit so mickrig - so bleibt der 5er.
+    :END:
+
+**** Ziele LP 2000
+[[#02]] Judentum: Kultur, religiöse Praxis und Grundüberzeugungen
+
+**** Kompetenzen
+[[#2a]] Schüler kennen die religiöse Praxis und Grundüberzeugungen der monotheistischen Religion Judentum und können sie wertschätzen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Film "Faszination Glaube - Judentum"
+
+Bsp.: Synagoge in Budapest
+
+Material:
+[[/home/matthias/NMS_Golling/Weltreligionen/Judentum/]]
+
+**** Hefteintrag
+
+
+*** DONE [SW10] Islam
+CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Islam
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-11-22 So 17:25]
+- CLOSING NOTE [2019-11-15 Fr 16:23] \\
+  Die Stunden war echt toll - die Schüler haben coole christliche Lieder mitgebracht.
+- CLOSING NOTE [2019-11-12 Di 21:33] \\
+  DCD "Jesus in Musik und Malerei"
+  
+  In der 3A und 3B habe ich die Kinder christliche Lieder suchen lassen. In der 3A habe ich am Dienstag fast die ganze Stunde Lobpreislieder angeschaut - hat den Schülern so sehr gefallen: "Danke für die coole und schöne Stunde!" WOW, das tat gut!
+    - CLOSING NOTE [2018-11-16 Fr 16:29] \\
+      Am Donnerstag hat sich Ivo von der 3B (auch im Namen der Klasse) bei mir entschuldigt - das fand ich toll! Die Stunde verlief dann auch super. Ich habe mit ihnen ein lustiges Bewegungslied gesungen; das hat uns alle entspannt und fröhlich gemacht.
+      
+      Auch am Freitag hatten wir eine gute Stunde.
+    - CLOSING NOTE [2017-11-27 Mon 08:38] \\
+      Film...
+    :END:
+
+**** Ziele LP 2000
+[[#02]] Islam: Kultur, religiöse Praxis und Grundüberzeugungen
+
+**** Kompetenzen
+[[2a]] Schüler kennen die religiöse Praxis und Grundüberzeugungen der monotheistischen Religion Islam und können sie wertschätzen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Film "Faszination Glaube - Islam"
+
+Bsp.: Moschee in Casablanca (Marokko)
+
+Material:
+[[/home/matthias/NMS_Golling/Weltreligionen/Islam/]]
+
+Home-Schooling: Quiz zum Thema "Judentum und Islam". Den Film darf ich rechtlich wohl kaum online stellen - nur für die Schüler? Das Herunterladen kann ich dadurch nicht verhindern. 
+
+**** Hefteintrag
+
+
+*** DONE [SW11] Christentum - Judentum - Islam
+CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-23 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Monotheistische Weltreligionen
+    :END: 
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- CLOSING NOTE [2020-08-13 Do 16:58] \\
+  noch einmal
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:57]
+- State "TODO"       from "DONE"       [2020-08-13 Do 16:54]
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:53] \\
+  ein zweiter Test
+- State "TODO"       from "DONE"       [2020-08-13 Do 16:51]
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:51] \\
+  ein test
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:45]
+:END:
+
+**** Ziele LP 2000
+[[#02]] Das Verhältnis Christentum - Judentum - Islam reflektieren
+
+**** Kompetenzen
+[[#2b]] Schüler können anhand der Personen Jesus und Abraham das Verhältnis Judentum – Christentum – Islam begreifenund induzieren.
+
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Eine Doppelseite zum Islam und Judentum - Christentum gestalten. Ähnlichkeiten und Unterschiede.
+
+**** Hefteintrag
+
+
+*** DONE [SW12] Advent / Brauchen wir Gebote und Vorschriften
+CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gebote
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- State "DONE"       from "TODO"       [2019-11-30 Sa 09:33]
+    - CLOSING NOTE [2018-11-30 Fr 10:12] \\
+      Tja, wie leg ich's an? Die Schüler der dritten Klassen waren "schwierig" - und ich zu wenig vorbereitet. Merke für die nächste Woche: "die Katze muss schnurren" ...
+    - Note taken on [2018-11-29 Do 15:23] \\
+      Hui, das war wieder arg in beiden dritten Klassen:
+      
+       - 3A Ilija hat Sophie ein Büschel Haare mit der Schere abgeschnitten!
+       - 3B Die "Üblichen" haben wieder den Unterricht massiv gestört. Einiges habe ich mit Humor genommen, oder bin scharf geworden.
+       - Tipp von Sepp: Setze die Schlimmen gleich zu Beginn der Stunde in sein Kammerl mit einem Arbeitsauftrag.
+    - CLOSING NOTE [2017-12-04 Mon 00:02] \\
+      Die Stunde bzgl "Jugend und Recht" verlief okay.
+      
+      In der zweiten Stunde wurde der Weihnachtsgottesdienst vorbereitet (3A); in der 3B ...?
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Christliche Grundregeln des Zusammenlebens kennen und anwenden
+
+**** Kompetenzen
+[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** DONE [SW13] 10 Gebote
+CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Dekalog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
+- State "DONE"       from "TODO"       [2019-12-05 Do 15:39]
+    - CLOSING NOTE [2018-12-07 Fr 17:44] \\
+      3B: Vorbereitung Weihnachtsgottesdienst - die beiden Stunden verliefen einigermaßen okay. Am Donnerstag kam KV Gertraud Ellmayer vorbei und machte ihrem Unmut und Zorn Luft - die Kinder reagieren kaum bis gar nicht auf Ermahnungen (oder typisch mit "blödem" Grinsen und Lachen). Va hintrerlassen die Schüler die Klasse äußerst schmutzig. Tipp und Aufforderung vom KV: wenn das Verhalten des Schülers schelcht ist, dann gib ihm eine Mahnung mit (cf Formular).
+    - CLOSING NOTE [2017-12-11 Mon 22:20] \\
+      Mit der 3A bereiten wir den Weihnachtsgottesdienst vor, alles läuft sehr gut.
+      
+      Die 3B hat gut gearbeitet - und bastelt mit Barbara Essl die Sonne.
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Dekalog
+
+**** Kompetenzen
+[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Material:
+Ruhr-Verlag.
+
+Tafelbild
+Weg von Ägypten in das verheißene Land
+Zweimal durch "gefährliches Gewässer" (Schilfmeer / Jordan); in der Mitte Berg Sinai, Offenbarung Gottes / 10 Gebote.
+
+ - Tafelbild bis zum Berg Sinai zeichnen
+ - Text aus Ex 20 lesen + besprechen
+ - Tafelbild weiterzeichnen: 40 Jahre in der Wüste
+ - Wieder beim Berg Horeb (Sinai)
+ - Wieder 10 Gebote: Dtn 5
+ - Überquerung Jordan
+ - Einzug ins gelobte Land.
+
+
+**** Hefteintrag
+
+
+
+*** DONE [SW14] Bergpredigt
+CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-14 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Bergpredigt
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+    - CLOSING NOTE [2018-12-14 Fr 09:43] \\
+      3A: "Johannes der Täufer" war okay. 
+      
+      3B: Am Donnerstag waren nur mehr 10 Schüler im RU, kahoot. Am Freitag haben wir noch Symbole gebastelt; es ist schade, dass selbst während so einer Stunde ein paar Schüler unfähig sind, sich "normal" zu benehmen; sie machen selber nix und stören noch jene, die basteln.
+    - CLOSING NOTE [2017-12-18 Mon 12:20] \\
+      Die 3A bereitet mit Eifer den Weihanchtsgottesdienst vor / die 3B hat gut mit der Hl. Schrift gearbeitet.
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Bergpredigt
+
+**** Kompetenzen
+[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** DONE [SW15] Maria, von Gott auserwählt
+CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-21 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Maria
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+    - CLOSING NOTE [2018-01-04 Don 16:02] \\
+      Es waren tolle Stunden vor Weihnachten / 3A hat den Gottesdienst toll vorbereitet!
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Maria im Heilsplan Gottes
+
+**** Kompetenzen
+[[#1b]] Schüler können anhand der Kindheitsgeschichten Jesu Gott als den, der in Jesus Mensch geworden ist, begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** DONE [SW16] Ferien
+CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-28 Mo>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+:END:
+
+*** DONE [SW17] Ferien / Gott wird Mensch; Kindheitsgeschichten Jesu
+CLOSED: [2021-01-10 So 22:01] DEADLINE: <2021-01-04 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gott wird Mensch
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-10 So 22:01]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:42]
+:END:
+
+**** Ziele LP 2000
+[[#01]] Gott wird Mensch
+
+**** Kompetenzen
+[[#1b]] Schüler können anhand der Kindheitsgeschichten Jesu Gott als den, der in Jesus Mensch geworden ist, begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Eine überschätzte Spezies | Doku Reupload | ARTE
+[[https://www.youtube.com/watch?v=N3xjGxqKpwM]]
+
+[[http://webcompetent.org/was-ist-der-mensch-noch-dass-du-seiner-gedenkst/#more-8881][Was ist der Mensch noch, dass du seiner gedenkst? - webcompetent % %]]
+
+***** Einstieg
+Eine vorausgreifende Diskussion einer biblischen, ethischen oder theologischen Problemfrage kann die Notwendigkeit aufzeigen sich mit dem Wesen des Menschen auseinanderzusetzen, etwa:
+
+- Widerlegen die Erkenntnisse der modernen Wissenschaft den biblischen Schöpfungsbericht?
+- Besitzt der Mensch das Recht andere Tiere zu gebrauchen und die Natur auszubeuten?
+- Ist der Mensch die Krone der Schöpfung?
+- Sind wir die Herrscher der Natur oder werden wir von der Natur beherrscht?
+
+***** Filmarbeit
+Mögliche Aufgaben zur Erstbegegnung mit dem Film
+
+- Setze dich mit der Grundaussage des Films auseinander. Ist der Mensch unbedeutend? Begründe deine Aussage und leite Schlussfolgerungen daraus ab.
+- Gib dem Film und den einzelnen Kapiteln eigene Namen, die deiner Meinung nach besser passen.
+- Erläutere die besondere Rolle des 10. Kapitels für die Gesamtkonzeption des Films. Setz dich dabei auch mit dem Zusammenhang von Wissen, Sinn und Ethik auseinander.
+-  Erstelle eine Mindmap / Collage, welche die Sicht des Videos auf den Menschen darstellt. Mögliche Titel: "Der Mensch in Raum und Zeit", "Der Mensch im Kosmos", "Was ist der Mensch?" (Auch eine arbeitsteilige Auseinandersetzung mit den einzelnen Kapiteln ist hier möglich, falls Zeitbedarf und Komplexität reduziert werden sollen.)
+
+***** Mögliche Vertiefungsaufgaben zum Film
+Auch die Autoren des 1. Schöpfungsmythos haben für ihren Text auf die Vorstellungen der damals bekannten Welt zurückgegriffen. Aktualisiert dieses Weltwissen in Gen 1-2,4a und setzt euch damit auseinander, ob die Aktualisierungen auch die Rolle des Menschen im Text verändert.
+    
+Versetzt euch in die Autoren des 1. Schöpfungsmythos hinein. Wie würden diese reagieren, wenn man sie mit unserem heutigen Wissen über das Leben und den Kosmos konfrontiert? Würden Sie ihren Schöpfungsmythos umschreiben oder verwerfen? Stellt eure Überlegungen in Form eines Textes (kreatives Schreiben, Dialog...) oder eines szenischen Spiels um.
+
+Plant in Auseinandersetzung mit dem Film einen eigenen Film. Konzeptioniert werden kann dieser als Fortsetzung (Kapitel 11 — Ethische Schlussfolgerungen) oder als Gegenentwurf, in welchem die Bedeutung des Menschen hervorgehoben werden kann.
+
+Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wettersturm (Hiob 38ff), Hiobs Antwort (Hiob 42,1 – 6) und Ps8. Wählt passende Verse aus, welche ihr als Kommentar zu einem Kapitel des Films bei einem erneuten Sehen einsprecht (technisch: Anhalten oder Stummschalten möglich). Begründet im Anschluss euer Konzept.
+
+***** Theologische Deutung und weitere Inhaltliche Verknüpfungen zum Weiterarbeiten
+- Verhältnis von Glauben und Wissen, von Religion und Naturwissenschaft, Komplementäres Modell, Die sogenannten Kränkungen der Menschheit
+- Theodizee und Naturwissenschaft als Reaktion auf Abhängigkeit von der Natur: theologische Deutung der SARS-CoV-2-Pandemie
+- Menschenbild, Weltbild und ethische Begründungen: Umgang mit der Natur, mit den Mitgeschöpfen; Ego vs. Eco (siehe Medien)
+- Sonderstellung des Menschen: Doku "Von Affen und Menschen" (siehe Medien) – Tierethik, Speziesismus, Utilitarismus von Singer und Singers Personbegriff, Great Ape Project
+
+**** Hefteintrag
+
+
+
+*** DONE [SW18] Vergleich Wissenschaft und Schöpfungstexte
+CLOSED: [2021-01-17 So 10:13] DEADLINE: <2021-01-11 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Schöpfung
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-17 So 10:13]
+- State "DONE"       from "TODO"       [2020-01-11 Sa 09:09]
+    - CLOSING NOTE [2019-01-12 Sa 18:15] \\
+      Der Film ist wirklich gut - er zeichnet ein schönes Bild des Islam. Die Moslems in Marokko scheinen wirklich großartige Menschen zu sein, sehr edel, tief religiös; friedlebende Menschen. Die Moschee in Casablanca ist prachtvoll. Für die nächste Woche (SW 19) bereite ich AB vor ...
+    - CLOSING NOTE [2018-01-22 Mon 12:16] \\
+      Stunden bzgl "Drei Könige"
+    - Note taken on [2018-01-10 Mit 12:25] \\
+      Der Film funktioniert in der 3B gar nicht; es kann sein, dass er "zu hoch" ist. Dennoch ... in Zukunft gibt es sog. "Schriebmeditaionen", eventuell Tests. Schade, wenn sich Schüler selbst schädigen. Ab jetzt wird geschrieben. Hm, muss mir Material suchen, Texte, Fragen, Freitexte, ...
+    :END:
+
+**** Ziele LP 2000
+[[#05]] Welt und Mensch - Schöpfung Gottes / Das Leben und die Mitwelt als Geschenk verstehen: Staunen über Phänomene des Kosmos und der Natur
+ 
+**** Kompetenzen
+[[#5a]] Schüler können im Staunen über Phänomene des Kosmos, der Natur, in der Kreativität und im schöpferischen Gestalten des Menschen das Leben und die Mitwelt als Geschenk annehmen und selbstverantwortlich mitgestalten.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Eine überschätzte Spezies | Doku Reupload | ARTE
+[[https://www.youtube.com/watch?v=N3xjGxqKpwM]]
+
+[[http://webcompetent.org/was-ist-der-mensch-noch-dass-du-seiner-gedenkst/#more-8881][Was ist der Mensch noch, dass du seiner gedenkst? - webcompetent % %]]
+
+***** Mögliche Vertiefungsaufgaben zum Film
+Auch die Autoren des 1. Schöpfungsmythos haben für ihren Text auf die Vorstellungen der damals bekannten Welt zurückgegriffen. Aktualisiert dieses Weltwissen in Gen 1-2,4a und setzt euch damit auseinander, ob die Aktualisierungen auch die Rolle des Menschen im Text verändert.
+    
+Versetzt euch in die Autoren des 1. Schöpfungsmythos hinein. Wie würden diese reagieren, wenn man sie mit unserem heutigen Wissen über das Leben und den Kosmos konfrontiert? Würden Sie ihren Schöpfungsmythos umschreiben oder verwerfen? Stellt eure Überlegungen in Form eines Textes (kreatives Schreiben, Dialog...) oder eines szenischen Spiels um.
+
+Plant in Auseinandersetzung mit dem Film einen eigenen Film. Konzeptioniert werden kann dieser als Fortsetzung (Kapitel 11 — Ethische Schlussfolgerungen) oder als Gegenentwurf, in welchem die Bedeutung des Menschen hervorgehoben werden kann.
+
+Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wettersturm (Hiob 38ff), Hiobs Antwort (Hiob 42,1 – 6) und Ps8. Wählt passende Verse aus, welche ihr als Kommentar zu einem Kapitel des Films bei einem erneuten Sehen einsprecht (technisch: Anhalten oder Stummschalten möglich). Begründet im Anschluss euer Konzept.
+
+***** Theologische Deutung und weitere Inhaltliche Verknüpfungen zum Weiterarbeiten
+- Verhältnis von Glauben und Wissen, von Religion und Naturwissenschaft, Komplementäres Modell, Die sogenannten Kränkungen der Menschheit
+- Theodizee und Naturwissenschaft als Reaktion auf Abhängigkeit von der Natur: theologische Deutung der SARS-CoV-2-Pandemie
+- Menschenbild, Weltbild und ethische Begründungen: Umgang mit der Natur, mit den Mitgeschöpfen; Ego vs. Eco (siehe Medien)
+- Sonderstellung des Menschen: Doku "Von Affen und Menschen" (siehe Medien) – Tierethik, Speziesismus, Utilitarismus von Singer und Singers Personbegriff, Great Ape Project
+
+**** Hefteintrag
+
+
+*** DONE [SW19] Urkirche
+CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Urkirche
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
+- State "DONE"       from "TODO"       [2020-01-18 Sa 10:15]
+    - CLOSING NOTE [2019-01-18 Fr 09:46] \\
+      Das Religionsbuch von Hubertus Halbfas ist wesentlich besser, informativer - mit einem Riesenvorteil: es gibt ein Arbeitsbuch. 
+      
+      Zusammen mit dem Film haben die Schüler durch die Arbeitsblätter einen guten Überblick und eine interessante Einführung in den Islam erhalten. 
+      
+      Leider gibt es in beiden Klassen "verhaltens-kreative" Schüler.
+    - CLOSING NOTE [2018-01-22 Mon 12:16] \\
+      Sehr spannender Film zum Thema "Islam"
+    :END:
+
+**** Ziele LP 2000
+[[#07]] Anfänge der Kirche (Apostelgeschichte, Paulus, ...)
+
+**** Kompetenzen
+[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Texte aus dem NT / Apostelgeschichte
+
+Texte zur Urkirche / Kirchengechichte
+
+Franz Xaver Bischof "Einführung in die Kirchengechichte"
+
+**** Hefteintrag
+
+
+
+*** TODO [SW20] Reformation / Gegenreformation
+DEADLINE: <2021-01-25 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Reformation
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
+    - CLOSING NOTE [2019-02-01 Fr 10:08] \\
+      Die dritten Klassen sind - leider wie bisher - eher "schwierig". Ich muss strenger sein! Es geht ums Überleben!
+      Bei diesem Thema waren die Schüler einigermaßen dabei.
+    - Note taken on [2018-01-24 Mit 12:27] \\
+      3B - es klappt nicht. Ab heute git es Schreibmeditationen!
+    :END:
+
+**** Ziele LP 2000
+[[#07]] Auswahl Kirchengeschichte - Reformation
+
+**** Kompetenzen
+[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+
+
+**** Hefteintrag
+
+
+*** TODO [SW21] Neuzeit
+DEADLINE: <2021-02-01 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Neuzeit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-02-02 So 16:14]
+    - CLOSING NOTE [2019-02-01 Fr 10:10] \\
+      Das Erstellen des Kahoots klappte sehr gut in der 3B, das hat mich positiv überrascht.
+      
+      Der Beginn des Moses-Films ist doch etwas heftig: Babys werden in den Nil geworfen... ab dann geht es wieder...
+    - CLOSING NOTE [2018-02-03 Sam 16:04] \\
+      Sehr gute Stunde in der 3a, Harris ist Moslem und hat aus eigener Erfahrung berichtet, seine Kollegen haben toll zugehört. 
+      
+      Der Film passt toll ...
+    :END:
+
+**** Ziele LP 2000
+[[#07]] Auswahl Kirchengeschichte - Neuzeit
+
+**** Kompetenzen
+[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW22] Semesterferien
+DEADLINE: <2021-02-08 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Semesterferien
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+- CLOSING NOTE [2019-02-22 Fr 10:03] \\
+  Der Film ist zwar alt - aber sehr gut!
+    - CLOSING NOTE [2018-02-22 Don 09:57] \\
+      Die Stunden waren sehr gut...
+    :END:
+
+**** Wunschthemen
+
+***** 3A
+****** Umweltschutz
+Dieses Thema interessiert mich sehr und genau in diesem Jahrhundert spielt Umweltschutz eine wichtige Rolle. Das Thema würde ich in gerne in 4-5 Personen Gruppen bearbeiten.
+****** Gefühle (Herz, Hirn, Bauch)
+Dieses Thema würde ich auch gerne bearbeiten. Weil Gefühle betreffen jeden von uns und jeder spürt sie. Ich denke es wäre toll, wenn wir vorher etwas darüber reden und dann vielleicht Stationen zu den einzelnen Gefühlen machen.
+****** Umwelt
+Ich würde generell etwas über unsere Unwelt lernen und erfahren (Biologie?); sehr wichtiges Thema. Zu dem Thema würde sich ein Film gut eignen und nach dem Film könnte man darüber reden. 
+****** Kinder in fremden Ländern
+Dieses Thema ist sicher interessant, weil in fremden Ländern leben die Kinder sicher anders als bei uns. Ein kurzer Film wäre dafür sehr geeignet; danach alleine oder zu zweit einen Text darüber schreiben.
+****** Armut - Reichtun
+Es wäre toll, wenn wir dieses Thema behandeln würden. Kreative Gruppenarbeit.
+****** Weltreligionen (Hinduismus, ...)
+gerne in Gruppenarbeit
+****** Kinder in fremden Ländern
+gerne mit Plakaten
+****** Medien
+gerne mit Ihnen
+****** Verschiedene Gefühle
+mit Stationen
+****** Umwelt, (Klima, ...)
+gerne mit Ihnen
+****** Kirchenjahr
+zu zweit,
+****** Kirchengeschichte
+****** Wille
+****** Medien
+****** Kinder in fremden Ländern
+****** Glaube
+****** Umgang mit der Schöpfung
+****** Armut - Reichtum
+****** Umweltschutz
+da ich Umweltverschmutzung ein sehr interessantes Thema finde.
+****** Armut
+da ich es sehr grausam und schrecklich finde, wie es in anderen Ländern zugeht.
+Passend zum oberen Thema, gefällt mir das Thema
+****** Kinder in fremden Ländern
+auch sehr interessant
+****** Zusammenleben
+finde ich auch ein sehr gutes Thema für den Unterricht.
+Zuletzt gefällt mir 
+****** die Welt und der Mensch
+****** Wille (Geist; Seele):
+Gottes Wille im Vergleich mit dem Willen des Menschen (Partnerarbeit / Referate)
+****** Gesellschaft (Welt und Mensch):
+Umweltschutz; Umwelt; wie man richtig mit der Umwelt umgeht und wie Gott wollte das wir mit ihr umgehen; wie wir die Umwelt nutzen können ohne sie direkt auszubeuten (Partnerarbeit / Referate)
+****** Kirche: Heilige;
+die wichtigsten Heiligen und was sie gemacht haben (Partnerarbeit / Referate)
+****** Mensch: Gefühle;
+warum hat Gott dem Menschen Gefühle gegeben; wie soll sich der Mensch von den Gefühlen leiten lassen oder soll er sie beherrschen (Partnerarbeit / Referate)
+****** Glaube:
+was genau ist Glaube; wie sollte man glauben; gib es strikte Regeln im Glauben (Partnerarbeit / Referate)
+
+Ich bearbeite Themen sehr gerne in der Gruppe. Z.B gemeinsam eine Doppelseite im Heft gestalten oder ein Plakat.
+Diese Themen interessieren mich:
+****** Kunst
+****** Toleranz der Religionen
+****** Medien
+****** Umweltschutz
+****** Verantworten im Handeln
+****** Weltreligionen:
+Gruppenarbeit
+****** Hungersnöte:
+Plakat, kreativ, kleine Gruppen
+****** Armut:
+Plakat, kreativ, kleine Gruppen
+****** Medien:
+Film
+****** Umweltschutz:
+Gruppenarbeit
+****** Armut:
+Stationen
+****** Umweltschutz:
+Referat
+****** Medien (wie der richtige Umgang ist damit):
+Gruppenarbeit
+****** Kirchengeschichte:
+Gruppenarbeit
+****** Eine Weltreligion:
+Stationen
+
+
+***** 3B
+****** Kirchengeschichte:
+über die Kirche Golling
+****** Vernunft
+****** Verantwortung im Handeln
+Vernünftig anderen gegenüber, kein Tierleid
+****** Umweltschutz
+Gruppenarbeit, Referate, dazu etwas draussen machen
+****** Umwelt
+****** Soziale Projekte
+Sich für andere Leute einsetzten, Rollende Herzen
+
+Ich würde gerne die Themen: 
+****** Umwelt 
+****** Umweltschutz, 
+****** Zusammenleben (Regeln), 
+****** Armut – Reichtum
+und 
+****** Gesellschaft
+bearbeiten, weil ich sie wichtig finde. Am liebsten wäre es mir mit einer Power Point Präsentation zu zweit.
+
+****** Gott / Jesus / Glaube:
+Unterschiede innerhalb der christlichen Kirchen
+****** Kirche:
+Sakramente
+Heilige
+Kirchengechichte
+****** Gesellschaft:
+Umweltschutz / Umwelt
+Medien
+Kindern in fremden Ländern
+Armut / Reichtum
+****** Mensch:
+Hirn / Herz / Bauch
+****** Weltreligionen:
+Kennenlernen / Toleranz (alle Themen Gruppenarbeit / PP)
+
+****** Firmung
+****** Heiliger Geist
+****** Buddhismus
+****** Hinduismus
+****** Umweltschutz
+
+****** Umweltschutz, 
+****** Zusammenleben, 
+****** Arm und Reichtum, 
+****** Gefühle
+
+****** Weltreligionen
+Ein Plakat in Partnerarbeit
+****** Über die Kirche
+wie die Kirche gebaut ist aus welchen Material besteht die Kirche
+****** 40 Tagefasten / Auferstehung
+Plakat
+****** Umweltschutz
+jeder gestaltet eine Seite im Heft oder Word Dokument zum Thema Umweltschutz.
+****** Kahoot
+spielen über verschiedene Themen.
+
+
+
+
+*** TODO [SW23] Aschermitwoch / Das Gewissen
+DEADLINE: <2021-02-15 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gewissen Stärke
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+:END:
+
+<2021-02-17 Mi> Aschermitwoch
+
+**** Ziele LP 2000
+[[#04]] Das Gewissen - stärker als ein schneller Wagen
+
+**** Kompetenzen
+[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW24] Das Gewissen - eine Stimme, die nicht schweigt
+DEADLINE: <2021-02-22 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gewissen Stimme
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-02-23 So 14:17]
+- CLOSING NOTE [2019-02-22 Fr 09:53] \\
+  3A: hier klappt es einigermaßen.
+  
+  3B: wow! siehe die Notiz. Warum fällt es mir so schwer, hier konsequenter zu sein? Ich kann den Schülern sicher auch einmal sagen, dass es mir keine Freude bereitet, in der 3B zu unterrichten. Weiters wird es - hoffentlich - genügen, ein paar Mal die störenden Schüler beim ersten Fehlverhalten aus der Klasse zu verbannen. Dabei einen Schüler nach Manuela Gruber schicken lassen; sie wacht darüber, dass der Schüler seine Strafarbeit erledigt. Was der Schüler nicht schafft, muss er zuhause erledigen; er zeigt mir die Strafe mit Unterschrift der Eltern.
+- Note taken on [2019-02-22 Fr 09:47] \\
+  In der 3B ging es heute recht "rund"! Normaler Unterricht war heute kaum möglich; ich hab die Schüler selber arbeiten lassen, auch im 2er-Team. Es funktioniert nicht! Was bedeutet das für die nächsten Wochen? Wenn ich keinen Monolog halten soll? Welche Möglichkeiten gibt es? Die Kinder können auch viel schreiben. Dh ich bringe einen langen Text mit, woraus ich ein Diktat mache. Oder: die störenden Schüler werden beim ersten Fehlverhalten sofort aus der Klasse verbannt:
+  
+   - einen Schüler zum Konferenzzimmer schicken, um Fr. Manuela Gruber zu holen (geht nur am Freitag, 2. Stunde)
+   - Manuela wacht darüber, dass der Schüler seine Strafe erledigt.
+   - Nicht-Erledigtes wird zu Hause nachgeholt.
+   - Die vollständige Aufgabe zeigt mir der Schüler am Montag - mit Unterschrift der Eltern
+   - Meistens genügt es, dies dreimal durchzuziehen.
+    - CLOSING NOTE [2018-02-27 Die 08:53] \\
+      Das waren sehr gute Stunden. Die 3B wird in der Fastenzeit den Ostergottesdienst vorbereiten.
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Für die Stimme des Gewissens sensibel sein
+
+**** Kompetenzen
+[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW25] Das Gewissen - den richtigen Weg finden
+DEADLINE: <2021-03-01 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gewissen Weg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
+    - CLOSING NOTE [2018-03-03 Sam 18:04] \\
+      Erste Einführung zum Dekalog - cf VL von Andreas Weiß
+    :END:
+
+
+**** Ziele LP 2000
+[[#04]] Für die Stimme des Gewissens sensibel sein
+
+**** Kompetenzen
+[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW26] Das Gewissen - die richtige Stimme hören
+DEADLINE: <2021-03-08 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gewissen richtige Stimme
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-03-06 Fr 15:38]
+    - Note taken on [2018-03-09 Fre 09:45] \\
+      In der 3b geht es im Moment echt schlimm zu: große Unruhe, beinahe völliges Desinteresse; Marc (neuer Schüler) steht leider oft im Zentrum, die Schüler schauen, wie er reagiert. Er kommt vom Gymnasium, u.a. wegen "nicht zufriedenstellend".
+    - CLOSING NOTE [2018-03-09 Fre 09:40] \\
+      Ich habe dieses Jahr die Zehn Gebote weniger intensiv behandelt; dafür mehr Gewicht auf die Bergpredigt gelegt. War okay...
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Für die Stimme des Gewissens sensibel sein
+
+**** Kompetenze
+[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW27] Menschen, die nach ihrem Gewissen handeln
+DEADLINE: <2021-03-15 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Franz Jägerstätter
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-03-21 Sa 09:44]
+    - CLOSING NOTE [2018-03-17 Sam 10:07] \\
+      3A: geht so, war zu wenig vorbereitet, ist auch ein schwieriges Thema; ich hab mit den Schülern einen einfachen Überblick der drei Religionen erarbeitet.
+      
+      3B: Vorbereitung des Ostergottesdienstes: wird spannend, ob die Schüler sich "gut benehmen"!
+    :END:
+
+**** Ziele LP 2000
+[[#04]] Menschen, die nach ihrem Gewissen handeln - Franz Jägerstätter
+
+**** Kompetenzen
+[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+Islam: Kultur, religiöse Praxis und Grundüberzeugungen
+
+**** Erarbeitung
+Franz Jägerstätter
+
+**** Hefteintrag
+
+
+
+*** TODO [SW28] Was ist das Kreuz für dich?
+DEADLINE: <2021-03-22 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesu Kreuz
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-03-21 Sa 09:44]
+- CLOSING NOTE [2019-03-23 Sa 16:12] \\
+  Überraschenderweise hat ihnen der Vortrag von Daniele Ganser über WTC7 sehr gefallen!
+    - CLOSING NOTE [2018-03-24 Sam 11:39] \\
+      Kaum Unterricht, weil vor allem die 60-Jahr-Feier vorbereitet wurde. Und DIE war toll!
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Den Kern des christlichen Glaubens verstehen.
+
+**** Kompetenzen
+[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+
+**** Hefteintrag
+
+
+*** TODO [SW29] Osterferien
+DEADLINE: <2021-03-29 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Osterferien
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
+- CLOSING NOTE [2019-04-02 Di 09:26] \\
+  Die Stunde in der 3B zum Thema "Sexualität / 6. Gebot" war toll. Ich habe einfach den Youcat genommen und die Schüler waren positiv überrascht!
+:END:
+
+<2021-03-28 So> Palmsonntag
+
+<2021-04-01 Do> Gründonnerstag
+
+<2021-04-02 Fr> Karfreitag
+
+<2021-04-03 Sa> Karsamstag
+
+<2021-04-04 So> Ostersonntag
+
+
+
+*** TODO [SW30] Die Auferstehung unseres Herrn Jesus Christus
+DEADLINE: <2021-04-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Auferstehung
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
+- CLOSING NOTE [2019-04-10 Mi 10:53] \\
+  Die 3A bereitet den Ostergottesdienst vor; nach der eher negativen Erfahrung vom Weihnachtsgottesdienst haben wir die Gestaltung entsprechend geändert. 
+  
+  Die 3B war äußert interessiert bei Thema "christliche Kunst" dabei - das hat mich positiv überrascht!
+    - CLOSING NOTE [2018-04-07 Sa 14:19] \\
+      Diese Stunden waren okay - eine Möglichkeit, neu über das Myterium der Auferstehung nachzudenken...
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Den Kern des christlichen Glaubens verstehen.
+[[#07]] Sonntag - Fest der Auferstehung Jesu
+
+**** Kompetenzen
+[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW31] Der Weg nach Emmaus
+DEADLINE: <2021-04-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Emmausjünger
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
+    - CLOSING NOTE [2018-04-18 Mi 08:38] \\
+      Augustinus Film - toll, berührend, spannend, hat den Schülern sehr gefallen
+    - Note taken on [2018-04-18 Mi 08:37] \\
+      Wir haben uns den Augustinus-Film angesehen
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Die Botschaft vom befreienden Handeln Gottes darstellen können
+
+**** Kompetenzen
+[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW32] Zum Lieben bereit
+DEADLINE: <2021-04-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: bereit zur Liebe
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
+    - CLOSING NOTE [2018-04-18 Mi 08:39] \\
+      Wegen den BO-Tagen sind fast alle Stunden ausgefallen, es blieb mir nur die Stunde mit der 3A am Donnerstag.
+    :END:
+
+**** Ziele LP 2000
+[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können; Liebe, Freundschaft, Geschlechtlichkeit; Sakrament der Ehe.
+
+**** Kompetenzen
+[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
+
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW33] Moderne Lieder zum Thema Liebe, Sehnsucht nach Liebe
+DEADLINE: <2021-04-26 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Lieder Liebe
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
+- CLOSING NOTE [2019-04-27 Sa 10:38]
+:END:
+
+**** Ziele LP 2000
+[[#06]] Sich mit Kunst auseinandersetzen können und sie im Hinblick auf ihre existentielle und religiöse Dimension untersuchen
+
+**** Kompetenzen
+[[#6b]] Schüler können Kunst existenziell und religiös deuten.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+**** Erarbeitung
+
+**** Hefteintrag
+
+*** TODO [SW34] Auferstehung in der Kunst
+DEADLINE: <2021-05-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Auferstehung Kunst
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-05-05 Di 10:29]
+- CLOSING NOTE [2019-05-04 Sa 17:29]
+    - CLOSING NOTE [2018-05-07 Mo 15:02] \\
+      Das waren gute und arbeistreiche Stunden zum Thema "Heiliger Geist".
+    :END:
+
+**** Ziele LP 2000
+[[#06]] Menschenbild, Christusbild, Gottesbild; Kunst religiös deuten
+
+**** Kompetenzen
+[[#6b]] Schüler können Kunst existenziell und religiös deuten.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+**** Erarbeitung
+
+**** Hefteintrag
+
+
+*** TODO [SW35] Gebet
+DEADLINE: <2021-05-10 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gebet
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
+    - CLOSING NOTE [2018-05-10 Do 00:19] \\
+      Die Stunden waren okay. In der 3A lief es sehr gut; in der 3B gibt es tolle Schüler, wie z.B. Leonie! Leider wird sie von anderen Mädchen gehänselt - da Leonie gut bei Lehrern ankommt - sie ist intelligent. Marc wiederum glaubt, er wäre so cool mit seiner unmöglichen Art. "Nein, Marc, dein Verhalten gefällt mir gar nicht. Du bist so uncool!"
+    :END:
+
+<2021-05-13 Do> Christi Himmelfahrt
+
+**** Ziele LP 2000
+[[#06]] Verschiedene Formen des Gebets
+
+**** Kompetenzen
+
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW36] Das Wirken des Heiligen Geistes
+DEADLINE: <2021-05-17 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Hl. Geist
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
+    - CLOSING NOTE [2018-05-22 Di 14:42] \\
+      Es war ein Kampf, aber ich hoffe, die Schüler haben verstanden, WEN sie bei der Firmung empfangen! Vor dem Empfang eines jeden Sakraments muss ich im Stand der Gnade sein, also gehe ich beichten.
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Begeisterung - Wirken des Heiligen Geistes
+
+**** Kompetenzen
+[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW37] Pfingsten - Firmung
+DEADLINE: <2021-05-24 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Pfingsten
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-05-23 Sa 11:33]
+    - CLOSING NOTE [2018-05-26 Sa 15:57] \\
+      Beide Stunden waren sehr gut; im Moment sind die Schüler recht auf ihre Firmung fokkusiert.
+    :END:
+
+<2021-05-23 So> Pfingstsonntag
+
+**** Ziele LP 2000
+[[#01]] Begeisterung - Wirken des Heiligen Geistes
+
+**** Kompetenzen
+[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+Atme in mir, du Heiliger Geist, dass ich Heiliges denke.
+Treibe mich, du Heiliger Geist, dass ich Heiliges tue.
+Locke mich, du Heiliger Geist, dass ich Heiliges liebe.
+Stärke mich, du Heiliger Geist, dass ich Heiliges hüte.
+Hüte mich, du Heiliger Geist, dass ich das Heilige nimmer verliere.
+
+
+*** TODO [SW38] Die Dreieinigkeit Gottes
+DEADLINE: <2021-05-31 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Dreifaltigkeit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-01 Mo 09:56]
+- CLOSING NOTE [2019-05-31 Fr 10:12] \\
+  Wegen den Feiertagen gab es nur eine Stunde mit der 3A.
+    - CLOSING NOTE [2018-06-03 So 15:17] \\
+      Hm, also es ging so. In der 3A war es okay, aber nicht in der 3B. Ich hatte ein Telefonat mit der Mutter von Mark (3B) - ich verstehe zwar Mark besser, dennoch - meine Meinung - ist die Mutter eine "maman-poule"; immerhin ist Mark 13 / 14 Jahre alt, okay, er hat die Schule gewechselt. Aber das sollte einem Burschen wie Mark nicht so große Probleme bereiten. Man kann mit ihm reden? Er will das? Na, dann soll er es auch im Unterricht zeigen.
+    - Note taken on [2018-05-29 Di 22:15] \\
+      Heute (Dienstag, 29.05) sind sie (3B) ein paar Minuten am Ende der Stunde einfach gegangen; ich hatte die Stunde aber noch nicht beendet!
+    - Note taken on [2018-05-29 Di 22:12] \\
+      Mit der 3A geht am ehesten noch etwas - in der 3B ist es super schwer! Marc haut alles durcheinander; und generell herrscht dort großes Chaos.
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Die heilige Dreifaltigkeit - Gott Vater
+
+**** Kompetenzen
+[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
+
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW39] Jesus vergibt
+DEADLINE: <2021-06-07 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus vergibt
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-06 Sa 11:35]
+    - CLOSING NOTE [2018-06-10 So 08:23] \\
+      Nach einem Gespräch mit der Mutter von Mark weiß ich ein bißchen besser, wie ich mit diesem Schüler umgehen muss. Trotzdem auf der Hut sein. Ich höre von anderen Lehrern, wie lästig Mark ist.
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Die Botschaft vom befreienden Handeln Gottes darstellen können
+
+**** Kompetenzen
+[[#1a]] können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+*** TODO [SW40] Befreiungserzählungen: Jesus heilt
+DEADLINE: <2021-06-14 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus heilt
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-14 So 10:45]
+- Note taken on [2020-06-09 Di 12:14] \\
+  Anmerkung von Barbara bzgl Firmung: "Du machst den Eindruck, als würde dich das alles nichts angehen." Uh-oh! stimmt doch. Mir fehlt es generell an Schwung und zündenden Ideen für den Unterricht. Die Schulbücher geben nichts her, die Schüler sind faul, träge und antriebslos. 
+  
+  Die Idee bzgl der Lieder für die Firmung kam von mir und den Kindern (3A + 3B). Wahrscheinlich kommt das auch von meinem gelangweilten Gesichtsausdruck. Und es gibt einfach Dinge, die mich nicht interessieren und die mir lästig sind. Diese Sachen schiebe ich einfach auf die lange Bank. Natürlich soll / muss ich mich für die Feier der Firmung engagieren. Ich soll / muss auch im PGR meiner Heimatpfarre sitzen. 
+  
+  Bzgl meiner mangelnden Ideen frage ich einmal meine Inspektorin.
+    - CLOSING NOTE [2018-06-18 Mo 10:28] \\
+      Die Schüler meckern, weil der Film auf Englisch ist - aber: warum lernen die Schüler Englisch? Wohl, um die Sprache ausüben zu können?
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Die Botschaft vom befreienden Handeln Gottes darstellen können - Befreiungserzählungen
+
+**** Kompetenzen
+[[#1a]] können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Jesus heilt einen Gelähmten, einen Blinden - ich stehe da und sage nichts (wie verhält sich die Menge?). 
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW41] Gekrümmte werden aufgerichtet
+DEADLINE: <2021-06-21 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus richtet auf
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-21 So 10:37]
+    - CLOSING NOTE [2018-06-21 Do 10:17] \\
+      Da "The Truman Show" nicht agespielt werden konnte, stieg ich auf "Arrival" um - und konnten den Film nicht fertig schauen.
+    :END:
+
+**** Ziele LP 2000
+[[#01]] Die Botschaft vom befreienden Handeln Gottes darstellen können
+
+**** Kompetenzen
+[[#1a]] können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW42] Zusammenfassung Jahresstoff
+DEADLINE: <2021-06-28 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jahresstoff
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
+    - CLOSING NOTE [2018-06-28 Do 09:11] \\
+      Die dritten Klassen sind auf Sportwoche, daher suppliere ich vier Stunden. Durch die Erste-Hilfe-Kurse der vierten Klassen entfallen mir weitere drei Stunden.
+    :END:
+
+
+**** Ziele LP 2000
+
+
+**** Kompetenzen
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW43] Film
+DEADLINE: <2021-07-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Wiederholung
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2020-07-07 Di 12:02]
+:END:
+
+**** Ziele LP 2000
+
+
+**** Kompetenzen
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+** Kompetenzbereiche und Kompetenzdimensionen
+
+*** prozessbezogene Kompetenzbereiche
+Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark betont. 
+
+**** <<A>> Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+     :PROPERTIES:
+     :CUSTOM_ID: perzeption
+     :END:
+[[#01]] [[#02]] [[#03]] [[#04]] [[#07]] 
+
+[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Judentum]] [[#Islam]]
+
+**** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+     :PROPERTIES:
+     :CUSTOM_ID: kognition
+     :END:
+[[#01]] [[#05]] [[#07]]
+
+[[#Gott liebt mich]] [[#ich ein Original]] [[#Wegbegleiter]] [[#sich Jesus annähern]] [[#Maria]] [[#Gott wird Mensch]] [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]] [[#Jesu Kreuz]] [[#Auferstehung]] [[#Hl. Geist]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Schöpfung]]
+
+**** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+     :PROPERTIES:
+     :CUSTOM_ID: performanz
+     :END:
+[[#03]] [[#04]] [[#05]] [[#06]]
+
+[[#Gott liebt mich]] [[#ich ein Original]] [[#Wegbegleiter]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#bereit zur Liebe]] [[#Gebet]] [[#Schöpfung]]
+
+**** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+     :PROPERTIES:
+     :CUSTOM_ID: interaktion
+     :END:
+[[#01]] [[#02]] [[#03]]
+
+[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Monotheistische Weltreligionen]]
+
+**** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+     :PROPERTIES:
+     :CUSTOM_ID: partizipation
+     :END:
+[[#04]] [[#05]] [[#06]]
+
+[[#für andere da sein]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#bereit zur Liebe]] [[#Gebet]]
+
+*** inhaltsbezogene Kompetenzdimensionen
+Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die Schüler "angesichts des Phänomens der Individualisierung und Pluralisierung von Religion kompetent verhalten können."
+
+Die Schülerinnen und Schüler ... 
+
+**** Ad Ziel [[#01]]
+***** können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+:PROPERTIES:
+:CUSTOM_ID: 1a
+:END:
+[[#mein Wegbegleiter]] [[#sich Jesus annähern]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Emmausjünger]] [[#Hl. Geist]] [[#Pfingsten]]
+
+***** können anhand der Kindheitsgeschichten (dem Leiden und der Auferstehung) Jesu Gott als den, der in Jesus Mensch geworden ist, begreifen.
+:PROPERTIES:
+:CUSTOM_ID: 1b
+:END:
+[[#Maria]] [[#Gott wird Mensch]]
+
+***** können den Kern des christlichen Glaubens begreifen.
+:PROPERTIES:
+:CUSTOM_ID: 1c
+:END:
+ [[#Jesu Kreuz]] [[#Auferstehung]] [[#Hl. Geist]] [[#Pfingsten]] [[#Dreifaltigkeit]]
+
+**** Ad Ziel [[#02]]
+***** kennen die religiöse Praxis und Grundüberzeugungen der monotheistischen Religionen Judentum und Islam und können sie wertschätzen.
+:PROPERTIES:
+:CUSTOM_ID: 2a
+:END:
+[[#Judentum]] [[#Islam]]
+
+***** können anhand der Personen Jesus und Abraham das Verhältnis Judentum – Christentum – Islam begreifenund induzieren.
+:PROPERTIES:
+:CUSTOM_ID: 2b
+:END:
+[[#Monotheistische Weltreligionen]]
+
+**** Ad Ziel [[#03]]
+***** können Schuldverstrickungen im eigenen Leben aufzeigenund einsehen.
+:PROPERTIES:
+:CUSTOM_ID: 3a
+:END:
+
+
+***** kennen Formen der Vergebung und Versöhnung im Alltag, in der Bibel und im Leben der Kirche und können sich auf heilsame Veränderungen einlassen.
+:PROPERTIES:
+:CUSTOM_ID: 3b
+:END:
+[[#Vergebung ohne Grenzen]]
+
+**** Ad Ziel [[#04]]
+***** können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+:PROPERTIES:
+:CUSTOM_ID: 4a
+:END:
+[[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]]
+
+***** können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+:PROPERTIES:
+:CUSTOM_ID: 4b
+:END:
+[[#Gebote]] [[#Dekalog]] [[#Bergpredigt]]
+
+**** Ad Ziel [[#05]]
+***** können im Staunen über Phänomene des Kosmos, der Natur, in der Kreativität und im schöpferischen Gestalten des Menschen das Leben und die Mitwelt als Geschenk annehmen und selbstverantwortlich mitgestalten.
+:PROPERTIES:
+:CUSTOM_ID: 5a
+:END:
+[[#Schöpfung]]
+
+***** können vom Angebot des Lebens verantwortungsvoll Gebrauch machen.
+:PROPERTIES:
+:CUSTOM_ID: 5b
+:END:
+[[#für andere da sein]]
+
+***** treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
+:PROPERTIES:
+:CUSTOM_ID: 5c
+:END:
+[[#Wegbegleiter]] [[#bereit zur Liebe]]
+
+***** können die Liebe Gottes zur eigenen Person erkennen. 
+:PROPERTIES:
+:CUSTOM_ID: 5d
+:END:
+[[#Gott liebt mich]] [[#ich ein Original]] 
+
+**** Ad Ziel [[#06]]
+***** können den Einfluss von Medien- und Kommunikationsmitteln auf den eigenen Lebensstil, eigene Lebenswünscheund die Gemeinschaft aufzeigen und kritisch bewerten.
+:PROPERTIES:
+:CUSTOM_ID: 6a
+:END:
+
+
+***** können Kunst existenziell und religiös deuten.
+:PROPERTIES:
+:CUSTOM_ID: 6b
+:END:
+[[#Lieder Liebe]] [[#Auferstehung Kunst]]
+
+
+**** Ad Ziel [[#07]]
+***** können den Sonntag als Fest der Auferstehung Jesu sehen und seine Bedeutung für das Leben des Einzelnen und der Gemeinschaft erfassen.
+:PROPERTIES:
+:CUSTOM_ID: 7a
+:END:
+
+
+***** können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
+:PROPERTIES:
+:CUSTOM_ID: 7b
+:END:
+[[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]]
+
+
+** Unterrichtsprinzip
+Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf religiöse Bedeutung erschlossen und mit der christlichen / biblischen / kirchlichen Botschaft bzw Überlieferung (Tradition) wechselseitig in Beziehung gesetzt. Fachspezifische Bildungsinhalte für Schüler oft neu und fremd, stellen das Leben in Frage / ermöglichen neue Erfahrungen für die Schüler.
+
+** Jahresübergreifende Kompetenzen (nach Lehrplan 2000, revidierte Fassung von 18. April 2017)
+
+*** <<K01>> Vielfältige Gottesbilder - der sich in Jesus Christus offenbarende Gott [[#1a]] [[#1b]] [[#1c]]
+    :PROPERTIES:
+    :CUSTOM_ID: 01
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:33] \\
+      Sehnsüchte und vielfältige Gottesbilder wahrnehmen können, sich mit der persöhnlichen Gottesahnung auseinandersetzen und diese in Beziehung zur christlichen Botschaft von Vater, Sohn und Heiliger Geist setzen können.
+    :END:
+
+   - Die Botschaft vom befreienden Handeln Gottes darstellen können ([[A]],[[D]])
+     /Befreiungserzählungen, Exoduserzählung/ [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]]
+     /Hoffnung auf den Messias/ [[#mein Wegbegleiter]] [[#Emmausjünger]]
+     
+
+   - Gott als den verstehen, der in Jesus Mensch geworden ist ([[B]])
+     /Maria - von Gott auserwählt/ [[#Maria]]
+     /Gott wird Mensch für die Menschen: Kindheitsgeschichten Jesu/ [[#Gott wird Mensch]]
+     /Sich Jesus annähern/ [[#mein Wegbegleiter]] [[#sich Jesus annähern]]
+     /Jesus stirbt am Kreuz - Jesu Auferstehung/
+
+   - Den Kern des christlichen Glaubens verstehen (siehe oben) ([[B]])
+     /Leiden und Auferstehung unseres Herrn Jesus Christus/ [[#Jesu Kreuz]] [[#Auferstehung]]
+     /Begeisterung - Wirken des Heiligen Geistes/ [[#Hl. Geist]] [[#Pfingsten]]
+     /Die heilige Dreifaltigkeit - Gott Vater/ [[#Dreifaltigkeit]]
+
+*** <<K02>> Toleranz und Wertschätzung angesichts der Vielfalt von Kulturen und Religionen [[#2a]] [[#2b]]
+    :PROPERTIES:
+    :CUSTOM_ID: 02
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:08] \\
+      Unterschiedliche Lebens- und Glaubensformen in Kulturen und Religionen kennen, sich im Geist Jesu kritisch mit ihnen auseinandersetzen sowie Toleranz und Wertschätzung praktizieren.
+    :END:
+
+   - Grundlagen des Judentums kennen ([[A]])
+     /Judentum: Kultur, religiöse Praxis und Grundüberzeugungen/ [[#Judentum]]
+
+   - Grundlagen des Islam kennen ([[A]])
+     /Islam: Kultur, religiöse Praxis und Grundüberzeugungen/ [[#Islam]]
+
+   - Das Verhältnis Christentum - Judentum - Islam reflektieren ([[D]]) [[#Monotheistische Weltreligionen]]
+     /Jesus, der Jude, der Prophet, der Christus/
+     /Abraham in den monotheistischen Religionen/
+
+*** <<K03>> Leben und Hoffen angesichts von Schuld, Leid und Tod [[#3a]] [[#3b]]
+    :PROPERTIES:
+    :CUSTOM_ID: 03
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:15] \\
+      Schuld, Leid und Tod im persönlichen Leben und in der Gesellschaft wahrnehmen, unterschiedliche Bewältigungsversuche und Sinndeutungen kennen und mit der befreienden Wirkenung des Lebens, des Sterbens und der Auferstehung Jesu in Beziehung setzen können.
+    :END:
+
+   - Unheilvolle Situationen erkennen, eigene Verstrickungen und Schuld wahrnehmen und heilsame Veränderungsmöglichkeiten aufzeigen können ([[A]],[[D]])
+     /Schuldig werden - sich schuldig fühlen/
+     /Persönliche und strukturelle Schuld (Erbsünde)/
+     /Formen der Vergebung und Versöhnung im Alltag, in der Bibel und im Leben der Kirche/
+     /Das Sakrament der Versöhnung/
+     /Vergebung ohne Grenzen - sich von Jesus leiten lassen/ [[#Vergebung ohne Grenzen]]
+
+*** <<K04>> Würde des Menschen in Freiheit und Verantwortung [[#4a]] [[#4b]]
+    :PROPERTIES:
+    :CUSTOM_ID: 04
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:18] \\
+      Die eigene Würde und die der anderen anerkennen und reflektieren, was sie im Zusammenleben födert und gefährdet, und sich im solidarischen Handeln am Beispiel Jesu orientieren können.
+    :END:
+
+   - Für die Stimme des Gewissens sensibel sein ([[A]],[[E]]) [[#Gewissen Stimme]]
+     /Gewissen - entscheiden in Verantwortung/ [[#Gewissen Stärke]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]]
+     /Menschen, die nach ihrem Gewissen handeln/ [[#Franz Jägerstätter]]
+     /Gewissenskonflikte/
+    
+   - Christliche Grundregeln des Zusammenlebens kennen und anwenden ([[A]],[[C]])
+     /Dekalog, Bergpredigt/ [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]]
+   
+
+*** <<K05>> Welt und Mensch - Schöpfung Gottes [[#5a]] [[#5b]] [[#5c]]
+    :PROPERTIES:
+    :CUSTOM_ID: 05
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:21] \\
+      Sich selbst und die Welt als entwicklungsfähig und gefährdet erkennen, die Schöpfung und sich selbst als Geschöpf in Dankbarkeit und Verantwortung verstehen und die Sehnsucht nach Vollendung offen halten.
+    :END:
+
+   - Das Leben und die Mitwelt als Geschenk verstehen ([[B]],[[C]])
+     /Staunen über Phänomene des Kosmos und der Natur/ [[#Schöpfung]]
+     /Kreativität und schöpferisches Gestalten des Menschen/ 
+     /Suche nach der Wahrheit/ [[#ich ein Original]]
+     /Die Liebe Gottes zur eigenen Person erkennen/ [[#Gott liebt mich]]
+
+   - Vom Angebot des Lebens verantwortungsvoll Gebrauch machen können ([[E]])
+     /Lebensfreude, Verschwendung und Maßlosigkeit/ [[#für andere da sein]]
+
+   - Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können ([[C]],[[E]])
+     /Ungerechtigkeit - Option für die Armen/ [[#Wegbegleiter]]
+     /Geschlechtlichkeit als Geschenk und Aufgabe/ [[#bereit zur Liebe]]
+     /Das Sakrament der Ehe/ [[#bereit zur Liebe]]
+     /Arbeit, Beruf, Schule, Freizeit/
+     /Einsatz für soziale Gerechtigkeit/
+     /Ökologie und Nachhaltigkeit/ 
+
+
+*** <<K06>> Symbole - Rituale - Sakramente [[#6a]] [[#6b]]
+    :PROPERTIES:
+    :CUSTOM_ID: 06
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:24] \\
+      Symbole und Rituale in Kommunikation, in der Bilder- und Medienwelt beschreiben und interpretieren können, religiöse Ausdrucksformen erklären können und die Bedeutung der Sakramente verstehen.
+    :END:
+
+   - Den Einfluss von Kommunikationsmitteln und Medien auf Lebensstil und Gemeinschaft erkennen und kritisch bewerten können ([[A]],[[D]])
+     /Formen der Kommunikation, ihre Bedeutung und Wirkung/
+     /Medien und ihre Wirkung/
+     /Möglichkeiten der Orientierung/
+
+   - Sich mit Kunst auseinandersetzen können und sie im Hinblick auf ihre existentielle und religiöse Dimension untersuchen ([[A]],[[D]])
+     /Verschiedene Formen und Funktionen von Kunst (Architektur, Bildende Kunst, Literatur, Musik, Film, ...)/ [[#Lieder Liebe]]
+     /Menschenbild, Christusbild, Gottesbild/ [[#Auferstehung Kunst]]
+
+   - Verschiedene Formen des Gebets ([[C]],[[E]])
+     /Grundgebete/
+     /Stille, betrachtendes Gebet/ [[#Gebet]]
+     /Gebet der Kirche/
+     /Orte und Zeiten des Gebets/
+
+*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]]
+    :PROPERTIES:
+    :CUSTOM_ID: 07
+    :END:
+    :LOGBOOK:
+    - Note taken on [2017-09-29 Fre 10:26] \\
+      Zeugnisse des Christlichen in der Kultur entdecken, Feste als Unterbrechung des Alltags verstehen, am kirchlichen Leben in seinen vielfältigen Formen und Traditionen teilhaben können.
+    :END:
+
+   - Die Bedeutung des Sonntags für das Leben des Einzelnen und der Gemeinschaft erkennen ([[B]])
+     /Geschichte, Dimensionen und Feier des Sonntags/
+     /Sonntag - Fest der Auferstehung Jesu/ [[#Auferstehung]]
+     /Arbeitszeit - Freizeit - Zeit des Feierns/
+
+   - Die Geschichte der Kirche skizzieren können und über ihre prägenden Gestalten Bescheid wissen ([[A]],[[B]])
+     /Anfänge der Kirche (Apostelgeschichte, Paulus, ...)/ [[#Urkirche]]
+     /Kirchengeschichte in Auswahl/ [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]]
+     /Heilige in der Kunst/
+
+
+* Aufzeichnungen / Mitarbeit
+In diesem org.-file zeichne ich die Mitarbeit der einzelnen Schüler auf.
+
+
+* Footnotes
+
+[fn:3] [[https://www.goethe.de/ins/cn/de/kul/mag/20628753.html]]
+
+[fn:2] RIESS, Wolfgang (2016): /Jesus. Mensch Prophet Gottessohn./ Augsburg: Auer Verlag.
+
+[fn:1] Keine Diskussion über YT-Geschichte: Autovervollständigung "How to have" verweist auf Pädophile Videos.
