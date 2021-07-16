@@ -2432,11 +2432,40 @@ Lukasevangelium in Auswahl
 Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
 ****** Anwendungsbereiche
-****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_AB1
+:END:
 
-****** Kompetenzbeschreibungen
-****** Anwendungsbereiche
 ****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH1
+:END:
+ - Kurzformeln des  Glaubens,
+ - Grundgebete,
+ - Stille, Meditation,
+ - Psalmen, Lieder,
+ - körperliche Ausdrucksformen des Gebets  
+
+   
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB2
+:END:
+Die Schülerinnen und Schüler können Taufe und Eucharistie als Ausdruck der Zugehörigkeit zur kirchlichen Gemeinschaft verstehen. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB2
+:END:
+Das Glaubensbekenntnis
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH2
+:END:
+ - Zeichen und Formen von Zugehörigkeit,
+ - Jesu Mahlgemeinschaften und die Feier der Eucharistie 
+
 
 **** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
 :PROPERTIES:
@@ -2447,24 +2476,81 @@ Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und lit
 :CUSTOM_ID: C5
 :END:
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB1
+:END:
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.  
+
 ****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB1
+:END:
+
 ****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH1
+:END:
+ - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+ - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
+ - Marienfeste,
+ - vielfältige Zugänge zum Feiern von Weihnachten 
+
 
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB2
+:END:
+
 ****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB2
+:END:
+
 ****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH2
+:END:
 
 ***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
 :PROPERTIES:
 :CUSTOM_ID: C6
 :END:
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB1
+:END:
+Die Schülerinnen und Schüler können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen. 
+
 ****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB1
+:END:
+
+
 ****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH1
+:END:
+ - Einheit in Vielfalt,
+ - Respekt, Toleranz,
+ - Umgang mit Intoleranz und Vorurteilen 
 
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB2
+:END:
+
 ****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB2
+:END:
+
 ****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH2
+:END:
+
+
 
 **** Kompetenzdimensionen 
 beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
