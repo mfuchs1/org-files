@@ -49,12 +49,13 @@ vollständiger Text des Lehrplans (online):
 ** Jahres- / Wochenplanung
 Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro Woche 2 Stunden). Im LOGBOOK vermerke ich, wie die jeweiligen Stunden verlaufen sind, was gut ging, worauf ich in Zukunft achten muss: meine Beobachtungen und Reflexionen.
 
-*** DONE [SW01] Jahresstoff / ich stehe in den Schuhen des Anderen
-CLOSED: [2020-09-19 Sa 08:23] DEADLINE: <2020-09-14 Mo>
+*** TODO [SW01] Jahresstoff / ich stehe in den Schuhen des Anderen
+DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schuhe des Anderen
     :END:
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2021-07-16 Fr 14:51]
 - CLOSING NOTE [2019-09-16 Mo 21:45] \\
   Die ersten Stunden verliefen sehr gut. Ich habe allerdings sehr wohl bemerkt, dass die beiden ersten Klassen eher lebhaft sind.
     - CLOSING NOTE [2018-09-18 Di 09:50] \\
@@ -62,11 +63,12 @@ CLOSED: [2020-09-19 Sa 08:23] DEADLINE: <2020-09-14 Mo>
     :END:
 
 
-**** Ziele LP 2000
-[[#04]] Neubeginn in der Schule als Herausforderung und Chance wahrnehmen - Lebensbereich: Schulklasse
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
 
-**** Kompetenzen
-[[#4a]] Neue Herausforderungen in der eigenen Lebensgestaltung erkennen und annehmen können.
+**** AB / UH
+[[#A1_UH1]] Ich und die anderen: Empathie und Perspektivenwechsel
 
 **** Wiederholung
 Vorstellen des RU in der NMS Golling.
@@ -121,10 +123,10 @@ Immer gemeinsam beten: Lieder, Gebete, Stille, ...
 Jahresfestkreis ins Heft zeichnen
 Farblich gestalten
 
-*** DONE [SW02] Der heilige Rupertus
-CLOSED: [2020-09-27 So 10:36] DEADLINE: <2020-09-21 Mo>
+*** TODO [SW02] Das Kirchenjahr (Kalender)
+DEADLINE: <2021-09-20 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Hl. Rupertus
+    :CUSTOM_ID: Kirchenjahr
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:36]
@@ -138,42 +140,28 @@ CLOSED: [2020-09-27 So 10:36] DEADLINE: <2020-09-21 Mo>
       hjkhkjh
     :END:
 
-**** Ziel LP 2000
-[[#07]] Das Kirchenjahr mit seinen Festen als Rhythmus christlichen Lebens kennen und verstehen - Struktur des Kirchenjahres
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-**** Kompetenzen
-[[#7a]] Christliche Feste benennen und deuten können.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]]
+ - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+ - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
 
 **** Wiederholung
 
 
 **** Erarbeitung
-Kleine Geschichte der Erzdiözese Salzburg
-
- - Hl. Rupertus:
-   Er stammt aus Irland (?); Bischof in Worms. Theodo holt Rupert nach Regensburg. Von dort sendet ihn Theodo, um neue Kirchen zu bauen. Rupert zieht weiter und kommt schließlich nach Seekirchen, wo er eine Kirche baut und sie dem Hl. Petrus weiht.
-   Juvavum bot die rechtliche Grundlage als Bischofssitz. Rupert erhielt die obere Stadt und die Siedlung am Salzachufer, dazu zinspflichtige Höfe in den umliegenden Gauen (Salzburg, Attergau, Traungau). Und: 20 Salzsudstätten.
-
-   Es ist nicht sicher, ob Juvavum noch so gut organisiert war, wie zur Zeit der Hl. Severin. Rupert erneuerte die Gebäude der Stadt, auf dem Nonnberg befand sich eine Kirche , dem Hl. Martin geweiht - dort ist eine Siedlung aus dem 3. Jhdt bezeugt.
-   700 Gründete oder erneuerte das Kloster St. Peter
-   711 / 712 Maximilianzelle im Pongau (Bischofshofen)
-   Gründete 712 / 715 das Kloster Sift Nonnberg
-
- - Hl. Vitalis: direkter Nachfolger des Hl. Rupert; sein Leben ist unbekannt.
- - Hl. Virgil: Dombau - recht groß: 66m lang; 774 Überführung der Gebeine des Hl. Rupert in den Dom von Salzburg; Streit mit dem Hl. Bonifatius; Bischofsweihe 755;
- - wirtschatftlicher und religiöser Aufschwung des Landes
 
 
 **** Hefteintrag
 
 
-*** DONE [SW03] Die Seligpreisungen
-CLOSED: [2020-10-04 So 10:02] DEADLINE: <2020-09-28 Mo>
+*** TODO [SW03] Das Kirchenjahr (Feste)
+DEADLINE: <2021-09-27 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Seligpreisungen
+    :CUSTOM_ID: Feste Kirchenjahr
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 10:02]
@@ -187,38 +175,28 @@ CLOSED: [2020-10-04 So 10:02] DEADLINE: <2020-09-28 Mo>
       jjljlk
     :END:
 
-**** Ziel LP 2000
-[[#01]] Biblisches Basiswissen: Person und Umfeld Jesu, Entstehung des NT
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-**** Kompetenzen
-[[#1c]] Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#C5_UH1]]
+ - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+ - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
 
 **** Wiederholung
 
 
 **** Erarbeitung
-Wie soll ich als Christ leben? Reicht es aus ein "guter Mensch" zu sein? Woran erkennen wir einen Christen? Das erste Merkmal ist wohl das Gebet. In seinem Leben orientiert er sich am Beispiel Jesu "What Would Jesus Do?". Die besten "Hilfen" sind die Seligpreisungen im Mt-Evangelium.
 
-Die Seligpreiungen sind nicht "die höhere Ethik der Christen im Gegensatz zum Dekalog". Jesus hat den Dekalog nie aufgehoben, sondern ihn vertieft. Die 10 Gebote bleiben gültig.
-
-Die Seligpreisungen sind Verheißungen, so wie Jer 17,7f und dienen als Wegweiser. In Gottes Augen werden die weltlichen Maßstäbe umgeworfen. Die weltlich Armen sind die wahrhaft Glücklichen, Gesegneten; in all ihrem Leid dürfen sie jubeln und sich freuen. Sie sind Zusagen für die Endzeit, den Himmel. Die Seligpreisungen sind jedoch keine Vertröstungen auf eine entfernte Zukunft, sondern: wenn der Mensch anfängt, von Gott her zu sehen und zu leben, Jesus nachfolgt - dann legt er von neuen Maßstäben her. Von Jesus kommt Freude in die Drangsal. Je vollständiger sich der Mensch dem Dienst (Jesus) hingibt, umso konkreter und realer werden die Seligpreisungen (Jüngerschaft): Kreuz und Auferstehung.
-
-Die Seligpreisungen sind eine Beschreibung von Jesus selbst.
-
- - "Armen im Geist": 90 Prozent der Israeliten waren arm zur Zeit des Exils. In der Armut ist Israel Gott besonders nahe. Armut ist nie rein materiell. Die materielle Armut rettet nicht. Sie ist ebenso nicht rein geistig. Die Seligpreisungen sind also kein Sozialprogramm. Cf. Franz von Assisi. "Haben, als hätte man nicht"
- - "Die Sanftmütigen": voll Güte, Milde; wie ein König, der Frieden bringt; Landverheißung - Recht auf Freiheit der Anbetung, des Gottesdienstes; Exil als Chance, für Gott überall Raum zu schaffen.
-
-Die Bibelstelle der Seligpreisungendienst auch als Einstieg für das gemeinsame Lesen der Hl. Schrift: die Bibel ist Quelle des Glaubens. Wie lese ich sie?
 
 **** Hefteintrag
 
 
 
 
-*** DONE [SW04] Die Bibel / die 27 Bücher des NT
-CLOSED: [2020-10-11 So 09:45] DEADLINE: <2020-10-05 Mo>
+*** TODO [SW04] Die Bibel / die 27 Bücher des NT
+DEADLINE: <2021-10-04 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Bibel_NT
 :END:
@@ -235,13 +213,13 @@ CLOSED: [2020-10-11 So 09:45] DEADLINE: <2020-10-05 Mo>
     :END:
 
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
-**** Kompetenzen
-[[#1c]] Schüler könenn mit der Bibel als schriftliche Quelle unseres Glaubens umgehen und sie als Wort Gottes deuten
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+[[#B3_UH1]] Neues Testament
 
 **** Wiederholung
 
@@ -254,7 +232,6 @@ Allgemein:
 [[https://www.die-bibel.de/bibeln/bibelkenntnis/inhalt-und-aufbau-der-bibel/neues-testament/]]
 
 Textbeispiele aus Evangelium, Brief und Apokalypse
-
 Brief:
  - Frage aus dem Leben der Kinder; aws steht dazu in einem Paulusbrief?
  - Leben des Paulus: er kommt in eine Stadt, verkündet Jesus (Predigt, Wunder); gründet eine Gemeinde; er setzt Verantwortliche ein; die Gemeinde hat Fragen; Paulus schreibt einen Brief; dieser Brief wird vorgelesen, abgeschrieben und in anderen Gemeinden verlesen; ...
@@ -264,8 +241,8 @@ Zeichnen einer Bibliothek - fertig stellen
 
 
 
-*** DONE [SW05] Das NT und seine Entstehung / die vier Evangelien
-CLOSED: [2020-10-17 Sa 09:50] DEADLINE: <2020-10-12 Mo>
+*** TODO [SW05] Das NT und seine Entstehung / die vier Evangelien
+DEADLINE: <2021-10-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Entstehung NT Evangelien
     :END:
@@ -279,13 +256,13 @@ CLOSED: [2020-10-17 Sa 09:50] DEADLINE: <2020-10-12 Mo>
       In den ersten Klassen ist die "Streuung" ziemlich stark, besonders auffällig in der 1c. Die Kinder sind "sogar" beim Malen / Zeichnen schwach - sie besitzen kaum Vorstellungskraft / Kreativität. Wahrscheinlich haben wenig Kinder einen Sturm auf dem See erlebt, denn ihre Zeichnungen waren sehr infantil. Daher werde ich zu Beginn dieser Woche (SW06) Bilder und Videos von Botten im Sturm zeigen.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen - Entstehung des NT
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
-**** Kompetenzen
-[[#1c]] Schüler könenn mit der Bibel als schriftliche Quelle unseres Glaubens umgehen und sie als Wort Gottes deuten
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+[[#B3_UH1]] Neues Testament
 
 **** Wiederholung
 
@@ -328,8 +305,8 @@ Verklärung: Vergleich der Texte in Mt, Mk, Lk.
 **** Hefteintrag
 
 
-*** DONE [SW06] Das Leben und Schreibmaterial im NT
-CLOSED: [2020-10-24 Sa 11:59] DEADLINE: <2020-10-19 Mo>
+*** TODO [SW06] Das Leben und Schreibmaterial im NT
+DEADLINE: <2021-10-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Leben Schreiben NT
     :END:
@@ -341,13 +318,13 @@ CLOSED: [2020-10-24 Sa 11:59] DEADLINE: <2020-10-19 Mo>
       Wiederholung zum Stoff der letzten Stunden. Kleine Themenänderung...
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Person und Umfeld Jesu
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
-**** Kompetenzen
-[[#1c]] Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+[[#B3_UH1]] Neues Testament
 
 **** Wiederholung
 
@@ -360,8 +337,8 @@ Papirus besorgen? Schreibgriffel?
 **** Hefteintrag
 
 
-*** DONE [SW07] Herbstferien
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
+*** TODO [SW07] Herbstferien
+DEADLINE: <2021-10-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
     :END:
@@ -374,8 +351,8 @@ CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
     :END:
 
 
-*** DONE [SW08] Die Welt des Neuen Testaments
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
+*** TODO [SW08] Die Welt des Neuen Testaments
+DEADLINE: <2021-11-01 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Welt des NT
     :END:
@@ -396,13 +373,13 @@ rheiligen / Allerseelen. Allerdings merke ich, dass es den Kindern an elemantare
       Auweia! Die Kinder der 1C konnten mir kaum Heilige nennen, geschweige denn eine Geschichte dazu erzählen. Warum ist mir dies wichtig? Allgemeinbildung! Von Heiligen kann ich lernen: wie lebe ich als Christ? - als Vorbild -
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Person und Umfeld Jesu, Entstehung des NT
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
-**** Kompetenzen
-[[#1c]] Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+[[#B3_UH1]] Neues Testament
 
 **** Wiederholung
 
@@ -442,8 +419,8 @@ Texte vergleichen:
 
 
 
-*** DONE [SW09] Vorschule des Betens
-CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
+*** TODO [SW09] Vorschule des Betens
+DEADLINE: <2021-11-08 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gebet
     :END:
@@ -459,15 +436,12 @@ CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
       Ab nächster Woche nehme ich mir vor, die Schüler in ALLEN Klassen mehr selbständig arbeiten zu lassen. Ich rede einfach zuviel; mir scheint, als wäre ich von mir selbst zu wenig überzeugt. Ist mehr Gebet (auch) eine Hilfe?
     :END:
 
-**** Ziele LP 2000
-[[#06]] Mit Gesten und Rituale der Zusammengehörigkeit und des Glaubens vertraut werden
-    Stille, Meditations- und Gebetsformen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_AB1]] Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
-**** Kompetenzen
-[[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#B4_UH1]] Stille, Meditation
 
 **** Wiederholung
 
@@ -478,8 +452,8 @@ YouCat: Was ist Gebet? Wie lernen wir von Jesus, Maria, ... beten? Formen des Ge
 **** Hefteintrag
 
 
-*** DONE [SW10] 10 Regeln für das Gebet
-CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
+*** TODO [SW10] 10 Regeln für das Gebet
+DEADLINE: <2021-11-15 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Regeln_Beten
     :END:
@@ -495,14 +469,12 @@ CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
       Das waren schöne - aber auch harte Stunden, besonders in der 1c. In dieser Klasse haben  mir die Schüler gesagt: "Wir brauchen Gott nicht; wir haben alles. Und 'Danke' und 'Bitte' sagen wir zuhause auch nicht; denn wenn wir was brauchen, dann nehmen wir uns das einfach!" Wow! Und in der zweiten Stunde haben sie mir eine Kreide mit Uhu verklebt. Na wartet - ab jetzt werden sie jede Stunde schreiben, bis sie mit der Wahrheit herausrücken!
     :END:
 
-**** Ziele LP 2000
-[[#06]] Stille, Meditations- und Gebetsformen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_AB1]] Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
-**** Kompetenzen
-[[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#B4_UH1]] Kurzformeln des Glaubens
 
 **** Wiederholung
 
@@ -526,8 +498,8 @@ Home-Schooling: Jeder Schüler versucht, die ersten vier Punkte umzusetzen.
 **** Hefteintrag
 
 
-*** DONE [SW11] Vater Unser
-CLOSED: [2020-12-04 Fr 11:14] DEADLINE: <2020-11-23 Mo>
+*** TODO [SW11] Vater Unser
+DEADLINE: <2021-11-22 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Vater Unser
     :END:
@@ -539,14 +511,12 @@ CLOSED: [2020-12-04 Fr 11:14] DEADLINE: <2020-11-23 Mo>
       Recht gute Stunden: mein Leben als ein Weg (Symbol) - einen Überlebensrucksack packen was ist mir wirklich wichtig?
     :END:
 
-**** Ziele LP 2000
-[[#06]] Kreuzzeichen und Grundgebete
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_AB1]] Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
-**** Kompetenzen
-[[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#B4_UH1]] Grundgebete
 
 **** Wiederholung
 
@@ -557,8 +527,8 @@ Eine schöne Seite zum Vater Unser im Heft gestalten: zB ein paar der Bitten mit
 **** Hefteintrag
 
 
-*** DONE [SW12] Beginn Advent - Singen von Adventliedern
-CLOSED: [2020-12-04 Fr 11:17] DEADLINE: <2020-11-30 Mo>
+*** TODO [SW12] Beginn Advent - Singen von Adventliedern
+DEADLINE: <2021-11-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent
 :END:
@@ -568,15 +538,12 @@ CLOSED: [2020-12-04 Fr 11:17] DEADLINE: <2020-11-30 Mo>
       Diese Stunden waren okay. Für den Advent muss ich mir mehr vornehmen
     :END:
 
-**** Ziel LP 2000
-[[#07]] Das Kirchenjahr mit seinen Festen als Rhythmus christlichen Lebens kennen und verstehen - Weihnachtsfestkreis
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-**** Kompetenzen
-[[#7a]] Christliche Feste benennen und deuten können.
-[[#7c]] Aufbau des Kirchenjahres kennen und verstehen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]] Vielfältige Zugänge zum Feiern von Weihnachten
 
 **** Wiederholung
 
@@ -591,8 +558,8 @@ Zeichnen und manche Bräuche erklären: woher kommt z.B. der Adventkranz?
 **** Hefteintrag
 
 
-*** DONE [SW13] Maria Empfängnis (8.12.)
-CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
+*** TODO [SW13] Maria Empfängnis (8.12.)
+DEADLINE: <2021-12-06 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent_Maria
 :END:
@@ -606,14 +573,12 @@ CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
       Es waren schöne Stunden zu Beginn des Advents: was bedeutet mit Advent / Weihnachten? 8.12. - Bräuche, etc.
     :END:
 
-**** Ziele LP 2000
-[[#07]] Feste im Jahrefestkreis
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-**** Kompetenzen
-[[#7a]] Christliche Feste benennen und deuten können
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]] Marienfeste
 
 **** Wiederholung
 Wiederholung / Hinführung zum Kirchenjahr: Aufbau, Struktur, Bedeutung, ...
@@ -2334,7 +2299,7 @@ Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartig
 Ich und die anderen:
  - Selbstvertrauen,
  - Freundschaft,
- - Empathie und Perspektivenwechsel,
+ - Empathie und Perspektivenwechsel, [[#Schuhe des Anderen]]
  - Teamfähigkeit,
  - Nähe und Distanz,
  - Zärtlichkeit und Sexualität
@@ -2393,13 +2358,15 @@ Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bi
 :PROPERTIES:
 :CUSTOM_ID: B3_AB1
 :END:
-Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebens- relevanz der Bibel
+Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel [[#Bibel_NT]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B3_UH1
 :END:
- - Altes Testament und Neues Testament, historisch-geografisches Umfeld;
+ - Altes Testament
+ - Neues Testament, [[#Entstehung NT Evangelien]]
+ - historisch-geografisches Umfeld; [[#Leben Schreiben NT]] [[#Welt des NT]]
  - biblische Motive im Alltag: eigene Erfahrungen und Populärkultur
 
 
@@ -2407,7 +2374,7 @@ Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung,
 :PROPERTIES:
 :CUSTOM_ID: B3_KB2
 :END:
-Die Schülerinnen und Schüler können Leben und Handeln Jesu in Grundlinien be- schreiben und als Basis christlichen Glaubens kommunizieren.
+Die Schülerinnen und Schüler können Leben und Handeln Jesu in Grundlinien beschreiben und als Basis christlichen Glaubens kommunizieren.
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2440,9 +2407,9 @@ Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und lit
 :PROPERTIES:
 :CUSTOM_ID: B4_UH1
 :END:
- - Kurzformeln des  Glaubens,
- - Grundgebete,
- - Stille, Meditation,
+ - Kurzformeln des  Glaubens, [[#Regeln_Beten]]
+ - Grundgebete, [[#Vater Unser]]
+ - Stille, Meditation, [[#Gebet]]
  - Psalmen, Lieder,
  - körperliche Ausdrucksformen des Gebets  
 
@@ -2490,10 +2457,11 @@ Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhy
 :PROPERTIES:
 :CUSTOM_ID: C5_UH1
 :END:
- - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
- - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
- - Marienfeste,
- - vielfältige Zugänge zum Feiern von Weihnachten 
+ - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft, 
+ - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender), [[#Kirchenjahr]] [[#Feste Kirchenjahr]]
+ - Marienfeste, [[#Advent_Maria]]
+ - vielfältige Zugänge zum Feiern von Weihnachten [[#Advent]]
+ - Ostern
 
 
 ****** Kompetenzbeschreibungen
