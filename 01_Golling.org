@@ -628,10 +628,10 @@ Was würdest du dafür tun?
 
 
 
-*** DONE [SW14] Johannes der Täufer / Sr. Emmanuelle - Mutter der Müllmenschen
-CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-14 Mo>
+*** TODO [SW14] Ave Maria
+DEADLINE: <2021-12-13 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Johannes der Täufer
+    :CUSTOM_ID: Ave Maria
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
@@ -640,15 +640,12 @@ CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-14 Mo>
       Die Kinder haben willig mitgearbeitet; durch die Hl. Schrift werden es jedesmal sehr interessante Stunden.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Johannes der Täufer
-    Innehalten: Weggeschichten heiliger Männer und Frauen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_AB1]] Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
-**** Kompetenzen
-[[#7b]] Christliche Feste in Bezug zum eigenen Leben setzen und mitgetsalten
-[[#7c]] Aufbau des Kirchenjahres kennen und verstehen
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B4_UH1]] Grundgebete
 
 **** Wiederholung
 Brauchtum: Bräuche im Advent - Adventkranz, Barbarazweige, Adventkalender, Nikolaus, Weihrauch, Kerzen,...
@@ -2408,7 +2405,7 @@ Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und lit
 :CUSTOM_ID: B4_UH1
 :END:
  - Kurzformeln des  Glaubens, [[#Regeln_Beten]]
- - Grundgebete, [[#Vater Unser]]
+ - Grundgebete, [[#Vater Unser]] [[#Ave Maria]]
  - Stille, Meditation, [[#Gebet]]
  - Psalmen, Lieder,
  - körperliche Ausdrucksformen des Gebets  
