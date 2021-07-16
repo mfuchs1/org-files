@@ -2,39 +2,22 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+FILETAGS: hide
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
-#+LATEX_HEADER: \usepackage[ngerman]{babel}
-#+LATEX_HEADER: \usepackage[utf8]{inputenc}
-#+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage{textcomp}
-#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
-#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
-#+LATEX_HEADER: \usepackage{url}
-#+LATEX_HEADER: \urlstyle{rm}
-#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
-#+LATEX_HEADER: \usepackage{cjhebrew}
-#+LATEX_HEADER: \usepackage{hyperref}
-#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
-#+LATEX_HEADER: \usepackage{pdfpages}
-#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
-#+LATEX_HEADER: \usepackage{times}
-#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
-#+LATEX_HEADER: \usepackage{setspace}
-#+LATEX_HEADER: \usepackage{enumitem,amssymb}
-#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
-#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
-#+TITLE: 01_Golling.org
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 01_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
 
 (
 * Unterrichtsvorbereitung
-Das ist eine Planung des Religionsunterrichts für die fünfte Schulstufe / die ersten Klassen (NMS Golling). Die Jahres- / Wochenplanung wird immer wieder aktualisiert. Weiter unten folgen die fünf Kompetenzbereiche (A - E), die für die gesamte NMS gültig sind. Die vier Kompetenzdimensionen (1-4) gelten besonders für den Religionsunterricht. Der Lehrplan ist nach sieben Kompetenzen aufgeteilt, die den Anforderungen und Bedürfnissen der jeweiligen Schulstufe angepasst werden. 
+Das ist eine Planung des Religionsunterrichts für die fünfte Schulstufe / die ersten Klassen (NMS Golling). Die Jahres- / Wochenplanung wird immer wieder aktualisiert. Weiter unten folgen die fünf Kompetenzbereiche (A - E), die für die gesamte NMS gültig sind. Die vier Kompetenzdimensionen (1-4) gelten besonders für den Religionsunterricht. Der Lehrplan ist nach sieben Kompetenzen aufgeteilt, die den Anforderungen und Bedürfnissen der jeweiligen Schulstufe angepasst werden.
 
-Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik / Religion erleben / ... 
+Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik / Religion erleben / ...
 
 ** Welche Klasse
 An der NMS Golling gibt es zwei erste Klassen (1A, 1B). [Über die einzelnen Schüler kann ich erst zu Beginn des Schuljahres Aussagen treffen.]
@@ -44,7 +27,7 @@ An der NMS Golling gibt es zwei erste Klassen (1A, 1B). [Über die einzelnen Sch
 *** Inhalt und Anliegen des Religionsunterrichts
 "/In der Mitte des Religionsunterrichts stehen die Schülerinnen und Schüler, ihr Leben und ihr Glaube. Daher sind Inhalt des Religionsunterrichts sowohl das menschliche Leben als auch der christliche Glaube, wie er sich im Laufe der Geschichte entfaltet hat und in den christlichen Gemeinden gelebt wird. Lebens-, Glaubens- und Welterfahrungen der Schülerinnen und Schüler, Lehrerinnen und Lehrer werden dabei aus der Perspektive des christlichen Glaubens reflektiert und gedeutet. Dieser Glaube hat in Jesus Christus seine Mitte./"
 
-"/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So 
+"/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So
 trägt er auch zur Gestaltung des Schullebens bei./"
 
 *** Stellung des Religionsunterrichts an der Sekundarstufe I
@@ -64,7 +47,7 @@ vollständiger Text des Lehrplans (online):
 
 
 ** Jahres- / Wochenplanung
-Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro Woche 2 Stunden). Im LOGBOOK vermerke ich, wie die jeweiligen Stunden verlaufen sind, was gut ging, worauf ich in Zukunft achten muss: meine Beobachtungen und Reflexionen. 
+Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro Woche 2 Stunden). Im LOGBOOK vermerke ich, wie die jeweiligen Stunden verlaufen sind, was gut ging, worauf ich in Zukunft achten muss: meine Beobachtungen und Reflexionen.
 
 *** DONE [SW01] Jahresstoff / ich stehe in den Schuhen des Anderen
 CLOSED: [2020-09-19 Sa 08:23] DEADLINE: <2020-09-14 Mo>
@@ -93,10 +76,10 @@ Vorstellen des RU in der NMS Golling.
  - Themen
  - Was ist mir als Lehrer wichtig?
  - Was erwarten sich die Schüler?
- 
+
 Im RU kann und werde ich den Schülern Glaubens*wissen* vermitteln. Aber nicht nur das. Es muss um die Schüler gehen; wie können die Schüler eine Verbindung zwischen ihrem Leben und dem christlichen Glauben herstellen? Wie sehr (oder: wie wenig) sind die Schüler christlich-kirchlich sozialisiert? Der christliche Glaube ist kein Hut, den man sich am Sonntag beim Kirchgang aufsetzt. Er ist integraler Bestandteil meiner Person (wenn ich getauft bin). Jesus Christus - Er muss in der Mitte des RU stehen. Ich muss als RL das Evangelium Jesu Christi verkünden, Zeuge der Wahrheit sein. Ja, es gibt sie: DIE Wahrheit. Nicht ich - als Mensch - werde sie finden, sondern es ist die Wahrheit, die mich finden wird; denn die Wahrheit ist eine Person: Jesus Christus, der Sohn Gottes (c) Ambrosius, im Film "Augustinus".
 
-Der Ablauf der Stunde muss klar sein. 
+Der Ablauf der Stunde muss klar sein.
 
 Beispiel:
 
@@ -115,7 +98,7 @@ Nach den obigen Texten aus dem Lehrplan - die ich den Schülern durchaus vorlese
 [Ich weiß nicht, wieviel die Schüler (in allen Klassen) von der aktuellen Krise innerhalb der katholischen Kirche mitbekommen. Ein unfassbares Skandal in der katholischen Kirche in den USA, Täter waren Priester, Ordensleute und Bischöfe (?); Vertuschung durch Priester und Bischöfe; Papst Franziskus hat(te) unter seinen Beratern Kardinal McCarrick, der von dem Skandal wusste, selbst Täter war(?); Papst B16 erlegte McCarrick Sanktionen auf; Papst Franziskus hob diese wieder auf; etc ... Es ist keine Krise des Vertrauens, sondern des Glaubens. Der Papst ist auch dann der Papst, wenn er ein grottenschlechter Papst ist.]
 
 **** Erarbeitung
-Einander kennenlernen - Namensschilder? fixer Sitzplan für mich; Schüler immer mit Vornamen anreden. 
+Einander kennenlernen - Namensschilder? fixer Sitzplan für mich; Schüler immer mit Vornamen anreden.
 
 Grundlagen:
  - Was ist Glaube?
@@ -163,7 +146,7 @@ CLOSED: [2020-09-27 So 10:36] DEADLINE: <2020-09-21 Mo>
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 [[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
- 
+
 **** Wiederholung
 
 
@@ -171,18 +154,18 @@ CLOSED: [2020-09-27 So 10:36] DEADLINE: <2020-09-21 Mo>
 Kleine Geschichte der Erzdiözese Salzburg
 
  - Hl. Rupertus:
-   Er stammt aus Irland (?); Bischof in Worms. Theodo holt Rupert nach Regensburg. Von dort sendet ihn Theodo, um neue Kirchen zu bauen. Rupert zieht weiter und kommt schließlich nach Seekirchen, wo er eine Kirche baut und sie dem Hl. Petrus weiht. 
-   Juvavum bot die rechtliche Grundlage als Bischofssitz. Rupert erhielt die obere Stadt und die Siedlung am Salzachufer, dazu zinspflichtige Höfe in den umliegenden Gauen (Salzburg, Attergau, Traungau). Und: 20 Salzsudstätten. 
+   Er stammt aus Irland (?); Bischof in Worms. Theodo holt Rupert nach Regensburg. Von dort sendet ihn Theodo, um neue Kirchen zu bauen. Rupert zieht weiter und kommt schließlich nach Seekirchen, wo er eine Kirche baut und sie dem Hl. Petrus weiht.
+   Juvavum bot die rechtliche Grundlage als Bischofssitz. Rupert erhielt die obere Stadt und die Siedlung am Salzachufer, dazu zinspflichtige Höfe in den umliegenden Gauen (Salzburg, Attergau, Traungau). Und: 20 Salzsudstätten.
 
-   Es ist nicht sicher, ob Juvavum noch so gut organisiert war, wie zur Zeit der Hl. Severin. Rupert erneuerte die Gebäude der Stadt, auf dem Nonnberg befand sich eine Kirche , dem Hl. Martin geweiht - dort ist eine Siedlung aus dem 3. Jhdt bezeugt. 
+   Es ist nicht sicher, ob Juvavum noch so gut organisiert war, wie zur Zeit der Hl. Severin. Rupert erneuerte die Gebäude der Stadt, auf dem Nonnberg befand sich eine Kirche , dem Hl. Martin geweiht - dort ist eine Siedlung aus dem 3. Jhdt bezeugt.
    700 Gründete oder erneuerte das Kloster St. Peter
    711 / 712 Maximilianzelle im Pongau (Bischofshofen)
    Gründete 712 / 715 das Kloster Sift Nonnberg
 
  - Hl. Vitalis: direkter Nachfolger des Hl. Rupert; sein Leben ist unbekannt.
- - Hl. Virgil: Dombau - recht groß: 66m lang; 774 Überführung der Gebeine des Hl. Rupert in den Dom von Salzburg; Streit mit dem Hl. Bonifatius; Bischofsweihe 755; 
+ - Hl. Virgil: Dombau - recht groß: 66m lang; 774 Überführung der Gebeine des Hl. Rupert in den Dom von Salzburg; Streit mit dem Hl. Bonifatius; Bischofsweihe 755;
  - wirtschatftlicher und religiöser Aufschwung des Landes
- 
+
 
 **** Hefteintrag
 
@@ -206,7 +189,7 @@ CLOSED: [2020-10-04 So 10:02] DEADLINE: <2020-09-28 Mo>
 
 **** Ziel LP 2000
 [[#01]] Biblisches Basiswissen: Person und Umfeld Jesu, Entstehung des NT
- 
+
 **** Kompetenzen
 [[#1c]] Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
 
@@ -218,14 +201,14 @@ CLOSED: [2020-10-04 So 10:02] DEADLINE: <2020-09-28 Mo>
 **** Erarbeitung
 Wie soll ich als Christ leben? Reicht es aus ein "guter Mensch" zu sein? Woran erkennen wir einen Christen? Das erste Merkmal ist wohl das Gebet. In seinem Leben orientiert er sich am Beispiel Jesu "What Would Jesus Do?". Die besten "Hilfen" sind die Seligpreisungen im Mt-Evangelium.
 
-Die Seligpreiungen sind nicht "die höhere Ethik der Christen im Gegensatz zum Dekalog". Jesus hat den Dekalog nie aufgehoben, sondern ihn vertieft. Die 10 Gebote bleiben gültig.  
+Die Seligpreiungen sind nicht "die höhere Ethik der Christen im Gegensatz zum Dekalog". Jesus hat den Dekalog nie aufgehoben, sondern ihn vertieft. Die 10 Gebote bleiben gültig.
 
-Die Seligpreisungen sind Verheißungen, so wie Jer 17,7f und dienen als Wegweiser. In Gottes Augen werden die weltlichen Maßstäbe umgeworfen. Die weltlich Armen sind die wahrhaft Glücklichen, Gesegneten; in all ihrem Leid dürfen sie jubeln und sich freuen. Sie sind Zusagen für die Endzeit, den Himmel. Die Seligpreisungen sind jedoch keine Vertröstungen auf eine entfernte Zukunft, sondern: wenn der Mensch anfängt, von Gott her zu sehen und zu leben, Jesus nachfolgt - dann legt er von neuen Maßstäben her. Von Jesus kommt Freude in die Drangsal. Je vollständiger sich der Mensch dem Dienst (Jesus) hingibt, umso konkreter und realer werden die Seligpreisungen (Jüngerschaft): Kreuz und Auferstehung. 
+Die Seligpreisungen sind Verheißungen, so wie Jer 17,7f und dienen als Wegweiser. In Gottes Augen werden die weltlichen Maßstäbe umgeworfen. Die weltlich Armen sind die wahrhaft Glücklichen, Gesegneten; in all ihrem Leid dürfen sie jubeln und sich freuen. Sie sind Zusagen für die Endzeit, den Himmel. Die Seligpreisungen sind jedoch keine Vertröstungen auf eine entfernte Zukunft, sondern: wenn der Mensch anfängt, von Gott her zu sehen und zu leben, Jesus nachfolgt - dann legt er von neuen Maßstäben her. Von Jesus kommt Freude in die Drangsal. Je vollständiger sich der Mensch dem Dienst (Jesus) hingibt, umso konkreter und realer werden die Seligpreisungen (Jüngerschaft): Kreuz und Auferstehung.
 
-Die Seligpreisungen sind eine Beschreibung von Jesus selbst. 
+Die Seligpreisungen sind eine Beschreibung von Jesus selbst.
 
  - "Armen im Geist": 90 Prozent der Israeliten waren arm zur Zeit des Exils. In der Armut ist Israel Gott besonders nahe. Armut ist nie rein materiell. Die materielle Armut rettet nicht. Sie ist ebenso nicht rein geistig. Die Seligpreisungen sind also kein Sozialprogramm. Cf. Franz von Assisi. "Haben, als hätte man nicht"
- - "Die Sanftmütigen": voll Güte, Milde; wie ein König, der Frieden bringt; Landverheißung - Recht auf Freiheit der Anbetung, des Gottesdienstes; Exil als Chance, für Gott überall Raum zu schaffen. 
+ - "Die Sanftmütigen": voll Güte, Milde; wie ein König, der Frieden bringt; Landverheißung - Recht auf Freiheit der Anbetung, des Gottesdienstes; Exil als Chance, für Gott überall Raum zu schaffen.
 
 Die Bibelstelle der Seligpreisungendienst auch als Einstieg für das gemeinsame Lesen der Hl. Schrift: die Bibel ist Quelle des Glaubens. Wie lese ich sie?
 
@@ -263,7 +246,7 @@ CLOSED: [2020-10-11 So 09:45] DEADLINE: <2020-10-05 Mo>
 **** Wiederholung
 
 **** Erarbeitung
-Auf dieser Homepage finden ich und eventuell auch die Schüler gutes Hintergrundwissen. Die Schüler können damit vielleicht weniger etwas anfangen.  
+Auf dieser Homepage finden ich und eventuell auch die Schüler gutes Hintergrundwissen. Die Schüler können damit vielleicht weniger etwas anfangen.
 
 Allgemein:
 [[https://www.bibelwissenschaft.de/bibelkunde/neues-testament/]] [folgende Kapitel]
@@ -309,13 +292,13 @@ CLOSED: [2020-10-17 Sa 09:50] DEADLINE: <2020-10-12 Mo>
 
 **** Erarbeitung
 Heilige Schrift - 2 Teile (AT / NT) Kontinuität / Neubeginn.
-Was ist die Bibel? Das Besondere? Eine christliche Verkündigung kann es ohne das AT nicht geben. Ohne das AT lässt sich das NT nicht verstehen. Für die ersten Christen war die "Heilige Schrift" das hebräische AT. Sie verkündeten Jesus als den Messias / Christus durch die Bibel (=AT) und von ihr her. Ab dem 2. Jhdt als Gegenreaktion auf Irrlehren: Kirche legt 2teilige Bibel als Hl. Schrift fest. "Alt" bedeutet NICHT "überholt"! "Neuer Bund" einmal in Jer 31,31 / Paulus "Alter Bund" in 2 Kor 3,14  Korrelationspaar. Lassen sich im Bezug aufeinander verstehen. Alt geht neu voraus! Das Neue lässt sich ohne das Alte nicht verstehen. Im Lichte des Neuen lassen sich bestimmte Ereignisse des Alten erst "richtig" erfassen. 
+Was ist die Bibel? Das Besondere? Eine christliche Verkündigung kann es ohne das AT nicht geben. Ohne das AT lässt sich das NT nicht verstehen. Für die ersten Christen war die "Heilige Schrift" das hebräische AT. Sie verkündeten Jesus als den Messias / Christus durch die Bibel (=AT) und von ihr her. Ab dem 2. Jhdt als Gegenreaktion auf Irrlehren: Kirche legt 2teilige Bibel als Hl. Schrift fest. "Alt" bedeutet NICHT "überholt"! "Neuer Bund" einmal in Jer 31,31 / Paulus "Alter Bund" in 2 Kor 3,14  Korrelationspaar. Lassen sich im Bezug aufeinander verstehen. Alt geht neu voraus! Das Neue lässt sich ohne das Alte nicht verstehen. Im Lichte des Neuen lassen sich bestimmte Ereignisse des Alten erst "richtig" erfassen.
 
 (Göttliche) Inspiration
 Die Heilige Schrift ist Gottes Wort in Menschenwort.
 Wie ist die Bibel entstanden?
 Mündliche Überlieferung, schriftliche Überlieferung:
-AT: ab ca. 1000 v. Chr. (Frühkönigszeit) Beginn der Verschriftlichung 
+AT: ab ca. 1000 v. Chr. (Frühkönigszeit) Beginn der Verschriftlichung
 NT: ab 50 n. Chr.; Briefe (1. Thess), Evangelien (50-70); Offb (100)
 
 Was ist für die Kinder wichtig zu wissen? Was müssen sie wissen (Basiswissen)?
@@ -323,7 +306,7 @@ Wie bringe ich das Thema den Kindern nahe?
 
 ********
 
-Hefteintrag: 
+Hefteintrag:
 Überlieferung
 Gott offenbart sich durch Wort und Tat - wechselseitiger Bezug
 Tradition ohne Tradition keine Heilige Schrift dh Schrift ja / Tradition nein ist eigentlich Unfug.
@@ -332,7 +315,7 @@ Tradition ohne Tradition keine Heilige Schrift dh Schrift ja / Tradition nein is
 
 Entstehung des NT (Lehrfilm)
 
-Bedeutung der Bibel, ein Buch aus Büchern; Entstehungszeitraum: ca 1200 bis 1400 Jahren. 
+Bedeutung der Bibel, ein Buch aus Büchern; Entstehungszeitraum: ca 1200 bis 1400 Jahren.
 
 Aufbau: AT / NT; 2 Quellen Theorie für das NT.  nachprüfen: was ist *aktueller* Stand der Wissenschaft?
 
@@ -340,7 +323,7 @@ Arbeitsblätter - Auswahl!
 
 -----
 
-Verklärung: Vergleich der Texte in Mt, Mk, Lk. 
+Verklärung: Vergleich der Texte in Mt, Mk, Lk.
 
 **** Hefteintrag
 
@@ -401,13 +384,13 @@ CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
     - CLOSING NOTE [2017-11-04 Sam 17:53] \\
       Hm, es waren guet Stunden zum Thema Alle
 rheiligen / Allerseelen. Allerdings merke ich, dass es den Kindern an elemantarer religiöser Bildung / Erziehung fehlt. "Namenspatron" sagt ihnen nichts - wahrscheinlich hätte "Namensheiliger" auch nichts bei den Kindern ausgelöst.
-      
+
       Ich komme immer wieder auf die gleiche Frage zurück: ist ein Ethilunterricht in solchen Umständen nicht besser? Aber wenn ich den Kindern nichts mehr über Jesus erzähle, wer wird es dann tun? Zuhause geschieht in diese Richtung gar nichts mehr!
     - Note taken on [2017-10-30 Mon 11:50] \\
-      Hm, Heilige als Vorbild? Ewiges Leben - Leben nach dem Tod? 
-      
+      Hm, Heilige als Vorbild? Ewiges Leben - Leben nach dem Tod?
+
       Den Kindern ist "fad", sagen sie. Auch andere Lehrer (Deutsch) klagen von der Teilnahmslosigkeit der Kinder. Wo sind die Ursachen?
-      
+
       Ein Grund könnten die sog. "neuen Medien" sein; ein anderer die Sättigung; oder die weit verbreitete Gleichgültigkeit gegenüber religiösen Fragen.
     - Note taken on [2017-10-30 Mon 11:45] \\
       Auweia! Die Kinder der 1C konnten mir kaum Heilige nennen, geschweige denn eine Geschichte dazu erzählen. Warum ist mir dies wichtig? Allgemeinbildung! Von Heiligen kann ich lernen: wie lebe ich als Christ? - als Vorbild -
@@ -439,7 +422,7 @@ Arbeitsblätter im folgenden Verzeichnis:
 Ein Haus zur Zeit Jesu: meist einräumig, zwei Wohnebenen (Menschen, Tiere).
 Schüler beschreiben das Haus
 
-Aufmerksam auf besondere Eigenheiten machen: kleine und wenig Fenster, Kochstelle, Backofen, Öllampe, Flachdach, Schlafmatten, Vorratsgefäße, Mesusa (Höre Israel). 
+Aufmerksam auf besondere Eigenheiten machen: kleine und wenig Fenster, Kochstelle, Backofen, Öllampe, Flachdach, Schlafmatten, Vorratsgefäße, Mesusa (Höre Israel).
 
 "Wimmelbuch" zur Bibel
 
@@ -470,9 +453,9 @@ CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
       Es ist immer eine Freude, in diesen Klassen zu unterrichten..
     - CLOSING NOTE [2017-11-11 Sam 11:59] \\
       Diese Stunden waren so lala - in der 1A und 1B ging es einigermaßen. Die Kinder waren aktiv dabei. Die 1C ist generell etwas schwieriger, eigentlich klar, denn hier ist der Leistungsunterschied unter den Schüler größer. Nicht nur ich klage ...
-      
+
       Ehrlicherweise muss ich zugeben, dass ich für die Stunden der ersten und zweiten Klassen zu wenig investiert habe.
-      
+
       Ab nächster Woche nehme ich mir vor, die Schüler in ALLEN Klassen mehr selbständig arbeiten zu lassen. Ich rede einfach zuviel; mir scheint, als wäre ich von mir selbst zu wenig überzeugt. Ist mehr Gebet (auch) eine Hilfe?
     :END:
 
@@ -487,10 +470,10 @@ CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
 [[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
 **** Wiederholung
- 
+
 
 **** Erarbeitung
-YouCat: Was ist Gebet? Wie lernen wir von Jesus, Maria, ... beten? Formen des Gebets? Körperhaltungen? Das Vaterunser, das Gegrüßet seist du Maria und andere Grundgebete. Verfassen eines persönlichen Gebets; Beten in der Familie; persönlich beten, gemeinsam beten. 
+YouCat: Was ist Gebet? Wie lernen wir von Jesus, Maria, ... beten? Formen des Gebets? Körperhaltungen? Das Vaterunser, das Gegrüßet seist du Maria und andere Grundgebete. Verfassen eines persönlichen Gebets; Beten in der Familie; persönlich beten, gemeinsam beten.
 
 **** Hefteintrag
 
@@ -506,7 +489,7 @@ CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
   Die Schüler haben zum Schluss begonnen, ihren Lebensweg zu zeichnen...
     - CLOSING NOTE [2018-11-16 Fr 16:35] \\
       König David hat die Schüler sehr interessiert - sie kannten ihn überhaupt nicht.
-      
+
       In einer Klasse (1A) haben wir uns auch noch zwei Stellen aus der Weisheitsliteratur angeschaut (Weisheit, Jesus Sirach).
     - CLOSING NOTE [2017-11-20 Mon 00:10] \\
       Das waren schöne - aber auch harte Stunden, besonders in der 1c. In dieser Klasse haben  mir die Schüler gesagt: "Wir brauchen Gott nicht; wir haben alles. Und 'Danke' und 'Bitte' sagen wir zuhause auch nicht; denn wenn wir was brauchen, dann nehmen wir uns das einfach!" Wow! Und in der zweiten Stunde haben sie mir eine Kreide mit Uhu verklebt. Na wartet - ab jetzt werden sie jede Stunde schreiben, bis sie mit der Wahrheit herausrücken!
@@ -538,7 +521,7 @@ YouCat Firmbuch (S. 71-74) bzw. Jugendgebetsbuch (aus der Schule holen?)
  9. Lass Gott zu Wort kommen: Hl. Schrift, die Heiligen; im Herzen; ...
  10. Bete mit der himmlischen und irdischen Kirche: bete mit der Familie, den Freunden; bete mit den Heiligen; bitte sie um ihr Gebet.
 
-Home-Schooling: Jeder Schüler versucht, die ersten vier Punkte umzusetzen. 
+Home-Schooling: Jeder Schüler versucht, die ersten vier Punkte umzusetzen.
 
 **** Hefteintrag
 
@@ -627,7 +610,7 @@ CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
 [[#07]] Feste im Jahrefestkreis
 
 **** Kompetenzen
-[[#7a]] Christliche Feste benennen und deuten können 
+[[#7a]] Christliche Feste benennen und deuten können
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 [[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
@@ -642,43 +625,43 @@ Auf den Weihnachtsfestkreis wird genauer eingegangen: das dreifache Kommen Jesu.
 
 [[https://www.youtube.com/watch?v=SAeQMmpI9G8][Ein katholisches Halloween? Bräuche im Advent - kathmedia]]
 
-P. Johannes erklärt in "coolen" Videos den katholischen Glauben. 
+P. Johannes erklärt in "coolen" Videos den katholischen Glauben.
 
 [[https://de.wikipedia.org/wiki/Kirchenjahr][Wikipedia: das Kirchenjahr]]
 
 Rituale sind wichtig: Der kleine Prinz
 
-Der Sonntag: ein Osterfest im Kleinen. 
+Der Sonntag: ein Osterfest im Kleinen.
 
 Die Schüler sollen das Kirchenjahr neu entdecken: Wie ist es aufgeteilt? [[https://www.festjahr.de/de/]]
 
-Und: warum ist es auf diese Weise strukturiert? Gott wird Mensch in Jesus (Weihnachten), um uns zu erlösen (Ostern). Daher ist das Kirchenjahr von Weihnachten auf Ostern hin ausgerichtet. Vor großen Festen gibt es Vorbereitungszeiten (Advent, Fastenzeit, Bitttage vor Christi Himmelfahrt). Nach den großen Festen gibt es mehrere Tage bzw Wochen des Feierns: Weihnachtszeit und Osterzeit. Die Zeit des Jahreskreises steht im Zeichen der Hoffnung (Farbe grün) und der Mission. 
+Und: warum ist es auf diese Weise strukturiert? Gott wird Mensch in Jesus (Weihnachten), um uns zu erlösen (Ostern). Daher ist das Kirchenjahr von Weihnachten auf Ostern hin ausgerichtet. Vor großen Festen gibt es Vorbereitungszeiten (Advent, Fastenzeit, Bitttage vor Christi Himmelfahrt). Nach den großen Festen gibt es mehrere Tage bzw Wochen des Feierns: Weihnachtszeit und Osterzeit. Die Zeit des Jahreskreises steht im Zeichen der Hoffnung (Farbe grün) und der Mission.
 
 Welche Bedeutung haben die liturgischen Farben? [[https://www.festjahr.de/de/die-farben.html]] [[http://www.medienwerkstatt-online.de/lws_wissen/vorlagen/showcard.php?id=5730]]
 
-Welche Rangordnung haben die Feste?  
+Welche Rangordnung haben die Feste?
 
 Advent - Wir "warten" auf Jesus; er kommt 4x.
-- In Ewigkeit geht der Sohn aus dem Vater heraus. 
+- In Ewigkeit geht der Sohn aus dem Vater heraus.
 - Menschwerdung;
 - jetzt; in den Sakramenten
 - am Ende der Zeit in den Wolken
 
 Lesungen des 1. Adventsonntags
-- Jes 33,14-16: Gott ist unsere Gerechtigkeit. Gott erfüllt das Heilswort. Ein gerechter Spross sprießt für David auf. 
-- 1 Thess 3,12-4,2: (ist der älteste Paulus-Brief); Gabe und Aufgabe gehören zusammen; "Gott zu gefallen"; den Alltag heiligen; so leben, dass die Gottesbeziehung immer stärker wird Barmherzigkeit und Nächstenliebe; 
-- Lk 21,25-28.34-36: apokalyptische Vostellungen (Römer, Krieg von 66-70); Menschensohn in der Wolke Buch Exodus, Gotteserscheinungen; 
+- Jes 33,14-16: Gott ist unsere Gerechtigkeit. Gott erfüllt das Heilswort. Ein gerechter Spross sprießt für David auf.
+- 1 Thess 3,12-4,2: (ist der älteste Paulus-Brief); Gabe und Aufgabe gehören zusammen; "Gott zu gefallen"; den Alltag heiligen; so leben, dass die Gottesbeziehung immer stärker wird Barmherzigkeit und Nächstenliebe;
+- Lk 21,25-28.34-36: apokalyptische Vostellungen (Römer, Krieg von 66-70); Menschensohn in der Wolke Buch Exodus, Gotteserscheinungen;
 
 Symbole des Advents: Adventkranz, Kerze, Weihrauch, Farbe: violett, ...
 
-Warum überhaupt "warten", warum die ganze Vorbereitung? Je wichtiger ein Fest oder ein Besuch, umso länger und intensiver ist die Vorbereitung. Jedes Fest benötigt eine gründliche Vorbereitung - es ist eben ein Fest, und nicht der Alltag. 
+Warum überhaupt "warten", warum die ganze Vorbereitung? Je wichtiger ein Fest oder ein Besuch, umso länger und intensiver ist die Vorbereitung. Jedes Fest benötigt eine gründliche Vorbereitung - es ist eben ein Fest, und nicht der Alltag.
 
 **** Hefteintrag
 Symbole des Advents und ihre Geschichte.
 Was wäre für dich ein besinnlicher Advent?
 Was würdest du dafür tun?
 
- 
+
 
 *** DONE [SW14] Johannes der Täufer / Sr. Emmanuelle - Mutter der Müllmenschen
 CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-14 Mo>
@@ -725,21 +708,21 @@ Synoptiker und JohEv!
 Bibelarbeit zu den Lesungen des 2. Adventsonntags[fn:1]
 
  - Jes 11,1-10
- - Ps 72 (71), 1-2.7-8.12-13.17  
+ - Ps 72 (71), 1-2.7-8.12-13.17
  - Röm 15,4-9
  - Mt 3,1-12
 
-Mit dem Evangelium am 2. Adventsonntag steigen wir einen Schritt weiter in die Vorbereitung auf die Erzählung von der Geburt des Christus ein. Am letzten Sonntag haben wir einen Text gehört, in dem der erwachsene Jesus zur Achtsamkeit mahnte. Heute gehen wir jetzt noch einen Schritt zurück in die Anfänge Jesus. Wir begegnen Johannes dem Täufer. Dem Vorläufer ... dem, der den Weg bereitet. 
+Mit dem Evangelium am 2. Adventsonntag steigen wir einen Schritt weiter in die Vorbereitung auf die Erzählung von der Geburt des Christus ein. Am letzten Sonntag haben wir einen Text gehört, in dem der erwachsene Jesus zur Achtsamkeit mahnte. Heute gehen wir jetzt noch einen Schritt zurück in die Anfänge Jesus. Wir begegnen Johannes dem Täufer. Dem Vorläufer ... dem, der den Weg bereitet.
 
-Der Evangelist Lukas stellt hier die Predigt des Johannes als neuen Ruf zur Heimkehr aus dem Exil dar. Zunächst wird das Ereignis historisch eingeordnet, wie auch Exil und Heimkehr historisch einzuordnen sind, und wie Lukas im Kapitel zuvor schon die Geburt Jesu in einen großen weltpolitischen Horizont gestellt hat. Gleichzeitig ist vollkommen klar: Der "Herr der Welt", der Kaiser in Rom, ist nicht im Zentrum. Das eigentliche Zentrum ist auch nicht der Tempel in Jerusalem. Das Zentrum der Welt ist in der Wüste und dann am Jordan. 
-In der Wüste ergeht das Wort Gottes an Johannes – wie damals an Mose. Was Gott gesagt hat, erzählt uns Lukas überraschenderweise nicht. 
+Der Evangelist Lukas stellt hier die Predigt des Johannes als neuen Ruf zur Heimkehr aus dem Exil dar. Zunächst wird das Ereignis historisch eingeordnet, wie auch Exil und Heimkehr historisch einzuordnen sind, und wie Lukas im Kapitel zuvor schon die Geburt Jesu in einen großen weltpolitischen Horizont gestellt hat. Gleichzeitig ist vollkommen klar: Der "Herr der Welt", der Kaiser in Rom, ist nicht im Zentrum. Das eigentliche Zentrum ist auch nicht der Tempel in Jerusalem. Das Zentrum der Welt ist in der Wüste und dann am Jordan.
+In der Wüste ergeht das Wort Gottes an Johannes – wie damals an Mose. Was Gott gesagt hat, erzählt uns Lukas überraschenderweise nicht.
 Auf jeden Fall zieht Johannes an den Jordan und verkündet dort "eine Taufe der Umkehr zur Vergebung". Nicht Taufe und (!) Umkehr, wie die alte Einheitsübersetzung vereinfachte. Wie hängen aber Taufe, Umkehr und Vergebung zusammen? Auf jeden Fall scheint die Taufe nicht die Bedingung zur Umkehr und Sündenvergebung zu sein. Die eigentliche Predigt des Johannes wird von Lukas auch nicht zitiert. Seine Worte sind aber offensichtlich ähnlich denen des Propheten Jesaja (Jes 40,3-5):
 
-Ein Weg soll sich öffnen nach Hause. 
+Ein Weg soll sich öffnen nach Hause.
 Das Heil Gottes soll sichtbar werden.
 
-Von Babylon aus ist der Blick frei nach Jerusalem. Vom Jordan aus ist der Blick frei nach Jerusalem. Das Heil Gottes schauen, kann 
-ganz wörtlich heißen, den Tempel oder das Allerheiligste sehen können. Überträgt man das Bild ins Innere, öffnen sich noch weitere Perspektiven. Die innere Landschaft zu ebnen, damit man Gott sehen kann. Das ist der adventliche Impuls dieses Evangeliums. 
+Von Babylon aus ist der Blick frei nach Jerusalem. Vom Jordan aus ist der Blick frei nach Jerusalem. Das Heil Gottes schauen, kann
+ganz wörtlich heißen, den Tempel oder das Allerheiligste sehen können. Überträgt man das Bild ins Innere, öffnen sich noch weitere Perspektiven. Die innere Landschaft zu ebnen, damit man Gott sehen kann. Das ist der adventliche Impuls dieses Evangeliums.
 
 ---
 
@@ -750,11 +733,11 @@ Fragen:
  4. Welche Eigenschaftswörter...?
  5. Was sagt der Text dir persönlich?
 
-cf Skript von Fr. Kreinecker bzgl Fragen zu einem biblischen Text 
+cf Skript von Fr. Kreinecker bzgl Fragen zu einem biblischen Text
 
 ---
 Ideen aus der heutigen Predigt:
-Herkules und der Stall des Augias. - Augias besitzt 1000e Rinder, sein Stall wurde seit 30 Jahren nicht mehr gereinigt. Herkules leitet zwei Flüsse um und reinigt auf diese Weise den Stall. Augias lässt dies nicht gelten, denn nach seiner Meinung haben die Flüsse den Stall gereinigt, und nicht Herkules. Daraufhin tötet Herkules Augias. Die Olympischen Spiele beruhen auf dieser Geschichte. 
+Herkules und der Stall des Augias. - Augias besitzt 1000e Rinder, sein Stall wurde seit 30 Jahren nicht mehr gereinigt. Herkules leitet zwei Flüsse um und reinigt auf diese Weise den Stall. Augias lässt dies nicht gelten, denn nach seiner Meinung haben die Flüsse den Stall gereinigt, und nicht Herkules. Daraufhin tötet Herkules Augias. Die Olympischen Spiele beruhen auf dieser Geschichte.
 
 Der "Stall des Augias" steht für den Saustall der Sauställe - Dreck in der Politik und Wirtschaft, Korruption, etc ...
 
@@ -769,7 +752,7 @@ Zeichne Johannes und schreibe daneben eine "scharfe" Predigt.
 
 Szenen als Zeichnungen darstellen?
 
-Bilder zum Ausmalen / Ergänzen? 
+Bilder zum Ausmalen / Ergänzen?
 
 
 *** DONE [SW15] Jesus ist geboren / Weihnachtsgottesdienst
@@ -796,7 +779,7 @@ CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-21 Mo>
 **** Wiederholung
 
 **** Erarbeitung
-Weihnachtsevangelium lesen. 
+Weihnachtsevangelium lesen.
 
 [[https://www.kirchliche-medien.ch/sei-ein-licht-in-dieser-welt-3/]]
 
@@ -804,7 +787,7 @@ Weihnachtsevangelium lesen.
 
 [[https://www.kirchliche-medien.ch/essen-mit-gott-eating-twinkies-with-god-2/]]
 
-Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch. 
+Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch.
 
 Buch "Varenka" vorlesen - Bilder zeigen.
 
@@ -837,7 +820,7 @@ CLOSED: [2021-01-10 So 22:00] DEADLINE: <2021-01-04 Mo>
 **** Wiederholung
 
 **** Erarbeitung
-Weihnachtsevangelium lesen. 
+Weihnachtsevangelium lesen.
 
 [[https://www.kirchliche-medien.ch/sei-ein-licht-in-dieser-welt-3/]]
 
@@ -845,7 +828,7 @@ Weihnachtsevangelium lesen.
 
 [[https://www.kirchliche-medien.ch/essen-mit-gott-eating-twinkies-with-god-2/]]
 
-Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch. 
+Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch.
 
 Buch "Varenka" vorlesen - Bilder zeigen.
 
@@ -901,28 +884,28 @@ Kinder erzählen von ihren Ferien, eventuelle Erfahrungen beim Sternsingen aufpa
 Heilige drei Könige:
 Text aus dem Evangelium Mt 2,1-12
 
-Das Wort "Sterndeuter / Magier" kann folgendes bedeuten: 
+Das Wort "Sterndeuter / Magier" kann folgendes bedeuten:
  - Angehörige der persischen Priesterklasse; "Walter einer eigentlichen Religion"; Philosophie;
  - Inhaber; Ausüber eines übernatürlichen Wissens
  - Zauberer
  - Betrüger und Verführer
 
-Das religiöse Suchen kann sich für Gott und Jesus öffnen - da spendet es Hoffnung und Heil. Wendet es sich gegen Gott, wird es dämonisch und zerstörerisch. Hier zeigt sich die Ambivalenz des Religiösen. 
+Das religiöse Suchen kann sich für Gott und Jesus öffnen - da spendet es Hoffnung und Heil. Wendet es sich gegen Gott, wird es dämonisch und zerstörerisch. Hier zeigt sich die Ambivalenz des Religiösen.
 
-Die Magier in Mt gehören den ersten beiden Möglichkeiten an: religiöses und oder philosophisches Wissen, das den Weg zur Erkenntnis Jesu öffnet. Weltall: Konjunktion von Jupiter und Saturn im Sternbild der Fische ("Stern") in den Jahren 7-6 v. Chr. Diese Magier könnten Sternkundige gewesen sein. Damit ein Stern auf einen neuen König verweist, muss es eine Verheißung gegeben haben. Zur Zeit Jesu gab es Erwartungen, dass aus Judäa der zukünftige Herr der Welt hervorgehen werde. Diese Menschen waren "Weise", Menschen der inneren Unruhe, der Hoffnung: auf der Suche nach dem Wahren, dem wahren Gott - also Philosophie im eigentlichen Sinn. Im Suchen nach Christus geht es um das Überschreiten jeder Wissenschaft. Ähnlich wie Abraham. Vgl. Ps 72,10 und Jes 60: aus den Magiern werden Könige (und damit die Kamele und Dromedare). Die drei Magier / Könige stellen die drei bekannte Kontinente dar: Europa, Afrika und Asien. Plus die drei Lebensalter: Jugend, Reife, Alter. Die drei Weisen sind ein Anfang - den Aufbruch der Menschheit auf Christus hin.   
-Sie suchen Wahrheit; heute würden wir Wissenschaftler sagen. Auf jeden Fall sind es Menschen auf der Suche. 
+Die Magier in Mt gehören den ersten beiden Möglichkeiten an: religiöses und oder philosophisches Wissen, das den Weg zur Erkenntnis Jesu öffnet. Weltall: Konjunktion von Jupiter und Saturn im Sternbild der Fische ("Stern") in den Jahren 7-6 v. Chr. Diese Magier könnten Sternkundige gewesen sein. Damit ein Stern auf einen neuen König verweist, muss es eine Verheißung gegeben haben. Zur Zeit Jesu gab es Erwartungen, dass aus Judäa der zukünftige Herr der Welt hervorgehen werde. Diese Menschen waren "Weise", Menschen der inneren Unruhe, der Hoffnung: auf der Suche nach dem Wahren, dem wahren Gott - also Philosophie im eigentlichen Sinn. Im Suchen nach Christus geht es um das Überschreiten jeder Wissenschaft. Ähnlich wie Abraham. Vgl. Ps 72,10 und Jes 60: aus den Magiern werden Könige (und damit die Kamele und Dromedare). Die drei Magier / Könige stellen die drei bekannte Kontinente dar: Europa, Afrika und Asien. Plus die drei Lebensalter: Jugend, Reife, Alter. Die drei Weisen sind ein Anfang - den Aufbruch der Menschheit auf Christus hin.
+Sie suchen Wahrheit; heute würden wir Wissenschaftler sagen. Auf jeden Fall sind es Menschen auf der Suche.
 
-Stern: 
-gibt Orientierung; erfreut uns; weckt unser Staunen über die Größe des Weltalls; 
-Zur Zeit Jesu, genauer: in den Jahren 7-6 v. Chr. gab es eine Konjunktion der Planeten Jupiter, Saturn und Mars (Johannes Kepler; wird auch von modernen Astronomen geteilt). Dieses Ereignis gab es auch im Jahre 1604, plus eine Supernova. In China entdeckte man im Jahre 4. v. Chr. einen hell leuchtenden Stern, der über längere Zeit hin sichtbar war. Jupiter steht für den babylonischen Hauptgott Marduk, Saturn für das Volk der Juden. 
-Die drei Weisen müssen auch innerlich auf der Suche nach dem Stern gewesen sein. 
+Stern:
+gibt Orientierung; erfreut uns; weckt unser Staunen über die Größe des Weltalls;
+Zur Zeit Jesu, genauer: in den Jahren 7-6 v. Chr. gab es eine Konjunktion der Planeten Jupiter, Saturn und Mars (Johannes Kepler; wird auch von modernen Astronomen geteilt). Dieses Ereignis gab es auch im Jahre 1604, plus eine Supernova. In China entdeckte man im Jahre 4. v. Chr. einen hell leuchtenden Stern, der über längere Zeit hin sichtbar war. Jupiter steht für den babylonischen Hauptgott Marduk, Saturn für das Volk der Juden.
+Die drei Weisen müssen auch innerlich auf der Suche nach dem Stern gewesen sein.
 
-Der Kosmos spricht von Christus. Die Schöpfung gibt dem Menschen eine Ahnung vom Schöpfer - aber wir können sie nicht vollständig enträtseln. Die Hoffnung, dieser Gott möge sich zeigen. Der Mensch soll und kann diesem Gott entgegen gehen. 
+Der Kosmos spricht von Christus. Die Schöpfung gibt dem Menschen eine Ahnung vom Schöpfer - aber wir können sie nicht vollständig enträtseln. Die Hoffnung, dieser Gott möge sich zeigen. Der Mensch soll und kann diesem Gott entgegen gehen.
 
-Die Weisen kommen durch den Stern zunächst nur bis Judäa und gehen nach Jerusalem, denn nur dort kann der neue König geboren sein. Sie benötigen das Zeugnis der Heiligen Scrhiften, um endgültig den Weg zu finden. "König der Juden" ist heidnischer Ausdruck; Juden würden "König Israels" sagen. "Es erschrak ... ganz Jerusalem": verständlich - wenn es einen neuen König gibt, dann geht es Herodes an den Kragen; und dieser wird seinen Thron nicht kampflos überlassen, was nur Schlimmes für die Einwohner Jerusalems bedeuten kann. Gott stört die zufriedene Alltäglichkeit. Micha 5,1; 2 Sam 5,2. Das Große kommt aus dem irdisch Geringen. Warum erkennen zwar die Schriftgelehrten dies, ziehen daraus aber keine prakischen Konsequenzen? 
+Die Weisen kommen durch den Stern zunächst nur bis Judäa und gehen nach Jerusalem, denn nur dort kann der neue König geboren sein. Sie benötigen das Zeugnis der Heiligen Scrhiften, um endgültig den Weg zu finden. "König der Juden" ist heidnischer Ausdruck; Juden würden "König Israels" sagen. "Es erschrak ... ganz Jerusalem": verständlich - wenn es einen neuen König gibt, dann geht es Herodes an den Kragen; und dieser wird seinen Thron nicht kampflos überlassen, was nur Schlimmes für die Einwohner Jerusalems bedeuten kann. Gott stört die zufriedene Alltäglichkeit. Micha 5,1; 2 Sam 5,2. Das Große kommt aus dem irdisch Geringen. Warum erkennen zwar die Schriftgelehrten dies, ziehen daraus aber keine prakischen Konsequenzen?
 
-huldigen: 
-verehren, sich niederwerfen. Die Weisen werden von großer Freude erfüllt: ihre Hoffnung bewahrheitet sich, sie finden und werden gefunden. Es fehlt Josef? Vll erinnert Mt an die Jungfrauengeburt Jesu und an seine Gottessohnschaft. Proskynese - Niederwerfen auf die Erde: nur vor dem Gott-König.   
+huldigen:
+verehren, sich niederwerfen. Die Weisen werden von großer Freude erfüllt: ihre Hoffnung bewahrheitet sich, sie finden und werden gefunden. Es fehlt Josef? Vll erinnert Mt an die Jungfrauengeburt Jesu und an seine Gottessohnschaft. Proskynese - Niederwerfen auf die Erde: nur vor dem Gott-König.
 Gaben: Gold (König; unser Herz), Weihrauch (Gott; unser Gebet), Myrrhe (Begräbnis; Heiland; was ist wund in uns?) Als die Frauen am Morgen Jesus salben wollen (dem Tod entegegenwirken), ist Jesus schon auferstanden: er braucht die Myrrhe nicht. Die Weisen gehen auf einem anderen Weg heim in ihr Land: die Begegnung mit Jesus verändert unser Leben.
 
 *****
@@ -930,19 +913,19 @@ Gaben: Gold (König; unser Herz), Weihrauch (Gott; unser Gebet), Myrrhe (Begräb
 *WJT Köln 2005:*
 
 JP2: Botschaft - "Wir sind gekommen, um ihn anzubeten (um ihm zu huldigen)" (Mt 2,2)
-Könige ließen alles hinter sich, um dem Stern zu folgen; unbekannte, gefährliche Reise. Stern zog vor ihnen her: sie ließen sich vom Stern führen - Zeichen Gottes erkennen. Wer Gott folgt, erfährt eine echte und tiefe Freude. 
+Könige ließen alles hinter sich, um dem Stern zu folgen; unbekannte, gefährliche Reise. Stern zog vor ihnen her: sie ließen sich vom Stern führen - Zeichen Gottes erkennen. Wer Gott folgt, erfährt eine echte und tiefe Freude.
 
 Dieses Kind ist anders: der eingeborene Sohn Gottes. Gott erniedrigt sich, wurde Mensch und starb am Kreuz Dankbarkeit gegenüber Gott?!
 
-Bethlehem: Haus des Brotes Eucharistie. Das Weizenkorn stirbt und bringt Frucht. "Ich bin das Brot des Lebens". Weg der Armut Jesu: von der Krippe bis zur Verlassenheit am Kreuz welche Liebe Gottes zu uns. Derselbe Erlöser der Krippe und des Kreuzes ist in der Eucharistie gegenwärtig. Jesus ist im Fleisch, im Blut, in der Seele und in der Gottheit anwesend Er gibt sich uns als Speise, wir beten ihn an. 
+Bethlehem: Haus des Brotes Eucharistie. Das Weizenkorn stirbt und bringt Frucht. "Ich bin das Brot des Lebens". Weg der Armut Jesu: von der Krippe bis zur Verlassenheit am Kreuz welche Liebe Gottes zu uns. Derselbe Erlöser der Krippe und des Kreuzes ist in der Eucharistie gegenwärtig. Jesus ist im Fleisch, im Blut, in der Seele und in der Gottheit anwesend Er gibt sich uns als Speise, wir beten ihn an.
 
-Zögere nicht, ihm in der Liebe zu antworten. In der Eucharistie Jesus als unseren Schöpfer, Herrn und Heiland anerkennen und anbeten, symbolisiert durch die drei Gaben: 
+Zögere nicht, ihm in der Liebe zu antworten. In der Eucharistie Jesus als unseren Schöpfer, Herrn und Heiland anerkennen und anbeten, symbolisiert durch die drei Gaben:
 
- - Gold: die königliche Gottheit Jesu das Gold unseres Lebens - die Freiheit darbringen, Gottes Ruf folgen. 
+ - Gold: die königliche Gottheit Jesu das Gold unseres Lebens - die Freiheit darbringen, Gottes Ruf folgen.
  - Weihrauch: Jesus ist Priester des Neuen Bundes Weihrauch unseres Gebets.
  - Myrrhe: Jesus ist Prophet, der durch sein Blut die Menschen mit dem Vater versöhnt dankbare Zuneigung.
- 
-Wahre Anbeter Gottes sein - Gott hat die erste Stelle in meinem Leben. 
+
+Wahre Anbeter Gottes sein - Gott hat die erste Stelle in meinem Leben.
 
 [[http://w2.vatican.va/content/john-paul-ii/de/messages/youth/documents/hf_jp-ii_mes_20040806_xx-world-youth-day.html][cf Botschaft JP2 für WJT Köln 2005]]
 
@@ -952,13 +935,13 @@ Wahre Anbeter Gottes sein - Gott hat die erste Stelle in meinem Leben.
 
 Wenn die Weisen in Bethlehem ankommen, ist ihr äußerer Weg zu Ende, der innere Weg beginnt mit der Anbetung Jesu, welcher ihr ganzes Leben verändert: sie haben sich den neuen König sicher anders vorgestellt. Gott ist anders als wir ihn gewöhnlich uns vorstellen. Gottes Macht ist die wehrlose Macht seiner Liebe, die am Kreuz unterliegt und doch das Göttliche ist, Gottes Reich herauuführt. Gott ist anders wir müssen selbst anders werden, Gottes Art erlernen.
 
-Jesus als König fordert von uns als Gabe: wir selbst, unser Leben. Sie müssen Menschen der Wahrheit, des Rechts, der Güte, des Verzeihens, der Barmherzigkeit werden. Frage: Womit diene ich der Gegenwart Gottes in der Welt? (nicht mehr: was bringt das mir?). Wer sich verliert, der findet sich. 
+Jesus als König fordert von uns als Gabe: wir selbst, unser Leben. Sie müssen Menschen der Wahrheit, des Rechts, der Güte, des Verzeihens, der Barmherzigkeit werden. Frage: Womit diene ich der Gegenwart Gottes in der Welt? (nicht mehr: was bringt das mir?). Wer sich verliert, der findet sich.
 
-Was bedeutet das für mich? Gott gibt Beispiele. Die große Schar der Heiligen. Sie haben nicht nach ihrem Glück gesucht, sondern erforscht, wie sie sich hingeben können. Sie waren vom Licht Christi getroffen worden. so wird man glücklich, ein Mensch. 
+Was bedeutet das für mich? Gott gibt Beispiele. Die große Schar der Heiligen. Sie haben nicht nach ihrem Glück gesucht, sondern erforscht, wie sie sich hingeben können. Sie waren vom Licht Christi getroffen worden. so wird man glücklich, ein Mensch.
 
-Die wahre Revolution kommt von Gott her. Wer Gott weglässt und menschliche Maßstäbe absolut setzt Totalitarismus. Dies macht den Menschen nicht frei, sondern versklavt ihn. Die wahre Revolution geschieht in der radikalen Hinwendung zu Gott. 
+Die wahre Revolution kommt von Gott her. Wer Gott weglässt und menschliche Maßstäbe absolut setzt Totalitarismus. Dies macht den Menschen nicht frei, sondern versklavt ihn. Die wahre Revolution geschieht in der radikalen Hinwendung zu Gott.
 
-Das wahre Antlitz Gottes: "Wer mich sieht, sieht den Vater!" (Joh 14,9) Also kein privater Jesus, sondern jener Jesus der Heiligen Schrift, der Kirche. Jesus ist gleichzeitig mit uns und vor uns. Kirche ist eine menschliche Familie UND die Familie Gottes, mit dem Weizen *und* dem Unkraut das ist tröstlich. Jesus hat die Sünder berufen. 
+Das wahre Antlitz Gottes: "Wer mich sieht, sieht den Vater!" (Joh 14,9) Also kein privater Jesus, sondern jener Jesus der Heiligen Schrift, der Kirche. Jesus ist gleichzeitig mit uns und vor uns. Kirche ist eine menschliche Familie UND die Familie Gottes, mit dem Weizen *und* dem Unkraut das ist tröstlich. Jesus hat die Sünder berufen.
 
 [[http://w2.vatican.va/content/benedict-xvi/de/speeches/2005/august/documents/hf_ben-xvi_spe_20050820_vigil-wyd.html][B16 WJT Köln 2005 Ansprache Vigil]]
 
@@ -970,19 +953,19 @@ Text lesen / versteckte Symbole entschlüsseln / "Du bist mein geliebter Sohn, a
 
 eigene Taufe: Christen durch Salbung (Öl) - Christus, der Gesalbte. Symbol des Öls: Heilung, dringt ein, bleibt, schützt Haut, ... Hl. Geist, Gottes Gnade dringt ein, bleibt, heilt; macht mich fähig, am Gottesdienst teilzunehmen / teilzuhaben. Geschenk des Glaubens.
 
-*Was ist Gnade?* Cf [[https://www.youtube.com/results?search_query=3mc+gnade][3MC YouTube "Gnade"]] 
+*Was ist Gnade?* Cf [[https://www.youtube.com/results?search_query=3mc+gnade][3MC YouTube "Gnade"]]
 
 -----
 
 **** Hefteintrag
-(Text überlegen!): 
+(Text überlegen!):
 
 Geschichte vom vierten König vorlesen: Bilder einscannen.
-Zusammenhang erkennen zwischen Weihnachten und Ostern: sonst verkommt Weihnachten zum "Kitsch". 
-Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht nicht für sich allein, sondern ist auf Ostern hingeordnet. Das Hochfest der Epiphanie (Heilige Drei Könige) ist das älteste Fest des Kirchenjahres. Was fällt den Schülern zum Thema "Stern" ein? Hier offenbart sich Gott der ganzen Welt; die Geburt, das Kommen der Hirten - da blieb noch alles irgendwie "geheim". 
+Zusammenhang erkennen zwischen Weihnachten und Ostern: sonst verkommt Weihnachten zum "Kitsch".
+Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht nicht für sich allein, sondern ist auf Ostern hingeordnet. Das Hochfest der Epiphanie (Heilige Drei Könige) ist das älteste Fest des Kirchenjahres. Was fällt den Schülern zum Thema "Stern" ein? Hier offenbart sich Gott der ganzen Welt; die Geburt, das Kommen der Hirten - da blieb noch alles irgendwie "geheim".
 
 
-*** DONE [SW19] Was bedeutet Freundschaft 
+*** DONE [SW19] Was bedeutet Freundschaft
 CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Freundschaft
@@ -994,7 +977,7 @@ CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
       Wieder einmal tolle Stunden in beiden ersten Klassen. Gott sei Dank - eine Wohltat.
     - CLOSING NOTE [2018-01-22 Mon 11:53] \\
       Einführungsstunden zur Heiligen Schrift
-      
+
       Ich habe auch darauf hingewiesen, dass unsere europäische Gesellschaft auf drei Säulen steht: christlic-jüdische Tradition / griechisch / römisch.
     :END:
 
@@ -1019,22 +1002,23 @@ Gemeinsam mit den Schülern über das Thema "Freundschaft" nachdenken.
 
 
 
-*** TODO [SW20] Für einen treuen Freund gibt es keinen Preis
-DEADLINE: <2021-01-25 Mo>
+*** DONE [SW20] Für einen treuen Freund gibt es keinen Preis
+CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: treuer Freund
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
     - CLOSING NOTE [2019-02-01 Fr 10:14] \\
       Toll - eine Wohltat, wie gut die Schüler mitarbeiten.
     - CLOSING NOTE [2018-01-28 Son 17:04] \\
       Leben zur Zeit Jesu
-      
+
        Haus aus Pälestina
        nachzeichnen
        Informationen über Alltag aus den Details des Hauses
-      
+
       wichtigstes Gebot "Sch'ma Israel"
     :END:
 
@@ -1048,7 +1032,7 @@ DEADLINE: <2021-01-25 Mo>
 [[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Wiederholung
-Was bedeutet dir Freundschaft? 
+Was bedeutet dir Freundschaft?
 
 **** Erarbeitung
 Bsp aus der Bibel zum Thema "Freundschaft":
@@ -1059,7 +1043,7 @@ Bsp aus der Bibel zum Thema "Freundschaft":
  - Jesus nennt seine Jünger Freunde (Lk 12,4; Joh 15,13)
  - Lazarus, Martha und Maria sind Freunde Jesu (Joh 11)
  - Johannes der Täufer als Bräutigam und Freund (Joh 3,29)
- - Jesus und Johannes ("Jünger, den Jesus liebte")  
+ - Jesus und Johannes ("Jünger, den Jesus liebte")
  - Jesus wird von seinem Freund Judas verraten und ausgeliefert (Mt 26,50)
 
 [[https://www.youtube.com/watch?v=3hR64GCyOg0][Woran erkenne ich eine ungesunde Beziehung - Johannes Hartl - YouTube]]
@@ -1069,7 +1053,7 @@ Das Gleiche wollen, heißt noch nicht, das es eine gute Beziehung ist.
  - Woran erkenne ich, ob eine Beziehung gut ist?
  - Mut haben es anderen zu sagen, dass deren Beziehung nicht gut ist
  - Wo sind mögliche Baustellen in meiner Beziehung und wie kann ich sie "beheben"
-   
+
 Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Knacks hat. Wir lernen Beziehung von Menschen, die selber einen Knacks haben. Nur einer lebte vollkommenene Beziehungen: Jesus. "Du bist mein geliebter Sohn." Jesus ist sehr unabhängig in seiner Bez. zu Menschen. Er kann selber stehen. Jesus hat auch keine Angst vor Nähe, er lässt sich berühren, es gibt nichts Kühles. Aber er bleibt frei. "Nein, ich muss weiter gehen, ich komme nicht in euer Dorf." Freiheit / Nähe. Er kann sogar erschreckend klar sein. Wahrheit.
 
 
@@ -1078,18 +1062,19 @@ Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Kna
 
 
 
-*** TODO [SW21] David und Jonathan
-DEADLINE: <2021-02-01 Mo>
+*** DONE [SW21] David und Jonathan
+CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
     :CUSTOM_ID: David Jonathan
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:14]
     - CLOSING NOTE [2019-02-01 Fr 10:17] \\
       Toll...
     - CLOSING NOTE [2018-02-03 Sam 15:58] \\
       Das Thema war sicher etwas schwierig für die Schüler, aber ich hoffe sie konnten doch einiges mitnehmen.
-      
+
       Auf der biblischen Botschaft beruht unsere Gesellschaft, somit ist die Kenntnis über die Heilige Schrift wesentlich und gnaz wichtig.
     :END:
 
@@ -1112,12 +1097,13 @@ DEADLINE: <2021-02-01 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW22] Semesterferien
-DEADLINE: <2021-02-08 Mo>
+*** DONE [SW22] Semesterferien
+CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Semesterferien
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:10]
     - CLOSING NOTE [2018-02-09 Fre 10:06] \\
       Es ist "überraschend", wie sehr biblische Themen die Schüler interessiert. Wir erlebten einen anregenden Gedankenaustausch über die Heilige Schrift.
@@ -1134,18 +1120,18 @@ DEADLINE: <2021-02-08 Mo>
 ****** Tod und Auferstehung
 ****** Was ist nach dem Tod?
 ****** Gott
-****** etwas über Gott, 
-****** ein film über Moose, 
-****** über Jesus was lernen, 
-****** Bibel lesen, 
+****** etwas über Gott,
+****** ein film über Moose,
+****** über Jesus was lernen,
+****** Bibel lesen,
 ****** kurz Film wie es früher war
-****** Film anschauen über Mose 
-****** Mit der Bibel arbeiten 
-****** Mehr über Jesus lernen  
-****** Partner arbeiten machen 
+****** Film anschauen über Mose
+****** Mit der Bibel arbeiten
+****** Mehr über Jesus lernen
+****** Partner arbeiten machen
 ****** Und lernen über Heilige
 ****** Etwas über Gott und Jesus,
-****** über die Bibel, 
+****** über die Bibel,
 ****** über die Bräuche,
 ****** über Mose
 ****** Umweltschutz
@@ -1153,10 +1139,10 @@ DEADLINE: <2021-02-08 Mo>
 ****** Gebete
 ****** Jesus
 ****** Freundschaft
-****** Öfters film schauen 
-****** Über Jesus Geburt 
-****** Familie von Jesus  
-****** Wie er gestorben ist 
+****** Öfters film schauen
+****** Über Jesus Geburt
+****** Familie von Jesus
+****** Wie er gestorben ist
 ****** Film Über Mose
 ****** Mehr Filme ansehen
 ****** Gewchuchten aus der Bibel lesen
@@ -1164,37 +1150,37 @@ DEADLINE: <2021-02-08 Mo>
 ****** Dass Du (Lehrer) uns von der Bibel erzählst
 ****** Mehr Spaß haben in Religion
 ****** zehn Gebote
-****** Einen Film von Checker Tobi anschauen 
-****** Von einem Thema eine Seite im Heft schön gestallten 
-****** Warum werden Flüchtlingskinder abgeschoben? 
-****** Über Jerusalem 
+****** Einen Film von Checker Tobi anschauen
+****** Von einem Thema eine Seite im Heft schön gestallten
+****** Warum werden Flüchtlingskinder abgeschoben?
+****** Über Jerusalem
 ****** Was haben die verschiedenen Glaubensrichtungen gemeinsam? Oder haben sie überhaupt etwas gemeinsam?
-****** Ich wünsche mir dass, wir in Religion uns so hinsetzen dürfen wie wir wollen. 
-****** Ich wünsch mir dass, wir bald wieder ganz normal in die Schule gehen können. 
-****** Ich wünsche mir auch dass, wir mehr Filme ansehen.  
-****** Ich wünsche mir dass, wir nicht so viel ins Heft schreiben müssen. 
-****** Und ich wünsche mir dass, wir mehr mündlich machen. 
-****** Öfter Filme anschauen. 
-****** Mehr Geschichten Lesen. 
-****** Jesus zeichnen oder seine Begleiter. 
-****** Ein bisschen über andere Religion was erfahren. 
-****** Und weiter hin mehr über Jesus Zeiten lernen. 
+****** Ich wünsche mir dass, wir in Religion uns so hinsetzen dürfen wie wir wollen.
+****** Ich wünsch mir dass, wir bald wieder ganz normal in die Schule gehen können.
+****** Ich wünsche mir auch dass, wir mehr Filme ansehen.
+****** Ich wünsche mir dass, wir nicht so viel ins Heft schreiben müssen.
+****** Und ich wünsche mir dass, wir mehr mündlich machen.
+****** Öfter Filme anschauen.
+****** Mehr Geschichten Lesen.
+****** Jesus zeichnen oder seine Begleiter.
+****** Ein bisschen über andere Religion was erfahren.
+****** Und weiter hin mehr über Jesus Zeiten lernen.
 ****** die Geschichte von Kain und Abel
 ****** Die Geschichte Isaaks
 ****** Der junge Josef
-****** Mehr Videos anschauen 
-****** Vielleicht einmal etwas nur mündlich durchnehmen 
-****** Etwas was zu Religion passt zeichnen 
+****** Mehr Videos anschauen
+****** Vielleicht einmal etwas nur mündlich durchnehmen
+****** Etwas was zu Religion passt zeichnen
 ****** Das wir uns in Religion vielleicht so hinsetzen dürfen wie wir wollen
-****** Ostern 
-****** Pfingsten 
-****** Namenstage 
-****** Erntedank 
+****** Ostern
+****** Pfingsten
+****** Namenstage
+****** Erntedank
 ****** Weinachten
-****** Wünsche von den Menschen an Jesus 
-****** Themen mit Tieren 
-****** Religiöse Spiele 
-****** Die Fastenzeit 
+****** Wünsche von den Menschen an Jesus
+****** Themen mit Tieren
+****** Religiöse Spiele
+****** Die Fastenzeit
 ****** Warum geht man bei der Firmung in die Kirche?
 
 ***** 1B
@@ -1203,21 +1189,21 @@ DEADLINE: <2021-02-08 Mo>
 ****** Religionen der Welt
 ****** Indien (Leben dort)
 ****** Medien
-****** Armut 
-****** Weltweite Religionen 
-****** Mobbing 
-****** Herodes (leben zur Zeit Jesu) 
+****** Armut
+****** Weltweite Religionen
+****** Mobbing
+****** Herodes (leben zur Zeit Jesu)
 ****** Internet
-****** Rechte für Kinder 
-****** Arme Kinder 
-****** Mobbing 
-****** Umwelt, Plastik im Meer (Wie dass für die Menschen ist) 
-****** Leben in Indonesien (arme Leute, reiche Leute, Kinder) 
+****** Rechte für Kinder
+****** Arme Kinder
+****** Mobbing
+****** Umwelt, Plastik im Meer (Wie dass für die Menschen ist)
+****** Leben in Indonesien (arme Leute, reiche Leute, Kinder)
 ****** andere Religionen
 ****** Welchen Sinn hat das Leben?
 ****** Film: Jesus von Nazareth fertig schauen
 ****** Warum steht in der Bibel so wenig über Kinder?
-****** Medien 
+****** Medien
 ****** Religionen der Welt
 ****** Mose
 ****** Armut
@@ -1225,14 +1211,14 @@ DEADLINE: <2021-02-08 Mo>
 ****** Nach dem Tod
 ****** altes Testament
 ****** Ägypten
-****** Verschiedene Religionen 
-****** Ostern 
-****** Mobbing 
-****** Gefahren im Internet 
+****** Verschiedene Religionen
+****** Ostern
+****** Mobbing
+****** Gefahren im Internet
 ****** 10 Gebote
-****** Sommerrodeln 
-****** wandern 
-****** schwimmen 
+****** Sommerrodeln
+****** wandern
+****** schwimmen
 ****** Ausflug
 ****** Wie Kinder in anderen Ländern leben
 ****** Nahrung in anderem Ländern
@@ -1259,12 +1245,13 @@ DEADLINE: <2021-02-08 Mo>
 ****** heilige Menschen / Landschaften / ...
 
 
-*** TODO [SW23] Aschermitwoch - Beginn der Fastenzeit 
-DEADLINE: <2021-02-15 Mo>
+*** DONE [SW23] Aschermitwoch - Beginn der Fastenzeit
+CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Aschermittwoch
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
 :END:
 
@@ -1288,7 +1275,7 @@ Was bist du für ein Mensch?
 
 ---
 
-Mögliche Stundenüberschrift: "Wer ist der Kapitän meines Schiffes?" 
+Mögliche Stundenüberschrift: "Wer ist der Kapitän meines Schiffes?"
 
  - Evangelium (Mt 6): Fasten, Beten, Almosen
  - Aschermittwoch / Ritus mit Asche: "Kehre um und glaube an das Evangelium!" "Bedenke, Mensch, du bist Staub und kehrst zurück zum Staub!"
@@ -1309,7 +1296,7 @@ Was können die Schüler tun:
 
 Arbeitsblätter erstellen
 
-Fasten führt zu mehr Achtsamkeit, bewusstes DASEIN und Nein-Sagen zu gedankenlosem und automatischem Konsum. Der Mensch wird wieder zum Kapitän seines eigenen Schiffes und will sich nicht mehr durch Konsum und Leidenschaften bestimmen lassen. 
+Fasten führt zu mehr Achtsamkeit, bewusstes DASEIN und Nein-Sagen zu gedankenlosem und automatischem Konsum. Der Mensch wird wieder zum Kapitän seines eigenen Schiffes und will sich nicht mehr durch Konsum und Leidenschaften bestimmen lassen.
 
 Bsp. Ausschnitt aus Film [[https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html#]["planet schule"/Islam  Ramadan:]] "Am Anfang war es schwierig, jetzt geht es leichter." Fasten stärkt den Willen.
 
@@ -1320,7 +1307,7 @@ Fasten bedeutet in der katholischen Kirche (so wie in allen anderen Religionen a
 
 Zusätzlich ist ein persönliches Opfer angebracht: der Verzicht auf andere Speisen, Vergnügungen, Rauchen, Alkohol, PC & Medien-konsum einschränken, etc.
 
- Ziel von beidem ist: Freier werden FÜR Gott und den Nächsten, von unbemerkten oder bewussten Abhängigkeiten frei werden. 
+ Ziel von beidem ist: Freier werden FÜR Gott und den Nächsten, von unbemerkten oder bewussten Abhängigkeiten frei werden.
 
 Neben dem Fasten gehört daher das Gebet (gewonnene Freiheit führt zu intensiveren Beziehung mit Gott) und die tätige Nächstenliebe (gewonnene Zeit und erspartes Geld für Nächstenhilfe einsetzen) dazu.
 
@@ -1333,8 +1320,8 @@ Konkrete Ideen für den Unterricht:
    - "Maske": sich hinter einer Maske verstecken, eine andere Identität annehmen.
    - Fastenzeit: Maske ablegen, ungeschminkt vor Gott stehen.
    - Maske basteln / zeichnen / mitbringen ...
- 
-ODER: 
+
+ODER:
 
 2. FASTEN
    - Online-Quiz / Kreuzworträtsel zum Thema
@@ -1357,9 +1344,9 @@ ODER:
 *Infotext Fasten*
 = zeitweiliger Verzicht auf Nahrung. Ziel: Abwehr dämonischer Kräfte, die "über den Weg der Nahrung Besitz vom Menschen ergreifen können". Fasten kann zu Ekstase führen  geistlicher Tradition, Offenheit für Gott.
 
-Biblisch: teilweiser oder gänzlicher Verzicht auf Nahrung / Trank (wie in jeder Religion). Der biblische Mensch sieht alles als Gabe Gottes und ist daher gut - auch die Nahrung. Fasten ist deshlab kein Ausdruck von Verachtung gegenüber der Nahrung. Fasten ist Zeichen der Unterwerfung und Demut: es unterstützt die Gebete auf Vergebung. Fasten stärkt den Willen und befreit von materiellen Abhängigkeiten. Es heiligt den Menschen und macht in offen und bereit für Gottes Offenbarung / neuen Auftrag Gottes für das Volk Gottes. Durch das Exil  vier neue Fasttage. 
+Biblisch: teilweiser oder gänzlicher Verzicht auf Nahrung / Trank (wie in jeder Religion). Der biblische Mensch sieht alles als Gabe Gottes und ist daher gut - auch die Nahrung. Fasten ist deshlab kein Ausdruck von Verachtung gegenüber der Nahrung. Fasten ist Zeichen der Unterwerfung und Demut: es unterstützt die Gebete auf Vergebung. Fasten stärkt den Willen und befreit von materiellen Abhängigkeiten. Es heiligt den Menschen und macht in offen und bereit für Gottes Offenbarung / neuen Auftrag Gottes für das Volk Gottes. Durch das Exil  vier neue Fasttage.
 
-Jesus begann sein öffentliches Wirken mit einem 40tägigen Fasten (ebenso Johannes der Täufer). Paulus fastete nach seiner Bekehrung. Jesus und Paulus stellen jedoch die tätige Nächstenliebe höher als das Fasten. Fasten soll demütig machen, nicht zum Selbstruhm führen. 
+Jesus begann sein öffentliches Wirken mit einem 40tägigen Fasten (ebenso Johannes der Täufer). Paulus fastete nach seiner Bekehrung. Jesus und Paulus stellen jedoch die tätige Nächstenliebe höher als das Fasten. Fasten soll demütig machen, nicht zum Selbstruhm führen.
 
 ******
 
@@ -1373,7 +1360,7 @@ Rechtes Fasten: steht im Dienst des Reiches Gottes, öffnet Augen und Herz für 
  - Infotext über Fasten: Nix Abnehmen, sondern frei werden FÜR Gott und die Menschen. Gewonnene Zeit und Geld für Gott und die Menschen investieren.
  - Wie geht es Dir mit dem Fasten?
  - Fasten-SMS des Papstes  Montag / Dienstag in die 4. Klassen gehen und diese Aktion vorstelln. Gedankenaustausch ...
-   - SMS "PAPST" an 0664 / 6606651 
+   - SMS "PAPST" an 0664 / 6606651
  - Fastenvorsatz überlegen: was kannst/willst du anders machen? Bsp. für die Schule (HÜ, Lernen, ...), zuhause (Abwasch, kein Streit, ...), weniger Zeit fürs Internet / Handy / PC-Game  dafür mehr Zeit für Gebet, etc.
  - Plakat: jeder schreibt seinen Vorsatz plus Vornamen auf das Plakat (auch der L)
  - Zu Beginn der nächsten Stunden: wie ist es dir/mir mit dem Vorsatz gegangen?
@@ -1399,7 +1386,7 @@ Eventuell diesen Text von einem Lehrer lesen lassen / von Schülern  ist er vers
 
 Ausschnitte aus Jesus-Filmen?
 
-Zum Selbstudium: 
+Zum Selbstudium:
 
  - Klaus Berger "Jesus"
  - Peter Seewald "Jesus Christus"
@@ -1410,7 +1397,7 @@ Zum Selbstudium:
 Leidensbereitschaft / Schenken-Können gehören zusammen.
 Jesus leidet um Gottes willen, die Jünger um Jesu und des Evangeliums willen  die bedingslose Liebe zu Gott. Wer zu Gott gehört, zieht den Hass gegen Gott auf sich. Um bei Jesus Karriere zu machen, muss man (be-)dienen.
 
-Bsp. [[https://www.youtube.com/watch?v=C2Z4EwGiNJ0][Selbstdisziplin Will Smith]] 
+Bsp. [[https://www.youtube.com/watch?v=C2Z4EwGiNJ0][Selbstdisziplin Will Smith]]
 Training bei Marcel Hirscher - bedingungsloser Einsatz
 
 Selbsthingabe aus Liebe zu Gott. Die Liebe fordert alles.
@@ -1420,12 +1407,13 @@ Letzte Woche Jesu im Überblick
 
 **** Hefteintrag
 
-*** TODO [SW24] Die Zehn Gebote / Regeln und Rücksicht
-DEADLINE: <2021-02-22 Mo>
+*** DONE [SW24] Kinder in fremden Ländern
+CLOSED: [2021-02-27 Sa 10:27] DEADLINE: <2021-02-22 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Dekalog
+:CUSTOM_ID: Kinder fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
 - State "DONE"       from "TODO"       [2020-02-23 So 14:17]
 - CLOSING NOTE [2019-02-23 Sa 11:27] \\
   Die Erstklassler sind ein Wahnsinn!
@@ -1434,19 +1422,17 @@ DEADLINE: <2021-02-22 Mo>
 :END:
 
 **** Ziele LP 2000
-:PROPERTIES:
-:ID:       a756c934-350c-448e-861e-2fff6a8e4a78
-:END:
-[[#04]] Regeln für ein gerechtes Zusammenleben
+[[#02]] Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen;
+    Menschen in anderen Ländern kennen lernen - Tag der Weltkirche
 
 **** Kompetenzen
-[[#4b]] Die Wichtigkeit von Regeln für ein gerechtes Zusammenleben ausdrücken können.
+[[#2b]] Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
 
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
 
 **** Wiederholung
- 
+
 
 **** Erarbeitung
 Mose
@@ -1459,24 +1445,26 @@ oder: Kinder aus fremden Ländern (siehe Material von missio.at)
 
 
 
-*** TODO [SW25] Wer war Mose?
-DEADLINE: <2021-03-01 Mo>
+*** DONE [SW25] Aufgabe der Kirche in fremden Ländern (Weltkriche)
+CLOSED: [2021-03-05 Fr 10:19] DEADLINE: <2021-03-01 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Mose
+:CUSTOM_ID: Kirche fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:19]
 - State "DONE"       from "TODO"       [2020-02-29 Sa 19:00]
     - CLOSING NOTE [2018-03-03 Sam 17:56] \\
       Wie die Kinder näher zur Eucharistie heranführen? Wo stehen sie? In der Woche geht es ja vor allem um Jesu letzte Woche.
-      
+
       Nächste Woche: Überblick verschaffen...
     :END:
 
 **** Ziele LP 2000
-[[#01]] Innehalten: Weggeschichten Hl. Männer und Frauen
+[[#02]] Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen;
+    Menschen in anderen Ländern kennen lernen - Tag der Weltkirche
 
 **** Kompetenzen
-[[#1b]] Schüler können sich mit dem Bild eines zuwendenden Gottes auseinander setzen und es deuten.
+[[#2b]] Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 [[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
@@ -1485,18 +1473,23 @@ DEADLINE: <2021-03-01 Mo>
 
 
 **** Erarbeitung
-    
+Am Beispiel von Philippinen und Mynmar sollen die Kinder verstehen, welche Aufgaben die Kirche weltweit erfüllt. In den Philippinen sind 81% der Bevölkerung römisch-katholisch. "Dennoch" werden jene Personen verfolgt, die sich kritisch über die Regierung äußern. Sie werden auf eine "schwarze" Liste gesetzt und als Terroristen / Kommunisten bezeichnet. In der Folge kann es passieren, dass diese Menschen sogar getötet werden. Priester und Ordensleute finden sich bereits auf dieser Liste. Eines der größten sozialen Probleme ist die Mangelernährung der Menschen, besonders der Kinder. Der Gegensatz zwischen arm und reich ist sehr groß, es gibt doch eine wachsende Mittelschicht. Die Kirche unterstützt mit vielen Projekten und Initiativen den Kampf gegen die schelchte Ernährung der Armen: in den Schulen gibt es Garten Projekte (die Eltern werden ebenso eingebunden); auf den Müllhalden kümmern sich Vereine um die ausgewogene Ernährung der Kinder; in einem Zentrum werden Nahrungsergänzungsmittel hergestellt und an die arme Bevölkerung verteilt.
+
+Zusätzlich werden kleine Kurse zur richtigen Ernährung angeboten und die Menschen direkt vor Ort aufgeklärt. Schließlich ist das Land sehr reich an Obst und Gemüse, leider wissen die Menschen zu wenig, welche Pflanzen sich wie zum Kochen eignen.
+
+In Myanmar ist die Situation eine ganz andere. Die Bewohner des Landes sind sehr religiös. Die Mehrheit ist buddhistisch; die Christen stellen 1% der Bevölkerung, darunter ist der größte Teil zu den Baptisten zu zählen. Dennoch gibt es 3 Erzdiözesen und Diözesen.
 
 **** Hefteintrag
+Die Doppelseite weiter gestalten.
 
 
-
-*** TODO [SW26] Film "Mose"
-DEADLINE: <2021-03-08 Mo>
+*** DONE [SW26] Werke der Barmherzigkeit
+CLOSED: [2021-03-12 Fr 10:40] DEADLINE: <2021-03-08 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Mose_Film
+:CUSTOM_ID: Werke Barmherzigkeit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-12 Fr 10:40]
 - State "DONE"       from "TODO"       [2020-03-06 Fr 15:38]
     - CLOSING NOTE [2018-03-14 Mit 09:21] \\
       Die Schüler waren sehr interessiert, es ergaben sich schöne Diskussionen. Sehr guet Mitarbeit.
@@ -1513,18 +1506,25 @@ DEADLINE: <2021-03-08 Mo>
 
 **** Wiederholung
 
-**** Erarbeitung
 
+**** Erarbeitung
+Video über "Werke der Barmherzigkeit"
+Film über Mutter Teresa.
+ - Das Testament der Mutter Teresa
+ - Mutter Teresa - Ihr Glaube und Spiritualität
+
+   
 
 **** Hefteintrag
 
 
-*** TODO [SW27] Warum wurde Jesus ausgestossen?
-DEADLINE: <2021-03-15 Mo>
+*** DONE [SW27] Warum wurde Jesus ausgestossen?
+CLOSED: [2021-03-19 Fr 12:06] DEADLINE: <2021-03-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus wurde ausgestossen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:06]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:42]
     - CLOSING NOTE [2018-03-17 Sam 10:03] \\
       Die Schüler haben toll mitgearbeitet - sie waren mit Begeisterung am Werk. Für das nächste Mal: PPP mit Fotos der Kreuzwegstationen.
@@ -1543,18 +1543,31 @@ DEADLINE: <2021-03-15 Mo>
 
 
 **** Erarbeitung
+Situationen des Konflikts zwischen Jesus und seinen Mitmenschen... Warum?
+
+Warum wollen wir Jesus nicht? Wo stört er uns?
+
+Streitfragen:
+ - Sollen wir Steuern zahlen? "Gebt dem Kaiser, was dem Kaiser gehört, und Gott, was Gott gehört!"
+ - Ehescheidung?
+ - Erstes, wichtigstes Gebot?
+ - Sündenvergebung?
+ - Sabbatgebot
+ - Wie treibt Jesus Dämonen aus?
+
 
 
 **** Hefteintrag
- 
 
 
-*** TODO [SW28] Leiden und Sterben Jesu
-DEADLINE: <2021-03-22 Mo>
+
+*** DONE [SW28] Leiden und Sterben Jesu
+CLOSED: [2021-04-05 Mo 09:26] DEADLINE: <2021-03-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Leiden Tod Jesu
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:26]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:42]
 - CLOSING NOTE [2019-03-23 Sa 16:12] \\
   Wie immer - tolle Stunden; die Schüler arbeiten so toll mit ...
@@ -1578,20 +1591,23 @@ Bibel / Offenbarung / Evangelien / Johannes
 **** Erarbeitung
 Joh 1 lesen:
  - Lamm Gottes / Paschalamm
- - Wo wohnst du? Wo hast du deine Bleibe? Jesu Aufforderung, über mein Leben Klarheit zu gewinnen.  Das erste Wort Jesu im Joh-Ev. Wo ich meine Wurzeln habe sagt aus, wer ich bin: Jesus bleibt beim Vater. 
+ - Wo wohnst du? Wo hast du deine Bleibe? Jesu Aufforderung, über mein Leben Klarheit zu gewinnen.  Das erste Wort Jesu im Joh-Ev. Wo ich meine Wurzeln habe sagt aus, wer ich bin: Jesus bleibt beim Vater.
 
 Bezug zum Leben / Hl. Messe  Eucharistie / Ostern
 
+Learning Apps 
+
 **** Hefteintrag
-Jesus als Lamm zeichnen: Jesus geht am Wasser entlang / im Wasser sieht man an Jesu Stelle ein Lamm (Sorry, die Idee ist von Nathalie Fourmy). 
+Jesus als Lamm zeichnen: Jesus geht am Wasser entlang / im Wasser sieht man an Jesu Stelle ein Lamm (Sorry, die Idee ist von Nathalie Fourmy).
 
 
-*** TODO [SW29] Osterferien
-DEADLINE: <2021-03-29 Mo>
+*** DONE [SW29] Osterferien
+CLOSED: [2021-04-05 Mo 09:26] DEADLINE: <2021-03-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterferien / Karwoche
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:26]
 - State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
 - CLOSING NOTE [2019-04-02 Di 09:30] \\
   Film über Jerusalem...
@@ -1608,20 +1624,21 @@ DEADLINE: <2021-03-29 Mo>
 <2021-04-04 So> Ostersonntag
 
 
-*** TODO [SW30] Kreuz und Auferstehung / der Weg nach Emmaus
-DEADLINE: <2021-04-05 Mo>
+*** DONE [SW30] Kreuz und Auferstehung / der Weg nach Emmaus
+CLOSED: [2021-04-12 Mo 07:18] DEADLINE: <2021-04-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung Emmaus
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:43]
 - CLOSING NOTE [2019-04-10 Mi 10:50] \\
   Die Schüler haben selbst entschieden, wie sie das Thema der Karwoche bearbeiten wollen: Gestaltung eines Plakats.
-  
+
   Das klappt sehr gut.
     - CLOSING NOTE [2018-04-07 Sa 14:21] \\
       Die theologischen Überlegungen muss ich mir merken und weiterdenken.
-      
+
       Die eine Stunde in der 1C war etwas komisch - ich werde diese Stunde in den beiden anderen ersten Klassen probieren - oder den Schwerpunkt mehr auf die Ostersymbole legen...
     :END:
 
@@ -1636,53 +1653,7 @@ DEADLINE: <2021-04-05 Mo>
 
 
 **** Erarbeitung
-*Auferstehung* cf Bibellexikon (S. 59-62)
-Mitte des christlichen Bekenntisses. Hoffnung auf ein Weiterleben nach dem Tod. 
-
- - /Auferweckung AT:/
-   Irdisches Leben allein als nennenswertes Gut angesehen. Der Tod ist im Judentum der Verlust der Gottesverbundenheit. Ab der Zeit des Exils: leibliche Auferstehung als Bild der Rückkehr aus dem Exil (Ez 37,1-10). Einfluss der Perser: Parsismus - Tod: Hauptkraft des Bösen, kann nur Mächte der Finsternis zerstört werden. Rückkehr zum Anfang aller Wesen. Hellenismus: Unsterblichkeit der Seele. "Der Mensch ist Leib und Seele." Erfahrung des Leidens (einzeln, kollektiv) - der Gerechte wird erniedrigt und erhöht (Jes 52,13 - 53,12). Verfolgung durch die Syrer: Glaube an die Auferweckung der Toten (2 Makk 7, Dan 12,2). Qumran und Pharisäer. Unterschiede: nur die Gerechten / alle werden auferstehen; übertreiben leiblich (Schlaraffenland) / oder vergeistigt (wie die Engel).
-
- - /Auferstehung NT:/
-   Jesus teilt Glauben an Auferstehung, "rechnet" mit seiner eigenen Auferstehung. Bestimmte Gerechte des AT wurden entrückt: Henoch, Mose, Jesaja, Jeremia. Bald nach dem Tod Jesu verkündeten seine Jünger, Jesus sei von den Toten auferstanden. 
-   Evangelien - Erscheinungen des Auferstandenen Herrn: Begegnung der Jünger mit dem Herrn, Identitätsbeweis des Auferstandenen, manchmal Belehrung über Schriftmäßigkeit des Todes und der Auferstehungn Jesu, schließlich die Sendung der Jünger durch Jesus: Maria von Magdala (Joh 20,11-18), Frauen am Grab (Mt 28,9f), Emmausjünger (Lk 24,13-35), Zwölf (Mt 28,16-20), vor einigen der Zwölf (Joh 21,1-23). Besonders wichtig: Erscheinung Jesu vor Kephas / Petrus - Lk 24,34; 1 Kor 15,5. Die Erscheinung selbst bewirkt NICHT den Glauben; es muss den Zeugen gegeben werden, Jesus zu erkennen. 
-   Botschaft vom leeren Grab: am ersten Tag der Woche, am Tag nach dem Sabbath (wird der christliche Sonntag) wurde das Grab Jesu leer aufgefunden. Das leere Grab ist nicht die Begründung des Glaubens an die Auferstehung. Johannes, der Lieblingsjünger Jesu, glaubt, weil Jesus ihn liebt - und nicht, weil er die Schrift verstanden hat. Eigentlich wurden Hingerichtete nicht bestattet und Paulus erwähnt nirgends ein leeres Grab; andererseits ist es unmöglich, dass sich Jünger nicht um das Grab Jesu gekümmert hätten.
-   Eine Darstellung der Auferstehung Jesu fehlt im NT, allerdings lassen sich Hinweise darauf im AT finden: Engel überbringen die Botschaft, Erdbeben, Blitz, weiß wie Schnee, das Zittern vor Angst, die Machtlosigkeit der Wächter, das Erschrecken und Entsetzen (!) der Frauen am Grab weisen auf das Eingreifen Gottes hin. Daher: "Fürchtet euch nicht!" Die Angesprochenen erhalten einen Auftrag.
-
- - /Auferstehung bei Paulus:/
-   Auferstehung ist Kern der Botschaft Paulus. Es gibt die Auferstehung der Toten, da Jesus von den Toten auferweckt worden ist (1 Kor 15,3-5). Zeugen der Auferstehung Jesu.    Auferstehung i   Auferstehung ist Kern der Botschaft Paulus. Es gibt die Auferstehung der Toten, da Jesus von den Toten auferweckt worden ist (1 Kor 15,3-5). Zeugen der Auferstehung Jesu werden aufgelistet.  Gesamte Diskussion 1 Kor 15.
-
- - In neuerer Zeit wurde die Auferstehung symbolisch umgedeutet; eine mythologische Aussage, die das Kreuz Jesu erklären soll. Sie ist eine selbständige Tat Gottes, "in der Jesus und sein Tun gutgeheißen werde." (?!) Einerseits: Auferstehung nur als Begegnung mit dem Auferstandenen im Gottesdienst / Wort Gottes; andererseits: Auferstehung ist Ausdruck des Glaubens an Gott als Schöpfer, Einheit zwischen Jesus und Gott. Wort und Tat des "hist." Jesus lebt in der Kirche weiter.  Die Welt ist weltlich. Glaube an Auferstehung beruht auf dem historischen Zeugnis der Jünger Jesu: Jesus lebt, er ist auferstanden, wir haben ihn gesehen! Auferstehung: Gott herrscht über die Welt! Denn Gott hat gerade den historischen Jesus auferweckt!
-
- - Auferstehung Jesu ist Grundlage und Fundament der ntl. Christologie. Hoffnung auf Heil: Freiheit von Sünde, Rechtfertigung, das Erlangen des Geistes, die Hoffnung auf Auferstehung der Christen und die Erlösung der ganzen Schöpfung. Auftrag des Auferstandenen, Sendung der Jünger: bleibende Aufgabe der Kirche.
-
- - Der Glaube daran, dass Gott Jesus von den Toten auferweckt hat, ist die entscheidende und verbindliche Aussage des christlichen Glaubens.   
-
--------------------------
-
-*Joseph Ratzinger - Jesu Auferstehung (Jesus von Nazareth):*
-Die Auferstehung Jesu ist die Grundlage des christlichen Glaubens, wird sie weggenommen, so ist der Glaube tot. Nur wenn Jesus auferstanden ist, ist Neues geschehen. Die Auferstehung sprengte den Erfahrungshorizont der Jünger. Weißt du, was Auferstehung ist? Wer es meint, der kann die Berichte von der Auferstehung als unsinng beiseite legen. Ist Jesu Leiche wiederbelebt worden? (DAS wäre in der Tat belanglos!) Nein, die Auferstehung Jesu war der Ausbruch in eine ganz andere Art des Lebens, ein Leben, das jenseits von Stirb und Werde. Das geht alle an: neue Möglichkeit des Menschseins, ... Paulus: die Auferstehung ist entweder ein universales Ereignis - oder gar nicht. 
-
-Jesus geht durch die Auferstehung in die Weite Gottes ein. Jesu Auferweckung ist NICHT wie die Wiederkehr des Jünglings von Nain ins irdische Leben - also die Wiederbelebung einer Leiche. Jesu Auferstehung ist ein "Mutationssprung"; etwas völlig Unerwartetes, mit dem sich die Jünger erst langsam zurechtfinden mussten. Jesu Auferstehung geht ins Endgültige hinein - mitten in der alten Welt (also noch nicht am Ende der Zeiten, so wie es der jüdische Glaube erhofft), hier und jetzt. Es ist wie mit dem Kreuz: ein gekreuzigter Messias war für die Jünger zuerst unverständlich und unannehmbar. Durch die Auferstehung wird Jesus als Gesandter Gottes beglaubigt. Beide: Auferstehung und das Kreuz waren real für die Jünger. Jesus lebt - das ist die Wirklichkeit! Die Auferstehung Jesu ist paradox - und doch ganz real. 
-
-Aufgeklärte Menschen sagen "Nein!" zur Auferstehung Jesu - sie passt nicht in ein naturwissenschaftliches Weltbild  was ist das? Aber: in der Auferstehung Jesu handelt es sich um etwas völlig Neuem! Es gibt eine neue Dimension! 
-
-Jesus bekennen: "Wenn du mit dem Mund bekennst 'Jesus ist der Herr!' und in deinem Herzen glaubst 'Gott hat ihn von den Toten auferweckt', wirst du gerettet" (Röm 10,9).
-
-"Das leere Grab:" natürlich kann es die Auferstehung nicht beweisen - aber wäre ein volles Grab mit der Auferstehung vereinbar? Das leere Grab ist kein Beweis für die Auferstehung, ABER es ist die notwendige Bedingung für den Auferstehungsglauben.
-
-"Gemäß der Schrift": Psalm 16 - "die Verwesung nicht schauen"  der Leib Jesu ist nicht verwest und ... dieser Vers des AT dient als Grundlage für die Auferstehung.
-
--------------------------
-
-*Romano Guardini - Auferstehung (Der Herr):*
-
--------------------------
-
-*Peter Seewald: Jesus Christus*
-
--------------------------
-
-*Konkrete Vorschläge für Unterricht:*
+[[file:Schule_Themen/auferstehung.org][Auferstehung]]
 
 Ostersymbole:
 
@@ -1701,11 +1672,11 @@ Ostersymbole:
 
 Symbole beschreiben / Bedeutungen / ...
 
-Ostern ist nicht leicht für unseren Glauben: die Jünger brauchten 40 Tage mit Jesus, um die Realität der Auferstehung zu "begreifen". Jesus ist - /in der alten Welt/ - nicht mehr von dieser Welt. 
+Ostern ist nicht leicht für unseren Glauben: die Jünger brauchten 40 Tage mit Jesus, um die Realität der Auferstehung zu "begreifen". Jesus ist - /in der alten Welt/ - nicht mehr von dieser Welt.
 
 Auferstehung in meinem "Alltag":
 
-"Jesus ist auferstanden!" - "Er ist wahrhaft auferstanden!"  die Osterfreude ist die Summe der Freude aller Christen, sie stellt sich beim Weitersagen der Osterbotschaft ein. 
+"Jesus ist auferstanden!" - "Er ist wahrhaft auferstanden!"  die Osterfreude ist die Summe der Freude aller Christen, sie stellt sich beim Weitersagen der Osterbotschaft ein.
 
 ----------------------------
 
@@ -1717,7 +1688,7 @@ Klasse, 4 Gruppen:
  1. Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
  2. Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
  3. Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
- 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn? 
+ 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn?
 
 Austausch der vier Gruppen - Raum für Rückfragen
 
@@ -1731,18 +1702,19 @@ Bibelsession 1 Kor 15,12-22: zwei Punkte sind Paulus wichtig...
 Austausch: wie stellst du dir das ewige Leben vor?
 
 Youcat-Session: 153+154
-   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen. 
-   Langeweile? Nein - Gott sorgt für Abwechselung :) Jesus spricht nicht umsonst von einer "einzigartigen Party"
+   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen.
+   Langeweile? Nein - Gott sorgt für Abwechselung; Jesus spricht nicht umsonst von einer "einzigartigen Party" 
 
 **** Hefteintrag
 
 
-*** TODO [SW31] Die Taufe
-DEADLINE: <2021-04-12 Mo>
+*** DONE [SW31] Die Taufe
+CLOSED: [2021-04-18 So 09:31] DEADLINE: <2021-04-12 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Taufe
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-18 So 09:31]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
     - CLOSING NOTE [2018-04-18 Mi 22:17] \\
       Waren sehr gute Stunden, die Schüler haben toll mitgemacht.
@@ -1763,18 +1735,38 @@ DEADLINE: <2021-04-12 Mo>
 
 
 **** Erarbeitung
+Die Taufe als "Ostergeschenk" / Auftrag des Auferstandenen (Mt 28)
 
+Ostersonntag war / ist der Tauftermin schlechthin.
+
+***** Artikel im YouCat [194 - 202]
+Was ist die Taufe?
+Wie wird die Taufe gespendet?
+Wer kann getauft werden - was wird von einem Taufanwärter erwartet?
+Warum hält die Kirche an der Kindertaufe fest?
+Wer kann die Taufe spenden?
+Ist die Taufe tatsächlich der einzige Weg zum Heil?
+Was geschieht in der Taufe?
+Was bedeutet es, in der Taufe einen Namen zu erhalten?
+Warum sollten Christen bei der Taufe die Namen großer Heilige wählen?
+
+***** Videos auf kathmedia / YouTube:
+[[https://www.youtube.com/watch?v=7YmUHUbDyXs][kathmedia [deutsch] - Was ist die Taufe? (3MC 36)]]
+Vielleicht eher die DVD verwenden?
+
+Wie kommt die Gnade Gottes zu uns? Was ist die Gnade Gottes? 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW32] Die Taufe und ihre Symbole
-DEADLINE: <2021-04-19 Mo>
+*** DONE [SW32] Die Taufe und ihre Symbole
+CLOSED: [2021-04-24 Sa 22:12] DEADLINE: <2021-04-19 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Taufe_Symbole
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:12]
 - State "DONE"       from "TODO"       [2020-04-20 Mo 10:27]
     - CLOSING NOTE [2018-04-18 Mi 22:18] \\
       Die Schüler haben die komplexen Relationen zwischen Exodus, Letztes Abendmahl, Eucharistie und Kreuz / Auferstehung hergestellt.
@@ -1782,17 +1774,10 @@ DEADLINE: <2021-04-19 Mo>
 
 
 **** Ziele LP 2000
-:PROPERTIES:
-:ID:       e2669840-a298-42c5-a057-21d2ae9d9588
-:END:
 [[#06]] Symbole wahrnehmen
 [[#07]] Mit Festen das Leben gestalten
 
 **** Kompetenzen
-:PROPERTIES:
-:ID:       a8757765-32ba-47be-875d-ef204e146d1c
-:END:
-
 [[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
@@ -1839,19 +1824,20 @@ Oder:
 **** Hefteintrag
 
 
-*** TODO [SW33] Vom Beten / Formen
-DEADLINE: <2021-04-26 Mo>
+*** DONE [SW33] Vom Beten / Formen
+CLOSED: [2021-04-30 Fr 17:19] DEADLINE: <2021-04-26 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gebetsformen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-30 Fr 17:19]
 - State "DONE"       from "TODO"       [2020-04-28 Di 22:59]
 - CLOSING NOTE [2019-04-27 Sa 10:39]
     - Note taken on [2018-04-30 Mo 07:30] \\
       Zum Abschluss ließ ich sie eine Einladung zu einem Gottesdienst selst gestalten.
     - CLOSING NOTE [2018-04-30 Mo 07:21] \\
       Die Kinder kannten (fast) nichts mehr vom Ablauf der Hl. Messe. Das ist gar nicht verwunderlich: wer von ihnen geht (mit seinen Eltern) wöchentlich / regelmäßig zum Sonntagsgottesdienst? Leider wurde allzu oft gesagt: "Nein, als Christ / Katholik muss man nicht zum Gottesdienst gehen, Gott begegnet man doch auch in der Natur!"  Folge: keiner geht mehr hin.
-      
+
       Ich hab den Kindern einfach den Ablauf der Hl. Messe aufschreiben lassen, plus Bemerkungen, Erklärungen, etc. Wirklich verstehen können die Kinder den Gottesdienst nur dann, wenn sie regelmäßig zum Gottesdienst gehen; sowie sie das Vaterunser nur dann mit Herz und Verstand beten, wenn sie es ... regelmäßig beten.
     :END:
 
@@ -1868,23 +1854,34 @@ DEADLINE: <2021-04-26 Mo>
 
 
 **** Erarbeitung
+Bedeutung einiger Teile der Eucharistiefeier
 
+Jesus ist auf dreifache Weise im Gottesdienst gegenwärtig: Volk, Wort Gottes, Eucharistie - "Der Herr sei mit euch!"
+
+---
+
+Gebetsformen: mündlich / still; singen, sprechen; frei / vorformuliert; Dank, Bitte, Lob, Anbetung, Meditation, Fürbitte; ...
+
+Gebetshaltungen: stehen, sitzen, knien, niederwerfen, Hände falten, ...
+
+Beides einüben / ausprobieren.
 
 **** Hefteintrag
 
 
 
-*** TODO [SW34] 10 Regeln für das Beten
-DEADLINE: <2021-05-03 Mo>
+*** DONE [SW34] 10 Regeln für das Beten
+CLOSED: [2021-05-08 Sa 15:10] DEADLINE: <2021-05-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Regeln_Beten 1
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:10]
 - State "DONE"       from "TODO"       [2020-05-05 Di 10:29]
 - CLOSING NOTE [2019-05-04 Sa 17:29]
     - CLOSING NOTE [2018-05-07 Mo 11:54] \\
       Wegen dem verlängerten Wochenenden (1. Mai) gab es nur eine einzige Stunde: am Freitag, 5. Stunde, 1c.
-      
+
       Diese Stunde war sehr gut. Zu Maria ist den Schülern sehr viel eingefallen.
     :END:
 
@@ -1901,19 +1898,46 @@ DEADLINE: <2021-05-03 Mo>
 
 
 **** Erarbeitung
+*Du kannst beten*[fn:2]
 
+Vielleicht hast Du schon lange nicht mehr gebetet, seitdem Du ein Kind warst. Vielleicht ist Dir das Beten überhaupt noch ganz fremd. Oder man hat Dir gesagt, es sei schwierig zu beten oder es würde sowieso nichts bringen. Ganz besonders in Krisenzeiten werden wir Menschen auf den Grund unserer Existenz geführt. Krisen bringen viele wieder dazu, das zu tun, was für unsere Großeltern noch selbstverständlich war. Vielleicht ist es ja so, dass Gebet gar nicht nur was für die „Alten“ ist? So viele Christen auf der Welt machen täglich die Erfahrung, dass Gott durch ihre Gebete zu ihnen spricht. Dass ihre Gebete erhört werden und ihnen Trost und Hilfe schenken in Notzeiten. Gebet ist eine persönliche Begegnung mit dem lebendigen, sprechenden Gott. Du kannst ihn bitten, loben, ihm erzählen was dich gerade bewegt. Mach dir keine Sorgen, wenn du nicht weißt wo du anfangen sollst, sei einfach du selbst und sprich, wie zu einem guten Freund. Hier findest du ein paar hilfreiche Tipps für den Start.
 
+1. *Entscheide Dich*
+   Wenn Du es willst, entscheide Dich, ein betender Mensch zu werden und Deine Beziehung zu Gott zu gestalten
+2. *Sei im Kleinen treu*
+   Beginne mit festen kurzen Gebetszeiten. Und die halte in Treue durch. Dann können Deine Sehnsucht und auch Dein Gebet wachsen, wie es Dir, der Zeit und den Umständen gemäß ist.
+3. *Nimm Dir Zeit zum Beten*
+   Nimm eine feste Zeit (Gewohnheit hilft), eine ruhige Zeit (das sind oft der frühe Morgen und der Abend) und eine wertvolle Zeit, die Du gerne hast, aber auch gerne wegschenken magst (keine "Abfallzeit").
+4. *Bereite Dir einen Ort*
+   Der Ort, an dem Du betest, wirkt sich auch auf Dein Beten aus. Suche deshalb einen Ort, an dem Du gut beten kannst.
+5. *Ritualisiere und strukturiere Dein Gebetsleben*
+   Gib Deinem Beten eine feste Ordnung (einen Ritus). Diese soll Dich nicht einengen, sondern Dir helfen, nicht jeden Tag überlegen zu müssen, ob und wie Du beten willst.
+6. *Lass den ganzen Menschen beten*
+   Im Gebet darf sich der ganze Mensch mit Gott verbinden: Dein Leib, Deine innere und äußere Wahrnehmung, Deine Erinnerung, Dein Wollen, Denken und Fühlen oder der Traum der vergange- nen Nacht.
+7. *Bete auf vielfältige Weise*
+   Entdecke und übe die vielen Weisen des Gebetes, die je nach Zeit und eigener Verfassung und momenta- ner Situation anders sein können.
+8. *Nutze die Gelegenheit*
+   Du kannst auch die Gelegenheiten nutzen, die sich bieten, um zwischendurch zu beten (z.B. Stoßgebete, eine Bitte, ein kurzer Dank oder Lobpreis).
+9. *Lass Gott zu Wort kommen*
+   Beten bedeutet auch, auf die Stimme Gottes zu hören. Gott spricht am ausdrücklichsten in den Worten der Heiligen Schrift, die die Kirche Tag für Tag liest. Er spricht durch die Überlieferung der Kirche und das Zeugnis der Heiligen.
+10. *Bete mit der irdischen und der himmlischen Kirche*
+    Wer betet, stellt sich in die große Gemeinschaft der Betenden hinein. Sie reicht von der Erde bis in den Himmel und schließt die heute Lebenden wie auch die Engel, die Heiligen und die unbekannte Schar der bei Gott Lebenden ein.
+
+Besprechung der einzelnen Schritte und - ganz wichtig: Umsetzung in die Praxis. Wahrscheinlich werden wir nicht alle 10 Scrhitte in einer Stunde besprechen können.
+
+Cf Youcat-Firmbuch, Youcat-Gebetsbuch.
 
 **** Hefteintrag
+Die 10 Schritte des Gebets ins Heft notieren - mit Zeichnungen; oder ich gebe den Schülern die Zeichnugnen, und sie schreiben die Schritte dazu + ihre eigenen Entscheidungen.
 
 
-
-*** TODO [SW35] Marienmonat Mai: Gegrüßest seist du Maria
-DEADLINE: <2021-05-10 Mo>
+*** DONE [SW35] Marienmonat Mai: Gegrüßest seist du Maria
+CLOSED: [2021-05-14 Fr 13:48] DEADLINE: <2021-05-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Ave Maria
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:48]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
     - CLOSING NOTE [2018-05-10 Do 21:26] \\
       War so weit okay.
@@ -1923,7 +1947,7 @@ DEADLINE: <2021-05-10 Mo>
 
 **** Ziele LP 2000
 [[#06]] Kreuzzeichen und Grundgebete
-   
+
 **** Kompetenzen
 [[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
 
@@ -1936,7 +1960,7 @@ Vergleich: O-Bus ist ständig mit Oberleitung verbunden. Verlängerung der Linie
 **** Erarbeitung
 Wenn wir regelmäßig / täglich beten, sind wir wie der O-Bus, der ständig durch die Oberleitung mit Kraft versorgt wird. Wir leben zu oft "auf Batteriebetrieb" und merken es erst dann, wenn wir ausgepowert sind - oder merken es eben gar nicht, was noch schlimmer ist: wir denken, dass wir noch fahren können, obwohl schon längst gar nichts mehr geht.
 
- Joh 15,1-8 / 9-17 (?): Ich bin der Weinstock, ihr seid die Reben. Bleibt in mir, dann bleibe ich ihn euch.
+Joh 15,1-8 / 9-17 (?): Ich bin der Weinstock, ihr seid die Reben. Bleibt in mir, dann bleibe ich ihn euch.
 
 Gebetszeit - in Stille? In der Klasse? Weiß nicht, ob das in der 1c möglich ist
 
@@ -1948,13 +1972,13 @@ Ein Gesätzchen RK miteinander beten?
 Die Stunden zum Thema "Maria" hole ich in der 1a und 1b nach. In der 1c habe ich heute 3 Stellen im NT zum Thema "Maria" angeschaut: Hochzeit von Kana, die wahren Verwandten Jesu, Magnifikat.
 
 
-
-*** TODO [SW36] Grundgebete Vater Unser
-DEADLINE: <2021-05-17 Mo>
+*** DONE [SW36] Grundgebete Vater Unser
+CLOSED: [2021-05-23 So 10:52] DEADLINE: <2021-05-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Vater Unser 1
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-23 So 10:52]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:03]
     - CLOSING NOTE [2018-05-22 Di 14:36] \\
       Die Kinder waren gut dabei; obwohl es nicht leicht ist, da ja so gut wie keine religiöse Bildung vorhanden ist.
@@ -1973,18 +1997,45 @@ DEADLINE: <2021-05-17 Mo>
 
 
 **** Erarbeitung
+Verschiedene "Stationen" zu den einzelnen Bitten des Vaterunser.
+1. Vater unser im Himmel,
+2. geheiligt werde dein Name.
+3. Dein Reich komme.
+4. Dein Wille geschehe, wie im Himmel so auch auf Erden.
+   
+   Male ein passendes Bild dazu. Welche Gedanken gehen dir dabei durch den Kopf? Notiere sie.
+   
+5. Unser tägliches Brot gib uns heute.
 
+   Brot ist ein elementares Nahrungsmittel und wird deshalb oft als Wort für Nahrung im Allgemeinen benutzt. Aber was bedeutet der Begriff "tägliches Brot" in diesem Zusammenhang noch? Was benötigst du wirklich in deinem Leben?
+   
+6. Und vergib uns unsere Schuld, wie auch wir vergeben unseren Shuldigern.
+   - Schreibe unter die Bilder, was du erkennen kannst, und verbinde sie mit den Begriffen „Schuld“ und „Versöhnung“. Überlege dir anschließend zu den beiden Begriffen ein eigenes Bild.
 
+   - Überlege, wann du dich einmal schuldig gefühlt hast. Was hast du gemacht, damit ihr euch wieder versöhnt habt? Schreibe auf.
+   
+   
+7. und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen.
+
+   *Eine schwere Entscheidung*
+   Als Marc vor Ende der Pause in den Klassenraum kommt, sieht er auf Lisas Tisch ihre Geldbörse liegen. Er erkennt einen roten 10-€-Schein und ein paar glitzernde Münzen. Er schaut sich gründlich um. Außer ihm ist aber weit und breit kein Mitschüler oder die Lehrerin zu sehen. Er überlegt hin und her und grübelt vor sich hin. „Soll ich das Geld nehmen oder lass ich es auf Lisas Tisch liegen – schließlich gehört es nicht mir.“ Doch plötzlich greift er zur gelben Geld-börse,  öffnet sie, zieht das Geld heraus und versteckt es blitzschnell in seiner kleinen  Hosentasche. Nachdem es geklingelt hat und die Pause zu Ende ist, kommen alle Kinder gemeinsam in ihre Klasse zurück. Marc sitzt bereits auf seinem Platz, als Lisa aufgeregt bemerkt, dass ihr Geld verschwunden ist. „Jemand muss mein Geld gestohlen haben. Ich bin mir ganz sicher, dass es vor der Pause noch da war.“ Lisa weint schrecklich. Zusammen mit den Kindern versucht die Lehrerin, den Täter zu finden. Doch keiner will es gewesen sein. Auch Marc schüttelt den Kopf und behauptet, dass er mit der Tat nichts zu tun habe. Am Nachmittag geht er in die Stadt, um sich mit dem Geld im nahe gelegenen Kiosk ein paar leckere Süßigkeiten zu kaufen. Er kauft Schokolade und viele verschiedene Sorten Gummibärchen. Das ganze Geld ist schnell ausgegeben. Am nächsten Tag in der Schule zeigt er seinen neidischen Mitschülern die Tüte mit den vielen Leckereien. Er behält alles für sich und teilt nicht. Außerdem erklärt er, dass er lange dafür gespart habe. Als Lisa ihm traurig erzählt, dass sie ebenfalls ihr Taschengeld gespart habe, um Süßigkeiten für sich und Marc zu kaufen, bekommt er ein schlechtes Gewissen. Jetzt überlegt er, was er machen kann, um seine schlechten Taten wieder gut zu machen. Er wünscht sich, dass er nie wieder verführt wird und dass Lisa ihm verzeiht.
+
+   1. Wie würdest du dich in dieser Situation verhalten?
+   2. Hast du selbst schon einmal eine ähnliche Situation erlebt oder davon gehört?
+   3. Welche schlechten Taten hat Marc gemacht? Wie viele findest du?
+   4. Finde Lösungen für Marcs schlechte Taten. Schreibe auf.
+        
 **** Hefteintrag
 
 
 
-*** TODO [SW37] Pfingsten
-DEADLINE: <2021-05-24 Mo>
+*** DONE [SW37] Pfingsten
+CLOSED: [2021-05-30 So 11:33] DEADLINE: <2021-05-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Pfingsten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:33]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:32]
     - Note taken on [2018-05-26 Sa 12:05] \\
       Die Kinder sind gut auf die Aufgabe eingestiegen (es war ja nur eine Stunde mit der 1C). Sie sind schon ein wenig "speziell" ... Hm - manchmal frage ich mich, wie ich diese Klasse "bei der Stange halten kann"?
@@ -2014,32 +2065,44 @@ DEADLINE: <2021-05-24 Mo>
 
 
 **** Erarbeitung
+
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
+Ohne Pfingsten ergäbe die Menschwerdung Christi kaum einen Sinn. Die Sendung des Heiligen Geistes, die den Geburtstag der Kirche markiert, zeigt den eigentlichen Grund der Erlösung: Gott will die gesamte Menschheit in einer einzigen Familie versammeln, indem er seinen Geist auf sie ausgießt. Die Kirche ist der Plan Gottes für die Menschheit schon seit vor der Grundlegung der Schöpfung (vgl. Epheser 1). Von allem Ursprung an war es Gottes Sehnsucht und Plan, sich eine Familie zu schaffen.
+
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
+
 Pfingsten:
-Apg 2
+Apg 2,1-13
 Ps 104
 1 Kor 12, 3b–7.12–13
 Joh 20,19-23
 
-Wie führe ich Erstklässler in das Geheimnis des Heiligen Geistes ein? Symbole, Gebete, Menschen, die sich vom Heiligen Geist haben leiten lasse etc. 
+Wie führe ich Erstklässler in das Geheimnis des Heiligen Geistes ein? Symbole, Gebete, Menschen, die sich vom Heiligen Geist haben leiten lasse etc.
 
-Symbole: Taube (neues Leben), Feuer (Liebe, reinigt, ...), Wind (unsichtbar, erkennbar an seiner Wirkung). Feuer und Sturm sind alt. Begleiterscheinungen einer Theophanie (Gottesoffenbarung). Christentum: Gott offenbart sich SELBST; hier geht es um eine Selbstoffenbarung Gottes. 
+Symbole: Taube (neues Leben), Feuer (Liebe, reinigt, ...), Wind (unsichtbar, erkennbar an seiner Wirkung). Feuer und Sturm sind alt. Begleiterscheinungen einer Theophanie (Gottesoffenbarung). Christentum: Gott offenbart sich SELBST; hier geht es um eine Selbstoffenbarung Gottes.
 
 Erfahrung von Jesus vor Ostern / als Auferstandener; Erfahrung des Heiligen Geistes.
 
-Der Hl. Geist ist die eschatologische Gabe Gottes an alle Glaubenden, die als Anzahlung (2 Kor 1,22; 5,5) oder Anfang (Röm 8,23) gleichzeitig die Vorläufigkeit der gegenwärtigen Existenz markiert und so auf die endzeitliche Erfüllung verweist. Der Geist bringt Frucht, die zuallererst in der Liebe besteht (Gal 5,22). 1 Kor 12-14: die Charismen gwährleisten das kirchliche Zusammenwirken aller Glaubenden. Nach Johannes bleibt der Beistand (Paraklet) dauernd bei der Gemeinde bleibt. 
+Der Hl. Geist ist die eschatologische Gabe Gottes an alle Glaubenden, die als Anzahlung (2 Kor 1,22; 5,5) oder Anfang (Röm 8,23) gleichzeitig die Vorläufigkeit der gegenwärtigen Existenz markiert und so auf die endzeitliche Erfüllung verweist. Der Geist bringt Frucht, die zuallererst in der Liebe besteht (Gal 5,22). 1 Kor 12-14: die Charismen gwährleisten das kirchliche Zusammenwirken aller Glaubenden. Nach Johannes bleibt der Beistand (Paraklet) dauernd bei der Gemeinde bleibt.
 
 Pfingsten: 50 Tage nach Ostern (Pascha) das einzige jüdische Fest, das die Kirche übernommen hat. Ursprünglich ein Erntedankfest (erste Weizenernte), wurde später als Erinnerung an die Offenbarung Gottes auf dem Berg Sinai und die Übergabe der Zehn Gebote gefeiert. Hier: neues Gesetz in den Herzen der Menschen, Ursprung der Kirche; Erfüllung der Prophetie Joels, dass Gott seinen Geist auf alle Menschen ausgießt. Das Sprachenwunder ist der Kontrapunkt zur Sprachenverwirrung beim Turm von Babel. Der Hl. Geist befähigt, das Evangelium überall verständlich zu machen.
+
+[[https://blogs.rpi-virtuell.de/h5pdev/2020/06/04/pfingsten/]]
+Bunte 10-Seiten-Sammlung von interaktiven  Lernelementen zu Pfingsten. Bei den Videos, Bildern, Quizzen, Arbeitsfragen, Bibel als Audio und Direktlink ist für fast jede Altersstufe was dabei. 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW38] Drei Religionen in der einen Welt
-DEADLINE: <2021-05-31 Mo>
+*** DONE [SW38] Drei Religionen in der einen Welt
+CLOSED: [2021-06-04 Fr 08:11] DEADLINE: <2021-05-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weltreligionen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
 - State "DONE"       from "TODO"       [2020-06-01 Mo 09:57]
 - Note taken on [2020-05-26 Di 11:49] \\
   Die Stunde am 26.5.2020 in der 1a war sehr berührend. Das Thema war sehr anspruchsvoll "Dreifaltigkeit; göttliche Natur, Person" - durch verschiedene Beispiele haben die Schüler gut folgen können. Höhepunkt war Theresa, der plötzlch ein Licht aufging: "Ah! Bei Jesus ist dann ja auch so: Natur, Person, da er Mensch und Gott ist." Danke, Jesus!
@@ -2063,18 +2126,24 @@ DEADLINE: <2021-05-31 Mo>
 
 
 **** Erarbeitung
+Christentum - Judentum - Islam
 
+Gemeinsamkeiten / Unterschiede / Ursprung
+Heilige Bücher
+Glaube / Glaubenspraxis / Feste / Gebete / Gotteshäuser
 
+Glauben die drei Religionen an den gleichen / selben Gott? Ist das eine berechtigte Frage: Wer hat recht? Wo liegt die Wahrheit? 
 
 **** Hefteintrag
 
 
-*** TODO [SW39] Der hl. Apostel Paulus
-DEADLINE: <2021-06-07 Mo>
+*** DONE [SW39] Der hl. Apostel Paulus
+CLOSED: [2021-06-15 Di 07:15] DEADLINE: <2021-06-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Paulus
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:15]
 - State "DONE"       from "TODO"       [2020-06-06 Sa 11:35]
     - CLOSING NOTE [2018-06-10 So 08:19] \\
       Die Stunden waren ganz okay. Es war ersichtlich, dass die Schüler schon sehr (schul- und lern)müde sind. Für die restlichen Wochen wäre es gut, ein paar Mal hinauszugehen (das gilt für alle Klassen). Die Reli-Hefte werde ich nur in ein paar Klassen anschauen.
@@ -2092,47 +2161,63 @@ DEADLINE: <2021-06-07 Mo>
 
 
 **** Erarbeitung
+Christentum - Judentum - Islam
 
+Gemeinsamkeiten / Unterschiede / Ursprung
+Heilige Bücher
+Glaube / Glaubenspraxis / Feste / Gebete / Gotteshäuser
+
+Glauben die drei Religionen an den gleichen / selben Gott? Ist das eine berechtigte Frage: Wer hat recht? Wo liegt die Wahrheit?
+
+Arbeitsblätter:
+[[/home/matthias/NMS_Golling/Weltreligionen/]]
 
 **** Hefteintrag
 
 
-*** TODO [SW40] Die Hl. Dreifaltigkeit
-DEADLINE: <2021-06-14 Mo>
+*** DONE [SW40] Weltreligionen - Islam
+CLOSED: [2021-06-20 So 13:30] DEADLINE: <2021-06-14 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Dreifaltigkeit
+:CUSTOM_ID: Islam
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:30]
 - State "DONE"       from "TODO"       [2020-06-14 So 10:44]
     - CLOSING NOTE [2018-06-18 Mo 10:31] \\
       Die 1A und 1B arbeiten ganz gut, die 1C ... übertreibt es wiedereinmal sehr! ...
     :END:
 
 **** Ziele LP 2000
-[[#01]] Die Zuwendung Gottes wahrnehmen und Gott als einen, der mitgeht, beschreiben können: Gott offenbart sich
+[[#02]] Präsenz anderer Religionen in der Lebenswelt der Schüler: Schule, Feste, Gottes- und Gebetshäuser, Medien
 
 **** Kompetenzen
-[[#1a]] - [[#1c]] Schüler können sich mit der persönlichen Gottesahnung und mit der Gottesahnung anderer auseinander setzen. / Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
+[[#2a]] In der eigenen Lebenswelt unterschiedliche religiöse und weltanschauliche Überzeugungen wahrnehmen und beschreiben können.
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
 
 **** Wiederholung
 
 
 **** Erarbeitung
+Islam
+Film "planet schule": [[https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html]]
+Arbeitsblätter: (siehe ...)
 
+Alle Sendungen: [[https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen.html]]
 
+[[file:Isalm.org][Isalm]]
 
 **** Hefteintrag
 
 
-
-*** TODO [SW41] Unsere Diözese / Diakon, Priester, Bischof
-DEADLINE: <2021-06-21 Mo>
+*** DONE [SW41] Unsere Diözese / Diakon, Priester, Bischof
+CLOSED: [2021-06-28 Mo 00:22] DEADLINE: <2021-06-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Kirche
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:22]
 - State "DONE"       from "TODO"       [2020-06-21 So 10:36]
     - CLOSING NOTE [2018-06-21 Do 10:11] \\
       So là là ... man spürt, dass wir uns dem Ende des Schuljahres nähert.
@@ -2142,26 +2227,31 @@ DEADLINE: <2021-06-21 Mo>
 [[#07]] Apostolische Nachfolge, Aufbau der Kirche
 
 **** Kompetenzen
-??
-
-**** Wiederholung
 
 
 **** Erarbeitung
+Ikone "Dreifaltigkeit"
+
+Betrachtung:
+
+[[file:~/Downloads/57_1984_3_183_192_Evdokimov_12.pdf]]
+
+**** Wiederholung
 
 
 **** Hefteintrag
 
 
-*** TODO [SW42] Wiederholung des Jahresstoffes
-DEADLINE: <2021-06-28 Mo>
+*** DONE [SW42] Wiederholung des Jahresstoffes
+CLOSED: [2021-07-05 Mo 07:18] DEADLINE: <2021-06-28 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wiederholung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
     - CLOSING NOTE [2018-06-28 Do 19:56] \\
-      So, das war's für dieses Jahr - fast 
+      So, das war's für dieses Jahr - fast
       Am Freitag noch die Spielstunde mit der 1C. Ich hoffe, dass wir die Hundsköpfe aus der 1C noch biegen können ...
     :END:
 
@@ -2170,19 +2260,34 @@ DEADLINE: <2021-06-28 Mo>
 **** Kompetenzen
 
 **** Wiederholung
+[[file:KompSozial.2006.org][KompSozial.2006: Kompendium der soziallehre der kirche]]
 
 **** Erarbeitung
+Wer ist Jesus dür Dich?
 
+Hl. Petrus und Hl. Paulus:
+[[https://www.youcat.org/de/credopedia/minicat/heiliger-petrus-und-paulus/]]
+Die Schlüsselgewalt des heiligen Petrus umfasst drei Momente:
+
+    Das wichtigste ist die Vergebung der Sünden: Petrus hat die Vollmacht jede Sünde, und wenn sie noch so grauenhaft wäre, im Namen Jesu zu vergeben, weil Jesus will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit gelangen.
+
+    Darüber hinaus die Glaubensverkündigung: Petrus hat ein Charisma in Bezug auf Glaubenswahrheiten und Sitten. Wir müssen nämlich zwei Dinge wissen, um das ewige Leben zu gelangen: Einerseits, was uns über Gott offenbart wurde — also, was wir über Ihn wissen dürfen— und zweitens, wie ich als Christ Leben zu leben habe.
+
+    Drittens umfass die Schlüsselgewalt d disziplinarischen Aspekte. Die dem Petrus anvertraute Vollmacht ist so groß, dass selbst Paulus - dem Jesus selbst erschienen ist und der nie eine menschliche Offenbarung brauchte, sondern alles vom Herrn selbst erfahren hat - zu Petrus ging und um eine Bestätigung seiner Lehren bat, um sicher zu gehen, dass er — wie er sagt — nicht ins Leere läuft oder gelaufen ist (vgl. Gal 2,2). Erst nachdem Petrus seine Lehre bestätigt hatte, ging Paulus in die Welt hinaus und verkündete diese den Heiden.
+
+[[https://www.youcat.org/de/credopedia/minicat/heiligsten-herzens-jesu/]]
+    
 **** Hefteintrag
 
 
 
-*** TODO [SW43] Schulgottesdienst
-DEADLINE: <2021-07-05 Mo>
+*** DONE [SW43] Schulgottesdienst
+CLOSED: [2021-07-09 Fr 08:38] DEADLINE: <2021-07-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wiederholung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:38]
 - State "DONE"       from "TODO"       [2020-07-07 Di 12:02]
 :END:
 
@@ -2200,316 +2305,238 @@ DEADLINE: <2021-07-05 Mo>
 
 ** Kompetenzbereiche und Kompetenzdimensionen
 
-*** prozessbezogene Kompetenzbereiche
-Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark betont. 
+** Kompetenzmodell und -bereiche
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
 
-**** <<A>> Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
-     :PROPERTIES:
-     :CUSTOM_ID: perzeption
-     :END:
-[[#01]] [[#02]] [[#04]] [[#05]] [[#06]] [[#07]]
-
-[[#Hl. Rupertus]] [[#Seligpreisungen]] [[#Bibel_NT]] [[#Entstehung NT Evangelien]] [[#Leben Schreiben NT]] [[#Welt des NT 1]] [[#Welt des NT 2]] [[#Umfeld Jesu]] [[#Film NT]] [[#Advent]] [[#Advent_Maria]] [[#Johannes der Täufer]] [[#Weihnachten]] [[#sterndeuter]] [[#Aschermittwoch]] [[#Mose]] [[#Mose_Film]] [[#Jesus wurde ausgestossen]] [[#Taufe_Symbole]] [[#Pfingsten]] [[#Weltreligionen]] [[#Paulus]] [[#Dreifaltigkeit]]
-
-**** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
-     :PROPERTIES:
-     :CUSTOM_ID: kognition
-     :END:
-[[#02]] [[#05]] [[#06]] [[#07]]
-
-[[#Hl. Rupertus]] [[#Advent]] [[#Weihnachten]] [[#sterndeuter]] [[#Aschermittwoch]] [[#Mose]] [[#Mose_Film]] [[#Taufe_Symbole]] [[#Pfingsten]]
-
-**** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
-     :PROPERTIES:
-     :CUSTOM_ID: performanz
-     :END:
-[[#03]] [[#04]] [[#06]] [[#07]]
-
-[[#Freundschaft]] [[#treuer Freund]] [[#David Jonathan]] [[#Dekalog]] [[#Leiden Tod Jesu]] [[#Taufe]] [[#Gebetsformen]] [[#Regeln_Beten]] [[#Ave Maria]] [[#Vater Unser]] [[#Gebet]]
-
-**** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
-     :PROPERTIES:
-     :CUSTOM_ID: interaktion
-     :END:
-[[#03]] [[#04]] 
-
-[[#Freundschaft]] [[#treuer Freund]] [[#David Jonathan]] [[#Dekalog]] [[#Leiden Tod Jesu]]
-
-**** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
-     :PROPERTIES:
-     :CUSTOM_ID: partizipation
-     :END:
-[[#05]] [[#06]] [[#07]]
-
-[[#Taufe]] [[#Gebetsformen]] [[#Regeln_Beten]] [[#Ave Maria]] [[#Vater Unser]] [[#Gebet]]
-
-*** inhaltsbezogene Kompetenzdimensionen
-Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die Schüler angesichts des Phänomens der Individualisierung und Pluralisierung von Religion kompetent verhalten können. 
-
-**** Ad Ziel [[#01]]
-***** Schüler können sich mit der persönlichen Gottesahnung und mit der Gottesahnung anderer auseinander setzen.
+**** A Menschen und ihre Lebensorientierungen
 :PROPERTIES:
-:CUSTOM_ID: 1a
+:CUSTOM_ID: Ave Maria
 :END:
-[[#Dreifaltigkeit]]
-
-***** Schüler können sich mit dem Bild eines zuwendenden Gottes auseinander setzen und es deuten.
+***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
 :PROPERTIES:
-:CUSTOM_ID: 1b
+:CUSTOM_ID: A1
 :END:
-[[#Mose]] [[#Jesus wurde ausgestossen]] [[#Paulus]] [[#Dreifaltigkeit]]
-
-***** Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
+****** Kompetenzbeschreibung:
 :PROPERTIES:
-:CUSTOM_ID: 1c
+:CUSTOM_ID: A1_KB1
 :END:
-[[#Seligpreisungen]] [[#Bibel_NT]] [[#Entstehung NT Evangelien]] [[#Leben Schreiben NT]] [[#Welt des NT1]] [[#Welt des NT 2]] [[#Umfeld Jesu]] [[#Jesus wurde ausgestossen]] [[#Paulus]] [[#Dreifaltigkeit]]
+Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
 
-**** Ad Ziel [[#02]]
-***** In der eigenen Lebenswelt unterschiedliche religiöse und weltanschauliche Überzeugungen wahrnehmen und beschreiben können.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 2a
-:END:
-[[#Weltreligionen]]
-
-***** Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
-:PROPERTIES:
-:CUSTOM_ID: 2b
-:END:
-[[#Weltreligionen]]
-
-**** Ad Ziel [[#03]]
-***** Ursachen von Konflikten erkennen und eigenständige Lösungsmöglichkeiten entwickeln.
-:PROPERTIES:
-:CUSTOM_ID: 3a
+:CUSTOM_ID: A1_AB1
 :END:
 
-
-***** Leidvolle Erfahrungen zum Ausdruck bringen können.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 3b
+:CUSTOM_ID: A1_UH1
+:END:
+Ich und die anderen:
+ - Selbstvertrauen,
+ - Freundschaft,
+ - Empathie und Perspektivenwechsel,
+ - Teamfähigkeit,
+ - Nähe und Distanz,
+ - Zärtlichkeit und Sexualität
+
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
+
+***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+:PROPERTIES:
+:CUSTOM_ID: A2
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: A2_KB1
+:END:
+Die Schülerinnen und Schüler können für sie bedeutsame Fragen diskutieren und über existentielle Lebensfragen philosophieren und theologisieren.  
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: A2_AB1
 :END:
 
-
-***** Gott als Ansprechpartner und Begleiter in Leidsituationen wahrnehmen.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 3c
+:CUSTOM_ID: A2_UH1
 :END:
-[[#Leiden Tod Jesu]]
+Beantwortbare und letztlich unbeantwortbare Fragen:
+- Wer ist Gott? Existiert Gott?
+- Existiert überhaupt etwas?
+- Wer ist der Mensch?
+- Gott ist gut, warum gibt es das Böse?
+- Der Sinn des Lebens?
+- ...
 
-**** Ad Ziel [[#04]]
-***** Neue Herausforderungen in der eigenen Lebensgestaltung erkennen und annehmen können.
+
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
+
+**** B Gelehrte und gelebte Bezugsreligion
 :PROPERTIES:
-:CUSTOM_ID: 4a
+:CUSTOM_ID: A1_AB1
 :END:
-[[#Schuhe des Anderen]]
-
-***** Die Wichtigkeit von Regeln für ein gerechtes Zusammenleben ausdrücken können.
+***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
-:CUSTOM_ID: 4b
+:CUSTOM_ID: B3
 :END:
-[[#Dekalog]]
-
-***** Wertschätzenden Umgang mit Menschen in ihrer Freiheit und Verantwortung pflegen können.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 4c
+:CUSTOM_ID: B3_KB1
 :END:
-[[#Freundschaft]] [[#treuer Freund]] [[#David Jonathan]]
+Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
-**** Ad Ziel [[#05]]
-***** Eigene Fähigkeiten und Grenzen beschreiben.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 5a
+:CUSTOM_ID: B3_AB1
 :END:
+Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebens- relevanz der Bibel
 
-
-***** Eigene Begabungen für die Gemeinschaft einsetzen.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 5b
+:CUSTOM_ID: B3_UH1
 :END:
+ - Altes Testament und Neues Testament, historisch-geografisches Umfeld;
+ - biblische Motive im Alltag: eigene Erfahrungen und Populärkultur
 
 
-***** Möglichkeiten für ein Leben in der Gemeinschaft und Zeichen des Ausdrucks gemeinsamen Lebens finden.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 5c
+:CUSTOM_ID: B3_KB2
 :END:
+Die Schülerinnen und Schüler können Leben und Handeln Jesu in Grundlinien be- schreiben und als Basis christlichen Glaubens kommunizieren.
 
-
-**** Ad Ziel [[#06]]
-***** Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren. 
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 6
+:CUSTOM_ID: B3_AB2
 :END:
-[[#Taufe]] [[#Taufe_Symbole]] [[#Gebetsformen]] [[#Regeln_Beten]] [[#Ave Maria]] [[#Vater Unser]] [[#Pfingsten]] [[#Gebet]]
+Historischer Jesus – Christus des Glaubens 
 
-**** Ad Ziel [[#07]]
-***** Christliche Feste benennen und deuten können.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 7a
+:CUSTOM_ID: B3_UH2
 :END:
-[[#Advent]] [[#sterndeuter]] [[#Aschermittwoch]] [[#Osterfest]] [[#Pfingsten]] [[#Kirche_Anfänge]] [[#Weihnachten]] [[#Hl. Rupertus]] [[#Pfingsten]]
+Lukasevangelium in Auswahl 
 
-***** Christliche Feste in Bezug zum eigenen Leben setzen und mitgestalten.
+***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 :PROPERTIES:
-:CUSTOM_ID: 7b
+:CUSTOM_ID: B4
 :END:
-[[#sterndeuter]] [[#Weihnachten]] [[#Osterfest]] [[#Pfingsten]] [[#Hl. Rupertus]] [[#Pfingsten]]
-
-***** Aufbau des Kirchenjahres kennen und verstehen.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 7c
+:CUSTOM_ID: B4_KB1
 :END:
- [[#Hl. Rupertus]] [[#Advent]] [[#sterndeuter]] [[#Weihnachten]] [[#Aschermittwoch]] [[#Osterfest]] [[#Pfingsten]]
+Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
-** Unterrichtsprinzip
-Korrelation  Erfahrungen der Schüler zur Sprache bringen, diese werden auf religiöse Bedeutung erschlossen und mit der christlichen / biblischen / kirchlichen Botschaft bzw Überlieferung (Tradition) wechselseitig in Beziehung gesetzt. Fachspezifische Bildungsinhalte  für Schüler oft neu und fremd, stellen das Leben in Frage / ermöglichen neue Erfahrungen für die Schüler.
- 
-** Jahresübergreifende Kompetenzen (nach Schulplan 2000, revidierte Fassung von 18. April 2017)
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-*** <<K01>> Vielfältige Gottesbilder - der sich in Jesus Christus offenbarende Gott [[#1a]] [[#1b]] [[#1c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 01
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:05] \\
-      Sehnsüchte und vielfältige Gottesbilder wahrnehmen können, sich mit der Gottesahnung auseinandersetzen und diese in Beziehung zur christlichen Botschaft von Vater, Sohn und Heiliger Geist setzen können.
-    :END:
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-   - Die Zuwendung Gottes wahrnehmen und Gott als einen, der mitgeht, beschreiben können ([[A]]).
-     /Gott offenbart sich/ [[#Dreifaltigkeit]]
-     /Weggeschichten aus dem AT (Tobit), NT (Emmaus)./ 
-     /Weg als Bild für das menschliche Leben./  
-     /Biblisches Basiswissen: Person und Umfeld Jesu, Entstehung des NT./ [[#Seligpreisungen]] [[#Bibel_NT]] [[#Entstehung NT Evangelien]] [[#Leben Schreiben NT]] [[#Welt des NT 1]] [[#Welt des NT 2]] [[#Umfeld Jesu]] [[#Johannes der Täufer]] [[#Jesus wurde ausgestossen]] [[#Leiden Tod Jesu]] [[#Auferstehung Emmaus]]
-     /Apostel Paulus/ [[#Paulus]]
-     /Innehalten: Weggeschichten Hl. Männer und Frauen/[[#Johannes der Täufer]] [[#Mose]] [[#Mose_Film]]
+**** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
+:PROPERTIES:
+:CUSTOM_ID: C
+:END:
+***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+:PROPERTIES:
+:CUSTOM_ID: C5
+:END:
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-    
-*** <<K02>> Toleranz und Wertschätzung angesichts der Vielfalt von Kulturen und Religionen [[#2a]] [[#2b]]
-    :PROPERTIES:
-    :CUSTOM_ID: 02
-    :ID:       4a06d552-dcc3-4dfb-a8bf-49d4ab66134d
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:08] \\
-      Unterschiedliche Lebens- und Glaubensformen in Kulturen und Religionen kennen, sich im Geist Jesu kritisch mit ihnen auseinandersetzen sowie Toleranz und Wertschätzung praktizieren.
-    :END:
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-   - Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen ([[A]],[[B]]).
-     /Erfahrungen mit religiöser Praxis/
-     /Präsenz anderer Religionen in der Lebenswelt der Schüler: Schule, Feste, Gottes- und Gebetshäuser, Medien/ [[#Weltreligionen]]
-     /Menschen in anderen Ländern kennen lernen - Tag der Weltkirche/
+***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+:PROPERTIES:
+:CUSTOM_ID: C6
+:END:
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-*** <<K03>> Leben und Hoffen angesichts von Schuld, Leid und Tod [[#3a]] [[#3b]] [[#3c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 03
-    :ID:       42a6d906-2243-479f-9688-e1d210d2b05c
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:15] \\
-      Schuld, Leid und Tod im persönlichen Leben und in der Gesellschaft wahrnehmen, unterschiedliche Bewältigungsversuche und Sinndeutungen kennen und mit der befreienden Wirkung des Lebens, des Sterbens und der Auferstehung Jesu in Beziehung setzen können.
-    :END:
+****** Kompetenzbeschreibungen
+****** Anwendungsbereiche
+****** Unterrichtshinweise
 
-   - Emotionale Erfahrungen auf vielfältige Weise zum Ausdruck bringen und Lebensmöglichkeiten angesichts von Leid aufzeigen können ([[C]],[[D]])
-     /Gesprächs- und Konfliktkultur/
-     /Miteinander umgehen können/ 
-     /Ausdrucksformen von Kultur/
-     /Kinderleid bei uns und in der Welt/
-     /Beispielhafte Menschen angesichts von Leid/ 
-     /Angstbewältigung von Leid/
-     /Der Gottesknecht - Jes 52 - 53/ 
-     /Der Weg zum Äußersten/ [[#Leiden Tod Jesu]]
+**** Kompetenzdimensionen 
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+ - Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+ - Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+ - Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+ - Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+ - Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
 
+*** Zentrale fachliche Konzepte
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
 
-*** <<K04>> Würde des Menschen in Freiheit und Verantwortung [[#4a]] [[#4b]] [[#4c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 04
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:18] \\
-      Die eigene Würde und die der anderen anerkennen und reflektieren, was sie im Zusammenleben födert und gefährdet, und sich im solidarischen Handeln am Beispiel Jesu orientieren können.
-    :END:
+**** Lebensrealitäten und Transzendenz
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
 
-   - Neubeginn in der Schule als Herausforderung und Chance wahrnehmen ([[A]],[[C]]).
-     /Lebensbereiche: Schulklasse, Familie, Pfarre/ [[#Schuhe des Anderen]]
-     /Symbole für Neubeginn, z.B. die Tür/
+**** Gottesliebe und Menschenliebe
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
 
-   - Situationen des Gegen- und Miteinander von Menschen reflektieren ([[C]],[[D]])
-     /Regeln für ein gerechtes Zusammenleben/ [[#Dekalog]]
-     /Die Goldene Regel/ 
-     /Freundschaft - biblische Beispiele/ [[#Freundschaft]] [[#treuer Freund]] [[#David Jonathan]]
+**** Jesus der Christus
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
 
-*** <<K05>> Welt und Mensch - Schöpfung Gottes [[#5a]] [[#5b]] [[#5c]] 
-    :PROPERTIES:
-    :CUSTOM_ID: 05
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:21] \\
-      Sich selbst und die Welt als entwicklungsfähig und gefährdet erkennen, die Schöpfung und sich selbst als Geschöpf in Dankbarkeit und Verantwortung verstehen und die Sehnsucht nach Vollendung offen halten.
-    :END:
+**** Freiheit und Offenbarung
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
 
-   - Lebensschätze und Lebensquellen wahrnehmen und persönliche Fähigkeiten als Gabe und Aufgabe erkennen können ([[A]],[[E]]).
-     /Lob und Dank, Glaube und Gebet (Psalmen)/ 
-     /Gaben, Begabungen, Grenzen/ 
-    
+**** Zusage und Verantwortung
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
 
-   - Sich verdankt wissen: Eucharistie als Dank an Gott verstehen können ([[B]])
-     /Die gemeinschaftliche Dimension des Essens/
-     /Jesu Mahlgemeinschaften - Das Letzte Abendmahl/
-     /Die Feier der Heiligen Messe (Wortgottesdienst, Danksagung, Opfer und Mahl)/
+*** Didaktische Grundsätze
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
 
-*** <<K06>> Symbole - Rituale - Sakramente [[#6]]
-    :PROPERTIES:
-    :CUSTOM_ID: 06
-    :ID:       5c5bba3f-132a-4fe2-8c83-f5d906c2aa0b
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:24] \\
-      Symbole und Rituale in Kommunikation, in der Bilder- und Medienwelt beschreiben und interpretieren können, religiöse Ausdrucksformen erklären können und die Bedeutung der Sakramente verstehen.
-    :END:
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des „Ganzen im Fragment“, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
 
-   - Elementare Symbole beschreiben und deuten können ([[A]],[[B]])
-     /Symbole im Leben der Menschen/ [[#Taufe_Symbole]] [[#Pfingsten]]
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
 
-   - Mit Gesten und Rituale der Zusammengehörigkeit und des Glaubens vertraut werden ([[C]],[[E]])
-     /Stille, Meditations- und Gebetsformen/ [[#Gebetsformen]] [[#Regeln_Beten]] [[#Gebet]]
-     /Kreuzzeichen und Grundgebete/ [[#Ave Maria]] [[#Vater Unser]]
-     /Gemeinschaft erleben/ 
-     /Sakramente/ [[#Taufe]]
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
 
-*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]] [[#7c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 07
-    :ID:       3198922b-6408-46f6-a3dd-1b94473ff99e
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:26] \\
-      Zeugnisse des Christlichen in der Kultur entdecken, Feste als Unterbrechung des Alltags verstehen, am kirchlichen Leben in seinen vielfältigen Formen und Traditionen teilhaben können.
-    :END:
+*Fokus: Religiöse Sprache und Symbole*
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
 
-   - Feste und Feiern in Klassen- und Schulgemeinschaft mitgestalten können ([[C]],[[E]])
-     /Bedeutung von Fest und Feier/
-     /Anlässe für Feste und Feiern/ [[#Taufe]] [[#Taufe_Symbole]]
+*Fokus: Philosophieren und Theologisieren*
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
 
-   - Das Kirchenjahr mit seinen Festen als Rhythmus christlichen Lebens kennen und verstehen ([[A]],[[B]])
-     /Struktur des Kirchenjahres/ [[#Aschermittwoch]] [[#Hl. Rupertus]]
-     /Weihnachts- und Osterfestkreis/ [[#Advent]] [[#Weihnachten]] [[#sterndeuter]] [[#Aschermittwoch]] [[#Auferstehung Emmaus]] [[#Pfingsten]]
-     /Marienfeste im Kirchenjahr/ [[#Advent_Maria]]
-     /Möglichkeiten schulgemäßer Gestaltung/
-     /Apostolische Nachfolge, Aufbau der Kirche/ [[#Kirche]]
+*Fokus: Actio und Contemplatio*
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
 
+*Fokus: Beziehung und Resonanz*
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+
+*** Hinweise zum Lehrplan
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** KB – Kompetenzbeschreibungen
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** AB – Anwendungsbereiche
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+
+**** UH – Unterrichtshinweise
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
 
 ** Themengebiete (Kirchenjahr, Heilige Schrift, ...)
 
 
 ** Ziele formulieren
 
-   
-** Methoden entwickeln
-Beispiel 4a: Ich hatte eine gute Diskussion mit den Schülern; sie wünschen sich eine andere Art von Unterricht. Sie wollen ein Thema selbständig erarbeiten. Das klappt vielleicht nicht in jeder Klasse. Bei den vierten Klassen liegt dies sicher mehr auf der Hand. 
 
-     
+** Methoden entwickeln
+Beispiel 4a: Ich hatte eine gute Diskussion mit den Schülern; sie wünschen sich eine andere Art von Unterricht. Sie wollen ein Thema selbständig erarbeiten. Das klappt vielleicht nicht in jeder Klasse. Bei den vierten Klassen liegt dies sicher mehr auf der Hand.
+
+
 * Ablauf einer Stunde
-  
+
  1. Andocken an letzte Stunde / Whg / Aufzeichnungen
  2. Hinführung zu neuem Thema
  3. Erarbeitung durch Schüler
@@ -2518,8 +2545,8 @@ Beispiel 4a: Ich hatte eine gute Diskussion mit den Schülern; sie wünschen sic
 
 
 
-* Checkbox [0/8] 
-  
+* Checkbox [0/8]
+
   - [ ] Klasse?
   - [ ] Ideen
   - [ ] Themen
@@ -2533,13 +2560,15 @@ Beispiel 4a: Ich hatte eine gute Diskussion mit den Schülern; sie wünschen sic
 * Aufzeichnungen / Mitarbeit
 In diesem org.-file zeichne ich die Mitarbeit der einzelnen Schüler auf.
 
-Pro Schüler: 
+Pro Schüler:
  - Datum
  - schriftliche Aufzeichnungen MIT tags :Mitarbeit: :Heft: :Verhalten:
 
 
 * Footnotes
 
-[fn:1] [[https://www.erzabtei-beuron.de/schott/schott_anz/index.html][Lesungen des zweiten Adventsonntags Lesejahr A]] 
+[fn:2] https://www.youcat.org/de/gebet/
+
+[fn:1] [[https://www.erzabtei-beuron.de/schott/schott_anz/index.html][Lesungen des zweiten Adventsonntags Lesejahr A]]
 
 bibliography:/home/matthias/org/Bibliography/Literatur.bib
