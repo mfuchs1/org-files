@@ -24,12 +24,28 @@
 
 
 #+Name: 2021-students
-| First     | Last     | Email                                    | Name               | Notes |
-|-----------+----------+------------------------------------------+--------------------+-------|
-| Firstname | Lastname | [[mailto:Firstname.Lastname@golling.schule]] | [[contact:FirstnameLastname][Firstname Lastname]] |     1 |
-| Peter     | Maier    | [[mailto:Peter.Maier@golling.schule]]        | [[contact:PeterMaier][Peter Maier]]        |     1 |
-| Maria     | Fuchs    | [[mailto:Maria.Fuchs@golling.schule]]        | [[contact:MariaFuchs][Maria Fuchs]]        |     1 |
-| Hans      | Huber    | [[mailto:Hans.Huber@golling.schule]]         | [[contact:HansHuber][Hans Huber]]         |     1 |
+| First    | Last         | Email                                     | Name                | Notes |
+|----------+--------------+-------------------------------------------+---------------------+-------|
+| Marie    | Aigner       | [[mailto:Marie.Aigner@golling.schule]]        | [[contact:MarieAigner][Marie Aigner]]        |       |
+| Marko    | Bijelonjic   | [[mailto:Marko.Bijelonjic@golling.schule]]    | [[contact:MarkoBijelonjic][Marko Bijelonjic]]    |       |
+| Sarah    | Brandstätter | [[mailto:Sarah.Brandstätter@golling.schule]]  | [[contact:SarahBrandstätter][Sarah Brandstätter]]  |       |
+| Matteo   | Eckhardt     | [[mailto:Matteo.Eckhardt@golling.schule]]     | [[contact:MatteoEckhardt][Matteo Eckhardt]]     |       |
+| Diana    | Eibl         | [[mailto:Diana.Eibl@golling.schule]]          | [[contact:DianaEibl][Diana Eibl]]          |       |
+| Oliver   | Kurz         | [[mailto:Oliver.Kurz@golling.schule]]         | [[contact:OliverKurz][Oliver Kurz]]         |       |
+| Elisa    | Mayr         | [[mailto:Elisa.Mayr@golling.schule]]          | [[contact:ElisaMayr][Elisa Mayr]]          |       |
+| Alisa    | Meisl        | [[mailto:Alisa.Meisl@golling.schule]]         | [[contact:AlisaMeisl][Alisa Meisl]]         |       |
+| Carolina | Schlager     | [[mailto:Carolina.Schlager@golling.schule]]   | [[contact:CarolinaSchlager][Carolina Schlager]]   |       |
+| Marie    | Schmidt      | [[mailto:Marie.Schmidt@golling.schule]]       | [[contact:MarieSchmidt][Marie Schmidt]]       |       |
+| Annika   | Schröcker    | [[mailto:Annika.Schröcker@golling.schule]]    | [[contact:AnnikaSchröcker][Annika Schröcker]]    |       |
+| Lea      | Stoß         | [[mailto:Lea.Stoß@golling.schule]]            | [[contact:LeaStoß][Lea Stoß]]            |       |
+| Manuel   | Stoß         | [[mailto:Manuel.Stoß@golling.schule]]         | [[contact:ManuelStoß][Manuel Stoß]]         |       |
+| Johanna  | Strubreiter  | [[mailto:Johanna.Strubreiter@golling.schule]] | [[contact:JohannaStrubreiter][Johanna Strubreiter]] |       |
+| Laurenz  | Walcher      | [[mailto:Laurenz.Walcher@golling.schule]]     | [[contact:LaurenzWalcher][Laurenz Walcher]]     |       |
+| Lorenz   | Wallinger    | [[mailto:Lorenz.Wallinger@golling.schule]]    | [[contact:LorenzWallinger][Lorenz Wallinger]]    |       |
+| Jana     | Wenger       | [[mailto:Jana.Wenger@golling.schule]]         | [[contact:JanaWenger][Jana Wenger]]         |       |
+| Luca     | Zemmer       | [[mailto:Luca.Zemmer@golling.schule]]         | [[contact:LucaZemmer][Luca Zemmer]]         |       |
+| Karlo    | Zivkovic     | [[mailto:Karlo.Zivkovic@golling.schule]]      | [[contact:KarloZivkovic][Karlo Zivkovic]]      |       |
+| Robert   | Zivkovic     | [[mailto:Robert.Zivkovic@golling.schule]]     | [[contact:RobertZivkovic][Robert Zivkovic]]     |       |
 #+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
 #+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
@@ -68,12 +84,29 @@ for student in table:
 Whenever there is some grading going on, I create lists for the class such as:
 
 #+Name: 2021-22-Mitarbeit
-| Name               | Notes | [[id:01_SW01][SW01]] | [[id:01_SW02][SW02]] | [[id:01_SW03][SW03]] | [[id:01_SW04][SW04]] | [[id:01_SW05][SW05]] | [[id:01_SW06][SW06]] | [[id:01_SW07][SW07]] | [[id:01_SW08][SW08]] | [[id:01_SW09][SW09]] | [[id:01_SW10][SW10]] | [[id:01_SW11][SW11]] | [[id:01_SW12][SW12]] | [[id:01_SW13][SW13]] | [[id:01_SW14][SW14]] | [[id:01_SW15][SW15]] | [[id:01_SW16][SW16]] | [[id:01_SW17][SW17]] | [[id:01_SW18][SW18]] | [[id:01_SW19][SW19]] | [[id:01_SW20][SW20]] | [[id:01_SW21][SW21]] | [[id:01_SW22][SW22]] |
-|--------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
-| [[contact:FirstnameLastname][Firstname Lastname]] |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:PeterMaier][Peter Maier]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:MariaFuchs][Maria Fuchs]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:HansHuber][Hans Huber]]         |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-#+TBLFM: $2=vmean($INVALID..$>)
+| Name                | Notes | [[id:01_SW01][SW01]] | [[id:01_SW02][SW02]] | [[id:01_SW03][SW03]] | [[id:01_SW04][SW04]] | [[id:01_SW05][SW05]] | [[id:01_SW06][SW06]] | [[id:01_SW07][SW07]] | [[id:01_SW08][SW08]] | [[id:01_SW09][SW09]] | [[id:01_SW10][SW10]] | [[id:01_SW11][SW11]] | [[id:01_SW12][SW12]] | [[id:01_SW13][SW13]] | [[id:01_SW14][SW14]] | [[id:01_SW15][SW15]] | [[id:01_SW16][SW16]] | [[id:01_SW17][SW17]] | [[id:01_SW18][SW18]] | [[id:01_SW19][SW19]] | [[id:01_SW20][SW20]] | [[id:01_SW21][SW21]] | [[id:01_SW22][SW22]] |
+|---------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| [[contact:MarieAigner][Marie Aigner]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:MarkoBijelonjic][Marko Bijelonjic]]    |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:SarahBrandstätter][Sarah Brandstätter]]  |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:MatteoEckhardt][Matteo Eckhardt]]     |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:DianaEibl][Diana Eibl]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:OliverKurz][Oliver Kurz]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:ElisaMayr][Elisa Mayr]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:AlisaMeisl][Alisa Meisl]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:CarolinaSchlager][Carolina Schlager]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:MarieSchmidt][Marie Schmidt]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:AnnikaSchröcker][Annika Schröcker]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:LeaStoß][Lea Stoß]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:ManuelStoß][Manuel Stoß]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:JohannaStrubreiter][Johanna Strubreiter]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:LaurenzWalcher][Laurenz Walcher]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:LorenzWallinger][Lorenz Wallinger]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:JanaWenger][Jana Wenger]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:LucaZemmer][Luca Zemmer]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:KarloZivkovic][Karlo Zivkovic]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:RobertZivkovic][Robert Zivkovic]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+#+TBLFM: $2=vmean($2..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
+
 

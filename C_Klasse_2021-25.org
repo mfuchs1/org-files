@@ -23,12 +23,28 @@
 :END:
 
 #+Name: 2021-students
-| First     | Last     | Email                                    | Name               | Notes |
-|-----------+----------+------------------------------------------+--------------------+-------|
-| Firstname | Lastname | [[mailto:Firstname.Lastname@golling.schule]] | [[contact:FirstnameLastname][Firstname Lastname]] |     1 |
-| Peter     | Maier    | [[mailto:Peter.Maier@golling.schule]]        | [[contact:PeterMaier][Peter Maier]]        |     1 |
-| Maria     | Fuchs    | [[mailto:Maria.Fuchs@golling.schule]]        | [[contact:MariaFuchs][Maria Fuchs]]        |     1 |
-| Hans      | Huber    | [[mailto:Hans.Huber@golling.schule]]         | [[contact:HansHuber][Hans Huber]]         |     1 |
+| First      | Last           | Email                                      | Name                 | Notes |
+|------------+----------------+--------------------------------------------+----------------------+-------|
+| Leonie     | Auer           | [[mailto:Leonie.Auer@golling.schule]]          | [[contact:LeonieAuer][Leonie Auer]]          |       |
+| Selena     | Chmelik        | [[mailto:Selena.Chmelik@golling.schule]]       | [[contact:SelenaChmelik][Selena Chmelik]]       |       |
+| Sarah      | Dick           | [[mailto:Sarah.Dick@golling.schule]]           | [[contact:SarahDick][Sarah Dick]]           |       |
+| Maximilian | Eberl          | [[mailto:Maximilian.Eberl@golling.schule]]     | [[contact:MaximilianEberl][Maximilian Eberl]]     |       |
+| Ana        | Ferreira Leite | [[mailto:Ana.Ferreira Leite@golling.schule]]   | [[contact:AnaFerreira Leite][Ana Ferreira Leite]]   |       |
+| Rafael     | Galler         | [[mailto:Rafael.Galler@golling.schule]]        | [[contact:RafaelGaller][Rafael Galler]]        |       |
+| Sena       | Korkmaz        | [[mailto:Sena.Korkmaz@golling.schule]]         | [[contact:SenaKorkmaz][Sena Korkmaz]]         |       |
+| Anja       | Lindenthaler   | [[mailto:Anja.Lindenthaler@golling.schule]]    | [[contact:AnjaLindenthaler][Anja Lindenthaler]]    |       |
+| Anna       | Loidl          | [[mailto:Anna.Loidl@golling.schule]]           | [[contact:AnnaLoidl][Anna Loidl]]           |       |
+| Karlo      | Lukacevic      | [[mailto:Karlo.Lukacevic@golling.schule]]      | [[contact:KarloLukacevic][Karlo Lukacevic]]      |       |
+| Paulina    | Montellano     | [[mailto:Paulina.Montellano@golling.schule]]   | [[contact:PaulinaMontellano][Paulina Montellano]]   |       |
+| Tobias     | Neureiter      | [[mailto:Tobias.Neureiter@golling.schule]]     | [[contact:TobiasNeureiter][Tobias Neureiter]]     |       |
+| Serah      | Prömer         | [[mailto:Serah.Prömer@golling.schule]]         | [[contact:SerahPrömer][Serah Prömer]]         |       |
+| Melanie    | Scherer        | [[mailto:Melanie.Scherer@golling.schule]]      | [[contact:MelanieScherer][Melanie Scherer]]      |       |
+| Lauren     | Steinberger    | [[mailto:Lauren.Steinberger@golling.schule]]   | [[contact:LaurenSteinberger][Lauren Steinberger]]   |       |
+| Hannah     | Vorderleitner  | [[mailto:Hannah.Vorderleitner@golling.schule]] | [[contact:HannahVorderleitner][Hannah Vorderleitner]] |       |
+| Jakob      | Wallinger      | [[mailto:Jakob.Wallinger@golling.schule]]      | [[contact:JakobWallinger][Jakob Wallinger]]      |       |
+| Katharina  | Wallinger      | [[mailto:Katharina.Wallinger@golling.schule]]  | [[contact:KatharinaWallinger][Katharina Wallinger]]  |       |
+| Paula      | Weißenbacher   | [[mailto:Paula.Weißenbacher@golling.schule]]   | [[contact:PaulaWeißenbacher][Paula Weißenbacher]]   |       |
+| Yaren      | Yavuzer        | [[mailto:Yaren.Yavuzer@golling.schule]]        | [[contact:YarenYavuzer][Yaren Yavuzer]]        |       |
 #+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
 #+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
@@ -66,14 +82,31 @@ for student in table:
 Whenever there is some grading going on, I create lists for the class such as:
 
 #+Name: 2021-22-Mitarbeit
-| Name               | Notes | [[id:01_SW01][SW01]] | [[id:01_SW02][SW02]] | [[id:01_SW03][SW03]] | [[id:01_SW04][SW04]] | [[id:01_SW05][SW05]] | [[id:01_SW06][SW06]] | [[id:01_SW07][SW07]] | [[id:01_SW08][SW08]] | [[id:01_SW09][SW09]] | [[id:01_SW10][SW10]] | [[id:01_SW11][SW11]] | [[id:01_SW12][SW12]] | [[id:01_SW13][SW13]] | [[id:01_SW14][SW14]] | [[id:01_SW15][SW15]] | [[id:01_SW16][SW16]] | [[id:01_SW17][SW17]] | [[id:01_SW18][SW18]] | [[id:01_SW19][SW19]] | [[id:01_SW20][SW20]] | [[id:01_SW21][SW21]] | [[id:01_SW22][SW22]] |
-|--------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
-| [[contact:FirstnameLastname][Firstname Lastname]] |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:PeterMaier][Peter Maier]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:MariaFuchs][Maria Fuchs]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| [[contact:HansHuber][Hans Huber]]         |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-#+TBLFM: $2=vmean($INVALID..$>)
+| Name                 | Notes | [[id:01_SW01][SW01]] | [[id:01_SW02][SW02]] | [[id:01_SW03][SW03]] | [[id:01_SW04][SW04]] | [[id:01_SW05][SW05]] | [[id:01_SW06][SW06]] | [[id:01_SW07][SW07]] | [[id:01_SW08][SW08]] | [[id:01_SW09][SW09]] | [[id:01_SW10][SW10]] | [[id:01_SW11][SW11]] | [[id:01_SW12][SW12]] | [[id:01_SW13][SW13]] | [[id:01_SW14][SW14]] | [[id:01_SW15][SW15]] | [[id:01_SW16][SW16]] | [[id:01_SW17][SW17]] | [[id:01_SW18][SW18]] | [[id:01_SW19][SW19]] | [[id:01_SW20][SW20]] | [[id:01_SW21][SW21]] | [[id:01_SW22][SW22]] |
+|----------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| [[contact:LeonieAuer][Leonie Auer]]          |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:SelenaChmelik][Selena Chmelik]]       |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:SarahDick][Sarah Dick]]           |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:MaximilianEberl][Maximilian Eberl]]     |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:AnaFerreira Leite][Ana Ferreira Leite]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:RafaelGaller][Rafael Galler]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:SenaKorkmaz][Sena Korkmaz]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:AnjaLindenthaler][Anja Lindenthaler]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:AnnaLoidl][Anna Loidl]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:KarloLukacevic][Karlo Lukacevic]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:PaulinaMontellano][Paulina Montellano]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:TobiasNeureiter][Tobias Neureiter]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:SerahPrömer][Serah Prömer]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:MelanieScherer][Melanie Scherer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:LaurenSteinberger][Lauren Steinberger]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:HannahVorderleitner][Hannah Vorderleitner]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:JakobWallinger][Jakob Wallinger]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:KatharinaWallinger][Katharina Wallinger]]  |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:PaulaWeißenbacher][Paula Weißenbacher]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| [[contact:YarenYavuzer][Yaren Yavuzer]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+#+TBLFM: $2=vmean($2..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
+
 
 
 
