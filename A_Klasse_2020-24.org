@@ -34,10 +34,10 @@
 | Tobias         | Kappel      | [[mailto:Tobias.Kappel@golling.schule]]         | [[contact:TobiasKappel][Tobias Kappel]]         |       |
 | Mohamad Mahmud | Khatib      | [[mailto:Mohamad Mahmud.Khatib@golling.schule]] | [[contact:Mohamad MahmudKhatib][Mohamad Mahmud Khatib]] |       |
 | Luis           | Korten      | [[mailto:Luis.Korten@golling.schule]]           | [[contact:LuisKorten][Luis Korten]]           |       |
+| Adrian         | Lamprecht   | [[mailto:Adrian.Lamprecht@golling.schule]]      | [[contact:AdrianLamprecht][Adrian Lamprecht]]      |       |
 | Noah           | Linhuber    | [[mailto:Noah.Linhuber@golling.schule]]         | [[contact:NoahLinhuber][Noah Linhuber]]         |       |
 | Hanna          | Maier       | [[mailto:Hanna.Maier@golling.schule]]           | [[contact:HannaMaier][Hanna Maier]]           |       |
 | Ramandeep      | Markandey   | [[mailto:Ramandeep.Markandey@golling.schule]]   | [[contact:RamandeepMarkandey][Ramandeep Markandey]]   |       |
-| Sibel          | Murauer     | [[mailto:Sibel.Murauer@golling.schule]]         | [[contact:SibelMurauer][Sibel Murauer]]         |       |
 | Melissa        | Neudorfer   | [[mailto:Melissa.Neudorfer@golling.schule]]     | [[contact:MelissaNeudorfer][Melissa Neudorfer]]     |       |
 | Jelena         | Ruzic       | [[mailto:Jelena.Ruzic@golling.schule]]          | [[contact:JelenaRuzic][Jelena Ruzic]]          |       |
 | Arthur         | Schattauer  | [[mailto:Arthur.Schattauer@golling.schule]]     | [[contact:ArthurSchattauer][Arthur Schattauer]]     |       |
@@ -96,10 +96,10 @@ Whenever there is some grading going on, I create lists for the class such as:
 | [[contact:TobiasKappel][Tobias Kappel]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:Mohamad MahmudKhatib][Mohamad Mahmud Khatib]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:LuisKorten][Luis Korten]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:AdrianLamprecht][Adrian Lamprecht]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:NoahLinhuber][Noah Linhuber]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:HannaMaier][Hanna Maier]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:RamandeepMarkandey][Ramandeep Markandey]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
-| [[contact:SibelMurauer][Sibel Murauer]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:MelissaNeudorfer][Melissa Neudorfer]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:JelenaRuzic][Jelena Ruzic]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
 | [[contact:ArthurSchattauer][Arthur Schattauer]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |

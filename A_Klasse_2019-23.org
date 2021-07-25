@@ -27,17 +27,18 @@
 #+Name: 2021-students
 | First         | Last        | Email                                           | Name                      | Notes |
 |---------------+-------------+-------------------------------------------------+---------------------------+-------|
+| Johannes      | Aschner     | [[mailto:Johannes.Aschner@golling.schule]]          | [[contact:JohannesAschner][Johannes Aschner]]          |       |
 | Samuel        | Bernhofer   | [[mailto:Samuel.Bernhofer@golling.schule]]          | [[contact:SamuelBernhofer][Samuel Bernhofer]]          |       |
 | Ferhan        | Fikret      | [[mailto:Ferhan.Fikret@golling.schule]]             | [[contact:FerhanFikret][Ferhan Fikret]]             |       |
+| Denise        | Gaulke      | [[mailto:Denise.Gaulke@golling.schule]]             | [[contact:DeniseGaulke][Denise Gaulke]]             |       |
 | Fabio         | Hauser      | [[mailto:Fabio.Hauser@golling.schule]]              | [[contact:FabioHauser][Fabio Hauser]]              |       |
 | Zita          | Hofer       | [[mailto:Zita.Hofer@golling.schule]]                | [[contact:ZitaHofer][Zita Hofer]]                |       |
+| Michael       | Höllweger   | [[mailto:Michael.Höllweger@golling.schule]]         | [[contact:MichaelHöllweger][Michael Höllweger]]         |       |
 | Anna          | Hornegger   | [[mailto:Anna.Hornegger@golling.schule]]            | [[contact:AnnaHornegger][Anna Hornegger]]            |       |
 | Emily         | Loidfellner | [[mailto:Emily.Loidfellner@golling.schule]]         | [[contact:EmilyLoidfellner][Emily Loidfellner]]         |       |
-| Nikolaus      | Loidl       | [[mailto:Nikolaus.Loidl@golling.schule]]            | [[contact:NikolausLoidl][Nikolaus Loidl]]            |       |
 | Michelle      | Neureiter   | [[mailto:Michelle.Neureiter@golling.schule]]        | [[contact:MichelleNeureiter][Michelle Neureiter]]        |       |
 | Selina        | Neureiter   | [[mailto:Selina.Neureiter@golling.schule]]          | [[contact:SelinaNeureiter][Selina Neureiter]]          |       |
 | Florian       | Pointner    | [[mailto:Florian.Pointner@golling.schule]]          | [[contact:FlorianPointner][Florian Pointner]]          |       |
-| Hannah        | Prömer      | [[mailto:Hannah.Prömer@golling.schule]]             | [[contact:HannahPrömer][Hannah Prömer]]             |       |
 | Benjamin      | Ramic       | [[mailto:Benjamin.Ramic@golling.schule]]            | [[contact:BenjaminRamic][Benjamin Ramic]]            |       |
 | Theresa       | Reiter      | [[mailto:Theresa.Reiter@golling.schule]]            | [[contact:TheresaReiter][Theresa Reiter]]            |       |
 | Lukas         | Russegger   | [[mailto:Lukas.Russegger@golling.schule]]           | [[contact:LukasRussegger][Lukas Russegger]]           |       |
@@ -49,6 +50,7 @@
 | Ebu           | Tanriverdi  | [[mailto:Ebu.Tanriverdi@golling.schule]]            | [[contact:EbuTanriverdi][Ebu Tanriverdi]]            |       |
 | Melanie       | Tikvic      | [[mailto:Melanie.Tikvic@golling.schule]]            | [[contact:MelanieTikvic][Melanie Tikvic]]            |       |
 | Milos         | Vujic       | [[mailto:Milos.Vujic@golling.schule]]               | [[contact:MilosVujic][Milos Vujic]]               |       |
+| Denise        | Wallner     | [[mailto:Denise.Wallner@golling.schule]]            | [[contact:DeniseWallner][Denise Wallner]]            |       |
 |---------------+-------------+-------------------------------------------------+---------------------------+-------|
 #+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
 #+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
@@ -89,17 +91,18 @@ Whenever there is some grading going on, I create lists for the class such as:
 #+Name: 2021-22-Mitarbeit
 | Name                      | Notes | [[id:03_SW01][SW01]] | [[id:03_SW02][SW02]] | [[id:03_SW03][SW03]] | [[id:03_SW04][SW04]] | [[id:03_SW05][SW05]] | [[id:03_SW06][SW06]] | [[id:03_SW07][SW07]] | [[id:03_SW08][SW08]] | [[id:03_SW09][SW09]] | [[id:03_SW10][SW10]] | [[id:03_SW11][SW11]] | [[id:03_SW12][SW12]] | [[id:03_SW13][[SW13]] | [[id:03_SW14][SW14]] | [[id:03_SW15][SW15]] | [[id:03_SW16][SW16]] | [[id:03_SW17][SW17]] | [[id:03_SW18][SW18]] | [[id:03_SW19][SW19]] | [[id:03_SW20][SW20]] | [[id:03_SW21][SW21]] | [[id:03_SW22][SFerien]] |
 |---------------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------+------+------+---------|
+| [[contact:JohannesAschner][Johannes Aschner]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:SamuelBernhofer][Samuel Bernhofer]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:FerhanFikret][Ferhan Fikret]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:DeniseGaulke][Denise Gaulke]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:FabioHauser][Fabio Hauser]]              |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:ZitaHofer][Zita Hofer]]                |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MichaelHöllweger][Michael Höllweger]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:AnnaHornegger][Anna Hornegger]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:EmilyLoidfellner][Emily Loidfellner]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
-| [[contact:NikolausLoidl][Nikolaus Loidl]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:MichelleNeureiter][Michelle Neureiter]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:SelinaNeureiter][Selina Neureiter]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:FlorianPointner][Florian Pointner]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
-| [[contact:HannahPrömer][Hannah Prömer]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:BenjaminRamic][Benjamin Ramic]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:TheresaReiter][Theresa Reiter]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:LukasRussegger][Lukas Russegger]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
@@ -111,6 +114,7 @@ Whenever there is some grading going on, I create lists for the class such as:
 | [[contact:EbuTanriverdi][Ebu Tanriverdi]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:MelanieTikvic][Melanie Tikvic]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 | [[contact:MilosVujic][Milos Vujic]]               |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:DeniseWallner][Denise Wallner]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
 #+TBLFM: $2=vmean($3..$>)
 

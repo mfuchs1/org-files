@@ -32,8 +32,7 @@ Beide dritten Klassen sind diese Woche in Verkehrsbeschränkung.
 |-----------+--------------+----------------------------------------------+------------------------+-------|
 | Lana      | Alsaadi      | [[mailto:Lana.Alsaadi@golling.schule]]           | [[contact:LanaAlsaadi][Lana Alsaadi]]           |       |
 | Aurelia   | Eckhardt     | [[mailto:Aurelia.Eckhardt@golling.schule]]       | [[contact:AureliaEckhardt][Aurelia Eckhardt]]       |       |
-| Dalal     | Farman       | [[mailto:Dalal.Farman@golling.schule]]           | [[contact:DalalFarman][Dalal Farman]]           |       |
-| Safia     | Farman       | [[mailto:Safia.Farman@golling.schule]]           | [[contact:SafiaFarman][Safia Farman]]           |       |
+| Fabio     | Kappacher    | [[mailto:Fabio.Kappacher@golling.schule]]        | [[contact:FabioKappacher][Fabio Kappacher]]        |       |
 | Jakob     | Mair         | [[mailto:Jakob.Mair@golling.schule]]             | [[contact:JakobMair][Jakob Mair]]             |       |
 | Theresa   | Malter       | [[mailto:Theresa.Malter@golling.schule]]         | [[contact:TheresaMalter][Theresa Malter]]         |       |
 | Yashbhan  | Markandey    | [[mailto:Yashbhan.Markandey@golling.schule]]     | [[contact:YashbhanMarkandey][Yashbhan Markandey]]     |       |
@@ -41,6 +40,7 @@ Beide dritten Klassen sind diese Woche in Verkehrsbeschränkung.
 | Nikola    | Momic        | [[mailto:Nikola.Momic@golling.schule]]           | [[contact:NikolaMomic][Nikola Momic]]           |       |
 | Jana M.   | Promock      | [[mailto:Jana M..Promock@golling.schule]]        | [[contact:Jana M.Promock][Jana M. Promock]]        |       |
 | Louisa    | Schattauer   | [[mailto:Louisa.Schattauer@golling.schule]]      | [[contact:LouisaSchattauer][Louisa Schattauer]]      |       |
+| Viktoria  | Schwarz      | [[mailto:Viktoria.Schwarz@golling.schule]]       | [[contact:ViktoriaSchwarz][Viktoria Schwarz]]       |       |
 | Sarah     | Seer         | [[mailto:Sarah.Seer@golling.schule]]             | [[contact:SarahSeer][Sarah Seer]]             |       |
 | Andreas   | Seiwald      | [[mailto:Andreas.Seiwald@golling.schule]]        | [[contact:AndreasSeiwald][Andreas Seiwald]]        |       |
 | Mariella  | Strubegger   | [[mailto:Mariella.Strubegger@golling.schule]]    | [[contact:MariellaStrubegger][Mariella Strubegger]]    |       |
@@ -48,6 +48,7 @@ Beide dritten Klassen sind diese Woche in Verkehrsbeschränkung.
 | Maria     | Wallmann     | [[mailto:Maria.Wallmann@golling.schule]]         | [[contact:MariaWallmann][Maria Wallmann]]         |       |
 | Katharina | Weißenbacher | [[mailto:Katharina.Weißenbacher@golling.schule]] | [[contact:KatharinaWeißenbacher][Katharina Weißenbacher]] |       |
 | Hannah    | Wenger       | [[mailto:Hannah.Wenger@golling.schule]]          | [[contact:HannahWenger][Hannah Wenger]]          |       |
+| Sevval    | Yenipazarli  | [[mailto:Sevval.Yenipazarli@golling.schule]]     | [[contact:SevvalYenipazarli][Sevval Yenipazarli]]     |       |
 #+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
 #+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
@@ -89,8 +90,7 @@ Whenever there is some grading going on, I create lists for the class such as:
 |------------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------|
 | [[contact:LanaAlsaadi][Lana Alsaadi]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:AureliaEckhardt][Aurelia Eckhardt]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
-| [[contact:DalalFarman][Dalal Farman]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
-| [[contact:SafiaFarman][Safia Farman]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:FabioKappacher][Fabio Kappacher]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:JakobMair][Jakob Mair]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:TheresaMalter][Theresa Malter]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:YashbhanMarkandey][Yashbhan Markandey]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
@@ -98,6 +98,7 @@ Whenever there is some grading going on, I create lists for the class such as:
 | [[contact:NikolaMomic][Nikola Momic]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:Jana M.Promock][Jana M. Promock]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:LouisaSchattauer][Louisa Schattauer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:ViktoriaSchwarz][Viktoria Schwarz]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:SarahSeer][Sarah Seer]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:AndreasSeiwald][Andreas Seiwald]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:MariellaStrubegger][Mariella Strubegger]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
@@ -105,6 +106,7 @@ Whenever there is some grading going on, I create lists for the class such as:
 | [[contact:MariaWallmann][Maria Wallmann]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:KatharinaWeißenbacher][Katharina Weißenbacher]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:HannahWenger][Hannah Wenger]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:SevvalYenipazarli][Sevval Yenipazarli]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
 

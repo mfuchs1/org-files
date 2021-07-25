@@ -25,15 +25,15 @@
 #+Name: 2021-students
 | First     | Last         | Email                                        | Name                   | Notes |
 |-----------+--------------+----------------------------------------------+------------------------+-------|
-| Chiara    | Auer         | [[mailto:Chiara.Auer@golling.schule]]            | [[contact:ChiaraAuer][Chiara Auer]]            |   1.4 |
+| Chiara    | Aher         | [[mailto:Chiara.Aher@golling.schule]]            | [[contact:ChiaraAher][Chiara Aher]]            |   1.4 |
 | Andrea    | Aschauer     | [[mailto:Andrea.Aschauer@golling.schule]]        | [[contact:AndreaAschauer][Andrea Aschauer]]        |   1.4 |
 | Anna      | Aschauer     | [[mailto:Anna.Aschauer@golling.schule]]          | [[contact:AnnaAschauer][Anna Aschauer]]          |   1.8 |
 | Dominik   | Bijelonjic   | [[mailto:Dominik.Bijelonjic@golling.schule]]     | [[contact:DominikBijelonjic][Dominik Bijelonjic]]     |   1.2 |
 | Christoph | Brandstätter | [[mailto:Christoph.Brandstätter@golling.schule]] | [[contact:ChristophBrandstätter][Christoph Brandstätter]] |   1.4 |
 | Sümeyra   | Dogan        | [[mailto:Sümeyra.Dogan@golling.schule]]          | [[contact:SümeyraDogan][Sümeyra Dogan]]          |   1.6 |
+| Dalal     | Farman       | [[mailto:Dalal.Farman@golling.schule]]           | [[contact:DalalFarman][Dalal Farman]]           |       |
 | Thomas    | Dressler     | [[mailto:Thomas.Dressler@golling.schule]]        | [[contact:ThomasDressler][Thomas Dressler]]        |   2.2 |
 | Katharina | Harlander    | [[mailto:Katharina.Harlander@golling.schule]]    | [[contact:KatharinaHarlander][Katharina Harlander]]    |     1 |
-| Laura     | Harlander    | [[mailto:Laura.Harlander@golling.schule]]        | [[contact:LauraHarlander][Laura Harlander]]        |     1 |
 | Alexander | Lanner       | [[mailto:Alexander.Lanner@golling.schule]]       | [[contact:AlexanderLanner][Alexander Lanner]]       |   1.8 |
 | Michael   | Lindenthaler | [[mailto:Michael.Lindenthaler@golling.schule]]   | [[contact:MichaelLindenthaler][Michael Lindenthaler]]   |     2 |
 | Luisa     | Meisl        | [[mailto:Luisa.Meisl@golling.schule]]            | [[contact:LuisaMeisl][Luisa Meisl]]            |     2 |
@@ -42,6 +42,7 @@
 | Alexander | Pernhofer    | [[mailto:Alexander.Pernhofer@golling.schule]]    | [[contact:AlexanderPernhofer][Alexander Pernhofer]]    |   1.4 |
 | Gerald    | Rettenbacher | [[mailto:Gerald.Rettenbacher@golling.schule]]    | [[contact:GeraldRettenbacher][Gerald Rettenbacher]]    |   2.2 |
 | Luisa     | Seyfried     | [[mailto:Luisa.Seyfried@golling.schule]]         | [[contact:LuisaSeyfried][Luisa Seyfried]]         |   1.2 |
+| Maria     | Sokic        | [[mailto:Maria.Sokic@golling.schule]]            | [[contact:MariaSokic][Maria Sokic]]            |       |
 | Eva       | Strubreiter  | [[mailto:Eva.Strubreiter@golling.schule]]        | [[contact:EvaStrubreiter][Eva Strubreiter]]        |   1.8 |
 |-----------+--------------+----------------------------------------------+------------------------+-------|
 #+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
@@ -82,15 +83,15 @@ Whenever there is some grading going on, I create lists for the class such as:
 #+Name: 2021-22-Mitarbeit
 | Name                   | Notes | [[id:04_SW01][SW01]] | [[id:04_SW02][SW02]] | [[id:04_SW03][SW03]] | [[id:04_SW04][SW04]] | [[id:04_SW05][SW05]] | [[id:04_SW06][SW06]] | [[id:04_SW07][SW07]] | [[id:04_SW08][SW08]] | [[id:04_SW09][SW09]] | [[id:04_SW10][SW10]] | [[id:04_SW11][SW11]] | [[id:04_SW12][SW12]] | [[id:04_SW13][SW13]] | [[id:04_SW14][SW14]] | [[id:04_SW15][SW15]] | [[id:04_SW16][[SW16]] | [[id:04_SW17][SW17]] | [[id:04_SW18][SW18]] | [[id:04_SW19][SW19]] | [[id:04_SW20][SW20]] | [[id:04_SW21][SW21]] | [[id:04_SW22][SW22]] |
 |------------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------|
-| [[contact:ChiaraAuer][Chiara Auer]]            |   1.4 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:ChiaraAher][Chiara Aher]]            |   1.4 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:AndreaAschauer][Andrea Aschauer]]        |   1.4 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:AnnaAschauer][Anna Aschauer]]          |   1.8 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:DominikBijelonjic][Dominik Bijelonjic]]     |   1.2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:ChristophBrandstätter][Christoph Brandstätter]] |   1.4 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:SümeyraDogan][Sümeyra Dogan]]          |   1.6 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
-| [[contact:ThomasDressler][Thomas Dressler]]        |   2.2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:DalalFarman][Dalal Farman]]           |   2.2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:ThomasDressler][Thomas Dressler]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:KatharinaHarlander][Katharina Harlander]]    |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
-| [[contact:LauraHarlander][Laura Harlander]]        |     1 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:AlexanderLanner][Alexander Lanner]]       |   1.8 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:MichaelLindenthaler][Michael Lindenthaler]]   |     2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:LuisaMeisl][Luisa Meisl]]            |     2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
@@ -99,6 +100,7 @@ Whenever there is some grading going on, I create lists for the class such as:
 | [[contact:AlexanderPernhofer][Alexander Pernhofer]]    |   1.4 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:GeraldRettenbacher][Gerald Rettenbacher]]    |   2.2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 | [[contact:LuisaSeyfried][Luisa Seyfried]]         |   1.2 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
-| [[contact:EvaStrubreiter][Eva Strubreiter]]        |   1.8 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:MariaSokic][Maria Sokic]]            |   1.8 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:EvaStrubreiter][Eva Strubreiter]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
 #+TBLFM: $2=vmean($INVALID..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
