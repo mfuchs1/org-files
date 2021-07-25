@@ -1,0 +1,172 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 3B
+#+SELECT_TAGS: BS
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 3B
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Bernhofer Sophie                                                       :BS:
+** Mitarbeit
+
+*** war sehr gut dabei 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+LINK: [[file:~/org/02_Golling.org::#Maria Rosenkranz][file:~/org/02_Golling.org::#Maria Rosenkranz]]
+:END:
+
+*** hat sich gut eingebracht 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+LINK: [[file:~/org/02_Golling.org::#Taufe 1][file:~/org/02_Golling.org::#Taufe 1]]
+:END:
+
+*** Hat gut gearbeitet
+
+*** [[file:~/org/01_Golling.org::#Weihnachten][file:~/org/01_Golling.org::#Weihnachten]]
+Sophie hat gut mitgearbeitet.
+
+*** Sophie war toll!
+[[id:Weihnachten][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+Stellte gute Fragen.
+
+*** Sophie war wieder einmal sehr gut. 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+:END:
+
+[[id:Weihnachten][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+
+*** ein abschließender Eintrag für Sophie 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+LINK: [[id:Weihnachten][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+:END:
+
+yes!
+
+** Verhalten
+
+*** Sophie hat sich toll verhalten 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+:END:
+[[id:Weihnachten][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+
+Top!
+
+*** Sophie ... gut verhalten! 
+:PROPERTIES:
+DATE: <2021-07-20 Di>
+:END:
+[[id:Weihnachten][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+
+Toll!
+
+** Heftführung
+
+* 3B [KV: Christoph Rosner]
+:PROPERTIES:
+:CUSTOM_ID: Klasse2b
+:END:
+
+#+Name: 2021-students
+| First     | Last         | Email                                    | Name               | Notes |
+|-----------+--------------+------------------------------------------+--------------------+-------|
+| Seyma     | Alan         | [[mailto:Seyma.Alan@golling.schule]]         | [[contact:SeymaAlan][Seyma Alan]]         |       |
+| Kaan      | Bayraktar    | [[mailto:Kaan.Bayraktar@golling.schule]]     | [[contact:KaanBayraktar][Kaan Bayraktar]]     |       |
+| Sophie    | Bernhofer    | [[mailto:Sophie.Bernhofer@golling.schule]]   | [[contact:SophieBernhofer][Sophie Bernhofer]]   |       |
+| Jakob     | Brückler     | [[mailto:Jakob.Brückler@golling.schule]]     | [[contact:JakobBrückler][Jakob Brückler]]     |       |
+| Marie     | Essl         | [[mailto:Marie.Essl@golling.schule]]         | [[contact:MarieEssl][Marie Essl]]         |       |
+| Florian   | Hollweger    | [[mailto:Florian.Hollweger@golling.schule]]  | [[contact:FlorianHollweger][Florian Hollweger]]  |       |
+| Michael   | Höllweger    | [[mailto:Michael.Höllweger@golling.schule]]  | [[contact:MichaelHöllweger][Michael Höllweger]]  |       |
+| Sara      | Kappacher    | [[mailto:Sara.Kappacher@golling.schule]]     | [[contact:SaraKappacher][Sara Kappacher]]     |       |
+| Nico      | Knapp        | [[mailto:Nico.Knapp@golling.schule]]         | [[contact:NicoKnapp][Nico Knapp]]         |       |
+| Lorenz    | Knefz        | [[mailto:Lorenz.Knefz@golling.schule]]       | [[contact:LorenzKnefz][Lorenz Knefz]]       |       |
+| Mato      | Knezevic     | [[mailto:Mato.Knezevic@golling.schule]]      | [[contact:MatoKnezevic][Mato Knezevic]]      |       |
+| Magdalena | Kronreif     | [[mailto:Magdalena.Kronreif@golling.schule]] | [[contact:MagdalenaKronreif][Magdalena Kronreif]] |       |
+| Lisa      | Lindenthaler | [[mailto:Lisa.Lindenthaler@golling.schule]]  | [[contact:LisaLindenthaler][Lisa Lindenthaler]]  |       |
+| Aana      | Manov        | [[mailto:Aana.Manov@golling.schule]]         | [[contact:AanaManov][Aana Manov]]         |       |
+| Juliana   | Nestler      | [[mailto:Juliana.Nestler@golling.schule]]    | [[contact:JulianaNestler][Juliana Nestler]]    |       |
+| Paul      | Niebauer     | [[mailto:Paul.Niebauer@golling.schule]]      | [[contact:PaulNiebauer][Paul Niebauer]]      |       |
+| Elisa     | Oberkofler   | [[mailto:Elisa.Oberkofler@golling.schule]]   | [[contact:ElisaOberkofler][Elisa Oberkofler]]   |       |
+| Annika    | Proflet      | [[mailto:Annika.Proflet@golling.schule]]     | [[contact:AnnikaProflet][Annika Proflet]]     |       |
+| Christoph | Putz         | [[mailto:Christoph.Putz@golling.schule]]     | [[contact:ChristophPutz][Christoph Putz]]     |       |
+| Chiara    | Reheußer     | [[mailto:Chiara.Reheußer@golling.schule]]    | [[contact:ChiaraReheußer][Chiara Reheußer]]    |       |
+| Michael   | Seiwald      | [[mailto:Michael.Seiwald@golling.schule]]    | [[contact:MichaelSeiwald][Michael Seiwald]]    |       |
+| Gabriel   | Siller       | [[mailto:Gabriel.Siller@golling.schule]]     | [[contact:GabrielSiller][Gabriel Siller]]     |       |
+| Denise    | Wallner      | [[mailto:Denise.Wallner@golling.schule]]     | [[contact:DeniseWallner][Denise Wallner]]     |       |
+| Kristina  | Zivkovic     | [[mailto:Kristina.Zivkovic@golling.schule]]  | [[contact:KristinaZivkovic][Kristina Zivkovic]]  |       |
+|-----------+--------------+------------------------------------------+--------------------+-------|
+#+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
+#+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('*** My lecture 2021')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('**** ' + first + ' ' + last + ' ' * 40 + ':' + first + last + ':')
+    print(':PROPERTIES:')
+    print(':TYPE: person')
+    print(':TITLE:')
+    print(':EMAIL: ' + email)
+    print(':URL:')
+    print(':MOBILE: +43/')
+    print(':HOMEPHONE:')
+    print(':WORKPHONE:')
+    print(':PHONE:')
+    print(':COMPANY:')
+    print(':STREET:')
+    print(':POSTALCODE:')
+    print(':CITY:')
+    print(':COUNTRY: Österreich')
+    print(':BORN:')
+    print(':ITOLDTHEM_EMAIL: matthias.fuchs@golling.schule')
+    print(':ITOLDTHEM_ADDRESS:')
+    print(':ITOLDTHEM_PHONE:')
+    print(':ADDRESS_CHANGE_METHOD:')
+    print(':END:\n')
+#+END_SRC
+
+
+
+Whenever there is some grading going on, I create lists for the class such as:
+
+#+Name: 2021-22-Mitarbeit
+| Name               | Notes | [[id:03_SW01][SW01]] | [[id:03_SW02][SW02]] | [[id:03_SW03][SW03]] | [[id:03_SW04][SW04]] | [[id:03_SW05][SW05]] | [[id:03_SW06][SW06]] | [[id:03_SW07][SW07]] | [[id:03_SW08][SW08]] | [[id:03_SW09][SW09]] | [[id:03_SW10][SW10]] | [[id:03_SW11][SW11]] | [[id:03_SW12][SW12]] | [[id:03_SW13][[SW13]] | [[id:03_SW14][SW14]] | [[id:03_SW15][SW15]] | [[id:03_SW16][SW16]] | [[id:03_SW17][SW17]] | [[id:03_SW18][SW18]] | [[id:03_SW19][SW19]] | [[id:03_SW20][SW20]] | [[id:03_SW21][SW21]] | [[id:03_SW22][SFerien]] |
+|--------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------+------+------+---------|
+| [[contact:SeymaAlan][Seyma Alan]]         |       |    1 |    2 |    3 |    2 |    1 |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:KaanBayraktar][Kaan Bayraktar]]     |     1 |    1 |    1 |    1 |    1 |    1 |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:SophieBernhofer][Sophie Bernhofer]]   |   1.8 |    1 |    2 |    2 |    2 |    2 |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:JakobBrückler][Jakob Brückler]]     |     1 |    1 |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MarieEssl][Marie Essl]]         |     1 |    1 |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:FlorianHollweger][Florian Hollweger]]  |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MichaelHöllweger][Michael Höllweger]]  |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:SaraKappacher][Sara Kappacher]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:NicoKnapp][Nico Knapp]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:LorenzKnefz][Lorenz Knefz]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MatoKnezevic][Mato Knezevic]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MagdalenaKronreif][Magdalena Kronreif]] |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:LisaLindenthaler][Lisa Lindenthaler]]  |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:AanaManov][Aana Manov]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:JulianaNestler][Juliana Nestler]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:PaulNiebauer][Paul Niebauer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:ElisaOberkofler][Elisa Oberkofler]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:AnnikaProflet][Annika Proflet]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:ChristophPutz][Christoph Putz]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:ChiaraReheußer][Chiara Reheußer]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MichaelSeiwald][Michael Seiwald]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:GabrielSiller][Gabriel Siller]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:DeniseWallner][Denise Wallner]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:KristinaZivkovic][Kristina Zivkovic]]  |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+#+TBLFM: $1='(identity remote(2021-students,@@#$4))
+#+TBLFM: $2=vmean($3..$>)
+ 

@@ -41,7 +41,7 @@
 
 [[file:notes/2020-09-15-1015 index_zetteldeft.org][index_zetteldeft]]
 
-[[file:org-gcal.org][Probe Familienmesse]]
+[[file:org-gcal.org][Gabriel Arzt Lebenshilfe]]
 
 
 * Perönliches Studium

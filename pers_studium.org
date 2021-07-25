@@ -1,0 +1,23 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+title: Pers_Studium
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Geschichte
+
+* Geopolitik
+[[file:notes/2020-11-12-2206 JFK_Ganser.org][JFK_Ganser]]
+
+* Belletristik
+
+* Musik
+
+* Theologie
+
+* Psychologie
+
+* Pädagogik
+

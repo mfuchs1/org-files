@@ -1,0 +1,180 @@
+* Gerda Schlager
+:PROPERTIES:
+:EMAIL: gerda.schlager@gmx.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Judith Neuner
+:PROPERTIES:
+:EMAIL: j.neuner@tsn.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Grödig Info
+:PROPERTIES:
+:EMAIL: info@groedig.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Stefan Schweiger
+:PROPERTIES:
+:EMAIL: StefanSchweiger@gmx.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Hans Wiesböck
+:PROPERTIES:
+:EMAIL: hans.wiesboeck@aon.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Christian Klotz
+:PROPERTIES:
+:EMAIL: christian.klotz@salzburg.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Melanie Lutterotti
+:PROPERTIES:
+:EMAIL: meli.lutterotti@gmail.com
+:NICK:
+:BIRTHDAY:
+:END:
+* Ursula Fuchs
+:PROPERTIES:
+:EMAIL: ursula@dipfuchs.at
+:NICK:
+:BIRTHDAY:
+:END:
+* mailbox@raiffeisen.at
+:PROPERTIES:
+:EMAIL: mailbox@raiffeisen.at
+:NICK:
+:BIRTHDAY:
+:END:
+* fr. Johannes Elias
+:PROPERTIES:
+:EMAIL: fr.johannes.elias@stjean.com
+:NICK:
+:BIRTHDAY:
+:END:
+* Erlebnis | Zoo-Salzburg
+:PROPERTIES:
+:EMAIL: erlebnis@salzburg-zoo.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Leo Slatner
+:PROPERTIES:
+:EMAIL: leo.slatner@aon.at
+:NICK:
+:BIRTHDAY:
+:END:
+* CECT-SHOP
+:PROPERTIES:
+:EMAIL: support@cect-shop.com
+:NICK:
+:BIRTHDAY:
+:END:
+* Isabelle Fuchs
+:PROPERTIES:
+:EMAIL: isabelle.guilloudfuchs@gmail.com
+:NICK:
+:BIRTHDAY:
+:END:
+* Atlas H
+:PROPERTIES:
+:EMAIL: atlas.ajh@gmail.com
+:NICK:
+:BIRTHDAY:
+:END:
+* sabine koutny
+:PROPERTIES:
+:EMAIL: sabine.koutny@a1.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Föger Meinrad
+:PROPERTIES:
+:EMAIL: Meinrad.Foeger@seelsorge.kirchen.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Konjecic Erwin
+:PROPERTIES:
+:EMAIL: Erwin.Konjecic@katamt.kirchen.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Peter Fuchs
+:PROPERTIES:
+:EMAIL: peter@dipfuchs.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Threema
+:PROPERTIES:
+:EMAIL: do-not-reply@threema.ch
+:NICK:
+:BIRTHDAY:
+:END:
+* Michael Fuchs
+:PROPERTIES:
+:EMAIL: michfu@gmx.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Christian Hager
+:PROPERTIES:
+:EMAIL: christian.hager@helvetia.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Golling PastAss
+:PROPERTIES:
+:EMAIL: PastAss.Golling@pfarre.kirchen.net
+:NICK:
+:BIRTHDAY:
+:END:
+* Schulkindgruppe Grödig
+:PROPERTIES:
+:EMAIL: schulkindgruppe@groedig.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Roth Stephanie
+:PROPERTIES:
+:EMAIL: Stephanie.Roth@groedig.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Karina Raudaschl
+:PROPERTIES:
+:EMAIL: karina.raudaschl@aps.salzburg.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Peter Fuchs
+:PROPERTIES:
+:EMAIL: peter@dipfuchs.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Hans Wiesböck
+:PROPERTIES:
+:EMAIL: hans.wiesboeck@aon.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Burgi Flucher-Wolfram
+:PROPERTIES:
+:EMAIL: burgi.flucher-wolfram@amb-lebenshilfe.at
+:NICK:
+:BIRTHDAY:
+:END:
+* Isabelle Fuchs
+:PROPERTIES:
+:EMAIL: isabelle.guilloudfuchs@gmail.com
+:NICK:
+:BIRTHDAY:
+:END:

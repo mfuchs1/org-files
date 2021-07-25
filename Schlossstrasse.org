@@ -2,6 +2,7 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+FILETAGS: hide
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
@@ -684,12 +685,13 @@ Ein Suchsel zum Thema:
 [[file:Schule/drei_könige_suchsel.pdf]]
 
 
-*** TODO [SW18] Islam
-DEADLINE: <2021-01-11 Mo>
+*** DONE [SW18] Islam
+CLOSED: [2021-03-09 Di 19:26] DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Islam
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:26]
 - State "DONE"       from "TODO"       [2020-01-11 Sa 09:09]
     - CLOSING NOTE [2019-01-12 Sa 18:13] \\
       Nach anfänglichen Schwierigkeiten (Montag, 1. Stunde, 4A) ging es viel besser. Ich war etwas angeschlagen von der langen Reise. Nächste Woche (SW 19) geht es um: "Ich bin"-Aussagen, biblische Sprache, etc.
@@ -721,12 +723,13 @@ DEADLINE: <2021-01-11 Mo>
 
 
 
-*** TODO [SW19] Judentum
-DEADLINE: <2021-01-18 Mo>
+*** DONE [SW19] Judentum
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Judentum
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-01-18 Sa 10:16]
     - CLOSING NOTE [2019-01-18 Fr 09:43] \\
       Ehrlicherweise hatte ich nicht gedacht, dass die Schüler so auf das Thema eingestiegen sind. Natürlich gab es ein paar Momente, in denen die Schüler etwas "unruhig" wurden. Aber im Großen und Ganzen waren es interessante Stunden. 
@@ -756,12 +759,13 @@ DEADLINE: <2021-01-18 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW20] Was macht mich frei, was engt mich ein? (YouCat 18)
-DEADLINE: <2021-01-25 Mo>
+*** DONE [SW20] Was macht mich frei, was engt mich ein? (YouCat 18)
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Freiheit
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
     - CLOSING NOTE [2019-02-01 Fr 10:19] \\
       War ein schwieriges Thema ...
@@ -799,12 +803,13 @@ DEADLINE: <2021-01-25 Mo>
 
 
 
-*** TODO [SW21] Was bedeutet "Du sollst den Sonntag heiligen" (YouCat 19)
-DEADLINE: <2021-02-01 Mo>
+*** DONE [SW21] Was bedeutet "Du sollst den Sonntag heiligen" (YouCat 19)
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Sonntag
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:15]
     - CLOSING NOTE [2019-02-01 Fr 10:26] \\
       Das Thema Todesstrafe kam sehr gut an, die Schüler waren interessiert dabei, arbeitet sehr gut mit.
@@ -829,12 +834,13 @@ DEADLINE: <2021-02-01 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW22] Semesterferien
-DEADLINE: <2021-02-08 Mo>
+*** DONE [SW22] Semesterferien
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
     - CLOSING NOTE [2018-02-09 Fre 10:21] \\
       Die GEO Filme faszinieren die Schüler. Dieses heikle und "dunkle" Thema der Kirchengeschichte wird einigermaßen neutral und objektiv, auf jeden Fall sehr spannend und lehrreich dargetsellt.
@@ -842,12 +848,13 @@ DEADLINE: <2021-02-08 Mo>
 
 
 
-*** TODO [SW23] Aschermitwoch / Was bedeutet "Du sollst kein falsches Zeugnis geben"? (YouCat 20)
-DEADLINE: <2021-02-15 Mo>
+*** DONE [SW23] Aschermitwoch / Was bedeutet "Du sollst kein falsches Zeugnis geben"? (YouCat 20)
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-02-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wahrheit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
 :END:
 
@@ -871,12 +878,13 @@ DEADLINE: <2021-02-15 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW24] Fastenzeit - Gewinn durch Verzicht
-DEADLINE: <2021-02-22 Mo>
+*** DONE [SW24] Fastenzeit - Gewinn durch Verzicht
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-02-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Fastenzeit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "STARTED"    [2020-02-23 So 14:18]
 - State "STARTED"    from "TODO"       [2020-02-23 So 14:17]
 - CLOSING NOTE [2019-02-23 Sa 10:50] \\
@@ -909,12 +917,13 @@ DEADLINE: <2021-02-22 Mo>
 
 
 
-*** TODO [SW25] Wie versöhnt uns Gott mit sich und den anderen? (YouCat 11)
-DEADLINE: <2021-03-01 Mo>
+*** DONE [SW25] Wie versöhnt uns Gott mit sich und den anderen? (YouCat 11)
+CLOSED: [2021-03-09 Di 19:27] DEADLINE: <2021-03-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Versöhnung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
     - CLOSING NOTE [2018-03-03 Sam 18:06] \\
       Ich habe den Fokus va auf das Fatsen in den Weltreligionen gelegt. Hat den Schülern Spaß gemacht.
@@ -940,12 +949,14 @@ DEADLINE: <2021-03-01 Mo>
 
 
 
-*** TODO [SW26] Jesus befreit / Jesus gibt Hoffnung
-DEADLINE: <2021-03-08 Mo>
+*** DONE [SW26] Jesus befreit / Jesus gibt Hoffnung
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-03-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus befreit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:27]
 - State "DONE"       from "TODO"       [2020-03-06 Fr 15:39]
 - Note taken on [2019-03-07 Do 10:03] \\
   Die "FSA" zum Thema "Gewaltlosigkeit" klappt in der 4B recht gut.
@@ -982,12 +993,13 @@ DEADLINE: <2021-03-08 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW27] Warum das Leid? (YouCat 6)
-DEADLINE: <2021-03-15 Mo>
+*** DONE [SW27] Warum das Leid? (YouCat 6)
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-03-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Warum das Leid
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
     - CLOSING NOTE [2018-03-17 Sam 10:10] \\
       4A + 4C: haben gut mitgemacht; 4B: hui, die Schüler emckern schnell...zach!
@@ -1017,12 +1029,13 @@ DEADLINE: <2021-03-15 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW28] Warum das Kreuz? (YouCat 7)
-DEADLINE: <2021-03-22 Mo>
+*** DONE [SW28] Warum das Kreuz? (YouCat 7)
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-03-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Warum das Kreuz
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
 - CLOSING NOTE [2019-03-23 Sa 16:13] \\
   Die Umfrage werden die Schüler wohl privat, am NM durchführen müssen.
@@ -1056,12 +1069,13 @@ DEADLINE: <2021-03-22 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW29] Osterferien
-DEADLINE: <2021-03-29 Mo>
+*** DONE [SW29] Osterferien
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-03-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterferien
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
 - State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
 :END:
 
@@ -1076,12 +1090,13 @@ DEADLINE: <2021-03-29 Mo>
 <2021-04-04 So> Ostersonntag
 
 
-*** TODO [SW30] Jesus ist auferstanden
-DEADLINE: <2021-04-05 Mo>
+*** DONE [SW30] Jesus ist auferstanden
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-04-05 Mo>
 :PROPERTIES: 
 :CUSTOM_ID: Jesus ist auferstanden
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
 - CLOSING NOTE [2019-04-10 Mi 10:56] \\
   Wir haben uns gemeinsam die beiden Filme angeschaut: Buddhismus / chinesische Religion.
@@ -1114,12 +1129,13 @@ DEADLINE: <2021-04-05 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW31] Auferstehung in meinem Leben
-DEADLINE: <2021-04-12 Mo>
+*** DONE [SW31] Auferstehung in meinem Leben
+CLOSED: [2021-05-30 So 11:44] DEADLINE: <2021-04-12 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung in meinem Leben
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:44]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
     - CLOSING NOTE [2018-04-18 Mi 08:36] \\
       Toller Film
@@ -1143,12 +1159,13 @@ DEADLINE: <2021-04-12 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW32] Warum ist die Heilige Messe das zentrale Ereignis der Kirche? (YouCat 12)
-DEADLINE: <2021-04-19 Mo>
+*** DONE [SW32] Warum ist die Heilige Messe das zentrale Ereignis der Kirche? (YouCat 12)
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-04-19 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Eucharistie
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
     - CLOSING NOTE [2018-04-18 Mi 08:37] \\
       Viele Supplierstunden
@@ -1171,12 +1188,13 @@ DEADLINE: <2021-04-19 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW33] Warum lassen sich Christen taufen? (YouCat 9)
-DEADLINE: <2021-04-26 Mo>
+*** DONE [SW33] Warum lassen sich Christen taufen? (YouCat 9)
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-04-26 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Taufe
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
 - CLOSING NOTE [2019-04-27 Sa 10:38]
     - CLOSING NOTE [2018-04-30 Mo 21:47] \\
@@ -1200,12 +1218,13 @@ DEADLINE: <2021-04-26 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW34] Warum lassen sich Christen firmen? (YouCat 10)
-DEADLINE: <2021-05-03 Mo>
+*** DONE [SW34] Warum lassen sich Christen firmen? (YouCat 10)
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-05-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Firmung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-05-05 Di 10:30]
 - CLOSING NOTE [2019-05-04 Sa 17:30]
     - CLOSING NOTE [2018-05-07 Mo 15:02] \\
@@ -1228,12 +1247,13 @@ DEADLINE: <2021-05-03 Mo>
 
 **** Hefteintrag
    
-*** TODO [SW35] Wie beruft Gott? (YouCat 13)
-DEADLINE: <2021-05-10 Mo>
+*** DONE [SW35] Wie beruft Gott? (YouCat 13)
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-05-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Berufung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
     - CLOSING NOTE [2018-05-10 Do 00:19] \\
       Tolle Stunden! Nach dem verlängerten Wochenenden geht's mit dem Film weiter.
@@ -1258,12 +1278,13 @@ DEADLINE: <2021-05-10 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW36] Was bedeutet zölibatäres Leben in der Kirche? (YouCat 14)
-DEADLINE: <2021-05-17 Mo>
+*** DONE [SW36] Was bedeutet zölibatäres Leben in der Kirche? (YouCat 14)
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-05-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Zölibat
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
 - CLOSING NOTE [2019-05-18 Sa 09:47] \\
   Die Arbeit mit Google Classroom hat wunderbar funktioniert!
@@ -1289,12 +1310,13 @@ DEADLINE: <2021-05-17 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW37] Pfingsten
-DEADLINE: <2021-05-24 Mo>
+*** DONE [SW37] Pfingsten
+CLOSED: [2021-05-30 So 11:45] DEADLINE: <2021-05-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Pfingsten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:34]
     - CLOSING NOTE [2018-06-03 So 15:17] \\
       Die Schüler waren super dabei!
@@ -1320,12 +1342,14 @@ DEADLINE: <2021-05-24 Mo>
 
 
 
-*** TODO [SW38] Wozu brauchen wir die Kirche? (YouCat 8)
-DEADLINE: <2021-05-31 Mo>
+*** DONE [SW38] Wozu brauchen wir die Kirche? (YouCat 8)
+CLOSED: [2021-06-04 Fr 08:11] DEADLINE: <2021-05-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Kirche
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
+- State "DONE"       from "TODO"       [2021-05-30 So 11:45]
 - State "DONE"       from "TODO"       [2020-06-01 Mo 09:58]
 - CLOSING NOTE [2019-05-31 Fr 10:13] \\
   Naja - das Thema "Weltkirche" muss ich noch genauer aufarbeiten und besser präsentieren.
@@ -1352,12 +1376,13 @@ DEADLINE: <2021-05-31 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW39] Was bedeutet Heiraten in der Kirche? (YouCat 15)
-DEADLINE: <2021-06-07 Mo>
+*** DONE [SW39] Was bedeutet Heiraten in der Kirche? (YouCat 15)
+CLOSED: [2021-06-20 So 13:39] DEADLINE: <2021-06-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Ehe
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:39]
 - State "DONE"       from "TODO"       [2020-06-06 Sa 11:36]
     - CLOSING NOTE [2018-06-12 Di 08:21] \\
       Die Schüler - auch in der 4A - haben toll mitgearbeitet.
@@ -1384,12 +1409,13 @@ DEADLINE: <2021-06-07 Mo>
 
 
 
-*** TODO [SW40] Hindusimus
-DEADLINE: <2021-06-14 Mo>
+*** DONE [SW40] Hindusimus
+CLOSED: [2021-06-20 So 13:39] DEADLINE: <2021-06-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Hinduismus
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:39]
 - State "DONE"       from "TODO"       [2020-06-14 So 10:44]
     - CLOSING NOTE [2018-06-18 Mo 10:26] \\
       Die Schülern meckern recht über den Film ... aber: dumme Actionfilme können sie zuhause anschauen. In Les Miserables geht es um die Frage "Barmherzigkeit / Gerechtigkeit" (u.a.); oder: welchen Preis bin ich bereit zu zahlen, um meine Mitmenschen zu retten?
@@ -1412,12 +1438,13 @@ DEADLINE: <2021-06-14 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW41] Buddhismus
-DEADLINE: <2021-06-21 Mo>
+*** DONE [SW41] Buddhismus
+CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-06-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Buddhismus
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
 - State "DONE"       from "TODO"       [2020-06-21 So 10:37]
     - CLOSING NOTE [2018-06-24 So 21:12] \\
       War gut ...
@@ -1440,12 +1467,13 @@ DEADLINE: <2021-06-21 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW42] Wie leben Christen? (Nachfolge, Leben nach Christi Weisung, Gebet)
-DEADLINE: <2021-06-28 Mo>
+*** DONE [SW42] Wie leben Christen? (Nachfolge, Leben nach Christi Weisung, Gebet)
+CLOSED: [2021-07-09 Fr 08:38] DEADLINE: <2021-06-28 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Nachfolge
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:38]
 - State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
     - CLOSING NOTE [2018-06-26 Di 10:15] \\
       Mit der 4A hatte ich am Dienstag (06/26/2018; erste Stunde) die letzte Religionsstunde. Die Schüler haben sich mit einem Applaus bei mir bedankt, das tat gut. Die 4C sehe ich morgen Mittwoch (06/27/2018; erste Stunde) zum letzten Mal. Ob ich mich der 4B am Freitag verabschieden kann?
@@ -1469,12 +1497,13 @@ YouCat StudyGuide 22 - 25
 **** Hefteintrag
 
 
-*** TODO [SW43] Schulschluss / Gottesdienst
-DEADLINE: <2021-07-05 Mo>
+*** DONE [SW43] Schulschluss / Gottesdienst
+CLOSED: [2021-07-09 Fr 08:38] DEADLINE: <2021-07-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Schulschluss
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:38]
 - State "DONE"       from "TODO"       [2020-07-07 Di 12:03]
 :END:
 

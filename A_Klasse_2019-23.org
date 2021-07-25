@@ -1,0 +1,119 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 3A
+#+SELECT_TAGS: JA
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 3A
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+
+* Verhalten
+
+
+* Heftführung
+ 
+* 3A [KV Katharina Fronthaler]                                           
+:PROPERTIES:
+:CUSTOM_ID: Klasse2a
+:END:
+
+#+Name: 2021-students
+| First         | Last        | Email                                           | Name                      | Notes |
+|---------------+-------------+-------------------------------------------------+---------------------------+-------|
+| Samuel        | Bernhofer   | [[mailto:Samuel.Bernhofer@golling.schule]]          | [[contact:SamuelBernhofer][Samuel Bernhofer]]          |       |
+| Ferhan        | Fikret      | [[mailto:Ferhan.Fikret@golling.schule]]             | [[contact:FerhanFikret][Ferhan Fikret]]             |       |
+| Fabio         | Hauser      | [[mailto:Fabio.Hauser@golling.schule]]              | [[contact:FabioHauser][Fabio Hauser]]              |       |
+| Zita          | Hofer       | [[mailto:Zita.Hofer@golling.schule]]                | [[contact:ZitaHofer][Zita Hofer]]                |       |
+| Anna          | Hornegger   | [[mailto:Anna.Hornegger@golling.schule]]            | [[contact:AnnaHornegger][Anna Hornegger]]            |       |
+| Emily         | Loidfellner | [[mailto:Emily.Loidfellner@golling.schule]]         | [[contact:EmilyLoidfellner][Emily Loidfellner]]         |       |
+| Nikolaus      | Loidl       | [[mailto:Nikolaus.Loidl@golling.schule]]            | [[contact:NikolausLoidl][Nikolaus Loidl]]            |       |
+| Michelle      | Neureiter   | [[mailto:Michelle.Neureiter@golling.schule]]        | [[contact:MichelleNeureiter][Michelle Neureiter]]        |       |
+| Selina        | Neureiter   | [[mailto:Selina.Neureiter@golling.schule]]          | [[contact:SelinaNeureiter][Selina Neureiter]]          |       |
+| Florian       | Pointner    | [[mailto:Florian.Pointner@golling.schule]]          | [[contact:FlorianPointner][Florian Pointner]]          |       |
+| Hannah        | Prömer      | [[mailto:Hannah.Prömer@golling.schule]]             | [[contact:HannahPrömer][Hannah Prömer]]             |       |
+| Benjamin      | Ramic       | [[mailto:Benjamin.Ramic@golling.schule]]            | [[contact:BenjaminRamic][Benjamin Ramic]]            |       |
+| Theresa       | Reiter      | [[mailto:Theresa.Reiter@golling.schule]]            | [[contact:TheresaReiter][Theresa Reiter]]            |       |
+| Lukas         | Russegger   | [[mailto:Lukas.Russegger@golling.schule]]           | [[contact:LukasRussegger][Lukas Russegger]]           |       |
+| Lorena        | Schefbänker | [[mailto:Lorena.Schefbänker@golling.schule]]        | [[contact:LorenaSchefbänker][Lorena Schefbänker]]        |       |
+| Maximilian    | Schönauer   | [[mailto:Maximilian.Schönauer@golling.schule]]      | [[contact:MaximilianSchönauer][Maximilian Schönauer]]      |       |
+| Lara          | Schreder    | [[mailto:Lara.Schreder@golling.schule]]             | [[contact:LaraSchreder][Lara Schreder]]             |       |
+| David-Philipp | Strubreiter | [[mailto:David-Philipp.Strubreiter@golling.schule]] | [[contact:David-PhilippStrubreiter][David-Philipp Strubreiter]] |       |
+| Johanna       | Strubreiter | [[mailto:Johanna.Strubreiter@golling.schule]]       | [[contact:JohannaStrubreiter][Johanna Strubreiter]]       |       |
+| Ebu           | Tanriverdi  | [[mailto:Ebu.Tanriverdi@golling.schule]]            | [[contact:EbuTanriverdi][Ebu Tanriverdi]]            |       |
+| Melanie       | Tikvic      | [[mailto:Melanie.Tikvic@golling.schule]]            | [[contact:MelanieTikvic][Melanie Tikvic]]            |       |
+| Milos         | Vujic       | [[mailto:Milos.Vujic@golling.schule]]               | [[contact:MilosVujic][Milos Vujic]]               |       |
+|---------------+-------------+-------------------------------------------------+---------------------------+-------|
+#+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
+#+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('*** My lecture 2021')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('**** ' + first + ' ' + last + ' ' * 40 + ':' + first + last + ':')
+    print(':PROPERTIES:')
+    print(':TYPE: person')
+    print(':TITLE:')
+    print(':EMAIL: ' + email)
+    print(':URL:')
+    print(':MOBILE: +43/')
+    print(':HOMEPHONE:')
+    print(':WORKPHONE:')
+    print(':PHONE:')
+    print(':COMPANY:')
+    print(':STREET:')
+    print(':POSTALCODE:')
+    print(':CITY:')
+    print(':COUNTRY: Österreich')
+    print(':BORN:')
+    print(':ITOLDTHEM_EMAIL: matthias.fuchs@golling.schule')
+    print(':ITOLDTHEM_ADDRESS:')
+    print(':ITOLDTHEM_PHONE:')
+    print(':ADDRESS_CHANGE_METHOD:')
+    print(':END:\n')
+#+END_SRC
+
+
+Whenever there is some grading going on, I create lists for the class such as:
+
+#+Name: 2021-22-Mitarbeit
+| Name                      | Notes | [[id:03_SW01][SW01]] | [[id:03_SW02][SW02]] | [[id:03_SW03][SW03]] | [[id:03_SW04][SW04]] | [[id:03_SW05][SW05]] | [[id:03_SW06][SW06]] | [[id:03_SW07][SW07]] | [[id:03_SW08][SW08]] | [[id:03_SW09][SW09]] | [[id:03_SW10][SW10]] | [[id:03_SW11][SW11]] | [[id:03_SW12][SW12]] | [[id:03_SW13][[SW13]] | [[id:03_SW14][SW14]] | [[id:03_SW15][SW15]] | [[id:03_SW16][SW16]] | [[id:03_SW17][SW17]] | [[id:03_SW18][SW18]] | [[id:03_SW19][SW19]] | [[id:03_SW20][SW20]] | [[id:03_SW21][SW21]] | [[id:03_SW22][SFerien]] |
+|---------------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------+------+------+---------|
+| [[contact:SamuelBernhofer][Samuel Bernhofer]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:FerhanFikret][Ferhan Fikret]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:FabioHauser][Fabio Hauser]]              |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:ZitaHofer][Zita Hofer]]                |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:AnnaHornegger][Anna Hornegger]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:EmilyLoidfellner][Emily Loidfellner]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:NikolausLoidl][Nikolaus Loidl]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MichelleNeureiter][Michelle Neureiter]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:SelinaNeureiter][Selina Neureiter]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:FlorianPointner][Florian Pointner]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:HannahPrömer][Hannah Prömer]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:BenjaminRamic][Benjamin Ramic]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:TheresaReiter][Theresa Reiter]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:LukasRussegger][Lukas Russegger]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:LorenaSchefbänker][Lorena Schefbänker]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MaximilianSchönauer][Maximilian Schönauer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:LaraSchreder][Lara Schreder]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:David-PhilippStrubreiter][David-Philipp Strubreiter]] |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:JohannaStrubreiter][Johanna Strubreiter]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:EbuTanriverdi][Ebu Tanriverdi]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MelanieTikvic][Melanie Tikvic]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+| [[contact:MilosVujic][Milos Vujic]]               |       |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |      |      |         |
+#+TBLFM: $1='(identity remote(2021-students,@@#$4))
+#+TBLFM: $2=vmean($3..$>)
+
+
+
+

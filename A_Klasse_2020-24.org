@@ -1,0 +1,115 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+LANGUAGE: de
+#+OPTIONS: toc:nil
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+FILETAGS: 2A
+#+SELECT_TAGS: SZ
+#+TITLE: 2A
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+
+* Verhalten
+
+* Heftführung
+
+* 2A [KV Magdalena Pürrer]
+
+#+Name: 2021-students
+| First          | Last        | Email                                       | Name                  | Notes |
+|----------------+-------------+---------------------------------------------+-----------------------+-------|
+| Verena         | Bernhofer   | [[mailto:Verena.Bernhofer@golling.schule]]      | [[contact:VerenaBernhofer][Verena Bernhofer]]      |       |
+| Erik           | Czegledi    | [[mailto:Erik.Czegledi@golling.schule]]         | [[contact:ErikCzegledi][Erik Czegledi]]         |       |
+| Stefan         | Gonschorek  | [[mailto:Stefan.Gonschorek@golling.schule]]     | [[contact:StefanGonschorek][Stefan Gonschorek]]     |       |
+| Daniel         | Hölzlsauer  | [[mailto:Daniel.Hölzlsauer@golling.schule]]     | [[contact:DanielHölzlsauer][Daniel Hölzlsauer]]     |       |
+| Manuel         | Irrnberger  | [[mailto:Manuel.Irrnberger@golling.schule]]     | [[contact:ManuelIrrnberger][Manuel Irrnberger]]     |       |
+| Tobias         | Kappel      | [[mailto:Tobias.Kappel@golling.schule]]         | [[contact:TobiasKappel][Tobias Kappel]]         |       |
+| Mohamad Mahmud | Khatib      | [[mailto:Mohamad Mahmud.Khatib@golling.schule]] | [[contact:Mohamad MahmudKhatib][Mohamad Mahmud Khatib]] |       |
+| Luis           | Korten      | [[mailto:Luis.Korten@golling.schule]]           | [[contact:LuisKorten][Luis Korten]]           |       |
+| Noah           | Linhuber    | [[mailto:Noah.Linhuber@golling.schule]]         | [[contact:NoahLinhuber][Noah Linhuber]]         |       |
+| Hanna          | Maier       | [[mailto:Hanna.Maier@golling.schule]]           | [[contact:HannaMaier][Hanna Maier]]           |       |
+| Ramandeep      | Markandey   | [[mailto:Ramandeep.Markandey@golling.schule]]   | [[contact:RamandeepMarkandey][Ramandeep Markandey]]   |       |
+| Sibel          | Murauer     | [[mailto:Sibel.Murauer@golling.schule]]         | [[contact:SibelMurauer][Sibel Murauer]]         |       |
+| Melissa        | Neudorfer   | [[mailto:Melissa.Neudorfer@golling.schule]]     | [[contact:MelissaNeudorfer][Melissa Neudorfer]]     |       |
+| Jelena         | Ruzic       | [[mailto:Jelena.Ruzic@golling.schule]]          | [[contact:JelenaRuzic][Jelena Ruzic]]          |       |
+| Arthur         | Schattauer  | [[mailto:Arthur.Schattauer@golling.schule]]     | [[contact:ArthurSchattauer][Arthur Schattauer]]     |       |
+| Fabian         | Schober     | [[mailto:Fabian.Schober@golling.schule]]        | [[contact:FabianSchober][Fabian Schober]]        |       |
+| Kristina       | Seidl       | [[mailto:Kristina.Seidl@golling.schule]]        | [[contact:KristinaSeidl][Kristina Seidl]]        |       |
+| Ivana          | Sokic       | [[mailto:Ivana.Sokic@golling.schule]]           | [[contact:IvanaSokic][Ivana Sokic]]           |       |
+| Anna           | Steiner     | [[mailto:Anna.Steiner@golling.schule]]          | [[contact:AnnaSteiner][Anna Steiner]]          |       |
+| Andre-Leon     | Stippler    | [[mailto:Andre-Leon.Stippler@golling.schule]]   | [[contact:Andre-LeonStippler][Andre-Leon Stippler]]   |       |
+| Christina      | Unterrainer | [[mailto:Christina.Unterrainer@golling.schule]] | [[contact:ChristinaUnterrainer][Christina Unterrainer]] |       |
+| Thomas         | Wenger      | [[mailto:Thomas.Wenger@golling.schule]]         | [[contact:ThomasWenger][Thomas Wenger]]         |       |
+| Lena           | Zorzi       | [[mailto:Lena.Zorzi@golling.schule]]            | [[contact:LenaZorzi][Lena Zorzi]]            |       |
+#+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
+#+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('*** My lecture 2021')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('**** ' + first + ' ' + last + ' ' * 40 + ':' + first + last + ':')
+    print(':PROPERTIES:')
+    print(':TYPE: person')
+    print(':TITLE:')
+    print(':EMAIL: ' + email)
+    print(':URL:')
+    print(':MOBILE: +43/')
+    print(':HOMEPHONE:')
+    print(':WORKPHONE:')
+    print(':PHONE:')
+    print(':COMPANY:')
+    print(':STREET:')
+    print(':POSTALCODE:')
+    print(':CITY:')
+    print(':COUNTRY: Österreich')
+    print(':BORN:')
+    print(':ITOLDTHEM_EMAIL: matthias.fuchs@golling.schule')
+    print(':ITOLDTHEM_ADDRESS:')
+    print(':ITOLDTHEM_PHONE:')
+    print(':ADDRESS_CHANGE_METHOD:')
+    print(':END:\n')
+#+END_SRC
+
+
+Whenever there is some grading going on, I create lists for the class such as:
+
+#+Name: 2021-22-Mitarbeit
+| Name                  | Notes | [[id:02_SW01][SW01]] | [[id:02_SW02][SW02]] | [[id:02_SW03][SW03]] | [[id:02_SW04][SW04]] | [[id:02_SW05][SW05]] | [[id:02_SW06][SW06]] | [[id:02_SW07][SW07]] | [[id:02_SW08][SW08]] | [[id:02_SW09][SW09]] | [[id:02_SW10][SW10]] | [[id:02_SW11][SW11]] | [[id:03_SW12][SW12]] | [[id:02_SW13][SW13]] | [[id:02_SW14][SW14]] | [[id:02_SW15][SW15]] | [[id:02_SW16][Ferien]] | [[id:02_SW17][SW17]] | [[id:02_SW18][SW18]] | [[id:02_SW19][SW19]] | [[id:02_SW20][SW20]] | [[id:02_SW21][SW21]] | [[id:02_SW22][Ferien]] |
+|-----------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+--------+------+------+------+------+------+--------|
+| [[contact:VerenaBernhofer][Verena Bernhofer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:ErikCzegledi][Erik Czegledi]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:StefanGonschorek][Stefan Gonschorek]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:DanielHölzlsauer][Daniel Hölzlsauer]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:ManuelIrrnberger][Manuel Irrnberger]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:TobiasKappel][Tobias Kappel]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:Mohamad MahmudKhatib][Mohamad Mahmud Khatib]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:LuisKorten][Luis Korten]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:NoahLinhuber][Noah Linhuber]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:HannaMaier][Hanna Maier]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:RamandeepMarkandey][Ramandeep Markandey]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:SibelMurauer][Sibel Murauer]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:MelissaNeudorfer][Melissa Neudorfer]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:JelenaRuzic][Jelena Ruzic]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:ArthurSchattauer][Arthur Schattauer]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:FabianSchober][Fabian Schober]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:KristinaSeidl][Kristina Seidl]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:IvanaSokic][Ivana Sokic]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:AnnaSteiner][Anna Steiner]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:Andre-LeonStippler][Andre-Leon Stippler]]   |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:ChristinaUnterrainer][Christina Unterrainer]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:ThomasWenger][Thomas Wenger]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+| [[contact:LenaZorzi][Lena Zorzi]]            |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |        |      |      |      |      |      |        |
+#+TBLFM: $1='(identity remote(2021-students,@@#$4))
+#+TBLFM: $2=vmean($3..$>)

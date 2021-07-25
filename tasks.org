@@ -2,25 +2,154 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+TITLE: tasks.org
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: tasks
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
-"
+
 * Inbox
-** DONE Antorten, ob wir zur Feier kommen , Link: [[mu4e:msgid:0102016e7eaab3ba-48f9b138-741a-45c1-88da-df9d8ba9a547-000000@eu-west-1.amazonses.com][Weihnachtsfeier 2019]]
-CLOSED: [2020-06-04 Do 22:37]
+
+** TODO Geistliche Lektüre
+DEADLINE: <2021-06-14 Mo +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2021-06-09 Mi 10:57]
+:END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2020-06-04 Do 22:37]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
+- State "DONE"       from "TODO"       [2021-05-25 Di 08:18]
 :END:
 
-** TODO [#A] Isabelle regelmäßig überraschen
-DEADLINE: <2021-02-28 So +1w -2d>
+Guardini, Romano:
+[[file:Guardini.2007.org][Guardini.2007: Der Herr]]
+[[file:Guardini.1960.org][Guardini.1960: Gebet und wahrheit]]
+
+Vielleicht noch zusätzlich OSB / OCist - Literatur. In meiner persönlichen Bibliothek gibt es eine ganze Reihe toller Bücher.
+
+** DONE [#A] Unterricht für die nächste Woche vorbereiten
+CLOSED: [2021-07-20 Di 16:11] DEADLINE: <2021-07-04 So>
 :PROPERTIES:
-:LAST_REPEAT: [2021-02-25 Do 10:14]
+:LAST_REPEAT: [2021-07-20 Di 16:11]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-06-18 Fr 07:28]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:57]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:56]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 10:30]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 10:30]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:28]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:28]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:15]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
+- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
+- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
+- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
+- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
+- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
+- State "DONE"       from "TODO"       [2019-11-24 So 22:18]
+:END:
+
+*** Schulstufe V
+[[file:01_Golling.org]]
+
+*** Schulstufe VI
+[[file:02_Golling.org]]
+
+*** Schulstufe VII
+[[file:03_Golling.org]]
+
+*** Schukstufe VIII
+[[file:04_Golling.org]]
+
+*** Literatur
+[[file:Bibliography/Literatur.bib]]
+
+*** Persönliches Studium
+[[file:~/Dokumente/LaTex_2/Physik_6B/Physik_6B.tex]]
+
+** DONE Artikel zum Thema "Auferstehung" weiterschreiben
+CLOSED: [2021-04-13 Di 07:57] DEADLINE: <2021-04-04 So>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:57]
+:END:
+[2021-03-26 Fr]
+[[file:~/org/01_Golling.org::*\[SW30\] Kreuz und Auferstehung / der Weg nach Emmaus][[SW30] Kreuz und Auferstehung / der Weg nach Emmaus]]
+
+[[file:Schule_Themen/auferstehung.org][Auferstehung]]
+
+Artikel und Beiträge aus diversen Büchern und Lexika rezipieren.
+
+** TODO [#A] Isabelle regelmäßig überraschen
+DEADLINE: <2021-07-25 So +1w -2d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-07-20 Di 16:11]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-06-22 Di 07:33]
+- State "DONE"       from "TODO"       [2021-06-18 Fr 07:28]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-05-25 Di 08:19]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:35]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:57]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:57]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:01]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:28]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:28]
 - State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
 - State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
 - State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
@@ -53,362 +182,296 @@ DEADLINE: <2021-02-28 So +1w -2d>
 - State "STARTED"    from "TODO"       [2019-11-20 Mi 22:23]
 :END:
 
-
-** TODO [#A] Check Mail
-DEADLINE: <2021-02-26 Fr +1d>
+** TODO [#A] Ein gutes Buch lesen
+DEADLINE: <2021-07-26 Mo +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-02-25 Do 10:14]
+:LAST_REPEAT: [2021-07-20 Di 16:11]
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:57]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
-- State "DONE"       from "TODO"       [2021-02-10 Mi 21:56]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
-- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:21]
-- State "DONE"       from "TODO"       [2020-12-10 Do 10:19]
-- State "DONE"       from "TODO"       [2020-12-10 Do 10:19]
-- State "DONE"       from "TODO"       [2020-12-09 Mi 11:28]
-- State "DONE"       from "TODO"       [2020-12-09 Mi 11:28]
-- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
-- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
-- State "DONE"       from "TODO"       [2020-12-04 Fr 08:01]
-- State "DONE"       from "TODO"       [2020-12-03 Do 10:14]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:47]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:34]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:47]
-- State "DONE"       from "TODO"       [2020-09-18 Fr 07:42]
-- State "DONE"       from "TODO"       [2020-09-18 Fr 07:39]
-- State "DONE"       from "TODO"       [2020-09-17 Do 23:18]
-- State "DONE"       from "TODO"       [2020-09-17 Do 23:18]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:41]
-- State "DONE"       from "TODO"       [2020-06-04 Do 22:37]
-- State "DONE"       from "TODO"       [2019-11-24 So 22:35]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
+- State "DONE"       from "TODO"       [2021-06-18 Fr 07:29]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-06-09 Mi 10:58]
+- State "DONE"       from "TODO"       [2021-05-25 Di 08:20]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:37]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:37]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:37]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:37]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 17:36]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-13 Di 07:58]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:25]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-26 Fr 09:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:02]
+- State "DONE"       from "TODO"       [2021-03-10 Mi 00:29]
+- State "DONE"       from "TODO"       [2021-03-10 Mi 00:29]
 :END:
 
-** DONE [#A] Weihnachtsgeschenke besorgen [12/12]
-CLOSED: [2021-01-04 Mo 10:22] DEADLINE: <2020-12-20 So>
+[[file:Leroi2017.org][Leroi2017: Die lagune oder wie aristoteles die naturwissenschaften erfand]]
+
+[[file:barton.2020.org][barton.2020: Die geschichte der bibel]]
+
+[[file:Fried.2013.org][Fried.2013: Karl der große]]
+
+[[file:Broodbank2018.org][Broodbank2018: Die geburt der mediterranen welt]]
+
+** DONE Letzte Schulwoche
+CLOSED: [2021-07-20 Di 16:10]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:22]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:10]
 :END:
- - [X] Leopold [4/4]
-   - [X] Schaukelpferd (Mutti)
-   - [X] Magnet-Spiel (Isabelle)
-   - [X] Spiel (Elisabeth)
-   - [X] Super-Wings Figuren
- - [X] Gabriel [5/5]
-   - [X] Stunt-Roller
-   - [X] Spiel (Elisabeth)
-   - [X] Abo Geolino (Mutti)
-   - [X] Lego City Passagierflugzeug
-   - [X] RC Auto (50 Euro von Mick)
- - [X] Gabriel und Leopold: Kapla-Steine (Mick)
- - [X] Isabelle: neues Handy (Xiaomi Redmi 9A)
- - [X] Matthias: ?
- - [X] Jean-Claude und Francois: 2x Fotoalbum (1. Kommunion)
- - [X] Amira: DVD "Ostwind - Aufbruch nach Ora" (amazon)
- - [X] Eltern [2/2]
-   - [X] Fotoalbum (1. Kommunion)
-   - [X] Pasteten
- - [X] Veronika und Thomas: Foi Gras + Paseten + Rotwein
- - [X] Julia: Schmack
- - [X] Lisa: Armband
- - [X] Michael und Bettina: (Zara Home)
+ - Montag: nach Stundenplan (Schulschluss mit der 5. Stunde); 14h00 Konferenz
+ - Dienstag: Wandertag
+ - Mittwoch: Wandertag
+ - Donnerstag, 8h00: Schulmesse / 4. Klassen Abschlussfeier
+ - Zeugnistag; 9h30 Abschlusskonferenz
+ - Mail wg Planer an Mann v. Barbara.
 
-** TODO [#A] Unterricht für die nächste Woche vorbereiten
-DEADLINE: <2021-02-28 So +1w -3d>
-:PROPERTIES:
-:LAST_REPEAT: [2021-02-25 Do 10:15]
-:END:
+** TODO [#A] Vorbereitung des Unterrichtsstoffes nach dem neuen Lehrplan
+DEADLINE: <2021-07-31 Sa>
+Der Unterrichtsstoff für nächstes Schuljahr 2021 / 2022 wird nach dem neuen Lehrplan vorbereitet. Für die ersten Klassen gibt es bereits die neuen Schulbücher, die anderen Klassen werden noch nach dem alten Lehrplan unterrichtet. Nach vier Jahren gilt der neue Lehrplan für alle Schulstufen. Der neue Lehrplan gilt von der ersten Klasse VS bis zur vierten Klasse MS; er ist aufbauend, ...
+
+Neuer Lehrplan: [[file:~/Downloads/Lehrplan_A4_210209.pdf]]
+
+*** Kompetenzmodell und -bereiche
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
+
+**** A Menschen und ihre Lebensorientierungen
+***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+
+**** B Gelehrte und gelebte Bezugsreligion
+***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+
+**** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
+***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+
+**** Kompetenzdimensionen 
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+ - Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+ - Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+ - Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+ - Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+ - Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+
+*** Zentrale fachliche Konzepte
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
+
+**** Lebensrealitäten und Transzendenz
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
+
+**** Gottesliebe und Menschenliebe
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
+
+**** Jesus der Christus
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
+
+**** Freiheit und Offenbarung
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
+
+**** Zusage und Verantwortung
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
+
+*** Didaktische Grundsätze
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
+
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des „Ganzen im Fragment“, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
+
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
+
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
+
+*Fokus: Religiöse Sprache und Symbole*
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
+
+*Fokus: Philosophieren und Theologisieren*
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
+
+*Fokus: Actio und Contemplatio*
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
+
+*Fokus: Beziehung und Resonanz*
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+
+*** Hinweise zum Lehrplan
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** KB – Kompetenzbeschreibungen
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** AB – Anwendungsbereiche
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+
+**** UH – Unterrichtshinweise
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
+
+** DONE [#A] Nächste Telefonrechnung überprüfen
+CLOSED: [2021-07-20 Di 16:10] DEADLINE: <2021-07-05 Mo>
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:15]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-02-25 Do 10:14]
-- State "DONE"       from "TODO"       [2021-01-11 Mo 11:34]
-- State "DONE"       from "TODO"       [2021-01-06 Mi 18:20]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
-- State "DONE"       from "TODO"       [2021-01-04 Mo 10:23]
-- State "DONE"       from "TODO"       [2020-12-06 So 20:43]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-12-02 Mi 23:16]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-11-16 Mo 11:48]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-22 Do 09:35]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
-- State "DONE"       from "TODO"       [2020-10-02 Fr 09:48]
-- State "DONE"       from "TODO"       [2020-07-02 Do 10:34]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2020-06-25 Do 07:42]
-- State "DONE"       from "TODO"       [2019-11-24 So 22:18]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:10]
 :END:
+Es gab heute zwei komische Anrufe, leider habe ich einem Anrufer zurückgeschrieben; den zweiten Anrufer habe ich (unabsichtlich) uzrückgerufen! Upps!
+
+** TODO Schulbücher werden geliefert
+DEADLINE: <2021-08-31 Di>
+
+** TODO org-roam Manual durcharbeiten
+DEADLINE: <2021-07-20 Di +1d>
+Die neue Version von org-roam (V2) ist viel besser, schneller, ... genial. Ich denke, dass dieses Werkzeug mir große Dienste leisten kann. ich großes Danke an den genialen Entwickler.
 
 
-** DONE Konferenz vorbereiten
-CLOSED: [2019-11-23 Sa 09:49] DEADLINE: <2019-11-21 Do>
+* Notizen
+
+** NOTIZ Vorbilder, Influencer, ...?
+Diskussion im Konferenzzimmer; Benehmen mancher Schüler lässt zu wünschen übrig: "Griass di!" (so grüßen viele Schüler ihre Lehrer). Dies kommt wohl aus der Volksschule - dort werden die Lehrer mit Vornamen angeredet. Sie zeigen keinen Respekt mehr. Diesen Respekt müssen wir einfordern, die Kinder sind durchaus in der Lage, das zu lernen.
+
+Wozu brauchen Kinder überhaupt Influencer? Normalerweise gibt's Eltern und den Hausverstand, die mir sagen, was ich essen, trinken und anziehen soll. Oder sind die Kinder zu faul, um eigene Entscheidungen zu treffen? Trauen sie sich dies nicht zu?
+
+** NOTIZ Das ist eine zweite NOTIZ
+Hier kommt der Text hin.
+
+** NOTIZ Juhuu...
+Das klappt!
+
+** NOTIZ Aufzeichnungen des Unterrichts
+Während des Unterrichts kaum am PC möglch, oder?
+
+Ich kann ein org-capture-template erstellen für eine Tabelle; oder im Klassen-File ein Header pro Stunde (mit Link); dann Unterheader pro Schüler - das geht am einfachsten, ist aber für eine Auswertung am Ende des Schuljahres unübersichtlich. Ein workaround wäre mit tags pro Schüler; so lassen sich Berichte pro tag ausdrucken. Am besten wäre eine Tabelle. Eine Internetsuche zu diesem Thema ergab zwei Resultate: am einfachsten kann ich pro Capture eine neue Zeile einfügen; komplizierter ist es, die genaue Position anzugeben. Damit werd ich mich noch spielen (dazu sind schließlich die Sommerferien da - hihi).
+
+org-roam wird mir dabei helfen - und ebenso org-refile ...
+
+* Capture - Webpages
+
+** DONE [[https://blog.jethro.dev/posts/capturing_inbox/][Org-mode Workflow Part 1: Capturing in the Inbox · Jethro Kuan]]
+CLOSED: [2021-07-20 Di 16:13]
 :LOGBOOK:
-- State "DONE"       from "WAITING"    [2019-11-23 Sa 09:49]
-- State "DONE"       from "TODO"       [2019-11-23 Sa 09:34]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:13]
 :END:
-:CLOCK:
-CLOCK: [2019-11-12 Di 17:51]--[2019-11-12 Di 17:52] =>  0:01
-:END:
-
- - Betragen?
- - Leistungsabfall?
- - SQA
- - App "Lernsieg"
- - 
-
-** DONE Lenovo V340-17IWL bestellt , Link: [[mu4e:msgid:74278248500-1574591640972@digitalrivercontent.net][Lenovo - Ihre Bestellung ist eingegangen (Bestellung Nr. 9638087009)]]
-CLOSED: [2019-11-24 So 22:25] DEADLINE: <2019-11-24 So>
+** DONE [[https://www.youcat.org/de/credopedia/minicat/heiligsten-herzens-jesu/][Hochfest des Heiligsten Herzens Jesu | Minicat]]
+CLOSED: [2021-07-20 Di 16:13]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2019-11-24 So 22:25]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:13]
 :END:
-
-Artikel-/Teilenummer:  81RG000GGE
-
-Prozessor: Intel Core i5-8265U Processor ( 1,60GHz 6MB )
-Betriebssystem: Windows 10 Pro 64
-Displaytyp: 17,3"FHD IPS AntiGlare LED Backlight 1920x1080
-Hauptspeicher: 16.0GB PC4-19200 DDR4 SODIMM 2400MHz
-Massenspeicher: 512GB SSD PCIe
-Optisches Laufwerk: DVD-RW
-Garantie: Ein Jahr Depot or Carry-in
-Netzteil: 45W
-Grafik: Intel HD-Grafik 620
-Akku: 3 Cell Li-Polymer
-Bluetooth: Bluetooth 4.1
-Zeigegerät: ClickPad
-WLAN: Lenovo AC WLAN
-
-Preis: € 789,00
-
-** DONE Kinderbetreuungskosten zurückholen , Link: [[mu4e:msgid:90074f1768034f87a1ca037533a676b8@groedig.at][Gutschein Aktion]]
-CLOSED: [2020-09-18 Fr 07:39]
+** DONE [[https://www.youcat.org/de/credopedia/minicat/heiliger-petrus-und-paulus/][Heiliger Petrus und Paulus | Minicat]]
+CLOSED: [2021-07-20 Di 16:13]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2020-09-18 Fr 07:39]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:13]
 :END:
-Zuerst bezahlen; dann Gutscheine bei Gemeinde beantragen cite:Wallner.2008
 
-cite:BibelNeu.2016
+* Emails
 
-cite:Bonhoeffer.1997
-
-Noch ein Buch cite:Ganser2012
-
-** DONE Gottesdienst; mit rhythmischen Liedern 
-CLOSED: [2020-09-18 Fr 07:38] SCHEDULED: <2020-07-05 Fr 09:00>
+** DONE [#A] Meine Stellungnahme zu Gesetz , Link: [[mu4e:msgid:20210520053900.1F03A61BB3B2@oradb2.parlament.gv.at][Stellungnahme zu Ministerialentwurf Gesetz (122/ME)]]
+CLOSED: [2021-07-20 Di 16:13]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2020-09-18 Fr 07:38]
+- State "DONE"       from "TODO"       [2021-07-20 Di 16:13]
 :END:
-:CLOCK:
-CLOCK: [2020-07-03 Fr 10:36]--[2020-07-03 Fr 10:37] =>  0:01
-:END:
+Ich habe von meinem Recht gebrauch gemacht, eine Stellungnahme zu einem Gesetzesentwurf einzubringen. Diese Stellungnahme war sicher nicht so sachlich wie z.B. von den Tiroler Kliniken / Rechtsabteilung.
 
-** DONE Telefonlisten anlegen pro Klasse
-CLOSED: [2020-11-17 Di 08:58] DEADLINE: <2020-11-16 Mo 22:00>
+** DONE [#A] Antwort auf [[mu4e:msgid:87653cb2b4d34c1f86aa386753b2e81d@as32.missioaustria.local][AW: Gebetsanliegen - Bitte um Rat]]
+CLOSED: [2021-07-20 Di 16:13]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2020-11-17 Di 08:58]
+- State "DONE"       from "WAITING"    [2021-07-20 Di 16:13]
 :END:
-:CLOCK:
-CLOCK: [2020-11-16 Mo 11:43]--[2020-11-16 Mo 11:46] =>  0:03
-:END:
-Für die Überprüfung der Anwesenheit eine Telefonliste (Socrates) anlegen. Bei Abwesenheit eines Schülers zuerst telefonsich nachfragen, dann fehlend eintragen (Teacher Assistent).
-Mo / 1. Stunde: 2B Google Classroom (Droidcam)
-Mo / 2. Stunde: 1A Microsoft Teams (IP Webcam)
-Di / 1. Stunde: 1B Microsoft Teams (IP Webcam)
-Mi / 1. Stunde: 3A Google Classroom (Droidcam)
-Fr / 1. Stunde: 4C Google Classroom (Droidcam)
+Auf dieses tolle Mail von P. Karl Wallner sollte ich noch antworten.
 
 *  Meetings
 
-** DONE Schulkonferenz NMS_Golling                                 :MEETING:
-CLOSED: [2019-11-23 Sa 09:50]
+** DONE Konferenz
+CLOSED: [2021-06-01 Di 07:29] SCHEDULED: <2021-05-25 Di 16:30-18:30>
 :LOGBOOK:
-- State "DONE"       from "APPT"       [2019-11-23 Sa 09:50]
+- State "DONE"       from "APPT"       [2021-06-01 Di 07:29]
 :END:
-:CLOCK:
-CLOCK: [2019-11-21 Do 14:37]--[2019-11-21 Do 14:38] =>  0:01
+
+** DONE Elternsprechtag Gabriel Fr. Raudaschl                     
+CLOSED: [2021-06-01 Di 07:29] SCHEDULED: <2021-05-27 Do 15:40-16:00>
+:LOGBOOK:
+- State "DONE"       from "APPT"       [2021-06-01 Di 07:29]
 :END:
-<2019-11-21 Do 16:00>
+Fragen:
+ - Jause
+ - Welche Schule nach der VS? Gymnasium? Dossier...
 
+Wir sind sehr zufrieden mit Gabriel. Er ist sehr selbständig, ... wäre schön, wenn sich in einem "Hauptfach" ein Sehr Gut ausginge.
 
-bibliography:/home/matthias/org/Bibliography/Literatur.bib
+** DONE Notenkonferenz 2021
+CLOSED: [2021-07-09 Fr 09:35] SCHEDULED: <2021-07-05 Mo 14:00>
+:LOGBOOK:
+- State "DONE"       from "APPT"       [2021-07-09 Fr 09:35]
+:END:
+
+** DONE Abschlusskonferenz 2021
+CLOSED: [2021-07-20 Di 16:12] SCHEDULED: <2021-07-09 Fr 09:30>
+:LOGBOOK:
+- State "DONE"       from "APPT"       [2021-07-20 Di 16:12]
+:END:
+

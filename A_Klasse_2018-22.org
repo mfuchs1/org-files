@@ -1,0 +1,115 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: 4A
+#+SELECT_TAGS: JA
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 4A
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com 
+
+* Mitarbeit
+
+** Gesamte Klasse  
+<2021-05-25 Di>
+[[file:~/org/03_Golling.org::#Pfingsten][file:~/org/03_Golling.org::#Pfingsten]]
+Beide dritten Klassen sind diese Woche in Verkehrsbeschränkung.
+
+* Verhalten
+
+* Heftführung
+
+* 4A [KV Miriam Seiwald]
+:PROPERTIES:
+:CUSTOM_ID: Klasse3A
+:END:
+
+#+Name: 2021-students
+| First     | Last         | Email                                        | Name                   | Notes |
+|-----------+--------------+----------------------------------------------+------------------------+-------|
+| Lana      | Alsaadi      | [[mailto:Lana.Alsaadi@golling.schule]]           | [[contact:LanaAlsaadi][Lana Alsaadi]]           |       |
+| Aurelia   | Eckhardt     | [[mailto:Aurelia.Eckhardt@golling.schule]]       | [[contact:AureliaEckhardt][Aurelia Eckhardt]]       |       |
+| Dalal     | Farman       | [[mailto:Dalal.Farman@golling.schule]]           | [[contact:DalalFarman][Dalal Farman]]           |       |
+| Safia     | Farman       | [[mailto:Safia.Farman@golling.schule]]           | [[contact:SafiaFarman][Safia Farman]]           |       |
+| Jakob     | Mair         | [[mailto:Jakob.Mair@golling.schule]]             | [[contact:JakobMair][Jakob Mair]]             |       |
+| Theresa   | Malter       | [[mailto:Theresa.Malter@golling.schule]]         | [[contact:TheresaMalter][Theresa Malter]]         |       |
+| Yashbhan  | Markandey    | [[mailto:Yashbhan.Markandey@golling.schule]]     | [[contact:YashbhanMarkandey][Yashbhan Markandey]]     |       |
+| Jessica   | Maurer       | [[mailto:Jessica.Maurer@golling.schule]]         | [[contact:JessicaMaurer][Jessica Maurer]]         |       |
+| Nikola    | Momic        | [[mailto:Nikola.Momic@golling.schule]]           | [[contact:NikolaMomic][Nikola Momic]]           |       |
+| Jana M.   | Promock      | [[mailto:Jana M..Promock@golling.schule]]        | [[contact:Jana M.Promock][Jana M. Promock]]        |       |
+| Louisa    | Schattauer   | [[mailto:Louisa.Schattauer@golling.schule]]      | [[contact:LouisaSchattauer][Louisa Schattauer]]      |       |
+| Sarah     | Seer         | [[mailto:Sarah.Seer@golling.schule]]             | [[contact:SarahSeer][Sarah Seer]]             |       |
+| Andreas   | Seiwald      | [[mailto:Andreas.Seiwald@golling.schule]]        | [[contact:AndreasSeiwald][Andreas Seiwald]]        |       |
+| Mariella  | Strubegger   | [[mailto:Mariella.Strubegger@golling.schule]]    | [[contact:MariellaStrubegger][Mariella Strubegger]]    |       |
+| Rosa      | Wallinger    | [[mailto:Rosa.Wallinger@golling.schule]]         | [[contact:RosaWallinger][Rosa Wallinger]]         |       |
+| Maria     | Wallmann     | [[mailto:Maria.Wallmann@golling.schule]]         | [[contact:MariaWallmann][Maria Wallmann]]         |       |
+| Katharina | Weißenbacher | [[mailto:Katharina.Weißenbacher@golling.schule]] | [[contact:KatharinaWeißenbacher][Katharina Weißenbacher]] |       |
+| Hannah    | Wenger       | [[mailto:Hannah.Wenger@golling.schule]]          | [[contact:HannahWenger][Hannah Wenger]]          |       |
+#+TBLFM: $3='(concat "[[mailto:"$1"."$2"@golling.schule]]")
+#+TBLFM: $4='(concat "[[contact:" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('*** My lecture 2021')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('**** ' + first + ' ' + last + ' ' * 40 + ':' + first + last + ':')
+    print(':PROPERTIES:')
+    print(':TYPE: person')
+    print(':TITLE:')
+    print(':EMAIL: ' + email)
+    print(':URL:')
+    print(':MOBILE: +43/')
+    print(':HOMEPHONE:')
+    print(':WORKPHONE:')
+    print(':PHONE:')
+    print(':COMPANY:')
+    print(':STREET:')
+    print(':POSTALCODE:')
+    print(':CITY:')
+    print(':COUNTRY: Österreich')
+    print(':BORN:')
+    print(':ITOLDTHEM_EMAIL: matthias.fuchs@golling.schule')
+    print(':ITOLDTHEM_ADDRESS:')
+    print(':ITOLDTHEM_PHONE:')
+    print(':ADDRESS_CHANGE_METHOD:')
+    print(':END:\n')
+#+END_SRC
+
+
+Whenever there is some grading going on, I create lists for the class such as:
+
+#+Name: 2021-22-Mitarbeit
+| Name                   | Notes | [[id:04_SW01][SW01]] | [[id:04_SW02][SW02]] | [[id:04_SW03][SW03]] | [[id:04_SW04][SW04]] | [[id:04_SW05][SW05]] | [[id:04_SW06][SW06]] | [[id:04_SW07][SW07]] | [[id:04_SW08][SW08]] | [[id:04_SW09][SW09]] | [[id:04_SW10][SW10]] | [[id:04_SW11][SW11]] | [[id:04_SW12][SW12]] | [[id:04_SW13][SW13]] | [[id:04_SW14][SW14]] | [[id:04_SW15][SW15]] | [[id:04_SW16][[SW16]] | [[id:04_SW17][SW17]] | [[id:04_SW18][SW18]] | [[id:04_SW19][SW19]] | [[id:04_SW20][SW20]] | [[id:04_SW21][SW21]] | [[id:04_SW22][SW22]] |
+|------------------------+-------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+------+-------+------+------+------+------+------+------|
+| [[contact:LanaAlsaadi][Lana Alsaadi]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:AureliaEckhardt][Aurelia Eckhardt]]       |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:DalalFarman][Dalal Farman]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:SafiaFarman][Safia Farman]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:JakobMair][Jakob Mair]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:TheresaMalter][Theresa Malter]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:YashbhanMarkandey][Yashbhan Markandey]]     |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:JessicaMaurer][Jessica Maurer]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:NikolaMomic][Nikola Momic]]           |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:Jana M.Promock][Jana M. Promock]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:LouisaSchattauer][Louisa Schattauer]]      |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:SarahSeer][Sarah Seer]]             |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:AndreasSeiwald][Andreas Seiwald]]        |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:MariellaStrubegger][Mariella Strubegger]]    |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:RosaWallinger][Rosa Wallinger]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:MariaWallmann][Maria Wallmann]]         |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:KatharinaWeißenbacher][Katharina Weißenbacher]] |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+| [[contact:HannahWenger][Hannah Wenger]]          |       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |       |      |      |      |      |      |      |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$4))
+
+
+
+
+
+

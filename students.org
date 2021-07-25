@@ -1,0 +1,193 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: hide
+#+OPTIONS: num:nil toc:nil
+#+REVEAL_THEME: moon
+#+Title: Schüler
+#+Author: Matthias Fuchs
+#+Email: matthiasfuchs01@gmail.com
+
+
+
+* NMS Golling
+
+** 1. Klassen
+[[file:Klasse1a.org][Klasse1a.org]]
+
+[[file:Klasse1b.org][Klasse1b.org]]
+
+[[file:Klasse1c.org][Klasse1c.org]]
+
+** 2. Klassen
+[[file:Klasse2a.org][Klasse2a.org]]
+
+[[file:Klasse2b.org][Klasse2b.org]]
+
+** 3. Klassen
+[[file:Klasse3a.org][Klasse3a.org]]
+
+[[file:Klasse3b.org][Klasse3b.org]]
+
+** 4. Klassen
+[[file:Klasse4a.org][Klasse4a.org]]
+
+[[file:Klasse4b.org][Klasse4b.org]]
+
+[[file:Klasse4c.org][Klasse4c.org]]
+
+** Aurelia                                                              :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 15:19]--[2021-03-09 Di 15:19] =>  0:00
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*\[SW26\] Das Gewissen - die richtige Stimme hören][[SW26] Das Gewissen - die richtige Stimme hören]]
+tolle Mitarbeit
+
+* NMS Schlossstraße
+[[file:Klasse_Schlossstrasse.org][Klasse_Schlossstrasse.org]]
+
+* Mitarbeit
+
+** Markus Hofer                                                         :MH: 
+:CLOCK:
+CLOCK: [2020-08-06 Do 21:52]--[2020-08-06 Do 21:53] =>  0:01
+:END:
+<2020-08-06 Do>
+[[file:~/org/Schule/01_Golling.org::*\[SW01\] Jahresstoff / ich stehe in den Schuhen des Anderen][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+Er hat sehr gut mitgearbeitet und war fleißig dabei.
+
+** Gesamte Klasse                                                       :4c: 
+:CLOCK:
+CLOCK: [2020-09-25 Fr 08:39]--[2020-09-25 Fr 08:41] =>  0:02
+:END:
+<2020-09-25 Fr>
+[[file:~/org/Schule/04_Golling.org::*\[SW02\] Die Berufung als Quelle meines Lebens][[SW02] Die Berufung als Quelle meines Lebens]]
+
+Die Klasse ist heute wieder besonders desinteressiert. Ich habe ihnen klar gemacht, dass ich meinen Unterricht trotzdem durchziehe, auch wenn RU ihnen am "A..." vorbeigeht. Es werden eben die Noten dementsprechend aussehen - Tipp Elfi: in Reli bestenfalls einen 3er. Bitte durchziehen.
+
+** Eckart Aurelia                                                          :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 14:03]--[2021-03-09 Di 14:03] =>  0:00
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*Erarbeitung][Erarbeitung]]
+gute aufmerksame Mitarbeit
+
+** Aurelia                                                              :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 14:04]--[2021-03-09 Di 14:05] =>  0:01
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*\[SW26\] Das Gewissen - die richtige Stimme hören][[SW26] Das Gewissen - die richtige Stimme hören]]
+gute aufmerksame Mitarbeit
+
+** Hans Huber                                                           :HH: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 14:17]--[2021-03-09 Di 14:17] =>  0:00
+:END:
+<2021-03-09 Di>
+[[file:~/org/02_Golling.org::*Erarbeitung][Erarbeitung]]
+war okay
+
+** Aurelia                                                              :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 14:23]--[2021-03-09 Di 14:24] =>  0:01
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*Erarbeitung][Erarbeitung]]
+war sehr gut.
+
+** Aurelia                                                              :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 15:25]--[2021-03-09 Di 15:25] =>  0:00
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*\[SW26\] Das Gewissen - die richtige Stimme hören][[SW26] Das Gewissen - die richtige Stimme hören]]
+toll
+
+** Ganze Klasse                                                   :Klasse1B: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+Die ganze Klasse hat heute wunderbar mit gearbeitet und mit-theologisiert.
+
+** Ganze Klasse                                                   :Klasse1B: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+Die ganze Klasse hat heute wunderbar mitgearbeitet. 
+
+** Ganze Klasse                                                   :Klasse1B: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+Die ganze Klasse hat wunderbar mitgearbeitet.
+
+** Ganze Klasse                                                         :1B: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+toll
+
+** Ganze Klasse                                                           :1B: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+Toll, super.
+
+** Ganze Klasse                                                         :1a: 
+<2021-03-26 Fr>
+[[file:~/org/01_Golling.org::*\[SW28\] Leiden und Sterben Jesu][[SW28] Leiden und Sterben Jesu]]
+waren toll.
+
+** Hanna                                                             :Hanna: 
+<2021-04-19 Mo>
+[[file:~/org/01_Golling.org::*Erarbeitung][Erarbeitung]]
+Sie hat zum wiederholten Mal ihr Heft und ihren Planer vergessen.
+
+** Hanna                                                             :Hanna: 
+<2021-04-19 Mo>
+[[file:~/org/01_Golling.org::*Erarbeitung][Erarbeitung]]
+Sie hat zum wiederholten Mal ihr Heft und ihren Planer vergessen.
+
+** Gesamte Klasse                                                       :1B: 
+<2021-05-25 Di>
+[[file:~/org/01_Golling.org::#Pfingsten][file:~/org/01_Golling.org::#Pfingsten]]
+Die gesamte Klasse ist Zuhause. Bitte nicht auf Videokonferenz vergessen. 
+
+** Sarah Ziegler                                                        :SZ: 
+:PROPERTIES:
+DATE: <2021-07-06 Di>
+LINK: [[file:~/org/01_Golling.org::#Gebet][file:~/org/01_Golling.org::#Gebet]]
+:END:
+War gut dabei ...
+
+* Verhalten
+
+** Gesamte Klasse                                                       :4c: 
+:CLOCK:
+CLOCK: [2020-10-04 So 10:41]--[2020-10-04 So 10:43] =>  0:02
+:END:
+<2020-10-04 So>
+[[file:~/org/Schule/04_Golling.org::*\[SW03\] Sinn der Arbeit][[SW03] Sinn der Arbeit]]
+
+Unsere "Spezialisten" haben sic wieder besonders arg aufgeführt. Nanuel Hettegger habe ich in die Direktion geschickt. Danach war es besser. Diese "harte" Linie muss ich durchziehen.
+
+** Manuel Hettegger                                                          :MH: 
+:CLOCK:
+CLOCK: [2020-10-04 So 10:43]--[2020-10-04 So 10:46] =>  0:03
+:END:
+<2020-10-04 So>
+[[file:~/org/Schule/04_Golling.org::*\[SW03\] Sinn der Arbeit][[SW03] Sinn der Arbeit]]
+Manuel war besonders lästig und störend. Auf meine wiederholten Aufforderungen hat er nicht reagiert. Ich habe ihn in die Direktion geschickt. Er mussste seine Aufgaben dort erledigen. 
+
+** Aurelia                                                              :EA: 
+:CLOCK:
+CLOCK: [2021-03-09 Di 14:07]--[2021-03-09 Di 14:07] =>  0:00
+:END:
+<2021-03-09 Di>
+[[file:~/org/03_Golling.org::*\[SW26\] Das Gewissen - die richtige Stimme hören][[SW26] Das Gewissen - die richtige Stimme hören]]
+
+respektvoll.
+
+** Simon, Matthias, Mathias                                             :4A: 
+<2021-05-21 Fr>
+[[file:~/org/04_Golling.org::#Ordensleben 2][file:~/org/04_Golling.org::#Ordensleben 2]]
+Die drei Burschen haben mit drei Tischen den Eingang zur Klasse versperrt.

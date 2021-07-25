@@ -2,6 +2,7 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+FILETAGS: hide
 #+TITLE: tagebuch.org
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
@@ -36,7 +37,7 @@ CLOCK: [2018-11-20 Di 16:33]
 
 Wer will die Begabtenföderung übernehmen?
 
-Sexualpädagogik: TeenStar wurde von allen Schulen verbannt --> nachforschen!
+Sexualpädagogik: TeenStar wurde von allen Schulen verbannt --> nachforschen! 
 
 Nachmittagsbetreuung würde bei uns va in der 1. Klassen gebraucht. Sobald wir Werbung machen, sind genügend Schüler da. Dies verlangt große Umbauten: Mittagessen + Raum, Freizeit-Gestaltung, HÜ, etc. BM von Golling ist nicht heiß drauf, da dies mit viel Kosten verbunden ist. Dazu braucht es eigens ausgebildete Pädagogen.
 
@@ -204,24 +205,28 @@ CLOCK: [2019-02-25 Mo 12:05]--[2019-02-25 Mo 12:28] =>  0:23
 
 Ich habe über Amazon eine 1TB-SSD von Crucial bestellt. Damit rüste ich den Manjaro-Desktop-PC auf.
 
-***** TODO Plan [0/15]
+***** DONE Plan [15/15]
+CLOSED: [2021-03-09 Di 21:47]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 21:47]
+:END:
 
-- [ ] Daten sichern: besonders alle config-Dateien von Emacs, weechat und cmus; offlineimap, mbsync, mu4e, mutt, ... etc; Persönliche Daten: Videos, Musik, Dokumente, ...
-- [ ] Handschriftlich festhalten, welche Programme installiert sind.
-- [ ] Partitionierung notieren: BIOS-UEFI, root, home, SWAP (Größe, Flags, boot-fähig, ...). Z.B. sollte SWAP 30-40% größer sein als der RAM: bei 8GB --> 12-14GB.
-- [ ] PC abschalten
-- [ ] Stromkabel (und alle anderen Kabel)  am PC abstecken
-- [ ] Power-Knopf 3-5 sec gedrückt halten (um Rest-Elektizität zu entfernen)
-- [ ] Deckel abmontieren
-- [ ] SSD-Festplatte einbauen (SATA Kabel anschließen - auch am Motherboard; Stromkabel an SSD-Festplatte anschließen)
-- [ ] PC wieder schließen und anstecken
-- [ ] Hochfahren
-- [ ] Auf der SSD-Festplatte Manjaro XFCE installieren: manuelle Patritionierung. SWAP auf 12 GB setzen. UEFI Partition. 
-- [ ] Neustart
-- [ ] Daten von HDD auf SSD kopieren (?)
-- [ ] HDD neu formatieren als reine Daten-HDD
-- [ ] Sich am schnelleren System erfreuen :)
--
+- [X] Daten sichern: besonders alle config-Dateien von Emacs, weechat und cmus; offlineimap, mbsync, mu4e, mutt, ... etc; Persönliche Daten: Videos, Musik, Dokumente, ...
+- [X] Handschriftlich festhalten, welche Programme installiert sind.
+- [X] Partitionierung notieren: BIOS-UEFI, root, home, SWAP (Größe, Flags, boot-fähig, ...). Z.B. sollte SWAP 30-40% größer sein als der RAM: bei 8GB --> 12-14GB.
+- [X] PC abschalten
+- [X] Stromkabel (und alle anderen Kabel)  am PC abstecken
+- [X] Power-Knopf 3-5 sec gedrückt halten (um Rest-Elektizität zu entfernen)
+- [X] Deckel abmontieren
+- [X] SSD-Festplatte einbauen (SATA Kabel anschließen - auch am Motherboard; Stromkabel an SSD-Festplatte anschließen)
+- [X] PC wieder schließen und anstecken
+- [X] Hochfahren
+- [X] Auf der SSD-Festplatte Manjaro XFCE installieren: manuelle Patritionierung. SWAP auf 12 GB setzen. UEFI Partition. 
+- [X] Neustart
+- [X] Daten von HDD auf SSD kopieren (?)
+- [X] HDD neu formatieren als reine Daten-HDD
+- [X] Sich am schnelleren System erfreuen :)
+- 
 ** 2019-11 November
 *** 2019-11-08 Freitag
 
@@ -397,4 +402,124 @@ Raphael Bonelli:
 [[https://www.youtube.com/watch?v=UbHmpstcxcI]] (Der 3. Lockdown ist ein schwerer Schlag für die Bevölkerung!)
 https://www.youtube.com/watch?v=DeCZZ5ZTb7s (Erpressung der Bevölkerung! Erwartet uns nach der Zwangstestung die Zwangsimfpung?)
 
-In fühle ich Wut / Zorn und / oder Resignation. Wer mit dem Rücken zur Wand steht (Zwangsimpfung), kann schnell aggressiv werden. Mein Vater findet nichts schlimmes daran an einer Zwangsimpfung. "Ein Wahnsinn! Das sind doch Experten, denen muss man vetrauen!" Zwang in einer Demokratie ist nix Arges, findet er; in unseren Zeiten muss man eben die Demokratie und Freiheit ausschalten - irgendwie so dentk er. Zweiteilung der Gesellschaft in Getestete und Ungetestete - das ist sehr bedenklich. Die ersten Massentests waren ein echter Flopp. 
+In fühle ich Wut / Zorn und / oder Resignation. Wer mit dem Rücken zur Wand steht (Zwangsimpfung), kann schnell aggressiv werden. Mein Vater findet nichts schlimmes daran an einer Zwangsimpfung. "Ein Wahnsinn! Das sind doch Experten, denen muss man vetrauen!" Zwang in einer Demokratie ist nix Arges, findet er; in unseren Zeiten muss man eben die Demokratie und Freiheit ausschalten - irgendwie so dentk er. Zweiteilung der Gesellschaft in Getestete und Ungetestete - das ist sehr bedenklich. Die ersten Massentests waren ein echter Flopp.
+
+* 2021
+
+** 2021-03 März
+
+*** 2021-03-06 Samstag
+
+**** Corona
+:CLOCK:
+CLOCK: [2021-03-06 Sa 21:13]--[2021-03-06 Sa 21:20] =>  0:07
+:END:
+[2021-03-06 Sa 21:13]
+Tja, mir macht "das ganze Theater" schön langsam wirklich Angst. Kommt die Impfpflicht - oder wird sich davor ausreichend Widerstand in der Bevölkerung und der Politik melden? Kommt der nächste (ev. noch härtere) Lockdown? Woher weiß man, wie ansteckend die neue Mutation ist? Sie kann ja ansteckender sein - aber wie ist der Verlauf dieser Variante? Gegen den ursprünglichen Virus sind die Menschen weitgehen immun. Warum lassen sich die Menschen impfen? Gegen die neue Mutation wären sie doch gar nicht geschützt - oder? Es kommen immer mehr Fragen ...
+
+Isabelle hat sicher Recht: der Teufel will uns Angst machen. Mein Leben hat mir gezeigt, dass Gott immer da ist, mich nie im Stich lässt. Es mag manchmal sehr schwierig werden, aber Er ist immer da.
+
+Ich werd auf jeden Fall das Buch von Clemens Arway lesen.
+
+Jetzt überlege ich mir, wie ich ordentliche, intelligente Notizen mache.
+
+**** Wie macht man ordentliche Notizen?
+:CLOCK:
+CLOCK: [2021-03-06 Sa 21:20]--[2021-03-06 Sa 21:29] =>  0:09
+:END:
+[2021-03-06 Sa 21:20]
+[[https://blog.jethro.dev/posts/how_to_take_smart_notes_org/]]
+
+Zwei Arten von Notizen:
+ - Flüchtige Notizen; was mir gerade durch den Kopf geht;
+   Für diese Notizen verwende ich org-capture / diary (tagebuch.org)
+   
+ - Projektbezogene Notizen: Alles andere, das nicht zum ersten Punkt passt - Notizen eines Vortrags; zu einem Buch; Nachforschung / Studium; Gesprächsnotizen; ...
+   Dafür verwende ich org-roam. Hierfür habe ich bereits zwei templates (für org-roam-find-file ; org-roam-insert) erstellt:
+   - Notizen zu Themen für die Schule
+   - Notizen für das persönliche Studium
+
+Bei jeder Notiz stelle ich mir die wichtige Frage: “In what context do I want to see this note again?” Und daraus ergeben sich Querverweise zu anderen Notizen. Ich kann diese Verbindungen (= Notizen) erstellen; sollte diese Notiz noch nicht bestehen, dann erstellt org-roam diese Notiz kurzerhand.
+
+Was ändert sich dadurch?
+First, my notes all reside in the same folder, in a flat hierarchy. Nesting notes artificially introduces a hierarchy, which can be extremely crippling. I can rely solely on file links to make connections between notes.
+
+Second, my notes go anywhere they want, and are generally titled based on their source. This is in contrast with putting a note under a topic (e.g. “Classical Mechanics”). Notes and ideas can belong to multiple topics: it’s much easier to just tag “topic files” (in my example, “Learning”). With this, there’s no need to think about where a note should go, and the perpetual question is (I mention yet again) “In what context do I want to see this note again?”, which is much easier and more meaningful to answer. This also means my notes almost become write-only. The notes repository can grow incredibly big, and that’s okay. Only the relevant notes surface.
+
+*** 2021-03-08 Montag
+
+**** Notizen, aber richtig
+:CLOCK:
+CLOCK: [2021-03-08 Mo 22:54]--[2021-03-08 Mo 22:59] =>  0:05
+:END:
+[2021-03-08 Mo 22:54]
+Ich habe heute org-noter / orb-roam-bibtex konfiguriert; das sind tolle Tools. Nur habe ich den Eindruck, dass ich mich in Details verzettle, aber aufs Notizen mache bzw aufs Schreiben vergesse.
+
+Was hilft mir? org-roam scheint ein tolles Tool zu sein, um Notizen zu machen. In Emacs habe ich noch Zetteldeft installiert. Im Vergleich zu org-roam ist es viel hierarchischer (?); und da ich Zetteldeft ausschließlich fürs Notizen *schreiben* verwendet habe, macht dieses Tool nicht viel Sinn. Daher - verwende ich ab jetzt org-roam.
+
+Was mich verwirrt ist: wofür verwende ich org-roam, wofür org-roam-bibtex?
+
+Eigentlich ist es nicht schwer: org-roam verwende ich ab jetzt zum Erfassen meiner Notizen. Innerhalb von org-roam dient org-roam-bibtex, um bibliographische Verweise zu Büchern, PDFs, etc herzustellen. Dabei entstehen auch Notizen - so wie bei org-ref. Allerdings arbeitet org-ref anders: org-ref erstellt zuerst einen "cite:" Eintrag; nachträglich kann ich, wenn ich will, u.a. eine Notiz hinzufügen.  
+
+Vielleicht sollte ich einfach beginnen, mit diesen Tools zu arbeiten - aber wirklich; nicht nur "test"-Notizen zu schreiben.
+
+In einigen Klassen ist "Barmherzigkeit" ein Thema. Also los!
+
+** 2021-05 Mai
+
+*** 2021-05-04 Dienstag
+
+**** Diskussionen zum Thema "Kirche"
+[2021-05-04 Di 11:22]
+
+In diesen Tagen "krieg ich als Reli-Lehrer gerade ziemlich das Fett weg". Anlass war eine Lese-HÜ von Gabriel mit folgendem Satz: "Leo übersiedelt mit seinen beiden Vätern nach Linz". Lt Aussage der VS-Lehrerin ist das ein Tippfehler (was sicher nicht stimmt - ich denke eher, dass die Lehrerin einer Diskussion ausweichen will).
+
+In der Schule, unter den Kollegen, stehe ich meist allein auf weiter Flur. Es gibt eine allgmeine Ablehnung der Kirche, meist aufgrund der alt-bekannten Resentiments, Vorurteile, etc.: Kreuzzüge, Inquisition, Kolonialismus, Zölibat, Einstellung bzgl Homosexualität, usw. Dann kommt auch der gleiche Satz: "Gläubig kann ich auch ohne der Kirche sein. Immer wird mir gesagt, ich sei Sünder!" - "Nach dem Tod ist's aus!"
+
+Meine Direkorin sagte mir: "Du musst auch mal deine Einstellungen hinterfragen und moderner werden. Wenn du auf deinen alt-modischen Themen sitzenbleibst, nehmen dich die Kinder sowieso nimmer ernst: 'Ach der Fuchs mit seinen blöden und faden Themen!'." Da bekam ich vom Vorgänger mehr Rückendeckung! Sepp war der Inhalt eher egal, aber er stärkte mir pädagogisch den Rücken. 
+
+Fast um mich wieder aufzubauen nahm ich mit der 3a das Thema "Kirche" durch. Als gäbe es etwas wiedergutzumachen.
+
+Ich brauche dringend einen Ort für Austausch und Stärkung unter Gleichgesinnten (Reli-Lehrer?). Ich fühle mich ziemlich allein(gelassen). Mir gehen die Argumente aus.
+
+Seit dieser Diskussion kommt mir vor, als hätte ich eine ganz andere Stellung im Kollegium. Der Widerstand gegen Kirche und Glaube wird größer - oder bilde ich mir das nur ein? Von Seiten der Dirketion ist klar, dass RU nur mehr als Ethik-Unterricht gewünscht wird. Denn von den Schülern hat kein einziger mehr einen Bezug zur Kirche mehr. Keiner geht am Sonntag in den Gottesdienst. Das bedeutet auch: welche Themen soll ich da noch behandeln? Kirchliche Themen, Sakramente, etc ... hat alles keinen Sinn mehr. Als die 3, Klassen gefragt habe: "Warum lässt ihr euch firmen?" Kommt keine Antwort ...
+
+Auf der anderen Seite werden die Probleme der Kinder immer mehr sichtbar - hat mit Kirche / Glaube jetzt nix zu tun. Wie soll ich den RU anlegen? So wie bisher? Ich sollte mal wieder mit Charly und / oder Leo telefonieren. Was brauchen die Kinder? Was ist ihnen wichtig? Dann gibt es die Vorgaben des Lehrplans. Oft hilft in Krisen einfach die Regelmäßigkeit und der "Alltag".
+
+*** 2021-05-05 Mittwoch
+
+**** ... Kirche (Teil 2)
+[2021-05-05 Mi 23:25]
+
+Fortsetzung der letzten Diskussion: ich habe heute mit den dritten Klassen weiterhin über die Kirche nachgedacht. Die Kinder haben toll mitgearbeitet.
+
+Das Auto fährt toll - auch wenn die Reparatur recht teuer war. Da fiel auch eine große innere Last von mir ab - jeden Tag davor spürte ich diesen Druck: "Ach ich weiß, seit einem (zwei) Jahr(en) schon habe ich das Service vergessen; hoffentlich werde ich wegen dem fehlenden Pickerl nicht kontrolliert. Wird genug Geld für ein Service da sein?" Uff! Hoffentlich hält das Auto jetzt lange. Welches Auto würde ich kaufen, wenn der Caddy nimmer läuft? Brauchts wieder ein ähnliches Auto?
+
+*** 2021-05-19 Mittwoch
+
+*** 2021-05-23 Sonntag
+
+**** Rubikon Magazin: Das neue Wahrheitsregime
+[2021-05-23 So 11:10]
+
+[[https://multipolar-magazin.de/artikel/das-neue-wahrheitsregime][Das neue Wahrheitsregime - multipolar]]
+
+Was sind Fakten? Was ist Wahrheit? Eigentlich: WER ist die Wahrheit? Zahlen, Fakten, Ereignisse, ...
+
+#+begin_quote
+Wahrheit: In der Erkenntnistheorie ist das ganz einfach. Wahr ist eine Aussage dann, wenn sie mit der Wirklichkeit übereinstimmt – mit Phänomenen, die ohne unser Wollen da sind. Das Wetter, das Haus da drüben, ein Virus. Das Problem beginnt dann, wenn sich zwei Aussagen widersprechen. Ist SARS-CoV-2 ein Killer oder hätten wir ohne diesen Test gar nichts davon gemerkt? Es gibt keine Aussage ohne uns, ohne einen Menschen. Es gibt auch keine ›Fakten‹ ohne einen Menschen. Die Sprache hat das nicht vergessen. Im Wort ›factum‹ stecken ›machen‹, ›tun‹ und ›handeln‹. Lateinisch: facere. Manufaktur. Handarbeit.
+
+Selbst eine Zahl ist eine Zahl und nicht die Wirklichkeit. Das weiß jeder, der selbst Daten erhoben hat. Was immer wir messen, wird sozial hergestellt. Menschen legen fest, dass sie Schritte zählen, um ihre Existenz zu legitimieren (zehntausend am Tag!). Menschen legen fest, nach welchem Virus sie suchen und was passieren muss, damit sie ›Gefunden!‹ rufen dürfen. Hinter jeder Zahl steht ein Interesse, und sei es nur das eines Herstellers, der seine Geräte loswerden will. Daraus folgt immer: Es hätte auch anders sein können.
+
+Wahrheit ist bei Hannah Arendt "das, was der Mensch nicht ändern kann". 
+#+end_quote
+
+** 2021-06 Juni
+
+*** 2021-06-02 Mittwoch
+
+**** Fehlendes Unrechtbewusstsein, keine Reue bei Kindern (2a)
+[2021-06-02 Mi 11:05]
+Aktueller Anlass: Schüler der 2a (Milos, Lara, Melanie, Emily sind federführend; andere dabei) haben Fotos bei Videokonferenzen von Mitschülern und Lehrern gemacht, daraus sog. "Sticker" gemacht und diese unter sich verschickt. Dies ist illegal (Recht auf eigenes Bild). Mit diesen Bildern, die oft "verhunzt" wurden, wurden Mitschüler gemobbt. Außerdem wurden pornografische Videos verschickt. Gestern war die Polizei in der Schule und hat den Schülern ins Gewissen geredet. Melanie und Lara zeigten keinerlei Unrechtbeuwsstsein und Reue. Dieser Vorfall betrifft nicht nur die 2a, sondern auch die Parallelklasse 2b. 
+
+Was kann ich als Lehrer tun? Welche Themen soll ich wie im Unterricht behandeln? Wie können Kinder so verrohen, abgebrüht sein? Soll ich es thematisieren? Wie können wir die Eltern einbinden? Natürlich wird von der Direktion eine Nachricht per Schoolfox an alle Eltern verschicken. In erster Linie ist es die Aufgabe der KVs, aber ich möchte auch gerne meinen Beitrag leisten. Ich kann mich in der Bibliothek informieren. Natürlich muss ich Rücksprache mit der Direktion und den KVs halten. Schießlich ist es wahrscheinlich nicht gut, wenn sich zu viele Lehrer "einmischen". 
