@@ -2,30 +2,13 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+FILETAGS: hide
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
-#+LATEX_HEADER: \usepackage[ngerman]{babel}
-#+LATEX_HEADER: \usepackage[utf8]{inputenc}
-#+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage{textcomp}
-#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
-#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
-#+LATEX_HEADER: \usepackage{url}
-#+LATEX_HEADER: \urlstyle{rm}
-#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
-#+LATEX_HEADER: \usepackage{cjhebrew}
-#+LATEX_HEADER: \usepackage{hyperref}
-#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
-#+LATEX_HEADER: \usepackage{pdfpages}
-#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
-#+LATEX_HEADER: \usepackage{times}
-#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
-#+LATEX_HEADER: \usepackage{setspace}
-#+LATEX_HEADER: \usepackage{enumitem,amssymb}
-#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
-#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
-#+TITLE: 03_Golling.org
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 03_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
@@ -60,10 +43,11 @@ Die 3a ist als sehr schwierig in der ganzen NMS bekannt, die Leistungen der Sch�
 
 ** Jahresplanung
 
-*** DONE [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
-CLOSED: [2020-09-19 Sa 08:24] DEADLINE: <2020-09-14 Mo>
+*** TODO [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
+DEADLINE: <2020-09-14 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gott liebt mich
+    :ID: 03_SW01
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
@@ -97,10 +81,11 @@ Bibelstellen lesen und darüber beten.
 Mein Leben ist in Gottes Hand geschrieben
 
 
-*** DONE [SW02] Für andere da sein / ein Leben in Gottes neuer Welt 
-CLOSED: [2020-09-27 So 10:37] DEADLINE: <2020-09-21 Mo>
+*** TODO [SW02] Für andere da sein / ein Leben in Gottes neuer Welt 
+DEADLINE: <2020-09-21 Mo>
 :PROPERTIES:
     :CUSTOM_ID: für andere da sein
+    :ID: 03_SW02
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:37]
@@ -138,10 +123,11 @@ Beispiele aus dem NT - Jesus heilt, vergibt; Gleichnisse vom Reich Gottes.
 
 
 
-*** DONE [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
-CLOSED: [2020-10-04 So 13:56] DEADLINE: <2020-09-28 Mo>
+*** TODO [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
+DEADLINE: <2020-09-28 Mo>
 :PROPERTIES:
     :CUSTOM_ID: ich ein Original
+:ID:       03_SW03
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 13:56]
@@ -188,10 +174,11 @@ Lesen: 1 Joh 3 + 4
 **** Hefteintrag
 
 
-*** DONE [SW04] Sind Stars echte Wegbegleiter? / Eine ist zum Dienen bereit
-CLOSED: [2020-10-11 So 09:46] DEADLINE: <2020-10-05 Mo>
+*** TODO [SW04] Sind Stars echte Wegbegleiter? / Eine ist zum Dienen bereit
+DEADLINE: <2020-10-05 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Wegbegleiter
+:ID:       03_SW04
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:46]
@@ -229,10 +216,11 @@ Welche Personen begeistern dich? Wer inspiriert dich? Warum?
 
 
 
-*** DONE [SW05] Ich möchte, dass einer mit mir geht
-CLOSED: [2020-10-17 Sa 09:51] DEADLINE: <2020-10-12 Mo>
+*** TODO [SW05] Ich möchte, dass einer mit mir geht
+DEADLINE: <2020-10-12 Mo>
 :PROPERTIES:
     :CUSTOM_ID: mein Wegbegleiter
+:ID:       03_SW05
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
@@ -270,10 +258,11 @@ Ziel: Könnte dieser treue Freund auch Jesus sein?
 **** Hefteintrag
 
 
-*** DONE [SW06] Collage: Wie kann ich mich Jesus annähern?
-CLOSED: [2020-10-24 Sa 11:58] DEADLINE: <2020-10-19 Mo>
+*** TODO [SW06] Collage: Wie kann ich mich Jesus annähern?
+DEADLINE: <2020-10-19 Mo>
 :PROPERTIES:
     :CUSTOM_ID: sich Jesus annähern
+:ID:       03_SW06
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-24 Sa 11:58]
@@ -308,10 +297,11 @@ Sich Jesus annähern - Collage gestalten
 
 
 
-*** DONE [SW07] Herbstferien
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
+*** TODO [SW07] Herbstferien
+DEADLINE: <2020-10-26 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
+:ID:       03_SW07
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -324,10 +314,11 @@ CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
 <2020-10-26 Mo> Nationalfeiertag
 
 
-*** DONE [SW08] Vergebung ohne Grenzen
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
+*** TODO [SW08] Vergebung ohne Grenzen
+DEADLINE: <2020-11-02 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Vergebung ohne Grenzen
+:ID:       03_SW08
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -359,10 +350,11 @@ Bibelstellen zum Thema "Vergebung":
 **** Hefteintrag
 
 
-*** DONE [SW09] Judentum
-CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
+*** TODO [SW09] Judentum
+DEADLINE: <2020-11-09 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Judentum
+:ID:       03_SW09
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
@@ -405,10 +397,11 @@ Material:
 **** Hefteintrag
 
 
-*** DONE [SW10] Islam
-CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
+*** TODO [SW10] Islam
+DEADLINE: <2020-11-16 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Islam
+:ID:       03_SW10
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
@@ -451,10 +444,11 @@ Home-Schooling: Quiz zum Thema "Judentum und Islam". Den Film darf ich rechtlich
 **** Hefteintrag
 
 
-*** DONE [SW11] Christentum - Judentum - Islam
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-23 Mo>
+*** TODO [SW11] Christentum - Judentum - Islam
+DEADLINE: <2020-11-23 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Monotheistische Weltreligionen
+:ID:       03_SW11
     :END: 
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -487,10 +481,11 @@ Eine Doppelseite zum Islam und Judentum - Christentum gestalten. Ähnlichkeiten 
 **** Hefteintrag
 
 
-*** DONE [SW12] Advent / Brauchen wir Gebote und Vorschriften
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
+*** TODO [SW12] Advent / Brauchen wir Gebote und Vorschriften
+DEADLINE: <2020-11-30 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gebote
+:ID:       03_SW12
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -527,10 +522,11 @@ CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
 **** Hefteintrag
 
 
-*** DONE [SW13] 10 Gebote
-CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
+*** TODO [SW13] 10 Gebote
+DEADLINE: <2020-12-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Dekalog
+:ID:       03_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -576,10 +572,11 @@ Zweimal durch "gefährliches Gewässer" (Schilfmeer / Jordan); in der Mitte Berg
 
 
 
-*** DONE [SW14] Bergpredigt
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-14 Mo>
+*** TODO [SW14] Bergpredigt
+DEADLINE: <2020-12-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Bergpredigt
+:ID:       03_SW14
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
@@ -611,10 +608,12 @@ CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-14 Mo>
 
 
 
-*** DONE [SW15] Maria, von Gott auserwählt
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-21 Mo>
+*** TODO [SW15] Maria, von Gott auserwählt
+DEADLINE: <2020-12-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Maria
+:ORDERED:  t
+:ID:       03_SW15
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
@@ -640,17 +639,21 @@ CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-21 Mo>
 **** Hefteintrag
 
 
-*** DONE [SW16] Ferien
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-28 Mo>
+*** TODO [SW16] Ferien
+DEADLINE: <2020-12-28 Mo>
+:PROPERTIES:
+:ID:       03_SW16
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
 :END:
 
-*** DONE [SW17] Ferien / Gott wird Mensch; Kindheitsgeschichten Jesu
-CLOSED: [2021-01-10 So 22:01] DEADLINE: <2021-01-04 Mo>
+*** TODO [SW17] Ferien / Gott wird Mensch; Kindheitsgeschichten Jesu
+DEADLINE: <2021-01-04 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch
+:ID:       03_SW17
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-10 So 22:01]
@@ -709,10 +712,11 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 
 
-*** DONE [SW18] Vergleich Wissenschaft und Schöpfungstexte
-CLOSED: [2021-01-17 So 10:13] DEADLINE: <2021-01-11 Mo>
+*** TODO [SW18] Vergleich Wissenschaft und Schöpfungstexte
+DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Schöpfung
+:ID:       03_SW18
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:13]
@@ -761,10 +765,11 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 **** Hefteintrag
 
 
-*** DONE [SW19] Urkirche
-CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
+*** TODO [SW19] Urkirche
+DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Urkirche
+:ID:       03_SW19
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
@@ -806,8 +811,10 @@ Franz Xaver Bischof "Einführung in die Kirchengechichte"
 DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Reformation
+:ID:       03_SW20
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
     - CLOSING NOTE [2019-02-01 Fr 10:08] \\
       Die dritten Klassen sind - leider wie bisher - eher "schwierig". Ich muss strenger sein! Es geht ums Überleben!
@@ -840,8 +847,10 @@ DEADLINE: <2021-01-25 Mo>
 DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Neuzeit
+:ID:       03_SW21
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:14]
     - CLOSING NOTE [2019-02-01 Fr 10:10] \\
       Das Erstellen des Kahoots klappte sehr gut in der 3B, das hat mich positiv überrascht.
@@ -876,8 +885,10 @@ DEADLINE: <2021-02-01 Mo>
 DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
+:ID:       03_SW22
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
 - CLOSING NOTE [2019-02-22 Fr 10:03] \\
   Der Film ist zwar alt - aber sehr gut!
@@ -1030,12 +1041,13 @@ spielen über verschiedene Themen.
 
 
 
-*** TODO [SW23] Aschermitwoch / Das Gewissen
-DEADLINE: <2021-02-15 Mo>
+*** DONE [SW23] Aschermitwoch / Das Gewissen
+CLOSED: [2021-03-09 Di 19:25] DEADLINE: <2021-02-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gewissen Stärke
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:25]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
 :END:
 
@@ -1059,12 +1071,14 @@ DEADLINE: <2021-02-15 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW24] Das Gewissen - eine Stimme, die nicht schweigt
-DEADLINE: <2021-02-22 Mo>
+*** DONE [SW24] Kinder in fremden Ländern
+CLOSED: [2021-03-05 Fr 10:28] DEADLINE: <2021-02-22 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Gewissen Stimme
+:CUSTOM_ID: Kinder fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:28]
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
 - State "DONE"       from "TODO"       [2020-02-23 So 14:17]
 - CLOSING NOTE [2019-02-22 Fr 09:53] \\
   3A: hier klappt es einigermaßen.
@@ -1083,30 +1097,42 @@ DEADLINE: <2021-02-22 Mo>
     :END:
 
 **** Ziele LP 2000
-[[#04]] Für die Stimme des Gewissens sensibel sein
+[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können
 
 **** Kompetenzen
-[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 [[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
 **** Wiederholung
 
 
 **** Erarbeitung
+Kinder aus fremden Ländern (siehe Material von missio.at)
+
+Bsp.: Philippinen / Myanmar
+Geografische Grundkenntnisse
+Religionen
+
+Soziale Missstände: Armut, Mangelernährung
+
+Wie hilft die Kirche
+
+youtube: Willi wills wissen - Philippinen / missio.de Video
 
 
 **** Hefteintrag
+Doppelseite im Heft
 
 
-
-*** TODO [SW25] Das Gewissen - den richtigen Weg finden
-DEADLINE: <2021-03-01 Mo>
+*** DONE [SW25] Aufgabe der Kirche in fremden Ländern (Weltkriche) / Werke der Barmherzigkeit
+CLOSED: [2021-03-09 Di 15:09] DEADLINE: <2021-03-01 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Gewissen Weg
+:CUSTOM_ID: Kirche fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
     - CLOSING NOTE [2018-03-03 Sam 18:04] \\
       Erste Einführung zum Dekalog - cf VL von Andreas Weiß
@@ -1114,29 +1140,68 @@ DEADLINE: <2021-03-01 Mo>
 
 
 **** Ziele LP 2000
-[[#04]] Für die Stimme des Gewissens sensibel sein
+[[#07]] Struktur und Aufgaben der Weltkriche
 
 **** Kompetenzen
-[[#4a]] Schüler können die Bildung und Entfaltung des Gewissens hin zum Verantwortungsgewissen als ständigen Lernprozess erfassenund die Gewissenserforschung als wichtige Aufgabe erkennen, durch die die rechte Gesinnung bestärkt wird.
+[[#7c]] Schüler können die Struktur und die Aufgaben der Weltkirche definieren.
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Wiederholung
 
 
 **** Erarbeitung
+Am Beispiel von Philippinen und Mynmar sollen die Kinder verstehen, welche Aufgaben die Kirche weltweit erfüllt. In den Philippinen sind 81% der Bevölkerung römisch-katholisch. "Dennoch" werden jene Personen verfolgt, die sich kritisch über die Regierung äußern. Sie werden auf eine "schwarze" Liste gesetzt und als Terroristen / Kommunisten bezeichnet. In der Folge kann es passieren, dass diese Menschen sogar getötet werden. Priester und Ordensleute finden sich bereits auf dieser Liste. Eines der größten sozialen Probleme ist die Mangelernährung der Menschen, besonders der Kinder. Der Gegensatz zwischen arm und reich ist sehr groß, es gibt doch eine wachsende Mittelschicht. Die Kirche unterstützt mit vielen Projekten und Initiativen den Kampf gegen die schelchte Ernährung der Armen: in den Schulen gibt es Garten Projekte (die Eltern werden ebenso eingebunden); auf den Müllhalden kümmern sich Vereine um die ausgewogene Ernährung der Kinder; in einem Zentrum werden Nahrungsergänzungsmittel hergestellt und an die arme Bevölkerung verteilt.
 
+Zusätzlich werden kleine Kurse zur richtigen Ernährung angeboten und die Menschen direkt vor Ort aufgeklärt. Schließlich ist das Land sehr reich an Obst und Gemüse, leider wissen die Menschen zu wenig, welche Pflanzen sich wie zum Kochen eignen.
+
+In Myanmar ist die Situation eine ganz andere. Die Bewohner des Landes sind sehr religiös. Die Mehrheit ist buddhistisch; die Christen stellen 1% der Bevölkerung, darunter ist der größte Teil zu den Baptisten zu zählen. Dennoch gibt es 3 Erzdiözesen und Diözesen.
+
+
+[[https://www.missio.at/mutter-teresa/]]
+
+[[https://www.missio.at/wp-content/uploads/2018/04/Missiothek_2016-02_Spezial_WEB.pdf]]
+
+[[https://www.barmherzigkeitsjahr.de/unterricht/]]
+[[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Unterricht-Werke-der-Barmherzigkeit.pdf]]
+[[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Werke_der_Barmherzigkeit_Stationenkarten.pdf]]
+
+
+ - leibliche Werke der Barmherzigkeit
+   - Hungrige speisen
+   - Durstige tränken
+   - Nackte kleiden
+   - Fremde aufnehmen
+   - Kranke besuchen
+   - Gefangene befreien
+   - Tote bestatten
+ 
+ - geistige Werke der Barmherzigkeit
+   - Unwissende lehren
+   - Zweifelnde raten
+   - Irrende zurechtweisen
+   - Trauernde trösten
+   - Unrecht ertragen / lästige Personen geduldig ertragen
+   - Beleidigungen verzeihen
+   - für Lebende und Tote beten
+
+Cf missio.at: Material
+
+Zusammenfassung ins Heft; Schüler nennen eigene Erfahrungen. Glaube ohne Werke? Glaube aufgrund der Werke! (Jak 2,15)
+
+Lk 15 / 5 Schritte in ein besseres Leben (Beichte)
 
 **** Hefteintrag
 
 
-*** TODO [SW26] Das Gewissen - die richtige Stimme hören
-DEADLINE: <2021-03-08 Mo>
+*** DONE [SW26] Das Gewissen - die richtige Stimme hören
+CLOSED: [2021-03-12 Fr 10:42] DEADLINE: <2021-03-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gewissen richtige Stimme
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-12 Fr 10:42]
 - State "DONE"       from "TODO"       [2020-03-06 Fr 15:38]
     - Note taken on [2018-03-09 Fre 09:45] \\
       In der 3b geht es im Moment echt schlimm zu: große Unruhe, beinahe völliges Desinteresse; Marc (neuer Schüler) steht leider oft im Zentrum, die Schüler schauen, wie er reagiert. Er kommt vom Gymnasium, u.a. wegen "nicht zufriedenstellend".
@@ -1157,17 +1222,25 @@ DEADLINE: <2021-03-08 Mo>
 
 
 **** Erarbeitung
+Was ist das Gewissen?
+
+[[file:Schule_Themen/das_gewissen.org][Das Gewissen]]
+
+Aus dem YouCat (ab Nr. 291) das Wichtigste herausschreiben. Beispiele, um das Gelernte anzuwenden.
+
 
 
 **** Hefteintrag
 
 
-*** TODO [SW27] Menschen, die nach ihrem Gewissen handeln
-DEADLINE: <2021-03-15 Mo>
+*** DONE [SW27] Franz Jägerstätter
+CLOSED: [2021-03-19 Fr 12:06] DEADLINE: <2021-03-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Franz Jägerstätter
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:06]
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:44]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:44]
     - CLOSING NOTE [2018-03-17 Sam 10:07] \\
       3A: geht so, war zu wenig vorbereitet, ist auch ein schwieriges Thema; ich hab mit den Schülern einen einfachen Überblick der drei Religionen erarbeitet.
@@ -1185,21 +1258,43 @@ DEADLINE: <2021-03-15 Mo>
 [[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
 **** Wiederholung
-Islam: Kultur, religiöse Praxis und Grundüberzeugungen
+
 
 **** Erarbeitung
-Franz Jägerstätter
+Film zum Thema finden...
+
+***** NDR-Doku von 1967:
+[[https://www.youtube.com/watch?v=XHOJ02crYBs]]
+Sehr gute Dokumentation (), v.a. kommen die Zeitzeugen zu Wort; ich habe (noch) nicht alles gesehen, aber jener Satz bleibt hängen (ein Gast im Wirtshaus): "Das würde ja heißen, dass alle Kriegsverbrecher waren, die an die Front gegangen sind. Das kann nicht sein. Menschlich verstehe ich's nicht: er hat seine Familie und seinen Hof im Stich gelassen!" Farnz Jägerstätter bleibt lange Zeit für seine Mitbewohner wie ein Fremder. 
+
+***** Kath-Net-Doku:
+[[https://www.youtube.com/watch?v=fSklb9M_fp4]]
+...
+
+***** Ausschnitte aus dem Film "Der Fall Franz Jägerstätter" (Axel Corti; Kurt Weinzierl)
+[[https://www.youtube.com/watch?v=xBgLjrqEdRs]]
+Ein Film Klassiker aus Österreich.
+
+***** Fundstücke in der TVThek (ORF):
+[[https://tvthek.orf.at/profile/Archiv/7648449/NS-Opfer-Franz-Jaegerstaetter/13956072/NS-Opfer-Franz-Jaegerstaetter/14188875][NS Opfer Franz Jägerstätter]]
+
+[[https://tvthek.orf.at/profile/Archiv/7648449/Jaegerstaetter-Das-Todesurteil/12456834/Jaegerstaetter-Das-Todesurteil/12456835][Das Todesurteil]]
+
+[[https://tvthek.orf.at/profile/Archiv/7648449/Franziska-Jaegerstaetter-Einer-der-Nein-sagte/13251122/Franziska-Jaegerstaetter-Einer-der-Nein-sagte/13395586][Franziska Jägerstätter: Einer der Nein sagte]]
+
+
 
 **** Hefteintrag
 
 
 
-*** TODO [SW28] Was ist das Kreuz für dich?
-DEADLINE: <2021-03-22 Mo>
+*** DONE [SW28] Was ist das Kreuz für dich?
+CLOSED: [2021-04-05 Mo 09:27] DEADLINE: <2021-03-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesu Kreuz
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:44]
 - CLOSING NOTE [2019-03-23 Sa 16:12] \\
   Überraschenderweise hat ihnen der Vortrag von Daniele Ganser über WTC7 sehr gefallen!
@@ -1219,18 +1314,21 @@ DEADLINE: <2021-03-22 Mo>
 
 
 **** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
 
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
 
 
 **** Hefteintrag
 
 
-*** TODO [SW29] Osterferien
-DEADLINE: <2021-03-29 Mo>
+*** DONE [SW29] Osterferien
+CLOSED: [2021-04-05 Mo 09:27] DEADLINE: <2021-03-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterferien
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
 - State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
 - CLOSING NOTE [2019-04-02 Di 09:26] \\
   Die Stunde in der 3B zum Thema "Sexualität / 6. Gebot" war toll. Ich habe einfach den Youcat genommen und die Schüler waren positiv überrascht!
@@ -1248,12 +1346,13 @@ DEADLINE: <2021-03-29 Mo>
 
 
 
-*** TODO [SW30] Die Auferstehung unseres Herrn Jesus Christus
-DEADLINE: <2021-04-05 Mo>
+*** DONE [SW30] Die Auferstehung unseres Herrn Jesus Christus
+CLOSED: [2021-04-12 Mo 07:18] DEADLINE: <2021-04-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
 - CLOSING NOTE [2019-04-10 Mi 10:53] \\
   Die 3A bereitet den Ostergottesdienst vor; nach der eher negativen Erfahrung vom Weihnachtsgottesdienst haben wir die Gestaltung entsprechend geändert. 
@@ -1276,18 +1375,44 @@ DEADLINE: <2021-04-05 Mo>
 
 
 **** Erarbeitung
+[[file:Schule_Themen/auferstehung.org][Auferstehung]]
 
+Die Auferstehung Jesu ist keine Erfindung, kein Symbol - sondern eine Tatsache.
+Cf Firmstunde aus dem YOU-Firmbuch, S. 50-51!
+
+Klasse, 4 Gruppen:
+
+ 1. Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
+ 2. Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
+ 3. Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
+ 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn?
+
+Austausch der vier Gruppen - Raum für Rückfragen
+
+Youcat 106 + Austausch
+
+Bibelsession 1 Kor 15,12-22: zwei Punkte sind Paulus wichtig...
+
+ - Jesus ist Gottes Sohn  nur so kann uns sein Tod am Kreuz erlösen.
+ - Wäre Jesus im Grab geblieben, gäbe es auch für uns keine Auferstehung und kein ewiges Leben.
+
+Austausch: wie stellst du dir das ewige Leben vor?
+
+Youcat-Session: 153+154
+   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen.
+   Langeweile? Nein - Gott sorgt für Abwechselung; Jesus spricht nicht umsonst von einer "einzigartigen Party" 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW31] Der Weg nach Emmaus
-DEADLINE: <2021-04-12 Mo>
+*** DONE [SW31] Der Weg nach Emmaus
+CLOSED: [2021-04-18 So 09:32] DEADLINE: <2021-04-12 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Emmausjünger
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-18 So 09:32]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
     - CLOSING NOTE [2018-04-18 Mi 08:38] \\
       Augustinus Film - toll, berührend, spannend, hat den Schülern sehr gefallen
@@ -1307,17 +1432,18 @@ DEADLINE: <2021-04-12 Mo>
 
 
 **** Erarbeitung
-
+Die Auferstehung - ein historisches Fakt?
 
 **** Hefteintrag
 
 
-*** TODO [SW32] Zum Lieben bereit
-DEADLINE: <2021-04-19 Mo>
+*** DONE [SW32] Zum Lieben bereit
+CLOSED: [2021-04-24 Sa 22:13] DEADLINE: <2021-04-19 Mo>
 :PROPERTIES:
 :CUSTOM_ID: bereit zur Liebe
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:13]
 - State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
     - CLOSING NOTE [2018-04-18 Mi 08:39] \\
       Wegen den BO-Tagen sind fast alle Stunden ausgefallen, es blieb mir nur die Stunde mit der 3A am Donnerstag.
@@ -1336,17 +1462,36 @@ DEADLINE: <2021-04-19 Mo>
 
 
 **** Erarbeitung
+Heiliger Geist:
+ - YouCat / Hl. Geist: 38, 113 - 120
+   "Ich glaube an den Hl. Geist." = wir beten den Hl. Geist ebenso als Gott an wie den Vater und den Sohn. Kommt in unser Herz - als Kinder Gottes erkennen wir Gott als unseren Vater. Durch den Hl. Geist bewegt können wir das Angesicht der Erde verändern.
+   Ohne den Hl. Geist kann man Jesus nicht verstehen.
+   Namen und Zeichen: Taube, heilende Salbe, lebendiges Wasser, brausender Sturm, flammendes Feuer; Jesus über den Hl. Geist:  Beistand, Tröster, Lehrer, Geist der Wahrheit. Sakramente: Handauflegung, Salbung durch Öl.
+   Hl. Geist hat Frauen und Männer im AT erfüllt, diese erhoben ihre Stimme für Gott.
+   Maria war total offen und ansprechbar für Gott.
+   50 Tage nach Ostern. Jesus sendet den Hl. Geist - die Zeit der Kirche begann.
+   Der Hl. Geist baut die Kirche auf und treibt sie an, erinnert sie an ihre Mission, beruft Menschen in ihren Dienst und schenkt ihnen die nötigen Gaben.
+   Der Hl. Geist öffnet mich für Gott; er lehrt mich beten und hilft mir, für andere da zu sein.
+   
+ - YouCat / Hl. Geist und Firmung: 203 - 207
+   
+
+   
+Firmung:
+ - YouCat: 193, 203 - 207
+
 
 
 **** Hefteintrag
 
 
-*** TODO [SW33] Moderne Lieder zum Thema Liebe, Sehnsucht nach Liebe
-DEADLINE: <2021-04-26 Mo>
+*** DONE [SW33] Moderne Lieder zum Thema Liebe, Sehnsucht nach Liebe
+CLOSED: [2021-04-30 Fr 17:20] DEADLINE: <2021-04-26 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Lieder Liebe
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-30 Fr 17:20]
 - State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
 - CLOSING NOTE [2019-04-27 Sa 10:38]
 :END:
@@ -1362,16 +1507,25 @@ DEADLINE: <2021-04-26 Mo>
 
 **** Wiederholung
 
+
 **** Erarbeitung
+Thema "Firmung / Hl. Geist":
+
+Was ist das Sakrament der Firmung?
+
+Firmung:
+ - YouCat: 193, 203 - 207
 
 **** Hefteintrag
 
-*** TODO [SW34] Auferstehung in der Kunst
-DEADLINE: <2021-05-03 Mo>
+
+*** DONE [SW34] Auferstehung in der Kunst
+CLOSED: [2021-05-08 Sa 15:09] DEADLINE: <2021-05-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung Kunst
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
 - State "DONE"       from "TODO"       [2020-05-05 Di 10:29]
 - CLOSING NOTE [2019-05-04 Sa 17:29]
     - CLOSING NOTE [2018-05-07 Mo 15:02] \\
@@ -1389,17 +1543,39 @@ DEADLINE: <2021-05-03 Mo>
 
 **** Wiederholung
 
+
 **** Erarbeitung
+:PROPERTIES:
+:org-gcal-managed: org
+:END:
+[[https://www.katholisch.de/artikel/21333-die-auferstehung-christi-in-der-kunst]]
+
+[[https://lehrerfortbildung-bw.de/u_gewi/religion-rk/gym/bp2004/fb3/3_aufg/kurs/1_christ3/jesuschristus3_kursstufe.pdf]]
+PDF: [[file:~/Downloads/jesuschristus3_kursstufe.pdf][Die Auferstehung Jesu in der Kunst]]
+
+[[http://www.kulturpool.at/display/blog/2017/04/05/Die+Auferstehung]]
+
+Tod und Auferstehung gehören zusammen:
+[[https://asset.klett.de/assets/595bee37/9602d1f9dcd90aeae45bb71b9ef771185f67e715.pdf]]
+
+Alternatives Thema:
+Das Geheimnis der Kirche - wie spricht die Bibel über die Kirche?
+ - 1 Kor 12,12-31a + Y 126: Leib Christi
+ - 2 Kor 6,16: Tempel des Heiligen Geistes + Y 128
+ - 1 Petr 2,9-10: Volk Gottes + Y 125
+
+YouTube Videos auf kathmedia deutsch
 
 **** Hefteintrag
 
 
-*** TODO [SW35] Gebet
-DEADLINE: <2021-05-10 Mo>
+*** DONE [SW35] Gebet
+CLOSED: [2021-05-14 Fr 13:49] DEADLINE: <2021-05-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gebet
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:49]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
     - CLOSING NOTE [2018-05-10 Do 00:19] \\
       Die Stunden waren okay. In der 3A lief es sehr gut; in der 3B gibt es tolle Schüler, wie z.B. Leonie! Leider wird sie von anderen Mädchen gehänselt - da Leonie gut bei Lehrern ankommt - sie ist intelligent. Marc wiederum glaubt, er wäre so cool mit seiner unmöglichen Art. "Nein, Marc, dein Verhalten gefällt mir gar nicht. Du bist so uncool!"
@@ -1411,7 +1587,6 @@ DEADLINE: <2021-05-10 Mo>
 [[#06]] Verschiedene Formen des Gebets
 
 **** Kompetenzen
-
 [[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 [[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
@@ -1420,16 +1595,44 @@ DEADLINE: <2021-05-10 Mo>
 
 **** Erarbeitung
 
+*Du kannst beten*
+Vielleicht hast Du schon lange nicht mehr gebetet, seitdem Du ein Kind warst. Vielleicht ist Dir das Beten überhaupt noch ganz fremd. Oder man hat Dir gesagt, es sei schwierig zu beten oder es würde sowieso nichts bringen. Ganz besonders in Krisenzeiten werden wir Menschen auf den Grund unserer Existenz geführt. Krisen bringen viele wieder dazu, das zu tun, was für unsere Großeltern noch selbstverständlich war. Vielleicht ist es ja so, dass Gebet gar nicht nur was für die „Alten“ ist? So viele Christen auf der Welt machen täglich die Erfahrung, dass Gott durch ihre Gebete zu ihnen spricht. Dass ihre Gebete erhört werden und ihnen Trost und Hilfe schenken in Notzeiten. Gebet ist eine persönliche Begegnung mit dem lebendigen, sprechenden Gott. Du kannst ihn bitten, loben, ihm erzählen was dich gerade bewegt. Mach dir keine Sorgen, wenn du nicht weißt wo du anfangen sollst, sei einfach du selbst und sprich, wie zu einem guten Freund. Hier findest du ein paar hilfreiche Tipps für den Start.
+
+1. *Entscheide Dich*
+   Wenn Du es willst, entscheide Dich, ein betender Mensch zu werden und Deine Beziehung zu Gott zu gestalten
+2. *Sei im Kleinen treu*
+   Beginne mit festen kurzen Gebetszeiten. Und die halte in Treue durch. Dann können Deine Sehnsucht und auch Dein Gebet wachsen, wie es Dir, der Zeit und den Umständen gemäß ist.
+3. *Nimm Dir Zeit zum Beten*
+   Nimm eine feste Zeit (Gewohnheit hilft), eine ruhige Zeit (das sind oft der frühe Morgen und der Abend) und eine wertvolle Zeit, die Du gerne hast, aber auch gerne wegschenken magst (keine "Abfallzeit").
+4. *Bereite Dir einen Ort*
+   Der Ort, an dem Du betest, wirkt sich auch auf Dein Beten aus. Suche deshalb einen Ort, an dem Du gut beten kannst.
+5. *Ritualisiere und strukturiere Dein Gebetsleben*
+   Gib Deinem Beten eine feste Ordnung (einen Ritus). Diese soll Dich nicht einengen, sondern Dir helfen, nicht jeden Tag überlegen zu müssen, ob und wie Du beten willst.
+6. *Lass den ganzen Menschen beten*
+   Im Gebet darf sich der ganze Mensch mit Gott verbinden: Dein Leib, Deine innere und äußere Wahrnehmung, Deine Erinnerung, Dein Wollen, Denken und Fühlen oder der Traum der vergange- nen Nacht.
+7. *Bete auf vielfältige Weise*
+   Entdecke und übe die vielen Weisen des Gebetes, die je nach Zeit und eigener Verfassung und momenta- ner Situation anders sein können.
+8. *Nutze die Gelegenheit*
+   Du kannst auch die Gelegenheiten nutzen, die sich bieten, um zwischendurch zu beten (z.B. Stoßgebete, eine Bitte, ein kurzer Dank oder Lobpreis).
+9. *Lass Gott zu Wort kommen*
+   Beten bedeutet auch, auf die Stimme Gottes zu hören. Gott spricht am ausdrücklichsten in den Worten der Heiligen Schrift, die die Kirche Tag für Tag liest. Er spricht durch die Überlieferung der Kirche und das Zeugnis der Heiligen.
+10. *Bete mit der irdischen und der himmlischen Kirche*
+    Wer betet, stellt sich in die große Gemeinschaft der Betenden hinein. Sie reicht von der Erde bis in den Himmel und schließt die heute Lebenden wie auch die Engel, die Heiligen und die unbekannte Schar der bei Gott Lebenden ein.
+
+Besprechung der einzelnen Schritte und - ganz wichtig: Umsetzung in die Praxis. Wahrscheinlich werden wir nicht alle 10 Scrhitte in einer Stunde besprechen können.
+
+Cf Youcat-Firmbuch, Youcat-Gebetsbuch.
 
 **** Hefteintrag
 
 
-*** TODO [SW36] Das Wirken des Heiligen Geistes
-DEADLINE: <2021-05-17 Mo>
+*** DONE [SW36] Das Wirken des Heiligen Geistes
+CLOSED: [2021-05-23 So 10:54] DEADLINE: <2021-05-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Hl. Geist
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-23 So 10:54]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
     - CLOSING NOTE [2018-05-22 Di 14:42] \\
       Es war ein Kampf, aber ich hoffe, die Schüler haben verstanden, WEN sie bei der Firmung empfangen! Vor dem Empfang eines jeden Sakraments muss ich im Stand der Gnade sein, also gehe ich beichten.
@@ -1447,18 +1650,88 @@ DEADLINE: <2021-05-17 Mo>
 
 
 **** Erarbeitung
+YouCat
 
+Firmbuch
+
+Material der Bibliothek
+
+(ev alternatives Thema - Schüler der dritten Klasse sind generell etwas "passiv")
+
+7 Gaben des Hl. Geistes
+
+1. Im Geist der Weisheit leben
+
+Benedikt von Nursia, 11. Juli
+
+Obwohl er sich viel in der Einsamkeit aufhielt, war der Heilige schon bei vielen bekannt. So geschah es einmal dass ihn eine ganze Mönchsgemeinschaft darum bat, ihr Vorsteher zu werden. Benedikt hatte so seine Bedenken: "Ihr werdet es mit mir nicht lange aushalten. Ich bin euch sicherlich zu streng." Als sie ihn trotzdem drängten, willigte er schließlich ein. Es dauerte nicht lange, und den Mönchen wurde das, was Benedikt von ihnen forderte, wirklich zuviel. Aber anstatt mit ihm darüber zu reden, dachten sie nach, wie sie ihn beseitigen könnten. Einer kam auf die Idee, Gift in seinen Trinkbecher zu schütten. Als sich um die Mittagszeit die Brüder zum gemeinsamen Essen trafen, sprach Benedikt wie gewohnt - den Tischsegen. In diesem Moment zersprang der Becher mit dem Gift, als ob er von einem Steinwurf getroffen worden wäre. Da erkannte der Heilige dass man ihn hatte vergiften wollen. Traurig sprach er zu den Brüdern: "Jetzt müsst ihr euch einen anderen Abt suchen, der zu euch passt. Mich könnt ihr auf keinen Fall mehr haben." Er verließ die Gemeinschaft, um wieder allein zu leben.
+
+Gott, schenke mir etwas vom Geist der Weisheit, damit ich erkenne, wo ich nachgeben und wo ich mich einer Aufgabe stellen soll.
+
+2. Im Geist des Verstandes leben
+
+Margarete, 20. Juli
+
+Margaretes Vater war ein heidnischer Priester, der oft mit den Männern seines Stammes ausritt, wenn sie Krieg gegen die Nachbarvölker führten oder durchziehende Kaufleute überfielen und beraubten. Margarete wurde währenddessen von einer Dienstmädchen betreut und erzogen: Das Mädchen war Christin. So kam es, dass Margarete den Glauben an Jesus Christus kennenlernte und schließlich, mit fünfzehn Jahren, getauft und gefirmt wurde. All das war dem Vater verborgen geblieben. Eines Tages aber erfuhr er Margaretes Geheimnis, und sosehr er bis dahin sein einziges Kind über alles geliebt hatte, begann er es jetzt aus tiefstem Herzen zu hassen. Mit eigenen Händen fesselte er Margarete und brachte sie vor den Richter. Der Richter sprach: "Sieh doch nur, Margarete, wie du deinen Vater in Not und Verlegenheit bringst! Er ist der Priester unseres Stammes, alle verehren und achten ihn sehr. Wie steht er nun da, mit einer Tochter, die von unserem Götterglauben abgefallen ist und Gott der Christen anhängt! Hast du kein Mitleid mit deinem Vater? " Margarete aber sprach: "Ich bleibe dem Herrn Jesu Christus treu, wenn es sein muss, bis in den Tod!" Da ließ der Richter sie von den Henkersknechten foltern. Aber sosehr sie auch das arme Mädchen mit Feuer am ganzen Körper brannten - Margarete blieb standhaft. Zuletzt erschlug sie der.
+
+Gott, schenke mit etwas vom Geist des Verstandes, dass ich erkenne, was du von mir willst und wer es gut mit mir meint.
+
+3. Im Geist des Rates leben
+
+Johannes Bosco, 31. Jänner
+
+Den Pfarrer Don Bosco liebten und verherrlichten die Straßenbuben in Turin. Bei ihm war es nie langweilig. Er konnte zaubern, auf ein galoppierendes Pferd springen, seiltanzen und Feuer schlucken. Außerdem war er der einzige, der die Straßenbuben mochte. Nirgendwo sonst waren sie geduldet, die Polizei verfolgte sie. "Es sind Taugenichtse", sagten die feine Leute, jagt sie fort. Aber Don Bosco holte sie zusammen, gab ihnen ein Heim, wo sie wohnen durften und zu essen bekamen. Er war mit ihnen fröhlich, erzählte ihnen von Gott und sorgte dafür, dass sie einen Beruf erlernen konnten. Als Don Bosco selbst noch jung war, lebte er arm und musste die schwersten Arbeiten annehmen, um studieren zu können. Dann lernte er fremd Sprachen, schrieb Bücher und Zeitungsartikel und konnte mit zahlreichen Helfern, die sich Salesianer nannten, in vielen Ländern Häuser und Schulen bauen für Buben und Mädchen, die in Not sind.
+
+Gott, schenke mir etwas vom Geist des Rates, dass ich denen helfe, die es nötig haben und mich um Rat fragen.
+
+4. Im Geist der Stärke leben
+
+Hildegard von Bingen, 30. April
+
+Die Heilige war schüchtern und oft schwer krank. Ihre Kraft bekam sie von Jesus selbst, der ihr oft begegnete. In ihrem Kloster wirkte sie als Äbtissin, als Ärztin und Künstlerin. Sie begab sich auf Reisen, um Klöster zu gründen und um zu predigen. Eines Tages saß Hildegard im Garten. Da traf sie einen jungen Mann, der sich mit letzter Kraft zum Kloster geschleppt hatte. Er bat Hildegard, sie möge ihn auf dem Klosterfriedhof begraben. Aus dem mühsamen Gestammel konnte sie nur entnehmen dass der Fremde ein Edelmann sei, der aus der Kirche ausgeschlossen worden war. Doch er hatte gebeichtet und seine Fehler bereut. Der Fremde starb, noch ehe er das Haus betreten konnte. Hildegard hatte Mitleid und ließ den Edelmann auf dem Klosterfriedhof begraben. Damit machte sie sich den Erzbischof zum Feind. Er verbot der Klosterfamilie, die heilige Messe zu feiern und das Chorgebet zu halten, ehe der Tote nicht wieder ausgegraben sei. Hildegard widersetzte sich den Forderungen des Bischofs, weil die überzeugt war, in den Augen Gottes richtig gehandelt zu haben.
+
+Gott, schenke mir etwas vom Geist der Stärke, dass ich mich getraue - auch gegen die Meinungen anderer - zu dir zu stehen.
+
+5. Im Geist der Wissenschaft leben
+
+Thomas von Aquin
+
+Der hl. Tomas kam als Schüler in das berühmte Benediktinerkloster Monte Cassino, und die Eltern wünschten sehr, dass er dort einmal Abt werden würde. Thomas lernte aber den Dominikanerorden kennen und trat dort ein. In Paris traf er einen gelehrten Mann, den er hoch verehrte - den hl. Albertus den Großen. Bei ihm wurde sein scharfe Verstand aufs beste geformt. Weil Thomas viel schwieg und nachdachte, schimpften ihn seine Mitschüler "stummer Ochse!" Der hl. Albert aber erwiderte darauf: "Dieser stumme Ochse wird einmal so laut brüllen, dass die ganze Welt ihn hört." Und so kam es auch. Der hl. Thomas wurde einer der größten Gelehrte, die es jemals gegeben hat. Dabei blieb er ein tieffrommer Mann. Besonders liebte er Jesus im Tabernakel. Über dieses Geheimnis der Eucharistie schrieb er viele schöne Hymnen, die wir heute noch zu Fronleichnam singen.
+
+Gott, schenke mir etwas vom Geist der Wissenschaft, dass ich beim Lernen mein Bestes gebe und mein Wissen zur Freude und zum Nutzen der anderen verwende.
+
+6. Im Geist der Frömmigkeit leben
+
+Scholastica von Nursia, 10. Februar
+
+Die heilige Scholastica war die Schwester des heiligen Benedikt. Einmal im Jahr besuchte sie ihren Bruder. Sie verbrachten die kostbare Zeit mit geistlichem Gespräch und gemeinsamem Gebet. Bei einem dieser Treffen fühlte Scholastica, dass sie ihren Bruder heute das letzte Mal sehen werde. So bat sie ihn: "Ich bitte dich kehre nicht in dein Kloster zurück, sondern bleibe die Nacht über bei mir!" Nun ist es einem Mönch aber verboten, die Nacht außerhalb des Klosters zu verbringen. Scholastica dachte bei sich: "Wenn der Bruder nicht bleiben kann, muss Gott helfen, dass wir uns nicht trennen müssen." Und sie bat Gott um Hilfe. Da zog ein heftiges Gewitter auf. Der Sturm heulte los, und es begann in Strömen zu regnen. So war es unmöglich, bei solchem Wetter das Haus zu verlassen. Die Geschwister blieben die ganze Nacht zusammen und redeten über den Himmel. Drei Tage nach diesem Besuch starb Scholastica.
+
+Gott, schenke mir etwas vom Geist der Frömmigkeit, dass ich für andere bete und allen Dingen, auch in den kleinsten, dir vertaue.
+
+7. Im Geist der Ehrfurcht leben
+
+Franz von Assisi, 4. Oktober
+
+Einmal betritt Francesco die Stadt Gubbio. Die Leute klagten ihm: "Ein böser Wolf fällt immer wieder unserer Schafherden und Ziegen an. Ja, er hat kürzlich sogar Kinder angegriffen, einen jungen Hirten schwer verletzt." Franz zieht, ein Holzkreuz in der Hand in den Wald, wo der Wolf hauste. Er hört die Bestie brüllen. "Komm, Bruder Wolf!" ruft er dem Tier zu, "ich bitte dich, höre auf mich und tue den Leuten von Gubbio und ihren Herden kein Leid mehr an! Ich will doch Frieden stiften zwischen dir und den Menschen. Ich will sorgen, dass sie dir täglich Futter an den Waldrand legen. Aber, bitte , mein Wolf, reiße keine Scharfe und Ziegen mehr!" Und - so erzählen die Leute von Gubbio - da legt sich der Wolf wie ein zahmes Hündlein vor die Füße des heiligen und wedelt mit dem Schwanz und leckt seine Hand. Von da an hat der Wolf weder Menschen noch Tier, je wieder angefallen. Die Leute von Gubbio aber haben ihn bis zum Ableben gefüttert und verwöhnt.
+
+Gott, schenke mir etwas vom Geist der Ehrfurcht, damit ich das, was du geschaffen hast, auch wenn es böse scheint, gut behandle und nicht leichtsinnig zerstöre.
+
+Spannende Doku über Paulus / Petrus in Rom?
+[[https://www.youtube.com/watch?v=jCqD9DC9gpI]]
+
+Doku: Rom - Die Kaiser und ihr Reich (von Nero / Konstantin / Alarich) 3*45min
 
 **** Hefteintrag
 
 
 
-*** TODO [SW37] Pfingsten - Firmung
-DEADLINE: <2021-05-24 Mo>
+*** DONE [SW37] Pfingsten - Firmung
+CLOSED: [2021-05-30 So 11:33] DEADLINE: <2021-05-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Pfingsten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:33]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:33]
     - CLOSING NOTE [2018-05-26 Sa 15:57] \\
       Beide Stunden waren sehr gut; im Moment sind die Schüler recht auf ihre Firmung fokkusiert.
@@ -1478,7 +1751,59 @@ DEADLINE: <2021-05-24 Mo>
 
 
 **** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
 
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
+
+[[https://assets.ctfassets.net/e1rvcpbj76la/2Dg2LrhkWQ9mxazyfGbPUk/bdc064a1dc431c53815c7eba3678caf8/YC_Studyguide_Deu_13.pdf][YouCat Studyguide 13 - Wie beruft Gott?]]
+[[file:Schule/Youcat_Studienkurs/YC_Studyguide_Deu_13.pdf]]
+
+[[https://assets.ctfassets.net/e1rvcpbj76la/1CyWYuMC4ab9KXZSt1ctzh/4b75986b0f30f23d151de1f8e3efe717/YC_Studyguide_Deu_10.pdf][YouCat Studyguide 10 - Warum lassen sich Christen firmen?]]
+[[file:Schule/Youcat_Studienkurs/YC_Studyguide_Deu_10.pdf]]
+
+Komm, Heil’ger Geist, der Leben schafft,
+erfülle uns mit deiner Kraft.
+Dein Schöpferwort rief uns zum Sein:
+Nun hauch uns Gottes Odem ein.
+ 
+Komm, Tröster, der die Herzen lenkt,
+du Beistand, den der Vater schenkt;
+aus dir strömt Leben, Licht und Glut,
+du gibst uns Schwachen Kraft und Mut.
+
+Dich sendet Gottes Allmacht aus
+im Feuer und in Sturmes Braus;
+du öffnest uns den stummen Mund
+und machst der Welt die Wahrheit kund.
+
+Entflamme Sinne und Gemüt,
+dass Liebe unser Herz durchglüht
+und unser schwaches Fleisch und Blut
+in deiner Kraft das Gute tut.
+
+Die Macht des Bösen banne weit,
+schenk deinen Frieden allezeit.
+Erhalte uns auf rechter Bahn,
+dass Unheil uns nicht schaden kann.
+
+Lass gläubig uns den Vater sehn,
+sein Ebenbild, den Sohn, verstehn
+und dir vertraun, der uns durchdringt
+und uns das Leben Gottes bringt.
+
+Den Vater auf dem ew’gen Thron
+Und seinen auferstandnen Sohn,
+dich, Odem Gottes, Heil’ger Geist,
+auf ewig Erd’ und Himmel preist. Amen.
+
+Oder: Grüne Stadt der Zukunft.
+ - Charta [[file:~/Downloads/smart-city-charta-langfassung.pdf]]
+ - Singapur [[https://duckduckgo.com/?t=ffnt&q=singapur+gr%C3%BCne+stadt&atb=v217-1&iax=images&ia=images&iai=http%3A%2F%2Fdreamersjourneys.com%2Fwp-content%2Fuploads%2F2015%2F03%2FDSC_6691-1024x576.jpg][Singapur Grüne Stadt]]
+ - Mailand [[https://mailand.de/bosco-verticale/]]
+ - Salzburg
+ - Wien
 
 **** Hefteintrag
 Atme in mir, du Heiliger Geist, dass ich Heiliges denke.
@@ -1488,12 +1813,13 @@ Stärke mich, du Heiliger Geist, dass ich Heiliges hüte.
 Hüte mich, du Heiliger Geist, dass ich das Heilige nimmer verliere.
 
 
-*** TODO [SW38] Die Dreieinigkeit Gottes
-DEADLINE: <2021-05-31 Mo>
+*** DONE [SW38] Die Dreieinigkeit Gottes
+CLOSED: [2021-06-04 Fr 08:11] DEADLINE: <2021-05-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Dreifaltigkeit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
 - State "DONE"       from "TODO"       [2020-06-01 Mo 09:56]
 - CLOSING NOTE [2019-05-31 Fr 10:12] \\
   Wegen den Feiertagen gab es nur eine Stunde mit der 3A.
@@ -1518,18 +1844,29 @@ DEADLINE: <2021-05-31 Mo>
 
 
 **** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/dreifaltigkeitssonntag/][Gott ist die Liebe | Minicat]]
+Jedes Jahr feiert die Kirche am Sonntag nach Pfingsten den Dreifaltigkeitssonntag. Warum ist das so? Mit Pfingsten ist das Heilswerk der Erlösung abgeschlossen und ebenso ist mit der Offenbarung der Dreifaltigkeit Gottes die Offenbarung als Ganze abgeschlossen. Gottes Wille ist es, uns das innerste Wesen seiner selbst kundzutun. Warum? Weil Gott die Liebe ist. Wer liebt, der will, dass der andere ihn ganz und gar erkennt im tiefsten Innern seines Wesens. Die Selbstoffenbarung Gottes, in der er uns das Geheimnis seines Wesens kundtun will, ist im letzten die Offenbarung, dass Gott dreifaltig ist. Weil jeder von uns gerufen ist mit den drei Personen dieses einen Gottes in eine ganz persönliche Beziehung einzutreten.
 
+[[file:Schule_Themen/dreifaltigkeit.org][dreifaltigkeit]]
+
+Videos:
+ [[https://www.youtube.com/watch?v=a2I1-8SQRZw][Wer thront auf dem Gnadenstuhl - Hermit & Hog Via Alpina Sacra 35 - YouTube]]
+ [[https://www.youtube.com/watch?v=mgYk5RrlkFU][Welche Bilder gibt es von der Heiligen Dreifaltigkeit? (3MC 19) - YouTube]]
+ [[https://www.youtube.com/watch?v=FlDN-FIkyPQ][Dreifaltigkeit - Tauhid [At-Tariq 11 / Islam & Christentum] - YouTube]]
+ [[https://www.youtube.com/watch?v=d3RZ2fXVZdM][Wie kann man sich die Dreifaltigkeit vorstellen?* (3MC 18) - YouTube]]
+ [[https://www.youtube.com/watch?v=RiGM27ntef4][Wie kann man den Glauben an die Dreifaltigkeit zusammenfassen? (3MC 17) - YouTube]]
 
 **** Hefteintrag
 
 
 
-*** TODO [SW39] Jesus vergibt
-DEADLINE: <2021-06-07 Mo>
+*** DONE [SW39] Jesus vergibt
+CLOSED: [2021-06-15 Di 07:15] DEADLINE: <2021-06-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus vergibt
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:15]
 - State "DONE"       from "TODO"       [2020-06-06 Sa 11:35]
     - CLOSING NOTE [2018-06-10 So 08:23] \\
       Nach einem Gespräch mit der Mutter von Mark weiß ich ein bißchen besser, wie ich mit diesem Schüler umgehen muss. Trotzdem auf der Hut sein. Ich höre von anderen Lehrern, wie lästig Mark ist.
@@ -1539,7 +1876,7 @@ DEADLINE: <2021-06-07 Mo>
 [[#01]] Die Botschaft vom befreienden Handeln Gottes darstellen können
 
 **** Kompetenzen
-[[#1a]] können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
+[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
 
 [[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 [[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
@@ -1548,16 +1885,28 @@ DEADLINE: <2021-06-07 Mo>
 
 
 **** Erarbeitung
+3B: Kahoot!
 
+3A: Befreiungserzählungen aus der Bibel (Bibellexikon)
+ - Gen 1-3
+ - Gen 22 (?): Opfer Isaaks
+ - Josef in Ägypten
+ - Mose / Exodus
+ - Judith
+ - Esther
+ - David / Goliath
+ - Jesus: Geburt, Leben, Tod / Auferstehung
+ - ...
 
 **** Hefteintrag
 
-*** TODO [SW40] Befreiungserzählungen: Jesus heilt
-DEADLINE: <2021-06-14 Mo>
+*** DONE [SW40] Befreiungserzählungen: Jesus heilt
+CLOSED: [2021-06-20 So 13:30] DEADLINE: <2021-06-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus heilt
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:30]
 - State "DONE"       from "TODO"       [2020-06-14 So 10:45]
 - Note taken on [2020-06-09 Di 12:14] \\
   Anmerkung von Barbara bzgl Firmung: "Du machst den Eindruck, als würde dich das alles nichts angehen." Uh-oh! stimmt doch. Mir fehlt es generell an Schwung und zündenden Ideen für den Unterricht. Die Schulbücher geben nichts her, die Schüler sind faul, träge und antriebslos. 
@@ -1588,13 +1937,13 @@ Jesus heilt einen Gelähmten, einen Blinden - ich stehe da und sage nichts (wie 
 **** Hefteintrag
 
 
-
-*** TODO [SW41] Gekrümmte werden aufgerichtet
-DEADLINE: <2021-06-21 Mo>
+*** DONE [SW41] Gekrümmte werden aufgerichtet
+CLOSED: [2021-06-28 Mo 00:23] DEADLINE: <2021-06-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus richtet auf
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:23]
 - State "DONE"       from "TODO"       [2020-06-21 So 10:37]
     - CLOSING NOTE [2018-06-21 Do 10:17] \\
       Da "The Truman Show" nicht agespielt werden konnte, stieg ich auf "Arrival" um - und konnten den Film nicht fertig schauen.
@@ -1613,17 +1962,24 @@ DEADLINE: <2021-06-21 Mo>
 
 
 **** Erarbeitung
+Ikone "Dreifaltigkeit"
 
+Betrachtung:
+
+[[file:~/Downloads/57_1984_3_183_192_Evdokimov_12.pdf]]
+
+Film: Animationsfilm / ...?
 
 **** Hefteintrag
 
 
-*** TODO [SW42] Zusammenfassung Jahresstoff
-DEADLINE: <2021-06-28 Mo>
+*** DONE [SW42] Zusammenfassung Jahresstoff
+CLOSED: [2021-07-05 Mo 07:18] DEADLINE: <2021-06-28 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jahresstoff
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
     - CLOSING NOTE [2018-06-28 Do 09:11] \\
       Die dritten Klassen sind auf Sportwoche, daher suppliere ich vier Stunden. Durch die Erste-Hilfe-Kurse der vierten Klassen entfallen mir weitere drei Stunden.
@@ -1646,12 +2002,13 @@ DEADLINE: <2021-06-28 Mo>
 
 
 
-*** TODO [SW43] Film
-DEADLINE: <2021-07-05 Mo>
+*** DONE [SW43] Film
+CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-07-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wiederholung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
 - State "DONE"       from "TODO"       [2020-07-07 Di 12:02]
 :END:
 
@@ -1681,7 +2038,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#01]] [[#02]] [[#03]] [[#04]] [[#07]] 
 
-[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Judentum]] [[#Islam]]
+[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Judentum]] [[#Islam]] [[#Kirche fremde Länder]]
 
 **** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
      :PROPERTIES:
@@ -1691,13 +2048,13 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
 
 [[#Gott liebt mich]] [[#ich ein Original]] [[#Wegbegleiter]] [[#sich Jesus annähern]] [[#Maria]] [[#Gott wird Mensch]] [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]] [[#Jesu Kreuz]] [[#Auferstehung]] [[#Hl. Geist]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Schöpfung]]
 
-**** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+**** <<C>>  (Performanz)
      :PROPERTIES:
      :CUSTOM_ID: performanz
      :END:
 [[#03]] [[#04]] [[#05]] [[#06]]
 
-[[#Gott liebt mich]] [[#ich ein Original]] [[#Wegbegleiter]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#bereit zur Liebe]] [[#Gebet]] [[#Schöpfung]]
+[[#Gott liebt mich]] [[#ich ein Original]] [[#Wegbegleiter]] [[#Gebote]] [[#Dekalog]] [[#Bergpredigt]] [[#bereit zur Liebe]] [[#Gebet]] [[#Schöpfung]] [[#Kinder fremde Länder]]
 
 **** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
      :PROPERTIES:
@@ -1705,7 +2062,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#01]] [[#02]] [[#03]]
 
-[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Monotheistische Weltreligionen]]
+[[#mein Wegbegleiter]] [[#Vergebung ohne Grenzen]] [[#Jesus vergibt]] [[#Jesus heilt]] [[#Jesus richtet auf]] [[#Emmausjünger]] [[#Lieder Liebe]] [[#Hl. Geist]] [[#Pfingsten]] [[#Monotheistische Weltreligionen]] [[#Kirche fremde Länder]]
 
 **** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
      :PROPERTIES:
@@ -1713,7 +2070,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#04]] [[#05]] [[#06]]
 
-[[#für andere da sein]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#bereit zur Liebe]] [[#Gebet]]
+[[#für andere da sein]] [[#Gewissen Stärke]] [[#Gewissen Stimme]] [[#Gewissen Weg]] [[#Gewissen richtige Stimme]] [[#Franz Jägerstätter]] [[#bereit zur Liebe]] [[#Gebet]] [[#Kinder fremde Länder]]
 
 *** inhaltsbezogene Kompetenzdimensionen
 Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die Schüler "angesichts des Phänomens der Individualisierung und Pluralisierung von Religion kompetent verhalten können."
@@ -1795,7 +2152,7 @@ Die Schülerinnen und Schüler ...
 :PROPERTIES:
 :CUSTOM_ID: 5c
 :END:
-[[#Wegbegleiter]] [[#bereit zur Liebe]]
+[[#Wegbegleiter]] [[#bereit zur Liebe]] [[#Kinder fremde Länder]]
 
 ***** können die Liebe Gottes zur eigenen Person erkennen. 
 :PROPERTIES:
@@ -1830,6 +2187,11 @@ Die Schülerinnen und Schüler ...
 :END:
 [[#Urkirche]] [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]]
 
+***** können die Struktur und die Aufgaben der Weltkirche definieren.
+:PROPERTIES:
+:CUSTOM_ID: 7c
+:END:
+[[#Kirche fremde Länder]]
 
 ** Unterrichtsprinzip
 Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf religiöse Bedeutung erschlossen und mit der christlichen / biblischen / kirchlichen Botschaft bzw Überlieferung (Tradition) wechselseitig in Beziehung gesetzt. Fachspezifische Bildungsinhalte für Schüler oft neu und fremd, stellen das Leben in Frage / ermöglichen neue Erfahrungen für die Schüler.
@@ -1937,7 +2299,7 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
      /Geschlechtlichkeit als Geschenk und Aufgabe/ [[#bereit zur Liebe]]
      /Das Sakrament der Ehe/ [[#bereit zur Liebe]]
      /Arbeit, Beruf, Schule, Freizeit/
-     /Einsatz für soziale Gerechtigkeit/
+     /Einsatz für soziale Gerechtigkeit/ [[#Kinder fremde Länder]]
      /Ökologie und Nachhaltigkeit/ 
 
 
@@ -1965,7 +2327,7 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
      /Gebet der Kirche/
      /Orte und Zeiten des Gebets/
 
-*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]]
+*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]] [[#7c]]
     :PROPERTIES:
     :CUSTOM_ID: 07
     :END:
@@ -1983,6 +2345,9 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
      /Anfänge der Kirche (Apostelgeschichte, Paulus, ...)/ [[#Urkirche]]
      /Kirchengeschichte in Auswahl/ [[#Mittelalter]] [[#Reformation]] [[#Neuzeit]]
      /Heilige in der Kunst/
+
+   - Struktur und Aufgaben der Weltkriche ([[A]],[[D]])
+     /Hilfseinrichtungen, konkrete Hilfe für Notleidende/ [[#Kirche fremde Länder]]
 
 
 * Aufzeichnungen / Mitarbeit

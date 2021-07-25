@@ -2,30 +2,13 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+FILETAGS: hide
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
-#+LATEX_HEADER: \usepackage[ngerman]{babel}
-#+LATEX_HEADER: \usepackage[utf8]{inputenc}
-#+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage{textcomp}
-#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
-#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
-#+LATEX_HEADER: \usepackage{url}
-#+LATEX_HEADER: \urlstyle{rm}
-#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
-#+LATEX_HEADER: \usepackage{cjhebrew}
-#+LATEX_HEADER: \usepackage{hyperref}
-#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
-#+LATEX_HEADER: \usepackage{pdfpages}
-#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
-#+LATEX_HEADER: \usepackage{times}
-#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
-#+LATEX_HEADER: \usepackage{setspace}
-#+LATEX_HEADER: \usepackage{enumitem,amssymb}
-#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
-#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
-#+TITLE: 04_Golling.org
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 04_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
@@ -82,10 +65,11 @@ Das Thema "Drogen und Süchte" wird als Gruppenarbeit gestrichen: Drogen werden 
 Welche gesellschaftlichen Auswirkungen hatten die verschiedenen Weltbilder? Rolle der Kirche? Und heute?
 
 
-*** DONE [SW01] Besprechung Jahresstoff / Jesus ist die Quelle unseres Lebens
-CLOSED: [2020-09-19 Sa 08:25] DEADLINE: <2020-09-14 Mo>
+*** TODO [SW01] Besprechung Jahresstoff / Jesus ist die Quelle unseres Lebens
+DEADLINE: <2020-09-14 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Jesus Quelle des Lebens
+    :ID: 04_SW01
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:25]
@@ -138,10 +122,11 @@ Die Frau kommt zu Mittag zum Brunnen, so sonst keiner kommt, da es zu heiß ist.
 
 
 
-*** DONE [SW02] Die Berufung als Quelle meines Lebens
-CLOSED: [2020-09-27 So 10:37] DEADLINE: <2020-09-21 Mo>
+*** TODO [SW02] Die Berufung als Quelle meines Lebens
+DEADLINE: <2020-09-21 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Berufung
+    :ID: 04_SW02
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:37]
@@ -200,10 +185,11 @@ Y 340: Gottes Gnade zwingt uns nicht. Die Liebe Gottes will unsere freiwillige Z
 **** Hefteintrag
 
 
-*** DONE [SW03] Sinn der Arbeit
-CLOSED: [2020-10-04 So 10:03] DEADLINE: <2020-09-28 Mo>
+*** TODO [SW03] Sinn der Arbeit
+DEADLINE: <2020-09-28 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Sinn der Arbeit
+    :ID: 04_SW03
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 10:03]
@@ -241,10 +227,11 @@ Supplierstunde:
 **** Hefteintrag
 
 
-*** DONE [SW04] Arbeit, Freizeit und Beruf
-CLOSED: [2020-10-11 So 09:46] DEADLINE: <2020-10-05 Mo>
+*** TODO [SW04] Arbeit, Freizeit und Beruf
+DEADLINE: <2020-10-05 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Arbeit Freizeit Beruf
+    :ID: 04_SW04
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:46]
@@ -276,10 +263,11 @@ CLOSED: [2020-10-11 So 09:46] DEADLINE: <2020-10-05 Mo>
 **** Heftarbeit
     
 
-*** DONE [SW05] Arbeit als Plage oder Dienst
-CLOSED: [2020-10-17 Sa 09:51] DEADLINE: <2020-10-12 Mo>
+*** TODO [SW05] Arbeit als Plage oder Dienst
+DEADLINE: <2020-10-12 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Arbeit Plage Dienst
+    :ID: 04_SW05
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
@@ -328,10 +316,11 @@ Material zum Thema "Menschenhandel":
 **** Hefteintrag
 
 
-*** DONE [SW06] Menschenrechte
-CLOSED: [2020-11-18 Mi 10:26] DEADLINE: <2020-10-19 Mo>
+*** TODO [SW06] Menschenrechte
+DEADLINE: <2020-10-19 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Menschenrechte
+:ID:       04_SW06
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-18 Mi 10:26]
@@ -380,10 +369,11 @@ Geschichte der EKMR:
 
 
 
-*** DONE [SW07] Herbstferien
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
+*** TODO [SW07] Herbstferien
+DEADLINE: <2020-10-26 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
+:ID:       04_SW07
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -396,10 +386,11 @@ CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
 <2020-10-26 Mo> Nationalfeiertag (schulfrei)
 
 
-*** DONE [SW08] Geschaffen für das ewige Leben
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
+*** TODO [SW08] Geschaffen für das ewige Leben
+DEADLINE: <2020-11-02 Mo>
 :PROPERTIES:
     :CUSTOM_ID: ewiges Leben
+:ID:       04_SW08
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -444,10 +435,11 @@ Ausarbeitung bleibt bei mir "hängen".
 **** Hefteintrag
 
 
-*** DONE [SW09] Hinduismus
-CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
+*** TODO [SW09] Hinduismus
+DEADLINE: <2020-11-09 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Hinduismus
+:ID:       04_SW09
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
@@ -499,10 +491,11 @@ Arbeitsblätter
 
 
 
-*** DONE [SW10] Buddhismus
-CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
+*** TODO [SW10] Buddhismus
+DEADLINE: <2020-11-16 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Buddhismus
+:ID:       04_SW10
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
@@ -537,10 +530,11 @@ Bei Home-Schooling: Quiz zum Thema Weltreligionen. Film online stellen? Rechtlic
 **** Hefteintrag
 
 
-*** DONE [SW11] Chinesische Traditionen
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-23 Mo>
+*** TODO [SW11] Chinesische Traditionen
+DEADLINE: <2020-11-23 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Chinesische Traditionen
+:ID:       04_SW11
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -570,10 +564,11 @@ Suche im Internet Weisheitssprüche von Konfuzius und aus dem Taoismus (Laotse) 
 
 
 
-*** DONE [SW12] Biblische Propheten
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
+*** TODO [SW12] Biblische Propheten
+DEADLINE: <2020-11-30 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Bibel Propheten
+:ID:       04_SW12
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -609,10 +604,11 @@ Material hier:
 **** Hefteintrag
 
 
-*** DONE [SW13] Moderne Propheten
-CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
+*** TODO [SW13] Moderne Propheten
+DEADLINE: <2020-12-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: moderne Propheten
+:ID:       04_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -649,10 +645,11 @@ CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
 **** Hefteintrag
 
 
-*** DONE [SW14] Ein neuer Himmel, eine neue Erde
-CLOSED: [2021-01-02 Sa 15:50] DEADLINE: <2020-12-14 Mo>
+*** TODO [SW14] Ein neuer Himmel, eine neue Erde
+DEADLINE: <2020-12-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Apokalypse
+:ID:       04_SW14
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:50]
@@ -685,10 +682,11 @@ CLOSED: [2021-01-02 Sa 15:50] DEADLINE: <2020-12-14 Mo>
 
 
 
-*** DONE [SW15] Gott wird Mensch
-CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-21 Mo>
+*** TODO [SW15] Gott wird Mensch
+DEADLINE: <2020-12-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch
+:ID:       04_SW15
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
@@ -712,17 +710,21 @@ CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-21 Mo>
 **** Hefteintrag
 
 
-*** DONE [SW16] Ferien
-CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-28 Mo>
+*** TODO [SW16] Ferien
+DEADLINE: <2020-12-28 Mo>
+:PROPERTIES:
+:ID:       04_SW16
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:39]
 :END:
 
-*** DONE [SW17] Ferien / Gott wird Mensch (Teil 2)
-CLOSED: [2021-01-10 So 22:01] DEADLINE: <2021-01-04 Mo>
+*** TODO [SW17] Ferien / Gott wird Mensch (Teil 2)
+DEADLINE: <2021-01-04 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch 2
+:ID:       04_SW17
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-10 So 22:01]
@@ -779,10 +781,11 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 **** Hefteintrag
 
-*** DONE [SW18] Schöpfungstexte
-CLOSED: [2021-01-17 So 10:22] DEADLINE: <2021-01-11 Mo>
+*** TODO [SW18] Schöpfungstexte
+DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schöpfung
+:ID:       04_SW18
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:22]
@@ -836,10 +839,11 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 
 
-*** DONE [SW19] Naturwissenschaftliche Fragestellungen
-CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
+*** TODO [SW19] Naturwissenschaftliche Fragestellungen
+DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Naturwissenschaft
+:ID:       04_SW19
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
@@ -884,8 +888,10 @@ Der Sinn des Lebens besteht ...
 DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: 2000 Jahre Christentum
+:ID:       04_SW20
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
     - CLOSING NOTE [2019-02-01 Fr 10:19] \\
       War ein schwieriges Thema ...
@@ -927,8 +933,10 @@ DEADLINE: <2021-01-25 Mo>
 DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Orthodoxe Kirchen
+:ID:       04_SW21
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:15]
     - CLOSING NOTE [2019-02-01 Fr 10:26] \\
       Das Thema Todesstrafe kam sehr gut an, die Schüler waren interessiert dabei, arbeitet sehr gut mit.
@@ -958,8 +966,10 @@ DEADLINE: <2021-02-01 Mo>
 DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
+:ID:       04_SW22
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
     - CLOSING NOTE [2018-02-09 Fre 10:21] \\
       Die GEO Filme faszinieren die Schüler. Dieses heikle und "dunkle" Thema der Kirchengeschichte wird einigermaßen neutral und objektiv, auf jeden Fall sehr spannend und lehrreich dargetsellt.
@@ -1169,12 +1179,13 @@ Wir machen Kahoot-Fragen; Sie (Lehrer) suchen sich die Besten aus und wir erstel
 
 Im Allgemeinen wollen die Schüler gerne etwas gemeinsam gestalten (Plakat, Referat, PPP, im Heft, ...). Nachdem ich die Wunschthemen aller 4. Klassen habe, werde ich meine Jahresplanung überarbeiten. Die Stundengestaltung pro Klasse hängt von den Vorschlägen jeder Klasse ab: PPP oder Referat? Plakat oder Heftarbeit? Film + Heft? ...
 
-*** TODO [SW23] Aschermitwoch / Ökumene
-DEADLINE: <2021-02-15 Mo>
+*** DONE [SW23] Aschermitwoch / Ökumene
+CLOSED: [2021-03-09 Di 19:26] DEADLINE: <2021-02-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Ökumene
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:26]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
 :END:
 
@@ -1198,12 +1209,13 @@ DEADLINE: <2021-02-15 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW24] Kinder in fremden Ländern
-DEADLINE: <2021-02-22 Mo>
+*** DONE [SW24] Kinder in fremden Ländern
+CLOSED: [2021-02-27 Sa 10:27] DEADLINE: <2021-02-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Kinder fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
 - State "DONE"       from "STARTED"    [2020-02-23 So 14:18]
 - State "STARTED"    from "TODO"       [2020-02-23 So 14:17]
 - CLOSING NOTE [2019-02-23 Sa 10:50] \\
@@ -1243,45 +1255,86 @@ Welche Aufgaben hat die Kirche in diesen Ländern? Wie werden Christen respektie
 Gestaltung einer (mehrere) Doppelseite in Gruppenarbeit. 
 
 
-*** TODO [SW25] Fasten - mit allen Sinnen (bewusst leben)
-DEADLINE: <2021-03-01 Mo>
+*** DONE [SW25] Aufgabe der Kirche in fremden Ländern (Weltkriche) / Werke der Barmherzigkeit
+CLOSED: [2021-03-05 Fr 10:44] DEADLINE: <2021-03-01 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Fasten Sinne
+:CUSTOM_ID: Kirche fremde Länder
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:44]
 - State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
     - CLOSING NOTE [2018-03-03 Sam 18:06] \\
       Ich habe den Fokus va auf das Fatsen in den Weltreligionen gelegt. Hat den Schülern Spaß gemacht.
     :END:
 
-
-
 **** Ziele LP 2000
-[[#03]] Kultur des Genießens und der Askese
+[[#04]] Die Botschaft der Propheten und ihren Ruf anch Gerechtigkeiten kennen / Option für die Armen
 
 **** Kompetenzen
-[[#3a]] Schüler können sich kritisch mit Sinnangeboten in der Gesellschaft auseinandersetzen und positive Wege der Lebensgestaltung bestimmen sowie für das eigene Leben modifizieren.
+[[#4b]] Schüler können auf Basis der Botschaft biblischer und moderner Propheten - ihrem Ruf nach Gerechtigkeit - für Zivilcourage eintreten sowie die kirchliche Forderung der „Option für die Armen“ implementieren.
 
+[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 [[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Wiederholung
 
 
 **** Erarbeitung
+Buddhismus / Myanmar
+Am Beispiel von Philippinen und Mynmar sollen die Kinder verstehen, welche Aufgaben die Kirche weltweit erfüllt. In den Philippinen sind 81% der Bevölkerung römisch-katholisch. "Dennoch" werden jene Personen verfolgt, die sich kritisch über die Regierung äußern. Sie werden auf eine "schwarze" Liste gesetzt und als Terroristen / Kommunisten bezeichnet. In der Folge kann es passieren, dass diese Menschen sogar getötet werden. Priester und Ordensleute finden sich bereits auf dieser Liste. Eines der größten sozialen Probleme ist die Mangelernährung der Menschen, besonders der Kinder. Der Gegensatz zwischen arm und reich ist sehr groß, es gibt doch eine wachsende Mittelschicht. Die Kirche unterstützt mit vielen Projekten und Initiativen den Kampf gegen die schelchte Ernährung der Armen: in den Schulen gibt es Garten Projekte (die Eltern werden ebenso eingebunden); auf den Müllhalden kümmern sich Vereine um die ausgewogene Ernährung der Kinder; in einem Zentrum werden Nahrungsergänzungsmittel hergestellt und an die arme Bevölkerung verteilt.
+
+Zusätzlich werden kleine Kurse zur richtigen Ernährung angeboten und die Menschen direkt vor Ort aufgeklärt. Schließlich ist das Land sehr reich an Obst und Gemüse, leider wissen die Menschen zu wenig, welche Pflanzen sich wie zum Kochen eignen.
+
+In Myanmar ist die Situation eine ganz andere. Die Bewohner des Landes sind sehr religiös. Die Mehrheit ist buddhistisch; die Christen stellen 1% der Bevölkerung, darunter ist der größte Teil zu den Baptisten zu zählen. Dennoch gibt es 3 Erzdiözesen und Diözesen.
 
 
+Naturreligionen (Australien / Afrika)
+
+Werke der Barmherzigkeit
+
+[[https://www.missio.at/mutter-teresa/]]
+
+[[https://www.missio.at/wp-content/uploads/2018/04/Missiothek_2016-02_Spezial_WEB.pdf]]
+
+[[https://www.barmherzigkeitsjahr.de/unterricht/]]
+[[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Unterricht-Werke-der-Barmherzigkeit.pdf]]
+[[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Werke_der_Barmherzigkeit_Stationenkarten.pdf]]
+
+ - leibliche Werke der Barmherzigkeit
+   - Hungrige speisen
+   - Durstige tränken
+   - Nackte kleiden
+   - Fremde aufnehmen
+   - Kranke besuchen
+   - Gefangene befreien
+   - Tote bestatten
+ 
+ - geistige Werke der Barmherzigkeit
+   - Unwissende lehren
+   - Zweifelnde raten
+   - Irrende zurechtweisen
+   - Trauernde trösten
+   - Unrecht ertragen / lästige Personen geduldig ertragen
+   - Beleidigungen verzeihen
+   - für Lebende und Tote beten
+
+Cf missio.at: Material
+
+Zusammenfassung ins Heft; Schüler nennen eigene Erfahrungen. Glaube ohne Werke? Glaube aufgrund der Werke! (Jak 2,15)
+
+Lk 15 / 5 Schritte in ein besseres Leben (Beichte)
 
 **** Hefteintrag
 
 
 
-*** TODO [SW26] Jesus befreit / Jesus gibt Hoffnung
-DEADLINE: <2021-03-08 Mo>
+*** DONE [SW26] Jesus befreit / Jesus gibt Hoffnung
+CLOSED: [2021-03-12 Fr 10:42] DEADLINE: <2021-03-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus befreit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-12 Fr 10:42]
 - State "DONE"       from "TODO"       [2020-03-06 Fr 15:39]
 - Note taken on [2019-03-07 Do 10:03] \\
   Die "FSA" zum Thema "Gewaltlosigkeit" klappt in der 4B recht gut.
@@ -1313,17 +1366,18 @@ DEADLINE: <2021-03-08 Mo>
 
 
 **** Erarbeitung
-
+Was ist das Gewissen?
 
 **** Hefteintrag
 
 
-*** TODO [SW27] Passion / Kreuzweg
-DEADLINE: <2021-03-15 Mo>
+*** DONE [SW27] Passion / Kreuzweg
+CLOSED: [2021-03-19 Fr 12:06] DEADLINE: <2021-03-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Kreuzweg
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:06]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
     - CLOSING NOTE [2018-03-17 Sam 10:10] \\
       4A + 4C: haben gut mitgemacht; 4B: hui, die Schüler emckern schnell...zach!
@@ -1348,17 +1402,24 @@ DEADLINE: <2021-03-15 Mo>
 
 
 **** Erarbeitung
+Gemeinsam einen Kreuzweg beten
+file:///home/matthias/org/Bilder_Kreuzweg/Kreuzweg.pdf
 
+Bilder zu dein Stationen:
+[[/home/matthias/org/Bilder_Kreuzweg/]]
+
+Bilder und Betrachtungen befinden sich ebenfalls auf dem 64GB USB Stick (klein, mit Ring). 
 
 **** Hefteintrag
 
 
-*** TODO [SW28] Osterliturgie
-DEADLINE: <2021-03-22 Mo>
+*** DONE [SW28] Osterliturgie
+CLOSED: [2021-04-05 Mo 09:27] DEADLINE: <2021-03-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterliturgie
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
 - CLOSING NOTE [2019-03-23 Sa 16:13] \\
   Die Umfrage werden die Schüler wohl privat, am NM durchführen müssen.
@@ -1388,17 +1449,23 @@ DEADLINE: <2021-03-22 Mo>
 
 
 **** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
+
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
+
+Eher: 10 Gebote
 
 
 **** Hefteintrag
 
 
-*** TODO [SW29] Osterferien
-DEADLINE: <2021-03-29 Mo>
+*** DONE [SW29] Osterferien
+CLOSED: [2021-04-05 Mo 09:27] DEADLINE: <2021-03-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterferien
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
 - State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
 :END:
 
@@ -1413,12 +1480,13 @@ DEADLINE: <2021-03-29 Mo>
 <2021-04-04 So> Ostersonntag
 
 
-*** TODO [SW30] Jesus ist auferstanden
-DEADLINE: <2021-04-05 Mo>
+*** DONE [SW30] Jesus ist auferstanden
+CLOSED: [2021-04-12 Mo 07:18] DEADLINE: <2021-04-05 Mo>
 :PROPERTIES: 
 :CUSTOM_ID: Jesus ist auferstanden
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
 - CLOSING NOTE [2019-04-10 Mi 10:56] \\
   Wir haben uns gemeinsam die beiden Filme angeschaut: Buddhismus / chinesische Religion.
@@ -1446,17 +1514,43 @@ DEADLINE: <2021-04-05 Mo>
 
 
 **** Erarbeitung
+[[file:Schule_Themen/auferstehung.org][Auferstehung]]
 
+Die Auferstehung Jesu ist keine Erfindung, kein Symbol - sondern eine Tatsache.
+Cf Firmstunde aus dem YOU-Firmbuch, S. 50-51!
+
+Klasse, 4 Gruppen:
+
+ 1. Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
+ 2. Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
+ 3. Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
+ 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn?
+
+Austausch der vier Gruppen - Raum für Rückfragen
+
+Youcat 106 + Austausch
+
+Bibelsession 1 Kor 15,12-22: zwei Punkte sind Paulus wichtig...
+
+ - Jesus ist Gottes Sohn  nur so kann uns sein Tod am Kreuz erlösen.
+ - Wäre Jesus im Grab geblieben, gäbe es auch für uns keine Auferstehung und kein ewiges Leben.
+
+Austausch: wie stellst du dir das ewige Leben vor?
+
+Youcat-Session: 153+154
+   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen.
+   Langeweile? Nein - Gott sorgt für Abwechselung; Jesus spricht nicht umsonst von einer "einzigartigen Party" 
 
 **** Hefteintrag
 
 
-*** TODO [SW31] Auferstehung in meinem Leben
-DEADLINE: <2021-04-12 Mo>
+*** DONE [SW31] Auferstehung in meinem Leben
+CLOSED: [2021-04-18 So 09:33] DEADLINE: <2021-04-12 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung in meinem Leben
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-18 So 09:33]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
     - CLOSING NOTE [2018-04-18 Mi 08:36] \\
       Toller Film
@@ -1475,17 +1569,35 @@ DEADLINE: <2021-04-12 Mo>
 
 
 **** Erarbeitung
+YouTube Videos von Johannes Hartl - Auferstehung
+[[https://www.youtube.com/watch?v=6_UQZVW8EWU]]
 
+ - Worauf beruht der christliche Glaube?
+   Eine Religion steht und fällt mit der Person des Gründers. Sind die Tatsachen wahr oder falsch? Im Christentum gibt es nur "wahr oder falsch"; entweder Jesus ist wirklich in der Eucharistie gegenwärtig, oder eben nicht.
+   
+ - Ist die Auferstehung nur etwas "Emotionales" / oder ein historisches Fakt?
+ - Wie kann ich ein hist. Fakt "beweisen"?
+   - Befund: leeres Grab, Glaube (genauer: ein sich ausbreitender Glaube (...) Augenzeugen im Land von Augenzeugen)
+   - Quellen: alt, viele, glaubwürdig, Überlieferung
+   - alternative Theorie
+
+ Die ältesten Quellen:
+  - leeres Grab bei Markus
+  - Paulus-Formel (1 Kor 15)
+  - Lukas: Paulus wurde 63 n.Chr. hingerichtet. Die Apg endet vor dem Tod des Paulus. Also wurde sie vorher geschrieben. Ebenso kennt Lukas die Topographie / Stadt Jerusalem, die 70 n.Chr. von den Römern zerstört wurde. Ein weiteres Zeichen, dass die Apg / das Ev. vorher geschrieben wurde.
+
+ 
 
 **** Hefteintrag
 
 
-*** TODO [SW32] Biblische Sprachformen
-DEADLINE: <2021-04-19 Mo>
+*** DONE [SW32] Biblische Sprachformen
+CLOSED: [2021-05-08 Sa 15:09] DEADLINE: <2021-04-19 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Biblische Sprache
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
 - State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
     - CLOSING NOTE [2018-04-18 Mi 08:37] \\
       Viele Supplierstunden
@@ -1504,17 +1616,31 @@ DEADLINE: <2021-04-19 Mo>
 
 
 **** Erarbeitung
+:PROPERTIES:
+:org-gcal-managed: org
+:calendar-id: matthiasfuchs01@gmail.com
+:END:
+Buch der Offenbarung
+
+Was ist Prophetie?
+[[file:Schule_Themen/prophetie.org][Prophetie]]
+
+Was ist Apokalyptik? ...
+
+Biblische Apokalypse - Weltuntergang?
+
 
 
 **** Hefteintrag
 
 
-*** TODO [SW33] Buch der Offenbarung / Endzeiterwartung
-DEADLINE: <2021-04-26 Mo>
+*** DONE [SW33] Buch der Offenbarung / Endzeiterwartung
+CLOSED: [2021-04-24 Sa 22:13] DEADLINE: <2021-04-26 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Buch der Offenbarung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:13]
 - State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
 - CLOSING NOTE [2019-04-27 Sa 10:38]
     - CLOSING NOTE [2018-04-30 Mo 21:47] \\
@@ -1534,17 +1660,22 @@ DEADLINE: <2021-04-26 Mo>
  
 
 **** Erarbeitung
+:PROPERTIES:
+:org-gcal-managed: org
+:END:
+[[file:Schule_Themen/apokalypse_offb.org][Apokalypse_Offb]]
 
 
 **** Hefteintrag
 
 
-*** TODO [SW34] Sakramente der Initiation (Wiederholung)
-DEADLINE: <2021-05-03 Mo>
+*** DONE [SW34] Sakramente der Initiation (Wiederholung)
+CLOSED: [2021-05-08 Sa 15:09] DEADLINE: <2021-05-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Sakramente
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
 - State "DONE"       from "TODO"       [2020-05-05 Di 10:30]
 - CLOSING NOTE [2019-05-04 Sa 17:30]
     - CLOSING NOTE [2018-05-07 Mo 15:02] \\
@@ -1555,7 +1686,6 @@ DEADLINE: <2021-05-03 Mo>
 [[#06]] Sakramente der Initiation: Taufe, Firmung, Eucharistie
 
 **** Kompetenzen
-
 [[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 [[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
@@ -1563,16 +1693,24 @@ DEADLINE: <2021-05-03 Mo>
 
 
 **** Erarbeitung
+Kathmedia deutsch - Entspannt in den Weltuntergang:
+[[https://www.youtube.com/playlist?list=PLfHeNzT80bWoZwtu-VA2cLO4E-WQVfCmc]]
 
+[[file:Schule_Themen/apokalypse_offb.org][Apokalypse_Offb]]
+Arbeitsblätter "Buch der Offenbarung":
+
+Film "Offenbarung" (Dauer 90 Minuten - ca zwei Unterrichtseinheiten). 
 
 **** Hefteintrag
-   
-*** TODO [SW35] Das Mönchtum und seine Formen (Teil 1)
-DEADLINE: <2021-05-10 Mo>
+
+
+*** DONE [SW35] Das Mönchtum und seine Formen (Teil 1)
+CLOSED: [2021-05-14 Fr 13:48] DEADLINE: <2021-05-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Ordensleben 1
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:48]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
     - CLOSING NOTE [2018-05-10 Do 00:19] \\
       Tolle Stunden! Nach dem verlängerten Wochenenden geht's mit dem Film weiter.
@@ -1591,18 +1729,40 @@ DEADLINE: <2021-05-10 Mo>
 
 
 **** Erarbeitung
+Da könnte ich aus meinen eigenen Erfahrungen erzählen ...
 
- 
+Wüstenväter
+Benediktiner
+Franziskaner
+Dominikaner
+Cisterzienser
+Orden des 19. Jahrhunderts: Don Bosco (Salesianer); unzählige Frauenorden um den Armen zu helfen; ...
+
+Karmel
+Karthäuser
+
+Verschiedene Odensregeln:
+ - Benedikt
+ - Franziskus
+ - Dominikus
+ - Augustiner Chorherren
+ - Karmeliter
+ - Karthäuser
+
+Irgendwann sagte die Kirche: "Schluss - wenn jemand einen neuen Orden gründet, dann nimmt er eine der existierenden Regeln."
+
+[[https://www.katholisch.de/kirche/orden]]
 
 **** Hefteintrag
 
 
-*** TODO [SW36] Das Mönchtum und seine Geschichte (Twil 2)
-DEADLINE: <2021-05-17 Mo>
+*** DONE [SW36] Das Mönchtum und seine Geschichte (Teil 2)
+CLOSED: [2021-05-23 So 10:54] DEADLINE: <2021-05-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Ordensleben 2 
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-23 So 10:54]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
 - CLOSING NOTE [2019-05-18 Sa 09:47] \\
   Die Arbeit mit Google Classroom hat wunderbar funktioniert!
@@ -1623,17 +1783,46 @@ DEADLINE: <2021-05-17 Mo>
 
 
 **** Erarbeitung 
+Da könnte ich aus meinen eigenen Erfahrungen erzählen ...
 
+Wüstenväter
+Benediktiner
+Franziskaner
+Dominikaner
+Cisterzienser
+Orden des 19. Jahrhunderts: Don Bosco (Salesianer); unzählige Frauenorden um den Armen zu helfen; ...
+
+Karmel
+Karthäuser
+
+Verschiedene Odensregeln:
+ - Benedikt
+ - Franziskus
+ - Dominikus
+ - Augustiner Chorherren
+ - Karmeliter
+ - Karthäuser
+
+Irgendwann sagte die Kirche: "Schluss - wenn jemand einen neuen Orden gründet, dann nimmt er eine der existierenden Regeln."
+
+[[https://www.katholisch.de/kirche/orden]]
+
+Videos von Heiligenkreuz:
+[[https://www.stift-heiligenkreuz.org/]]
+
+
+Erstellung einer Doppelseite im Heft
 
 **** Hefteintrag
 
 
-*** TODO [SW37] Pfingsten
-DEADLINE: <2021-05-24 Mo>
+*** DONE [SW37] Pfingsten
+CLOSED: [2021-05-30 So 11:34] DEADLINE: <2021-05-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Pfingsten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:34]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:34]
     - CLOSING NOTE [2018-06-03 So 15:17] \\
       Die Schüler waren super dabei!
@@ -1653,18 +1842,23 @@ DEADLINE: <2021-05-24 Mo>
 
 
 **** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
 
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
 
 **** Hefteintrag
 
 
 
-*** TODO [SW38] Ämter in der Kirche / Sakrament der Weihe
-DEADLINE: <2021-05-31 Mo>
+*** DONE [SW38] Nahost-Konflikt
+CLOSED: [2021-06-04 Fr 08:11] DEADLINE: <2021-05-31 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Sakrament der Weihe
+:CUSTOM_ID: Nahost-Konflikt
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
 - State "DONE"       from "TODO"       [2020-06-01 Mo 09:58]
 - CLOSING NOTE [2019-05-31 Fr 10:13] \\
   Naja - das Thema "Weltkirche" muss ich noch genauer aufarbeiten und besser präsentieren.
@@ -1686,17 +1880,23 @@ DEADLINE: <2021-05-31 Mo>
 
 
 **** Erarbeitung
+Geschichlticher Hintergrund: Geo-Epoche DVD über das Hl. Land
 
+Kurzfilm:
+[[https://www.planet-schule.de/sf/filme-online.php?film=9372&reihe=1281][Akram und die Mauer im Meer – Filme online – Planet Schule – Schulfernsehen multimedial des SWR und des WDR]]
+Material dazu:
+[[https://www.planet-schule.de/wissenspool/akram-und-die-mauer-im-meer/inhalt/unterricht.html][Unterricht | Inhalt | Akram und die Mauer im Meer | Wissenspool]]
 
 **** Hefteintrag
 
 
-*** TODO [SW39] Vielfalt der Geistesgaben heute
-DEADLINE: <2021-06-07 Mo>
+*** DONE [SW39] Vielfalt der Geistesgaben heute
+CLOSED: [2021-06-15 Di 07:14] DEADLINE: <2021-06-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Geistesgaben
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:14]
 - State "DONE"       from "TODO"       [2020-06-06 Sa 11:36]
     - CLOSING NOTE [2018-06-12 Di 08:21] \\
       Die Schüler - auch in der 4A - haben toll mitgearbeitet.
@@ -1716,18 +1916,24 @@ DEADLINE: <2021-06-07 Mo>
 
 
 **** Erarbeitung
+Geschichlticher Hintergrund: Geo-Epoche DVD über das Hl. Land
+
+Kurzfilm:
+[[https://www.planet-schule.de/sf/filme-online.php?film=9372&reihe=1281][Akram und die Mauer im Meer – Filme online – Planet Schule – Schulfernsehen multimedial des SWR und des WDR]] (als Download am Laptop)
+Material dazu:
+[[https://www.planet-schule.de/wissenspool/akram-und-die-mauer-im-meer/inhalt/unterricht.html][Unterricht | Inhalt | Akram und die Mauer im Meer | Wissenspool]]
 
 
 **** Hefteintrag
 
 
-
-*** TODO [SW40] Christen leben in Seiner Nachfolge
-DEADLINE: <2021-06-14 Mo>
+*** DONE [SW40] Christen leben in Seiner Nachfolge
+CLOSED: [2021-06-20 So 13:29] DEADLINE: <2021-06-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Christus Nachfolge
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:29]
 - State "DONE"       from "TODO"       [2020-06-14 So 10:44]
     - CLOSING NOTE [2018-06-18 Mo 10:26] \\
       Die Schülern meckern recht über den Film ... aber: dumme Actionfilme können sie zuhause anschauen. In Les Miserables geht es um die Frage "Barmherzigkeit / Gerechtigkeit" (u.a.); oder: welchen Preis bin ich bereit zu zahlen, um meine Mitmenschen zu retten?
@@ -1751,12 +1957,13 @@ DEADLINE: <2021-06-14 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW41] Christen handeln nach seiner Weisung
-DEADLINE: <2021-06-21 Mo>
+*** DONE [SW41] Christen handeln nach seiner Weisung
+CLOSED: [2021-06-28 Mo 00:23] DEADLINE: <2021-06-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weisung Christi
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:23]
 - State "DONE"       from "TODO"       [2020-06-21 So 10:37]
     - CLOSING NOTE [2018-06-24 So 21:12] \\
       War gut ...
@@ -1776,16 +1983,18 @@ DEADLINE: <2021-06-21 Mo>
 
 **** Erarbeitung
 
+Film - Star Wars / Animationsfilm?
 
 **** Hefteintrag
 
 
-*** TODO [SW42] Christen schöpfen Kraft aus dem Gebet
-DEADLINE: <2021-06-28 Mo>
+*** DONE [SW42] Christen schöpfen Kraft aus dem Gebet
+CLOSED: [2021-07-05 Mo 07:18] DEADLINE: <2021-06-28 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Kraftquelle Gebet
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
     - CLOSING NOTE [2018-06-26 Di 10:15] \\
       Mit der 4A hatte ich am Dienstag (06/26/2018; erste Stunde) die letzte Religionsstunde. Die Schüler haben sich mit einem Applaus bei mir bedankt, das tat gut. Die 4C sehe ich morgen Mittwoch (06/27/2018; erste Stunde) zum letzten Mal. Ob ich mich der 4B am Freitag verabschieden kann?
@@ -1808,18 +2017,20 @@ DEADLINE: <2021-06-28 Mo>
 
 **** Wiederholung
 
+
 **** Erarbeitung
 
 
 **** Hefteintrag
 
 
-*** TODO [SW43] Schulschluss / Gottesdienst
-DEADLINE: <2021-07-05 Mo>
+*** DONE [SW43] Schulschluss / Gottesdienst
+CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-07-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Schulschluss
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
 - State "DONE"       from "TODO"       [2020-07-07 Di 12:03]
 :END:
 
@@ -1840,7 +2051,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#01]] [[#02]] [[#03]] [[#04]] [[#05]] [[#06]] [[#07]]
 
-[[#Menschenrechte]] [[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]] [[#Bibel Propheten]] [[#moderne Propheten]] [[#ewiges Leben]] [[#Apokalypse]] [[#Schöpfung]] [[#Naturwissenschaft]] [[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]] [[#Ökumene]] [[#Jesus befreit]] [[#Kreuzweg]] [[#Osterliturgie]] [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]] [[#Biblische Sprache]] [[#Buch der Offenbarung]] [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Sakrament der Weihe]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]]
+[[#Menschenrechte]] [[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]] [[#Bibel Propheten]] [[#moderne Propheten]] [[#ewiges Leben]] [[#Apokalypse]] [[#Schöpfung]] [[#Naturwissenschaft]] [[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]] [[#Ökumene]] [[#Jesus befreit]] [[#Kreuzweg]] [[#Osterliturgie]] [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]] [[#Biblische Sprache]] [[#Buch der Offenbarung]] [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Sakrament der Weihe]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]] [[#Kirche fremde Länder]]
 
 **** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
      :PROPERTIES:
@@ -1857,6 +2068,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
 [[#03]] [[#04]] [[#05]] [[#06]]
 
 [[#Sinn der Arbeit]] [[#Arbeit Plage Dienst]] [[#Bibel Propheten]] [[#moderne Propheten]] [[#Fastenzeit]] [[#Fasten Sinne]] [[#Osterliturgie]] [[#Sakramente]] [[#Kraftquelle Gebet]]
+[[#Kirche fremde Länder]]
 
 **** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
      :PROPERTIES:
@@ -1939,7 +2151,7 @@ Schüler ...
 :PROPERTIES:
 :CUSTOM_ID: 4b
 :END:
-[[#Bibel Propheten]]
+[[#Bibel Propheten]] [[#Kirche fremde Länder]]
 
 **** Ad Ziel [[#05]]
 ***** verstehen die biblischen Schöpfungstexte und können daraus ihre persönliche Verantwortung für den Erhalt der Schöpfung ableiten.
@@ -2087,7 +2299,7 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
      /Biblische Propheten (z.B. Amos)/ [[#Bibel Propheten]]
      /Prophetische Menschen heute/ [[#moderne Propheten]]
      /Zivilcourage/
-     /Option für die Armen/
+     /Option für die Armen/ [[#Kirche fremde Länder]]
 
 
 *** <<K05>> Welt und Mensch - Schöpfung Gottes [[#5a]] [[#5b]] [[#5c]] [[#5d]]
@@ -2110,7 +2322,7 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
    - Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können ([[C]],[[E]])
      /Ungerechtigkeit - Option für die Armen/
      /Arbeit, Beruf, Schule, Freizeit/ [[#Sinn der Arbeit]] [[#Arbeit Freizeit Beruf]] [[#Arbeit Plage Dienst]]
-     /Einsatz für soziale Gerechtigkeit/
+     /Einsatz für soziale Gerechtigkeit/ [[#Nahost-Konflikt]]
      /Ökologie und Nachhaltigkeit/ 
 
 *** <<K06>> Symbole - Rituale - Sakramente [[#6a]] [[#6b]]
@@ -2148,7 +2360,7 @@ Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf reli
    - In das Leben der Orts- und Weltkirche Einblick geben können ([[A]],[[D]])
      /Verschiedene Formen gelebten Glaubens (Ordensgemeinschaften, Basisgemeinden, Erneuerungsbewgungen, ...)/ [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]]
      /Aufgaben und Struktur der Weltkirche/ 
-     /Das Sakrament des Ordo (Bischof, Priester, Diakon)/ [[#Sakrament der Weihe]]
+     /Das Sakrament des Ordo (Bischof, Priester, Diakon)/ 
           
    - Die Entwicklung der Kirchen skizzieren können und das Besondere anderer Konfessionen beschreiben können ([[A]],[[B]])
      /Ökumenische Bewegung/ [[#Ökumene]]

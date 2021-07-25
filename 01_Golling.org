@@ -53,6 +53,7 @@ Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro 
 DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schuhe des Anderen
+     :ID: 01_SW01
     :END:
 :LOGBOOK:
 - State "DONE"       from "DONE"       [2021-07-16 Fr 14:51]
@@ -71,6 +72,8 @@ DEADLINE: <2021-09-13 Mo>
 [[#A1_UH1]] Ich und die anderen: Empathie und Perspektivenwechsel
 
 **** Wiederholung
+Hier kommt ein neuer Text hin. - Nachher verwende ich magit ...
+
 Vorstellen des RU in der NMS Golling.
 
  - Organisatorisches: Heft / Überprüfung
@@ -127,6 +130,7 @@ Farblich gestalten
 DEADLINE: <2021-09-20 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Kirchenjahr
+    :ID: 01_SW02
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:36]
@@ -162,6 +166,7 @@ DEADLINE: <2021-09-20 Mo>
 DEADLINE: <2021-09-27 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Feste Kirchenjahr
+    :ID: 01_SW03
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 10:02]
@@ -199,6 +204,7 @@ DEADLINE: <2021-09-27 Mo>
 DEADLINE: <2021-10-04 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Bibel_NT
+:ID: 01_SW04
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:45]
@@ -245,6 +251,7 @@ Zeichnen einer Bibliothek - fertig stellen
 DEADLINE: <2021-10-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Entstehung NT Evangelien
+    :ID: 01_SW05
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:50]
@@ -309,6 +316,7 @@ Verklärung: Vergleich der Texte in Mt, Mk, Lk.
 DEADLINE: <2021-10-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Leben Schreiben NT
+    :ID: 01_SW06
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-24 Sa 11:59]
@@ -341,6 +349,7 @@ Papirus besorgen? Schreibgriffel?
 DEADLINE: <2021-10-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
+    :ID: 01_SW07
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -355,6 +364,7 @@ DEADLINE: <2021-10-25 Mo>
 DEADLINE: <2021-11-01 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Welt des NT
+    :ID: 01_SW08
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -423,6 +433,7 @@ Texte vergleichen:
 DEADLINE: <2021-11-08 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gebet
+    :ID: 01_SW09
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
@@ -456,6 +467,7 @@ YouCat: Was ist Gebet? Wie lernen wir von Jesus, Maria, ... beten? Formen des Ge
 DEADLINE: <2021-11-15 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Regeln_Beten
+    :ID: 01_SW10
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
@@ -502,6 +514,7 @@ Home-Schooling: Jeder Schüler versucht, die ersten vier Punkte umzusetzen.
 DEADLINE: <2021-11-22 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Vater Unser
+    :ID: 01_SW11
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-11-23 Sa 09:37]
@@ -531,6 +544,7 @@ Eine schöne Seite zum Vater Unser im Heft gestalten: zB ein paar der Bitten mit
 DEADLINE: <2021-11-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent
+:ID: 01_SW12
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-11-30 Sa 09:32]
@@ -562,6 +576,7 @@ Zeichnen und manche Bräuche erklären: woher kommt z.B. der Adventkranz?
 DEADLINE: <2021-12-06 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent_Maria
+:ID: 01_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -632,6 +647,7 @@ Was würdest du dafür tun?
 DEADLINE: <2021-12-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Ave Maria
+    :ID: 01_SW14
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
@@ -717,10 +733,11 @@ Szenen als Zeichnungen darstellen?
 Bilder zum Ausmalen / Ergänzen?
 
 
-*** DONE [SW15] Jesus ist geboren / Weihnachtsgottesdienst
-CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-21 Mo>
+*** TODO [SW15] Jesus ist geboren / Weihnachtsgottesdienst
+DEADLINE: <2021-12-20 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Weihnachten
+    :ID: 01_SW15
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
@@ -729,16 +746,16 @@ CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-21 Mo>
       Waren sehr schöne Stunden...
     :END:
 
-**** Ziele LP 2000
-[[#07]] Weihnachtsfestkreis
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 
-**** Kompetenzen
-[[#7a]] [[#7b]] [[#7c]] Was bedeutet Weihnachten? / Advent- und Weihnachtsgeschichten vorlesen (Eltern fragen)
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]] vielfältige Zugänge zum Feiern von Weihnachten
 
 **** Wiederholung
+
 
 **** Erarbeitung
 Weihnachtsevangelium lesen.
@@ -755,15 +772,24 @@ Buch "Varenka" vorlesen - Bilder zeigen.
 
 **** Hefteintrag
 
-*** DONE [SW16] Ferien
-CLOSED: [2021-01-02 Sa 15:51] DEADLINE: <2020-12-28 Mo>
+*** TODO [SW16] Ferien
+DEADLINE: <2021-12-24 Fr>
+:PROPERTIES:
+:CUSTOM_ID: Ferien
+:ID:       01_SW16
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:40]
 :END:
 
-*** DONE [SW17] Ferien / Sterndeuter
-CLOSED: [2021-01-10 So 22:00] DEADLINE: <2021-01-04 Mo>
+
+*** TODO [SW17] Ferien / Sterndeuter
+DEADLINE: <2022-01-07 Fr>
+:PROPERTIES:
+:CUSTOM_ID: Sterndeuter
+:ID:       01_SW17
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-10 So 22:00]
 - State "DONE"       from "TODO"       [2021-01-05 Di 22:32]
@@ -780,6 +806,7 @@ CLOSED: [2021-01-10 So 22:00] DEADLINE: <2021-01-04 Mo>
 [[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
 
 **** Wiederholung
+
 
 **** Erarbeitung
 Weihnachtsevangelium lesen.
@@ -813,10 +840,11 @@ Ein Suchsel zum Thema:
 [[file:Schule/drei_könige_suchsel.pdf]]
 
 
-*** DONE [SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?
-CLOSED: [2021-01-17 So 10:12] DEADLINE: <2021-01-11 Mo>
+*** TODO [SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?
+DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: sterndeuter
+:ID:       01_SW18
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:12]
@@ -927,10 +955,11 @@ Zusammenhang erkennen zwischen Weihnachten und Ostern: sonst verkommt Weihnachte
 Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht nicht für sich allein, sondern ist auf Ostern hingeordnet. Das Hochfest der Epiphanie (Heilige Drei Könige) ist das älteste Fest des Kirchenjahres. Was fällt den Schülern zum Thema "Stern" ein? Hier offenbart sich Gott der ganzen Welt; die Geburt, das Kommen der Hirten - da blieb noch alles irgendwie "geheim".
 
 
-*** DONE [SW19] Was bedeutet Freundschaft
-CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
+*** TODO [SW19] Was bedeutet Freundschaft
+DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Freundschaft
+:ID:       01_SW19
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
@@ -964,10 +993,11 @@ Gemeinsam mit den Schülern über das Thema "Freundschaft" nachdenken.
 
 
 
-*** DONE [SW20] Für einen treuen Freund gibt es keinen Preis
-CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-01-25 Mo>
+*** TODO [SW20] Für einen treuen Freund gibt es keinen Preis
+DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: treuer Freund
+:ID:       01_SW20
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
@@ -1024,10 +1054,11 @@ Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Kna
 
 
 
-*** DONE [SW21] David und Jonathan
-CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-01 Mo>
+*** TODO [SW21] David und Jonathan
+DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
     :CUSTOM_ID: David Jonathan
+:ID:       01_SW21
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
@@ -1059,10 +1090,11 @@ CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-01 Mo>
 **** Hefteintrag
 
 
-*** DONE [SW22] Semesterferien
-CLOSED: [2021-03-09 Di 15:08] DEADLINE: <2021-02-08 Mo>
+*** TODO [SW22] Semesterferien
+DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Semesterferien
+:ID:       01_SW22
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
@@ -2013,9 +2045,6 @@ CLOSED: [2021-05-30 So 11:33] DEADLINE: <2021-05-24 Mo>
 [[#07]] Kirchenjahr
 
 **** Kompetenzen
-:PROPERTIES:
-:ID:       b2990cd5-90ac-4711-9756-b6cd9cfc24d9
-:END:
 [[#6]] Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
 
 [[#7a]] - [[#7c]] Christliche Feste benennen und deuten können. / Aufbau des Kirchenjahres kennen und verstehen.
@@ -2344,6 +2373,7 @@ Beantwortbare und letztlich unbeantwortbare Fragen:
 ***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
 :CUSTOM_ID: B3
+:ID:       B3
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
@@ -2457,7 +2487,7 @@ Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhy
  - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft, 
  - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender), [[#Kirchenjahr]] [[#Feste Kirchenjahr]]
  - Marienfeste, [[#Advent_Maria]]
- - vielfältige Zugänge zum Feiern von Weihnachten [[#Advent]]
+ - vielfältige Zugänge zum Feiern von Weihnachten [[#Advent]] [[#Weihnachten]]
  - Ostern
 
 

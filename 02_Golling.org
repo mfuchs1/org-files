@@ -2,30 +2,13 @@
 #+STARTUP: logdone
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+FILETAGS: hide
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
-#+LATEX_HEADER: \usepackage[ngerman]{babel}
-#+LATEX_HEADER: \usepackage[utf8]{inputenc}
-#+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage{textcomp}
-#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
-#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
-#+LATEX_HEADER: \usepackage{url}
-#+LATEX_HEADER: \urlstyle{rm}
-#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
-#+LATEX_HEADER: \usepackage{cjhebrew}
-#+LATEX_HEADER: \usepackage{hyperref}
-#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
-#+LATEX_HEADER: \usepackage{pdfpages}
-#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
-#+LATEX_HEADER: \usepackage{times}
-#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
-#+LATEX_HEADER: \usepackage{setspace}
-#+LATEX_HEADER: \usepackage{enumitem,amssymb}
-#+LATEX_HEADER: \newlist{todolist}{itemize}{2}
-#+LATEX_HEADER: \setlist[todolist]{label=$\square$}
-#+TITLE: 02_Golling.org
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: 02_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
@@ -65,10 +48,11 @@ vollständiger Text des Lehrplans (online):
 
 ** Jahres- / Wochenplanung 
 
-*** DONE [SW01] Besprechung des Jahresstoffes / Im Kleinen liegt das Große
-CLOSED: [2020-12-04 Fr 11:15] DEADLINE: <2020-09-14 Mo>
+*** TODO [SW01] Besprechung des Jahresstoffes / Im Kleinen liegt das Große
+DEADLINE: <2020-09-14 Mo>
 :PROPERTIES:
     :CUSTOM_ID: im kleinen das Große
+    :ID: 02_SW01
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
@@ -104,10 +88,11 @@ Zuerst: das Gebet. Daran erkennt man einen Christen.
 
 
 
-*** DONE [SW02] Den Schöpfer erahnen
-CLOSED: [2020-09-27 So 10:36] DEADLINE: <2020-09-21 Mo>
+*** TODO [SW02] Den Schöpfer erahnen
+DEADLINE: <2020-09-21 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schöpfer erahnen
+    :ID: 02_SW02
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:36]
@@ -162,11 +147,11 @@ Gott, der Gerechte
 **** Hefteintrag
 
 
-
-*** DONE [SW03] Der Urspung eines großen Volkes (Abraham)
-CLOSED: [2020-10-04 So 10:02] DEADLINE: <2020-09-28 Mo>
+*** TODO [SW03] Der Urspung eines großen Volkes (Abraham)
+DEADLINE: <2020-09-28 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Ursprung Volk Israel
+    :ID: 02_SW03
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 10:02]
@@ -208,10 +193,11 @@ Weg Abrahams ins Heft zeichnen.
 am Besten etwas zum Ausmalen, Ausschneiden und Einkleben.
 
 
-*** DONE [SW04] Film Abraham (1. Teil)
-CLOSED: [2020-10-11 So 09:45] DEADLINE: <2020-10-05 Mo>
+*** TODO [SW04] Film Abraham (1. Teil)
+DEADLINE: <2020-10-05 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Film Abraham 1
+    :ID: 02_SW04
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:45]
@@ -246,10 +232,11 @@ Gen 12f weiterlesen; Weg Abrahams zeichnen;
 
 
 
-*** DONE [SW05] Film Abraham (2. Teil)
-CLOSED: [2020-10-17 Sa 09:50] DEADLINE: <2020-10-12 Mo>
+*** TODO [SW05] Film Abraham (2. Teil)
+DEADLINE: <2020-10-12 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Film Abraham 2
+:ID:       02_SW05
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:50]
@@ -282,10 +269,11 @@ Josefs Geschichte.
 **** Hefteintrag
 
 
-*** DONE [SW06] AT und seine Unterteilung
-CLOSED: [2020-10-24 Sa 11:58] DEADLINE: <2020-10-19 Mo>
+*** TODO [SW06] AT und seine Unterteilung
+DEADLINE: <2020-10-19 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Bibel AT
+:ID:       02_SW06
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-24 Sa 11:58]
@@ -322,10 +310,11 @@ Eigenen Psalm schreiben; Prophetischen Text lesen; ...
 **** Hefteintrag
 
 
-*** DONE [SW07] Herbstferien
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
+*** TODO [SW07] Herbstferien
+DEADLINE: <2020-10-26 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
+:ID:       02_SW07
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -340,10 +329,11 @@ CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-10-26 Mo>
     :END:
 
 
-*** DONE [SW08] Gotteswort in Menschenwort
-CLOSED: [2020-11-07 Sa 09:52] DEADLINE: <2020-11-02 Mo>
+*** TODO [SW08] Gotteswort in Menschenwort
+DEADLINE: <2020-11-02 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Wort Gottes
+:ID:       02_SW08
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
@@ -377,10 +367,11 @@ Doppelseite gestalten im Heft zum Thema "Bibel".
 **** Hefteintrag
 
 
-*** DONE [SW09] Sakramente
-CLOSED: [2020-11-14 Sa 11:41] DEADLINE: <2020-11-09 Mo>
+*** TODO [SW09] Sakramente
+DEADLINE: <2020-11-09 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Taufe
+:ID:       02_SW09
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
@@ -407,10 +398,11 @@ YouCat...
 **** Hefteintrag
 
 
-*** DONE [SW10] Sakramente der Initiation
-CLOSED: [2020-11-22 So 17:25] DEADLINE: <2020-11-16 Mo>
+*** TODO [SW10] Sakramente der Initiation
+DEADLINE: <2020-11-16 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Taufe
+:ID:       02_SW10
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
@@ -447,10 +439,11 @@ Eine Erinnerungsseite an meine eigene Taufe / Erstkommunion gestalten.
 **** Hefteintrag
 
 
-*** DONE [SW11] Sakrament der Eucharistie
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-23 Mo>
+*** TODO [SW11] Sakrament der Eucharistie
+DEADLINE: <2020-11-23 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Eucharistie
+:ID:       02_SW11
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -484,8 +477,8 @@ YouCat + Arbeitsblatt
 **** Hefteintrag
 
   
-*** DONE [SW12] Berufen mit Stärken und Schwächen
-CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
+*** TODO [SW12] Berufen mit Stärken und Schwächen
+DEADLINE: <2020-11-30 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Berufung Stärken Schwächen
     :END:
@@ -517,10 +510,11 @@ CLOSED: [2020-12-04 Fr 11:19] DEADLINE: <2020-11-30 Mo>
 
 
 
-*** DONE [SW13] Advent / Zeichen und Symbole des Advents
-CLOSED: [2020-12-12 Sa 11:22] DEADLINE: <2020-12-07 Mo>
+*** TODO [SW13] Advent / Zeichen und Symbole des Advents
+DEADLINE: <2020-12-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent
+:ID:       02_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -584,10 +578,11 @@ Wer kann ... mitbringen:
  - Mandarine
  - Holzstern 
 
-*** DONE [SW14] Maria Empfängnis - Freudenreicher Rosenkranz 
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-14 Mo>
+*** TODO [SW14] Maria Empfängnis - Freudenreicher Rosenkranz 
+DEADLINE: <2020-12-14 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Maria Rosenkranz
+:ID:       02_SW14
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
@@ -652,11 +647,11 @@ RB, S. 54, 55, 60, 61.
 Rosenkranz zeichnen / gemeinsam beten;
 Die Schüler notieren zu einem Rosenkranz die Bibelstellen (z.B. die freudenreichen Geheimnisse). Zusatzaufgabe: zu einem der Geheimnisse eine kleine Zeichnung verfassen.
 
-
-*** DONE [SW15] Jesus ist geboren / Weihnachtsgottesdienst
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-21 Mo>
+*** TODO [SW15] Jesus ist geboren / Weihnachtsgottesdienst
+DEADLINE: <2020-12-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weihnachten
+:ID:       02_SW15
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
@@ -685,17 +680,22 @@ CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-21 Mo>
 
 **** Hefteintrag
 
-*** DONE [SW16] Ferien
-CLOSED: [2021-01-02 Sa 15:52] DEADLINE: <2020-12-28 Mo>
+*** TODO [SW16] Ferien
+DEADLINE: <2020-12-28 Mo>
+:PROPERTIES:
+:ID:       02_SW16
+:CUSTOM_ID: Ferien
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:44]
 :END:
 
-*** DONE [SW17] Ferien / Die Weisen aus dem Morgenland
-CLOSED: [2021-01-10 So 22:00] DEADLINE: <2021-01-04 Mo>
+*** TODO [SW17] Ferien / Die Weisen aus dem Morgenland
+DEADLINE: <2021-01-04 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weisen aus dem Morgenland
+:ID:       02_SW17
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-10 So 22:00]
@@ -730,11 +730,11 @@ Ein sehr gut gestaltete und informative Internetseite zum Thema der Hl. Drei Kö
 Ein Suchsel zum Thema:
 [[file:Schule/drei_könige_suchsel.pdf]]
 
-
-*** DONE [SW18] Auf der Suche nach dem Glück
-CLOSED: [2021-01-17 So 10:13] DEADLINE: <2021-01-11 Mo>
+*** TODO [SW18] Auf der Suche nach dem Glück
+DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Suche nach Glück
+:ID:       02_SW18
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:13]
@@ -763,10 +763,11 @@ Gott will mehr als unser Glück!
 **** Hefteintrag
 
 
-*** DONE [SW19] Die Liebe Gottes für die eigene Person erkennen
-CLOSED: [2021-01-23 Sa 12:02] DEADLINE: <2021-01-18 Mo>
+*** TODO [SW19] Die Liebe Gottes für die eigene Person erkennen
+DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gott liebt dich!
+:ID:       02_SW19
     :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
@@ -816,8 +817,10 @@ Aufwendiger:
 DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Taufe 1
+:ID:       02_SW20
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
     - CLOSING NOTE [2019-02-01 Fr 09:51] \\
       Diese Stunden waren hoch interessant, die Schüler waren eifrig dabei...
@@ -853,8 +856,10 @@ DEADLINE: <2021-01-25 Mo>
 DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Sakramente 1
+:ID:       02_SW21
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:14]
     - CLOSING NOTE [2019-02-01 Fr 09:59] \\
       Gute Stunden....
@@ -882,8 +887,10 @@ DEADLINE: <2021-02-01 Mo>
 DEADLINE: <2021-02-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
+:ID:       02_SW22
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:10]
     - CLOSING NOTE [2018-02-05 Mon 21:15] \\
       Die Stunden dieser Woche entfallen, da die Kinder auf Skikurs sind. Ich wünsche ihnen eine tolle Zeit
@@ -1041,12 +1048,13 @@ Aber das können wir ja noch besprechen damit sich jeder einzelne eine Idee sage
 
 
 
-*** TODO [SW23] Aschermittwoch - An Menschen in Not denken
-DEADLINE: <2021-02-15 Mo>
+*** DONE [SW23] Aschermittwoch - An Menschen in Not denken
+CLOSED: [2021-03-09 Di 15:09] DEADLINE: <2021-02-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Aschermittwoch - Not anderer
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-02-07 Fr 17:10]
 :END:
 
@@ -1070,12 +1078,13 @@ DEADLINE: <2021-02-15 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW24] Der Mensch ist im Leid nicht allein.
-DEADLINE: <2021-02-22 Mo>
+*** DONE [SW24] Der Mensch ist im Leid nicht allein.
+CLOSED: [2021-02-27 Sa 10:27] DEADLINE: <2021-02-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: im Leid nicht allein
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
 - State "DONE"       from "TODO"       [2020-02-23 So 14:17]
 - CLOSING NOTE [2019-02-23 Sa 11:02] \\
   Die Schwüler waren "live" dabei - am Montag bringen sie ihr Lieblingssong mit, der ihnen in schweren Stunden Hoffnung gibt.
@@ -1107,12 +1116,13 @@ Kinder aus fremden / armen Ländern.
 
 
 
-*** TODO [SW25] Jeder Mensch hat ein Recht auf Barmherzigkeit
-DEADLINE: <2021-03-01 Mo>
+*** DONE [SW25] Jeder Mensch hat ein Recht auf Barmherzigkeit
+CLOSED: [2021-03-05 Fr 10:19] DEADLINE: <2021-03-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Barmherzigkeit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:19]
 - State "DONE"       from "TODO"       [2020-02-29 Sa 19:00]
     - CLOSING NOTE [2018-03-03 Sam 18:00] \\
       Hl. Mutter Teresa als Beispiel eines Menschen, der aus Liebe zu Jesus den Armen dient.
@@ -1130,7 +1140,6 @@ DEADLINE: <2021-03-01 Mo>
 
 **** Wiederholung
 
-
 **** Erarbeitung
 [[https://www.missio.at/mutter-teresa/]]
 
@@ -1139,8 +1148,6 @@ DEADLINE: <2021-03-01 Mo>
 [[https://www.barmherzigkeitsjahr.de/unterricht/]]
 [[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Unterricht-Werke-der-Barmherzigkeit.pdf]]
 [[https://www.barmherzigkeitsjahr.de/wp-content/uploads/2015/11/Werke_der_Barmherzigkeit_Stationenkarten.pdf]]
-
-[[#03]]
 
  - leibliche Werke der Barmherzigkeit
    - Hungrige speisen
@@ -1156,7 +1163,7 @@ DEADLINE: <2021-03-01 Mo>
    - Zweifelnde raten
    - Irrende zurechtweisen
    - Trauernde trösten
-   - Unrecht ertragen
+   - Unrecht ertragen / lästige Personen geduldig ertragen
    - Beleidigungen verzeihen
    - für Lebende und Tote beten
 
@@ -1170,12 +1177,13 @@ Lk 15 / 5 Schritte in ein besseres Leben (Beichte)
 
 
 
-*** TODO [SW26] Sakrament der Krankensalbung
-DEADLINE: <2021-03-08 Mo>
+*** DONE [SW26] Film Mutter Teresa
+CLOSED: [2021-03-12 Fr 10:42] DEADLINE: <2021-03-08 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Krankensalbung
+:CUSTOM_ID: Mutter Teresa
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-12 Fr 10:42]
 - State "DONE"       from "TODO"       [2020-03-06 Fr 15:38]
     - CLOSING NOTE [2018-03-09 Fre 09:43] \\
       Die Stunden waren okay - beide Klassen sind auf ihre Weise "lebendig", aber ich habe dies mittlerweile besser im Griff.
@@ -1195,18 +1203,19 @@ DEADLINE: <2021-03-08 Mo>
 
 
 **** Erarbeitung
-
+Filme und Austausch über das Leben und Wirken von Mutter Teresa
 
 **** Hefteintrag
 
 
 
-*** TODO [SW27] Die Theodizee-Frage
-DEADLINE: <2021-03-15 Mo>
+*** DONE [SW27] Die Theodizee-Frage
+CLOSED: [2021-03-19 Fr 12:06] DEADLINE: <2021-03-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Theodizee
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:06]
 - State "DONE"       from "TODO"       [2020-06-04 Do 15:28]
     - CLOSING NOTE [2018-03-17 Sam 10:06] \\
       Das war okay - ich musste ein paar Mal eingreifen bzgl Disziplin. Sonst wars okay.
@@ -1223,18 +1232,27 @@ DEADLINE: <2021-03-15 Mo>
 
 **** Wiederholung
 
+
 **** Erarbeitung
+Wie kann es sein: Gott ist gut / in der Welt gibt es Leid?
+
+
+"Das Märchen vom lieben Gott (Klaus Berger)":
+[[file:Berger2004.org][Berger2004: Jesus]]
+
+Wie konkret umsetzen? Bibelstellen über das "heilige Zittern" vor Gott.  
 
 **** Hefteintrag
 
 
 
-*** TODO [SW28] Die Klagepsalmen / Die letzte Woche in Jerusalem
-DEADLINE: <2021-03-22 Mo>
+*** DONE [SW28] Die Klagepsalmen / Die letzte Woche in Jerusalem
+CLOSED: [2021-04-05 Mo 09:26] DEADLINE: <2021-03-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Klagepsalmen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:26]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
 - CLOSING NOTE [2019-03-23 Sa 16:09] \\
   Die Schüler der 2a und 2b ziehen recht schnell das Thema ins Lächerliche, kommentieren sofort; da ist es schwierig, ein Thema ernsthaft zu bearbeiten.
@@ -1258,6 +1276,21 @@ DEADLINE: <2021-03-22 Mo>
 
 **** Erarbeitung
 
+***** Gemeinsam lesen:
+Falls die Schüler kein Neues Testament bei sich haben, findet ihr die Bibeln (schwarz) im Kopierer-Kammerl, Holzschrank.
+
+Matthäus Evangelium, Kapitel 27 (Ausschnitte):
+
+ - Mt 27,11-26 (Verhör vor Pilatus)
+ - Mt 27,31b-44 (Kreuzweg)
+ - Mt 27,45-56 (Tod Jesu; Tempelvorhang zerreißt)
+
+***** Arbeitsblatt
+[[file:~/Downloads/Arbeitsblatt-Religion-Ostern.pdf]]
+
+***** Falls Zeit bleibt:
+Eventuell: Kreuz Jesu zeichnen. [[file:~/Bilder/Jesus_Kreuz.jpg]]
+Sich selbst hinzumalen? Persönliche Bitte, Dank, Gebet an Jesus formulieren.
 
 
 **** Hefteintrag
@@ -1265,12 +1298,13 @@ DEADLINE: <2021-03-22 Mo>
 
 
 
-*** TODO [SW29] Osterferien
-DEADLINE: <2021-03-29 Mo>
+*** DONE [SW29] Osterferien
+CLOSED: [2021-04-05 Mo 09:26] DEADLINE: <2021-03-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Osterferien
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:26]
 - State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
 - State "DONE"       from "DONE"       [2020-03-21 Sa 09:45]
 - State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
@@ -1293,12 +1327,13 @@ DEADLINE: <2021-03-29 Mo>
 
 
 
-*** TODO [SW30] Vom Leiden zur Auferstehung (Ostern, das höchste Fest im Kirchenjahr)
-DEADLINE: <2021-04-05 Mo>
+*** DONE [SW30] Vom Leiden zur Auferstehung (Ostern, das höchste Fest im Kirchenjahr)
+CLOSED: [2021-04-12 Mo 07:18] DEADLINE: <2021-04-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Auferstehung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
 - CLOSING NOTE [2019-04-10 Mi 10:52] \\
   Die Schüler waren überraschenderweise (sehr) interessiert.
@@ -1313,7 +1348,7 @@ DEADLINE: <2021-04-05 Mo>
     :END:
 
 **** Ziele LP 2000
-[[#01]] Gott offenbart sich durch seinen Sohn / Ostern [[]
+[[#01]] Gott offenbart sich durch seinen Sohn / Ostern
 
 **** Kompetenzen
 [[#1c]] Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
@@ -1325,18 +1360,48 @@ DEADLINE: <2021-04-05 Mo>
 
 
 **** Erarbeitung
+:PROPERTIES:
+:org-gcal-managed: org
+:calendar-id: matthiasfuchs01@gmail.com
+:END:
+[[file:Schule_Themen/auferstehung.org][Auferstehung]]
 
+Die Auferstehung Jesu ist keine Erfindung, kein Symbol - sondern eine Tatsache.
+Cf Firmstunde aus dem YOU-Firmbuch, S. 50-51!
+
+Klasse, 4 Gruppen:
+
+ 1. Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
+ 2. Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
+ 3. Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
+ 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn?
+
+Austausch der vier Gruppen - Raum für Rückfragen
+
+Youcat 106 + Austausch
+
+Bibelsession 1 Kor 15,1ff.12-22: zwei Punkte sind Paulus wichtig...
+
+ - Jesus ist Gottes Sohn  nur so kann uns sein Tod am Kreuz erlösen.
+ - Wäre Jesus im Grab geblieben, gäbe es auch für uns keine Auferstehung und kein ewiges Leben.
+
+Austausch: wie stellst du dir das ewige Leben vor?
+
+Youcat-Session: 153+154
+   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen.
+   Langeweile? Nein - Gott sorgt für Abwechselung; Jesus spricht nicht umsonst von einer "einzigartigen Party" 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW31] Botinnen der Auferstehung
-DEADLINE: <2021-04-12 Mo>
+*** DONE [SW31] Botinnen der Auferstehung
+CLOSED: [2021-04-18 So 09:31] DEADLINE: <2021-04-12 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Botinnen Auferstehung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-18 So 09:31]
 - State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
     - CLOSING NOTE [2018-04-18 Mi 08:41] \\
       Ist noch zu vertiefen...
@@ -1355,19 +1420,20 @@ DEADLINE: <2021-04-12 Mo>
 
 
 **** Erarbeitung
-
+Lk 24 Emmaus-Jünger
 
 **** Hefteintrag
 
 
 
 
-*** TODO [SW32] Das Heil von Jesus hinaustragen - Mission
-DEADLINE: <2021-04-19 Mo>
+*** DONE [SW32] Das Heil von Jesus hinaustragen - Mission
+CLOSED: [2021-04-24 Sa 22:12] DEADLINE: <2021-04-19 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Mission
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:12]
 - State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
     - CLOSING NOTE [2018-04-20 Fr 11:30] \\
       Die Schüler zeichnen gerne; manche haben tolle, kreative Ideen. Die grafische Umsetzung der biblischen Geschichte in eine Bildergeschichte / Comic gefällt den Schülern sehr.
@@ -1387,17 +1453,28 @@ DEADLINE: <2021-04-19 Mo>
 
 
 **** Erarbeitung
+Apostelgeschichte
 
+"Der Mund redet, wovon das Herz voll ist!"
+
+YouCat über "Mission".
+
+Bsp. bekannter Persönlichkeiten, die offen über ihren Glauben reden.
+
+Wie kann ich missionieren, den Glauben weitergeben? Bsp. Gebetskreis in der Schule (YOU!)
+
+AB zur Apostelgeschichte / Paulus?
 
 **** Hefteintrag
 
 
-*** TODO [SW33] Die Bilder vom Reich Gottes
-DEADLINE: <2021-04-26 Mo>
+*** DONE [SW33] Die Bilder vom Reich Gottes
+CLOSED: [2021-04-30 Fr 17:19] DEADLINE: <2021-04-26 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Reich Gottes
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-04-30 Fr 17:19]
 - State "DONE"       from "TODO"       [2020-04-28 Di 22:59]
 - CLOSING NOTE [2019-04-27 Sa 10:38]
     - CLOSING NOTE [2018-04-30 Mo 21:49] \\
@@ -1417,17 +1494,23 @@ DEADLINE: <2021-04-26 Mo>
 
 
 **** Erarbeitung
+Arbeitsblätter zum Thema "Reich Gottes":
+
+[[file:~/NMS_Golling/Bibel_NT/Gleichnisse_ReichGottes/Gleichnisse.pdf]]
+
+[[file:~/NMS_Golling/Bibel_NT/Gleichnisse_ReichGottes/ReichGottes_Gleichnisse.pdf]]
 
 
 **** Hefteintrag
 
 
-*** TODO [SW34] In Jesu Handeln Gott erkennen
-DEADLINE: <2021-05-03 Mo>
+*** DONE [SW34] In Jesu Handeln Gott erkennen
+CLOSED: [2021-05-08 Sa 15:10] DEADLINE: <2021-05-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus offenbart Gott
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:10]
 - State "DONE"       from "TODO"       [2020-05-05 Di 10:29]
 - CLOSING NOTE [2019-05-04 Sa 17:29]
     - CLOSING NOTE [2018-05-07 Mo 14:57] \\
@@ -1446,20 +1529,45 @@ DEADLINE: <2021-05-03 Mo>
 [[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Wiederholung
-
+Gott ist ein menschenfreundlicher Gott - ich bin mir nicht sicher, ob dies ein Problem für die Schüler darstellt. Sie haben doch die Einstellung, Gott sei nur "lieb" (ohne irgendwelche Ansprüche zu stellen). Als Christ genüge es, lieb und brav zu sein - ein "Gutmensch".[fn:2] Das "Problem" liegt eher woanders: es fehlt z.B. völlig die religiöse Praxis. Von den Erstklasslern geht so gut wie gar kein Kind mehr am Sonntag in die Hl. Messe. Wie schmackhaft machen? Die Eucharistie ist hartes, festes Brot - als geistliche Nahrung. Zuerst soll eine lebendige Beziehung zu Jesus entstehen: Gebet und Wort Gottes. 
 
 **** Erarbeitung
+:PROPERTIES:
+:org-gcal-managed: org
+:END:
+Arbeitsblätter zum Thema "Reich Gottes":
 
+[[file:~/NMS_Golling/Bibel_NT/Gleichnisse_ReichGottes/Gleichnisse.pdf]]
+
+[[file:~/NMS_Golling/Bibel_NT/Gleichnisse_ReichGottes/ReichGottes_Gleichnisse.pdf]]
+
+Jesus begegnet den unterscheidlichsten Menschen:
+ - Er beruft seine Jünger ...
+ - ... spricht zu ihnen (Lehre, Gleichnisse, ...)
+ - Er heilt Kranke ...
+ - ... vergibt Sünden.
+ - Er stellt Fragen.
+ - Was fällt Dir noch ein?
+
+Textbeispiele aus dem Neuen Testament:
+ - Berufungen
+ - Lehre
+ - Heilungen
+ - Wunder, Zeichen, ...:
+ - Verklärung
+
+Im Prinzip könnten wir ein Evangelium durchlesen.
 
 **** Hefteintrag
 
 
-*** TODO [SW35] Im Mitmenschen Jesus begegnen
-DEADLINE: <2021-05-10 Mo>
+*** DONE [SW35] Im Mitmenschen Jesus begegnen
+CLOSED: [2021-05-14 Fr 13:48] DEADLINE: <2021-05-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Jesus im Mitmenschen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:48]
 - State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
     - CLOSING NOTE [2018-05-10 Do 21:27] \\
       Die Stunden waren nicht einfach, da einzelne Schüler sehr präpotent auftreten.
@@ -1480,17 +1588,33 @@ DEADLINE: <2021-05-10 Mo>
 
 
 **** Erarbeitung
+Jesus begegnet den unterscheidlichsten Menschen:
+ - Er beruft seine Jünger ...
+ - ... spricht zu ihnen (Lehre, Gleichnisse, ...)
+ - Er heilt Kranke ...
+ - ... vergibt Sünden.
+ - Er stellt Fragen.
+ - Was fällt Dir noch ein?
 
+Textbeispiele aus dem Neuen Testament:
+ - Berufungen
+ - Lehre
+ - Heilungen
+ - Wunder, Zeichen, ...:
+ - Verklärung
+
+Im Prinzip könnten wir ein Evangelium durchlesen.
 
 **** Hefteintrag
 
 
-*** TODO [SW36] Warum beten? (Bitttage)
-DEADLINE: <2021-05-17 Mo>
+*** DONE [SW36] Warum beten? (Bitttage)
+CLOSED: [2021-05-23 So 10:53] DEADLINE: <2021-05-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Warum beten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-23 So 10:53]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:32]
     - CLOSING NOTE [2018-05-22 Di 14:40] \\
       In beiden Klassen war es ziemlich schwierig; lag es an mir? waren die Stunden zu schlecht vorbereitet?
@@ -1513,18 +1637,25 @@ DEADLINE: <2021-05-17 Mo>
 
 
 **** Erarbeitung
+[[https://www.katholisch.de/artikel/39-das-vaterunser]]
+
+P. Karl Wallner: Bet-Werbung
+
+Film: Rom - die Kaiser und ihr Reich (Nero / Konstantin / Alarich)
+
 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW37] Pfingsten / Heiliger Geist
-DEADLINE: <2021-05-24 Mo>
+*** DONE [SW37] Pfingsten / Heiliger Geist
+CLOSED: [2021-05-30 So 11:33] DEADLINE: <2021-05-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Pfingsten
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-05-30 So 11:33]
 - State "DONE"       from "TODO"       [2020-05-23 Sa 11:32]
     - CLOSING NOTE [2018-05-26 Sa 15:25] \\
       Die Stunde mit der 2A am Donnerstag war okay, ebenso mit der 2B am Freitag - hingegen mit der 2B am Freitag war katastrophal: Konsequenz: die ganze Klasse musste schreiben...
@@ -1543,6 +1674,12 @@ DEADLINE: <2021-05-24 Mo>
 
 
 **** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
+
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
+
 1. Lesung: Apg 2, 1–11
 Psalm: Ps 104 (103), 1–2.24–25.29–30.31 u. 34
 2. Lesung: 1 Kor 12, 3b–7.12–13
@@ -1551,30 +1688,39 @@ Pfingstsequenz:
 Komm herab, o Heilger Geist,
 der die finstre Nacht zerreißt,
 strahle Licht in diese Welt.
+
 Komm, der alle Armen liebt,
 komm, der gute Gaben gibt,
 komm, der jedes Herz erhellt.
+
 Höchster Tröster in der Zeit,
 Gast, der Herz und Sinn erfreut,
 köstlich Labsal in der Not.
+
 In der Unrast schenkst du Ruh,
 hauchst in Hitze Kühlung zu,
 spendest Trost in Leid und Tod.
+
 Komm, o du glückselig Licht,
 fülle Herz und Angesicht,
 dring bis auf der Seele Grund.
+
 Ohne dein lebendig Wehn
 kann im Menschen nichts bestehn,
 kann nichts heil sein noch gesund.
+
 Was befleckt ist, wasche rein,
 Dürrem gieße Leben ein,
 heile du, wo Krankheit quält.
+
 Wärme du, was kalt und hart,
 löse, was in sich erstarrt,
 lenke, was den Weg verfehlt.
+
 Gib dem Volk, das dir vertraut,
 das auf deine Hilfe baut,
 deine Gaben zum Geleit.
+
 Lass es in der Zeit bestehn,
 deines Heils Vollendung sehn
 und der Freuden Ewigkeit.
@@ -1589,12 +1735,13 @@ erfüllt sich die Verheißung des Joh. d. T.: "Er wird euch mit dem Heiligen Gei
 
 
 
-*** TODO [SW38] Die heilige Dreifaltigkeit
-DEADLINE: <2021-05-31 Mo>
+*** DONE [SW38] Die heilige Dreifaltigkeit
+CLOSED: [2021-06-04 Fr 08:10] DEADLINE: <2021-05-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Dreifaltigkeit
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:10]
 - State "DONE"       from "TODO"       [2020-06-01 Mo 09:57]
 - CLOSING NOTE [2019-05-31 Fr 10:11] \\
   So wie mit der ersten Klasse hatten wir nur eine Stunde gemeinsam (und ich war leider nicht in Topform - zu müde).
@@ -1619,18 +1766,29 @@ DEADLINE: <2021-05-31 Mo>
 
 
 **** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/dreifaltigkeitssonntag/][Gott ist die Liebe | Minicat]]
+Jedes Jahr feiert die Kirche am Sonntag nach Pfingsten den Dreifaltigkeitssonntag. Warum ist das so? Mit Pfingsten ist das Heilswerk der Erlösung abgeschlossen und ebenso ist mit der Offenbarung der Dreifaltigkeit Gottes die Offenbarung als Ganze abgeschlossen. Gottes Wille ist es, uns das innerste Wesen seiner selbst kundzutun. Warum? Weil Gott die Liebe ist. Wer liebt, der will, dass der andere ihn ganz und gar erkennt im tiefsten Innern seines Wesens. Die Selbstoffenbarung Gottes, in der er uns das Geheimnis seines Wesens kundtun will, ist im letzten die Offenbarung, dass Gott dreifaltig ist. Weil jeder von uns gerufen ist mit den drei Personen dieses einen Gottes in eine ganz persönliche Beziehung einzutreten.
 
+[[file:Schule_Themen/dreifaltigkeit.org][dreifaltigkeit]]
+
+Videos:
+ [[https://www.youtube.com/watch?v=a2I1-8SQRZw][Wer thront auf dem Gnadenstuhl - Hermit & Hog Via Alpina Sacra 35 - YouTube]]
+ [[https://www.youtube.com/watch?v=mgYk5RrlkFU][Welche Bilder gibt es von der Heiligen Dreifaltigkeit? (3MC 19) - YouTube]]
+ [[https://www.youtube.com/watch?v=FlDN-FIkyPQ][Dreifaltigkeit - Tauhid [At-Tariq 11 / Islam & Christentum] - YouTube]]
+ [[https://www.youtube.com/watch?v=d3RZ2fXVZdM][Wie kann man sich die Dreifaltigkeit vorstellen?* (3MC 18) - YouTube]]
+ [[https://www.youtube.com/watch?v=RiGM27ntef4][Wie kann man den Glauben an die Dreifaltigkeit zusammenfassen? (3MC 17) - YouTube]]
 
 **** Hefteintrag
 
 
 
-*** TODO [SW39] Glauben ist ... empfangen und geben
-DEADLINE: <2021-06-07 Mo>
+*** DONE [SW39] Glauben ist ... empfangen und geben
+CLOSED: [2021-06-15 Di 07:15] DEADLINE: <2021-06-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Glaube ist
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:15]
 - State "DONE"       from "TODO"       [2020-06-06 Sa 11:35]
     - CLOSING NOTE [2018-06-10 So 08:22] \\
       Hui, das waren keine leichte Stunden. Mit der 2B bereiten wir den Abschlussgottesdienst vor.
@@ -1649,49 +1807,64 @@ DEADLINE: <2021-06-07 Mo>
 
 
 **** Erarbeitung
+Christentum - Judentum - Islam
 
+Gemeinsamkeiten / Unterschiede / Ursprung
+Heilige Bücher
+Glaube / Glaubenspraxis / Feste / Gebete / Gotteshäuser
 
+Glauben die drei Religionen an den gleichen / selben Gott? Ist das eine berechtigte Frage: Wer hat recht? Wo liegt die Wahrheit?
+
+Arbeitsblätter:
+[[/home/matthias/NMS_Golling/Weltreligionen/]]
 
 **** Hefteintrag
 
 
 
-*** TODO [SW40] Glaube ist Gnade
-DEADLINE: <2021-06-14 Mo>
+*** DONE [SW40] Weltreligionen - Islam
+CLOSED: [2021-06-20 So 13:30] DEADLINE: <2021-06-14 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Gnade
+:CUSTOM_ID: Islam
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-20 So 13:30]
 - State "DONE"       from "TODO"       [2020-06-14 So 10:45]
     - CLOSING NOTE [2018-06-18 Mo 10:29] \\
       Die 2B bereitet gut den Schulgottesdienst vor; die 2A ... naja
     :END:
 
 **** Ziele LP 2000
-[[#01]] Gott offenbart sich durch seinen Sohn Jesus Christus / Glauben ist Gnade
+[[#02]] Gebete verschiedener Religionen
 
 **** Kompetenzen
-[[#1c]] Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
+[[#2b]] Schüler können Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen respektieren und wertschätzen.
 
 [[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Wiederholung
 
 
 **** Erarbeitung
+Islam
+Film "planet schule": [[https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html]]
+Arbeitsblätter: (siehe ...)
 
+Alle Sendungen: [[https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen.html]]
 
+[[file:Isalm.org][Isalm]]
 
 **** Hefteintrag
 
 
-*** TODO [SW41] Gebete der verschiedenen Weltreligionen
-DEADLINE: <2021-06-21 Mo>
+*** DONE [SW41] Gebete der verschiedenen Weltreligionen
+CLOSED: [2021-06-28 Mo 00:22] DEADLINE: <2021-06-21 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gebete Weltreligionen
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:22]
 - State "DONE"       from "TODO"       [2020-06-21 So 10:36]
     - CLOSING NOTE [2018-06-24 So 21:13] \\
       Hui, also in der 2A - die beiden I's sind echt furchtbar! Was sollen wir als Lehrer tun?
@@ -1713,6 +1886,7 @@ DEADLINE: <2021-06-21 Mo>
 
 **** Wiederholung
 
+
 **** Erarbeitung
 Die wichtigsten Gebete in den Religionen:
 Judentum
@@ -1731,12 +1905,13 @@ Vergleiche die Goldene Regel der fünf Weltreligionen ...
 **** Hefteintrag
 
 
-*** TODO [SW42] Sehnsucht nach Frieden / Wiederholung Jahresstoff
-DEADLINE: <2021-06-28 Mo>
+*** DONE [SW42] Sehnsucht nach Frieden / Wiederholung Jahresstoff
+CLOSED: [2021-07-05 Mo 07:18] DEADLINE: <2021-06-28 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wiederholung Jahresstoff
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
 - State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
     - CLOSING NOTE [2018-06-28 Do 19:55] \\
       Die Stunden waren "so wie immer - ziemlich 'lebendig'"; leider gibt es in diesen beiden Klassen auch recht schwer erziehbare Kinder.
@@ -1756,12 +1931,13 @@ DEADLINE: <2021-06-28 Mo>
 
 **** Hefteintrag
 
-*** TODO [SW43] Film / Schulgottesdienst
-DEADLINE: <2021-07-05 Mo>
+*** DONE [SW43] Film / Schulgottesdienst
+CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-07-05 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Wiederholung
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
 - State "DONE"       from "TODO"       [2020-07-07 Di 12:02]
 :END:
 
@@ -1795,7 +1971,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#01]] [[#02]] [[#06]] [[#07]]
 
-[[#Schöpfer erahnen]] [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]] [[#David]] [[#Berufung Stärken Schwächen]] [[#Maria Rosenkranz]] [[#Weihnachten]] [[#Taufe]] [[#Sakramente]] [[#Auferstehung]] [[#Botinnen Auferstehung]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Glaube ist]] [[#Gnade]] [[#Gebete Weltreligionen]]
+[[#Schöpfer erahnen]] [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]] [[#David]] [[#Berufung Stärken Schwächen]] [[#Maria Rosenkranz]] [[#Weihnachten]] [[#Taufe]] [[#Sakramente]] [[#Auferstehung]] [[#Botinnen Auferstehung]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Glaube ist]] [[#Gnade]] [[#Gebete Weltreligionen]] [[#Islam]]
 
 **** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
      :PROPERTIES:
@@ -1811,7 +1987,7 @@ Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark 
      :END:
 [[#02]] [[#04]] [[#05]] [[#06]]
 
-[[#im kleinen das Große]] [[#Schöpfer erahnen]] [[#Suche nach Glück]] [[#Mission]] [[#Reich Gottes]] [[#Jesus offenbart Gott]] [[#Jesus im Mitmenschen]] [[#Gebete Weltreligionen]]
+[[#im kleinen das Große]] [[#Schöpfer erahnen]] [[#Suche nach Glück]] [[#Mission]] [[#Reich Gottes]] [[#Jesus offenbart Gott]] [[#Jesus im Mitmenschen]] [[#Gebete Weltreligionen]] [[#Islam]]
 
 **** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
      :PROPERTIES:
@@ -1853,7 +2029,7 @@ Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die 
 :PROPERTIES:
 :CUSTOM_ID: 2b
 :END:
-[[#Gebete Weltreligionen]]
+[[#Gebete Weltreligionen]] [[#Islam]]
 
 ***** Schüler können Gott als den, der das Heil aller will, begreifen.
 :PROPERTIES:
@@ -1978,7 +2154,7 @@ Korrelation Erfahrungen der Schüler zur Sprache bringen, diese werden auf relig
 
    - Gott als den verstehen, der das Heil aller Menschen will und in diesem Geist Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen ernst nehmen und achten ([[B]],[[D]])
      /Konflikt, Toleranz und Wertschätzung in der Lebenswelt der Schüler (vgl. II. Vaticanum Nostra aetate)/ 
-     /Gebete verschiedener Religionen/ [[#Gebete Weltreligionen]]
+     /Gebete verschiedener Religionen/ [[#Gebete Weltreligionen]] [[#Islam]]
      /Erzählungen (z.B. Jona) und Bilder (z.B. Propheten) vom Heilswillen Gottes/
      /Zuwendung Gottes erahnen/ [[#Schöpfer erahnen]]
      /Staunen über die Wunder der Schöpfung/ [[#im kleinen das Große]]
@@ -1998,8 +2174,8 @@ Korrelation Erfahrungen der Schüler zur Sprache bringen, diese werden auf relig
      /Die Theodizee-Frage: Gott ist gut, warum gibt es Leid in der Welt?/ [[#Theodizee]]
 
    - Möglichkeiten entwerfen, sich leidenden Mitmenschen zuzuwenden ([[C]],[[E]]) [[#im Leid nicht allein]]
-     /Die Werke der Barmherzigkeit (Mt 25,31-40)/ [[#Barmherzigkeit]]
-     /Das Sakrament der Krankensalbung/ [[#Krankensalbung]]
+     /Die Werke der Barmherzigkeit (Mt 25,31-40)/ [[#Barmherzigkeit]] [[#Mutter Teresa]]
+     /Das Sakrament der Krankensalbung/ 
 
 *** <<K04>> Würde des Menschen in Freiheit und Verantwortung [[#4a]] [[#4b]] [[#4c]]
     :PROPERTIES:
@@ -2114,6 +2290,14 @@ Korrelation Erfahrungen der Schüler zur Sprache bringen, diese werden auf relig
   - [ ] Ablauf der Stunde
 
 * Footnotes
+[fn:2] Gutmensch ist eine Bezeichnung, die häufig als ironisch oder verachtend gemeinte Verunglimpfung von Einzelpersonen, Gruppen oder Milieus ("Gutmenschentum") genutzt wird. Diesen wird aus Sicht der Wortverwender ein übertriebener, äußere Anerkennung heischender Wunsch des "Gut-sein"-Wollens in Verbindung mit einem moralisierenden und missionierenden Verhalten und einer dogmatischen, absoluten, andere Ansichten nicht zulassenden Vorstellung des Guten unterstellt. In der politischen Rhetorik wird „Gutmensch“ als Kampfbegriff verwendet.
+
+Benutzer des Begriffs unterstellen Personen oder Personengruppen mit betont moralischer Grundhaltung ein fehlgeleitetes beziehungsweise zweifelhaftes Verhalten.[1] Nach Siegfried Jäger wird er seit den 1980er Jahren als abschätzige Bezeichnung für Personen verwendet, "die humanistische, altruistische, auch religiös-mitmenschliche Lebensziele und Argumente höher einschätzen als utilitaristische und ihr Handeln, ihre Politik, ihr Leben danach ausrichten."
+
+Gutmensch wird seit Mitte der 1990er-Jahre auch mit dem Begriff "Politische Korrektheit" verbunden und als Anklage verstanden. Im öffentlichen Sprachgebrauch dient er durchweg als eine negativ konnotierte Fremdbezeichnung. Eine „liebevolle“ Verwendung findet sich zumeist nur in persönlichen Gesprächen, etwa für "das Herz am rechten Fleck haben", großzügiges Verhalten oder für "übertriebenen" Altruismus.
+
+Der Begriff spielt auch an auf einen möglichen Unterschied zwischen "gut gemeint" und "gut gemacht": Gutmenschen hätten gute Absichten, möchten bestimmte Probleme lösen oder die "Welt verbessern". Ihre Handlungen/Meinungen und/oder die verwendeten Mittel könnten aber negative Folgen haben, die in den Augen ihrer Kritiker die positiven oft überwiegen. In diesem Sinn wird der Begriff teilweise in der Alltagssprache verwendet; Lt. Duden ist ein Gutmensch ein "[naiver] Mensch, der sich in einer als unkritisch, übertrieben, nervtötend o. ä. empfundenen Weise im Sinne der Political Correctness verhält, sich für die Political Correctness einsetzt."
+[[https://de.wikipedia.org/wiki/Gutmensch]]
 
 [fn:1] Benedikt XVI. - YOUCAT, S. 28
 
