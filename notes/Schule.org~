@@ -1,0 +1,24 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+title: Schule.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Organisation
+[[file:Schule/Schule_Organisation.org][Schule_Organisation]]
+
+* Vorbereitung
+[[file:brain/Vorbereitung.org][Vorbereitung.org]]
+
+* Jahresplanung
+
+* Reflexion
+[[file:brain/Reflexion.org][Reflexion.org]]
+
+* Studium
+[[file:brain/Studium.org][Studium.org]]
+
+* Aufzeichnungen
+[[file:students.org][Schüler]]

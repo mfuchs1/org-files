@@ -1,0 +1,29 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+title: Vorbereitung
+#+AUTHOR: Matthia Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung / Themen
+
+** Gott offenbart sich in Jesus Christus
+[[file:gott_jesus.org::*Wer ist Gott?][Wer ist Gott?]]
+
+[[file:gott_jesus.org::*Jesus Christus][Jesus Christus]]
+
+** Wer ist der Mensch?
+[[file:mensch.org][Mensch]]
+
+** Leid Schuld Tod
+
+** Die Weltreligionen
+[[file:weltreligionen.org][Weltreligionen]]
+
+** Symbole, Rituale, Sakramente
+[[file:symbole_rituale_sakramente.org][Symbole_Rituale_Sakramente]]
+
+** Kirche
+[[file:kirche.org][Kirche]]
+

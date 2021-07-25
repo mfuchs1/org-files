@@ -1,0 +1,137 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TITLE: Eröffnungskonferenz_200914.org
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Eröffnung
+Begrüßung
+
+Jeder soll sich mit seinen Stärken und Ideen einbringen.
+(C-Topf)
+
+* Covid19-Maßnahmen
+NMS Pflicht außerhalb Klassenräumen
+
+Sitzplan pro Raum (Klasse) - muss gleich bleiben (für wie lange?). Plan muss vorne am Lehrertisch geklebt werden.
+Ebenso für Klassen- und Schulforen / gestaffelt.
+Hauptfächer - M und E: Raumplan + Sitzplan. Freie Räume: Kellerklasse, Turnsaal-Klasse, ... (Hannes erstellt Plan)
+
+Verfügbarkeit von Laptop, Tablet, PC der Schüler. 25 Tablets von Corona-Zeiten; die könnten abgezogen werden, wenn außerhalb Bedarf besteht. Wenn wir also 25 Schüler finden, wäre das toll. 
+
+Buffet: 1m Abstand halten. 
+
+Kinder gehen nicht in andere Klassen. Alle Schüler dürfen in der Pause aus der Klasse. Bewegte Pause: draußen (bei Schlechtwetter: keine bewegte Pause).
+
+Hygienemaßnahmen: Desinfektion, Händewaschen, Abstand; oft lüften (alle 20-25 Minuten); Klasse gilt Hausgemeinschaft; Klassenübergreifender Unterricht vermeiden, etc.
+
+Kommunikation: einheitlich - Bsp. Schoolfox - zw. Direktion, Lehrer, Schüler, Eltern. Für Unterricht auf eine Plattform einigen.
+
+"Mut zur Lücke": Schüler auf Niveau bringen. 
+
+Krisenteam definieren:
+ - Lehrer
+ - IT
+ - Gemeinde
+ - Fachkoordinatoren
+ - ...
+
+Wolfi, Julia, Miriam, Elfi, Christoph, Annemarie, Angelika, ...
+
+KV: Schüler - wer hatte leztztes Jahr schlechte Noten? Förderkonzept. Förderunterricht darf Klassenübergreifend sein (aha?). 
+
+Schulveranstaltungen: so bald wie möglich. Schulforum müsste alle Veranstaltungen absegnen (aha). Stichtag? Nach dem Stichtag?
+Sportwoche - 3. Klasse: wer leitet sie? 
+
+SA-Termine: Fachkoordinatoren gemeinsam. 
+
+Ende Oktober: C-Topf (kein C-Topf für Päd Dienst Neu)
+Fortbildung: 15 Stunden; 24.9.2020 Frist.
+FB-VA: in Unterrichtsfreie Zeit verlagert.
+
+Elternforum: 2 Termine pro Tag.
+SCHILF Authismus: 6 Stunden
+Digitales Klassenbuch: 2 Stunden
+
+Mit den Schüler beim Unterrichtsende in die Garderobe. In 2er Reihe anstellen, 1m Abstand. Aufsicht bis der letzte Schüler die Schule verlassen hat.
+
+Handys: im Spint, ausgeschaltet. Lehrer-Handy im Kferenzzimmer, stumm, wenn nicht im Konferenzzimmer.  
+Verhaltensregeln pro Klasse. 
+
+Brandschutzbeauftragter / Übungen / (Hannes). Rauchverbot am Schulgeände.
+
+Frühwarnsystem / Verhalten - Frühwarnung / Elterngespräche.
+
+24.9.: Hl. Rupertus - schulfrei.
+24.10. - 2.11.: Herbstferien.
+
+2 schulautonome Tage zu vergeben: 
+
+SQA-Team: 
+
+Kustos: Religion + Schulbuch [Verantwortich: Manuela Singer] (ich)
+
+* Termine:
+Klassenforen 1. Klassen
+
+Klassenforen 2. Klassen 
+
+Klassenforen 3. Klassen 
+
+Klassenforen 4. Klassen
+
+Schulforum: 13.10.2020, 19h00
+
+Wandertag: Mittwoch, Halbtagswandertag (Ganztagswandertag: 8 Stunden; alles darunter ist Halbtag, mindestens 5 Stunden). 
+Ab Donnerstag lt Stundenplan Unterricht; NM Unterricht ab 2. SW
+
+2.10. + 5.10.2020: Schulfotograph. 
+
+Elternsprechtag: hier auch KEL / allerdings soll der Elternsprechtag nicht darunter leiden.
+<2020-12-01 Di 15:00-19:00> Elternsprechtag
+KEL-Gespräche: "L" muss nicht der KV sein, sondern jeder Lehrer. KV kann KEL aufteilen. Oder: der Schüler sucht sich aus, in welchem Fach er das KEL machen will. 
+
+Weihnachtsmesse: 23.12.2020 - möglich?
+
+Tag der offenen Tür - kaum möglich. Wir gehen zu den VS Golling und Scheffau.
+
+<2021-02-01 Mo 16:00> Semsterkonferenz
+
+Schikurs: 25.1.-29.1.2021 (2. Klassen)
+
+Schitage 3. Klassen: je nach Wetter. Woche vor Semesterferien? Raika-Schitag 16.12.2020?
+
+28.4.2021 Elternsprechtag, 15:00-18:00
+
+6.4.-9.4.2021 Wienwoche (4.)
+
+14.6.-18.6.2021 Sportwoche (3.)
+
+14.5.
+4.6. schulautonome Tage
+
+Pfingsten und Ostern ohne Dienstag.
+
+30.6. Notenschluss: ab hier keine Prüfungen mehr.
+1.7., 16:00 Notenkonferenz
+
+Schulbuch-Aktion: Buchhandlung / Bücher pro Schüler - hui! 
+
+Nachprüfungen: Sevval; Viktoria Schwarz (D)
+
+
+* Berichte und Allfälliges
+Spints neue Verteilung
+
+Julia: IT Koordination; 
+ - Sokrates Direktion
+ - Homepage: Elfi, Heinz
+ - iPads: ich
+
+Google-Classroom / Office365 (?)
+
+
+
+

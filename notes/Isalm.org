@@ -1,0 +1,156 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: Isalm
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+
+* Geschichte
+
+** Eine kurze Einführung in die Glaubenslehre des Islam, von Hamit Duran (Turgi).
+
+Über keine Religion wird in der letzten Zeit so häufig geschrieben, berichtet und diskutiert wie über den Islam. Eine zunehmende Zahl von Artikeln in Zeitungen und Zeitschriften, Berichten und Reportagen in Radio und Fernsehen sowie Dialogveranstaltungen in Kirchgemeinden legen ein beredtes Zeugnis davon ab.
+
+Dazu kommen weltpolitische Ereignisse wie der Golfkrieg, die neue Unabhängigkeit der einstmals sowjetischen mittelasiatischen Republiken und die Krise am Balkan. Gleichzeitig müssen wir Muslime aber feststellen, dass die Unwissenheit über diese Religion weit verbreitet ist. Das mag verschiedene Gründe haben, auf die ich hier aber nicht eingehen möchte, sondern ich möchte in diesem Artikel vielmehr zum allgemeinen Verständnis des Islam beitragen, indem ich die wichtigsten Grundzüge der islamischen Religion zusammenfasse, ohne dabei Anspruch auf Vollständigkeit zu erheben.Zunächst scheint es mir angebracht, die Bedeutung des Wortes «Islam» zu erläutern. Das Wort «Islam» stammt von der arabischen Wurzel «s-l-m» und kann mit Begriffen wie «Hingabe, Ergebenheit, Unterwerfung» umschrieben werden. Das Wort «Salam», das von derselben Wurzel abgeleitet wird, bedeutet soviel wie «Frieden», daher der islamische Gruss «As-Salamu alaikum» – «Der Friede (Gottes) sei mit dir». Ebenfalls von derselben Wortwurzel stammt der Ausdruck «Muslim/Muslima» was jemanden bezeichnet, der sich dem Willen des einzigen Gottes unterworfen hat und deshalb in Frieden mit sich, der Schöpfung und dem Schöpfer lebt.
+
+** Die Glaubensgrundlagen
+
+Grundlage des Islam bildet das sogenannte Glaubensbekenntnis (arab. «Schahada»). Es lautet: «Es gibt keine Gottheit ausser Allah und Muhammad ist Sein Gesandter.» Im ersten Teil dieses Glaubensbekenntnisses wird die Einheit Gottes (arab. «Tauhîd») bezeugt. Nichts kann auf die Stufe Gottes gestellt werden. Er ist die absolute Realität, die alles Sichtbare und Unsichtbare, Lebendige und Leblose aus dem Nichts erschafft und erhält. Gott lässt sich nicht auf die menschliche Ebene begrenzen, Er steht über allen sinnlichen Wahrnehmungen und rationalen Konzepten.
+
+Trotzdem ist Er dem Menschen näher als seine eigene Halsschlagader (vgl. Koran 50:16). Im Bewusstsein dieser Tatsache ist das Leben des Muslims deshalb auf das Erlangen des Wohlgefallen Gottes ausgerichtet.Im zweiten Teil des Glaubensbekenntnisses wird der Glaube an die Prophetenschaft Muhammads (Friede sei mit ihm) zum Ausdruck gebracht. Die prophetische Sendung ist im Islam aber keinesfalls auf ihn beschränkt. Der Koran lehrt, dass sich Gott seit Anbeginn der Menschheit immer wieder den verschiedenen Völkern offenbart hat. Dazu erwählte er besonders edle Menschen als Überbringer Seiner Offenbarung und Seines Gesetzes. Die Propheten sind jedoch ohne Ausnahme Menschen und keine Übermenschen oder gar Götter. Die Muslime glauben an alle Gesandten Gottes und machen «keinen Unterschied zwischen ihnen» (vgl. Koran 2:285). Muhammad ist der letzte, der ihre Reihe abschliesst und ihre früheren Botschaften bestätigt.Die Existenz des Menschen endet nicht mit seinem körperlichen Ableben. Der Tod ist ein natürlicher Übergang vom diesseitigen in das jenseitige Dasein.
+
+Dieses Jenseits ist das eigentliche Ziel jeglicher Handlung des Muslims. Das Leben auf dieser Erde stellt in diesem Sinne eine Prüfung dar, in der die Weichen für das jenseitige Leben gestellt werden. Am «Tage des Gerichts» wird der Mensch für seine Taten von Gott zur Rechenschaft gezogen werden. Niemandem wird dabei nur das geringste Unrecht geschehen: «Wer Gutes im Gewicht eines Stäubchens getan, wird es sehen; und wer Böses im Gewicht eines Stäubchens getan, der wird es ebenfalls sehen.» (Koran 99:8). Am Ende stehen dann das Leben im Paradies oder in der Hölle. Die Barmherzigkeit Gottes wird dabei den aufrichtig Bereuenden zugute kommen. In diesem Zusammenhang ist noch anzumerken, dass der Islam keine Erbsünde kennt. Jeder Mensch wird unschuldig geboren. Erst wenn er das Stadium der eigenen Urteilskraft erreicht hat, d.h. wenn er fähig ist, gut und böse zu unterscheiden, kann er zur Verantwortung für seine Taten gezogen werden. Dabei haben alle Menschen, ob Mann oder Frau, schwarz oder weiss, arm oder reich denselben Stellenwert vor Gott und dem Gesetz. Das einzige, das sie unterscheidet, ist der Grad ihrer Gottesfurcht und ihre Nähe zum Schöpfer (vgl. Koran 49:13).Gott hat die Schöpfung nicht hervorgebracht, um irgendeinen Nutzen daraus zu ziehen, sondern Er schenkt Seinen Geschöpfen durch ihr Dasein die Möglichkeit zur eigenen Entwicklung.
+
+Der Mensch wird im Koran als «Statthalter Gottes» auf Erden bezeichnet (vgl. Koran 2:30). Ihm wurde die Erde zur Verfügung gestellt, um sie sich zunutze zu machen. Er darf dabei aber nicht vergessen, dass ihm die Erde mit all ihrer Flora und Fauna nur für eine bestimmte Zeit zur Verfügung gestellt wurde und er nicht der eigentliche Besitzer ist. Er ist Träger des göttlichen Vertrauenspfandes und infolge seiner Willensfreiheit gegenüber sich und der gesamten Schöpfung verantwortlich. Aus diesem Grundsatz lässt sich die islamische Umweltethik ableiten: da der Mensch nicht der Besitzer der Schöpfung ist, hat er kein Recht dazu, ihr irgendeinen Schaden zuzufügen. Er ist dafür verantwortlich, dass er sie seinem Schöpfer in dem Zustand «übergibt», in der er sie erhalten hat. Wir Muslime glauben, dass die Lösung der immer grösser werdenden Umweltprobleme nur auf dieser Basis befriedigend gelöst werden können.
+
+Wie einige andere Propheten vor ihm erhielt auch Muhammad eine schriftliche Offenbarung, den Koran. Er wurde ihm im Laufe von 23 Jahren schrittweise offenbart und ist Warnung und «Rechtleitung für die Menschen» (vgl. Koran 2:185). Er bestätigt und vollendet alle früheren Heilsbotschaften. Sein Stil in deutlichem Arabisch ist unerreicht und sein Inhalt wurde bis heute unverfälscht überliefert, denn er wurde einerseits zu Lebzeiten des Propheten niedergeschrieben und andererseits von vielen seiner Gefährten auswendig gelernt.
+
+Der Koran ist Gotteslehre, Morallehre und Gesetz in einem. Er wird dabei erläutert und ergänzt durch die «Sunna,» dem vorgelebten Beispiel des Propheten. Wird der Koran unter einem wissenschaftlichen Gesichtspunkt untersucht, so stellt sich heraus, dass er viele Aussagen enthält, die in der damaligen Zeit (vor rund 1400 Jahren) noch vollkommen unbekannt waren und deshalb nicht von einer menschlichen Quelle her stammen können (vgl. z.B. Koran 21:30 über die Entstehung des Universums, Koran 55:33 über die Eroberung des Weltraumes durch den Menschen oder Koran 75:37-38 über die Zeugung und Entwicklung des Menschen in der Gebärmutter).
+
+** Die Glaubenspraxis
+
+Ich möchte nun noch einige Worte über die Glaubenspraxis der Muslime verlieren. An erster Stelle ist hier wohl das Gebet (arab. «Salah») zu erwähnen, welches fünf mal am Tag allein oder in der Gemeinschaft verrichtet werden muss. Ihm gehen Reinigungen voraus, zu welchen in der Regel Wasser verwendet wird. Die Gebetszeiten werden nach dem Sonnenstand bestimmt, wobei es aber heute praktische Gebetskalender für alle Erdteile gibt. Das Gebet selbst besteht aus der Rezitation einzelner Teile des Koran begleitet von Körperhaltungen wie aufrechte Stellung, Verbeugung und Niederwerfung, welche die Hingabe an den Willen Gottes symbolisieren. Der Sinn des Gebets wird vor allem in seiner Schutzfunktion vor üblen Gedanken und Handlungen gesehen (vgl. Koran 29:45). Obwohl die Moschee oder «Masdschid» (d.h. Ort der Niederwerfung) der geeignete Raum für Gebete ist, brauchen sie nicht unbedingt dort verrichtet zu werden, da laut einer prophetischen Überlieferung die ganze Erde als ein Gebetsraum gilt.
+
+An über achtzig Stellen erwähnt der Koran die Armensteuer (arab. «Zakat») zusammen mit der Verpflichtung zum Gebet. Die wohlhabenden Mitglieder der islamischen Gemeinschaft entrichten diese soziale Abgabe an die Bedürftigen, «damit die Reichtümer nicht nur unter denen umlaufen, die schon reich sind» (vgl. Koran 59:7). Die Armen und Bedürftigen haben deshalb ein Anrecht auf diese Zakat, welche einmal jährlich entrichtet werden muss. Natürlich werden dadurch nicht andere, freiwillige Spendenformen ausgeschlossen, sondern sie werden in vielen Stellen des Koran und in den Überlieferungen des Propheten ausdrücklich erwähnt und gefördert.Wie allgemein bekannt, ist den Muslimen im Monat Ramadan das Fasten (arab. «Saum») vorgeschrieben. Es ist eine Übung zur Selbstbeherrschung, Willenskraft und innerer Einkehr. Vom Beginn der Morgendämmerung bis zum Sonnenuntergang enthält sich der Fastende des Essens, Trinkens und geschlechtlichen Verkehrs. Dadurch sollen Körper und Geist gereinigt werden. Der Fastende hält sich fern von üblen Worten, Werken und Gedanken und sucht seine Zuflucht bei Gott in meditativer Versenkung, Gebet und Selbstbesinnung. Daneben fördert das Fasten das Zusammengehörigkeitsgefühl der muslimischen Gemeinde.
+
+Eimal im Jahr versammeln sich Millionen von Muslimen aus der ganzen Welt in Mekka und Umgebung zur Pilgerfahrt (arab. «Hadsch»). In verschiedenen rituellen Handlungen folgen sie den Ursprüngen der islamischen Botschaft: das Umschreiten der von Abraham und Ismael errichteten Kaaba in Mekka, das Verweilen im geschichtsträchtigen Tal von Arafat, die sinnbildliche Steinigung des Satans und das abschliessende Opfer verbinden sie in eindrucksvoller Weise mit der abrahamitischen Tradition des reinen Monotheismus. Die Pilgerfahrt gilt als Symbol der muslimischen Einheit.Im Islam bilden Individuum und Gesellschaft, Religion und Politik, Gesetz und Moral eine Einheit. Der Muslim – ob Mann oder Frau – ist gegenüber sich selbst und seiner Gemeinschaft verantwortlich (vgl. Koran 9:71). Es ist ihm daher von Gott auferlegt worden, Gutes zu gebieten und Schlechtes zu verwehren, soweit dies in seiner Macht steht. Dadurch sollen der Glaube und die Gemeinschaft vor schädlichen Einflüssen bewahrt und die Menschen mit den Inhalten der islamischen Lehre vertraut gemacht werden.
+
+Der «Dschihad» (d.h. Anstrengung oder Bemühung), der oft fälschlicher Weise mit «Heiliger Krieg» (dieser Begriff existiert im islamischen Sprachgebrauch gar nicht!) wiedergegeben wird, spielt dabei eine zentrale Rolle. Der Muslim muss all seine Möglichkeiten ausschöpfen, um diese Ziele zu erreichen.Ich möchte an dieser Stelle noch einmal festhalten, dass ich in diesem Artikel nicht alle Themen erschöpfend behandelt habe und somit keinen Anspruch auf Vollständigkeit erhebe. Trotzdem hoffe ich, dass ich einen Einblick in die Gedanken- und Geisteswelt, welche bei den vielen Diskussionen über den Islam in den Massenmedien leider meist unbeachtet bleibt, vermitteln konnte.
+
+* Koran
+
+* 5 Säulen
+[[https://www.planet-schule.de/wissenspool/islam/inhalt/sendung-die-fuenf-saeulen-des-islam.html]]
+
+** shahada  –  Glaubensbekenntnis
+Es  gibt keinen Gott außer Allah und Mohammed ist sein Prophet
+
+*** Grundlagen
+Das Glaubensbekenntnis (Schahada), ist die Bezeugung, dass es keinen Gott ausser Allah und dass Muhammad der Gesandte Allahs ist. Das Bekenntnis lautet auf arabisch, der Sprache des Qur’an:
+
+Aschhadu an la ilaha illa-llah, wa aschhadu anna Muhammadan rasulu-llah.
+
+Dies bedeutet auf deutsch:
+
+«Ich bezeuge, dass keinen Gott gibt ausser Allah und dass Muhammad der Gesandte Allahs ist.»
+
+Was bedeutet nun das Glaubensbekenntnis für das tägliche Leben eines Muslims?
+
+Die «theoretische» Seite des Satzes La ilaha illa-llah – «Es gibt kein Gott ausser Allah» – wurde bereits umrissen. Wie dargelegt, ergibt sich aus ihm als oberstes islamisches Gebot, dass Allah (t) nichts gleichgesetzt werden darf; denn dies wäre Schirk. Dieses Wort bedeutet nun keineswegs nur die Anbetung von Götzen im ursprünglichen Sinne des Wortes. Zu den Erscheinungsformen des Schirk gehören zum Beispiel auch – gerade in unserer Zeit – die an Anbetung grenzende Verehrung von Idolen, die Erhebung des Konsums zum Götzen, indem man infolge übermässigem Strebens nach materiellen Gütern Allah und Seine Gebote vergisst, oder die Vergötterung anderer Menschen. Letzteres ist immer dann der Fall, wenn man – aufgrund welcher Motive auch immer – Lehren und Gesetzen von Menschen folgt, die nicht mit den göttlichen übereinstimmen. Wer die Schahada mit Überzeugung ausspricht, schliesst im Grunde genommen einen Vertrag mit Allah: Er verpflichtet sich, Ihm allein zu dienen, Ihm allein gehorsam zu sein und die von Ihm auferlegten Pflichten zu erfüllen, und zwar – dies beinhaltet der zweite Teil des islamischen Glaubensbekenntnis – in der Art und Weise, wie es der Prophet Muhammad, Allahs Segen und Friede auf ihm, gelehrt hat. Dafür verspricht Allah (t) ihm gewaltigen Lohn: Seine Rechtleitung im Diesseits und das Paradies im Jenseits.
+
+Ist der Mensch tatsächlich zweifelsfrei von der Wahrheit des Satzes La ilaha illa-llah überzeugt, bestimmt dies seine gesamte Lebenseinstellung, sein Fühlen. Denken und Handeln:
+
+    - Es gibt ihm ein Höchstmass an Selbstvertrauen und Selbstachtung. Denn er weiss, dass Allah allein der Besitzer aller Macht ist und dass niemand ausser Ihm dem Menschen schaden oder nützen, für seine Bedürfnisse aufkommen oder irgendeine Art von Einfluss ausüben kann. Diese Überzeugung macht ihn unabhängig, furchtlos und gleichgültig gegenüber allen anderen Kräften als denen Allahs.
+      
+    - Zugleich mit der Selbstachtung bewirkt dieser Glaube aber auch Bescheidenheit und Demut und macht den Menschen anspruchslos und bescheiden. Denn er weiss, dass alles, was er besitzt – sei es materiell oder immateriell -, ein Geschenk Allahs ist, das Er ihm genauso wieder nehmen kann. Mit diesem Bewusstsein sind Stolz oder Überheblichkeit unvereinbar.
+      
+    - Die Überzeugung, dass materieller Besitz, Ehre, Macht, Ansehen usw. von Allah verliehen werden, befreit den Menschen von Habgier,  Eifersucht und Neid. Und der Gehorsam Allah (t) gegenüber, indem er die von Allah gesteckten Grenzen einhält, bewahrt den Menschen davor zum Sklaven seiner persönlichen Neigungen, Begierden und seines Egoismus schlechthin zu werden.
+      
+    - Dieser Glaube macht den Menschen aufrichtig und rechtschaffen. Denn er weiss, dass er jede Sekunde seines Lebens unter der Aufsicht Allahs steht, dass er sich einmal vor Ihm für seine Taten verantworten muss und dass der einzige Weg zum Erfolg in der Befolgung der göttlichen Gebote liegt. Letzteres verleiht ihm grosse Entschlossenheit, Standhaftigkeit und Ausdauer, auch wenn die Schwierigkeiten, die seinem Ziel entgegenstehen, unüberwindlich erscheinen. Denn er ist sich sicher, dass Allah (t), der Herr des Universums, ihn bei Taten, die Seinem Willen entsprechen, unterstützen wird.
+      
+    - Die Überzeugung von Allahs Allmacht und unermesslicher Gnade gibt dem Menschen festes Vertrauen in Allah (t), das ihn in keiner Situation mutlos werden oder gar verzweifeln lässt. Auch unter den widrigsten Umständen gibt ihm dieses Vertrauen Trost und Hoffnung, befreit ihn von Existenz- und Zukunftsangst und erfüllt ihn mit tiefer Zufriedenheit.
+
+*** Zusammenfassung
+Das Glaubensbekenntnis lautet "La ilaha illa Allah wa Muhammad rasul Allah". Das heißt soviel wie "Es gibt keinen Gott außer Allah und Mohammed ist sein Gesandter". Das Bekenntnis soll mit Überzeugung aufgesagt werden, um das Zugehörigkeitsgefühl zum Islam deutlich zu machen.
+
+Das öffentliche Aussprechen der Formel bildet die erste Säule. Außerdem ist sie fester Bestandteil jedes rituellen Gebetes. Man nennt das Glaubensbekenntnis auch "shahada".
+
+** salat – Gebet
+Rituelle Waschungen, Gebet fünf Mal am Tag in Richtung Mekka
+
+*** Grundlagen
+Das Gebet ist nach dem Glaubensbekenntnis die wichtigste Pflicht eines Muslims. Der Prophet Muhammad, Allahs Segen und Friede auf ihm, hat gesagt: “Das Gebet ist der tragende Pfeiler des Glaubens. Wer es verrichtet hält den Glauben aufrecht, und wer es verlässt, verlässt den Glauben.” Wesentlicher Bestandteil des Gebets ist die Rezitation der Sura Al-Fatiha, der ersten Sura des Qur’an. Sie lautet in deutscher Übersetzung:
+
+«Im Namen Allahs, des Allerbarmers, des Barmherzigen!
+Alles Lob gebührt Allah, dem Herrn der Welten, dem Allerbarmer, dem Barmherzigen, dem Herrscher am Tage des Gerichts! Dir (allein) dienen wir, und Dich (allein) bitten wir um Hilfe. Führe uns den geraden Weg, den Weg derer, denen Du Gnade erwiesen hast, nicht (den Weg) derer, die (Deinen) Zorn erregt haben, und nicht (den Weg) der Irregehenden.»
+
+Durch das Gebet bringt der Muslim nicht nur seine Verehrung für Allah (t) zum Ausdruck, sondern auch seinen Gehorsam Ihm gegenüber, indem er damit eine ihm von Allah auferlegte Pflicht erfüllt. Dabei sei ausdrücklich betont, dass Allah, der absolut Unabhängige, nicht im geringsten auf unsere Gebete und unseren Gehorsam angewiesen ist. Vielmehr legt es einzig und allein im ureigenen Interesse des Menschen, die ihm gebotene Chance zu nutzen und die ihm durch die göttlichen Gesetze gebotene “Richtschnur” für dieses irdische Leben zu ergreifen. So liegt auch die Bedeutung des Gebets im Nutzen für den Menschen: Er ruft sich dabei fünfmal am Tag das wichtige seines Glaubens in Erinnerung, und dies hilft ihm, niemals den Sinn und das Ziel seines Lebens aus den Augen zu verlieren. So wird das Gebet für ihn zu einer Quelle der Kraft und Zufriedenheit und zu einem Bollwerk gegen die Stürme des Alltags. Beim Gemeinschaftsgebet in der Moschee kommt in besonders eindrucksvoller Weise die Gleichheit der Betenden vor Allah zum Ausdruck: Niemand nimmt aufgrund seiner sozialen Position, seiner Nationalität, seiner Hautfarbe oder aufgrund welcher Unterscheidungsmerkmale auch immer eine Sonderstellung ein. Einer der Betenden übernimmt die Aufgabe des Vorbeters (Imam), die anderen stehen in Reihen hinter ihm. Sie stehen Fuss an Fuss, Schulter an Schulter; sie verneigen sich gleichzeitig und werfen sich gleichzeitig in Anbetung nieder vor Allah, ihrem gemeinsamen Herrn. Wie das zuletzt Gesagte schon andeutet, gibt es im Islam keine “Priesterschaft”, kein Mönchtum, keinen Papst und keine “Kirchen-Hierarchie”. Vorbeter kann jeder erwachsene Muslim sein, der Über das nötige Wissen verfügt, um das Gebet leiten zu können.
+
+*** Zusammenfassung
+Fünfmal sollte ein Moslem am Tag beten. Vor Sonnenaufgang, am frühen Vormittag, am Mittag, vor Sonnenuntergang und vor Mitternacht. Es ist aber in Ausnahmefällen, zum Beispiel auf Reisen, gestattet, das Mittags- und das Nachmittagsgebet sowie das Abend- und Nachtgebet zusammenzulegen, sodass nur dreimal täglich gebetet werden muss.
+
+Muslime beten in Richtung Mekka, wobei jedes Gebet nicht länger als ein paar Minuten dauert. Man macht bestimmte Bewegungen dazu wie sich verbeugen, stehen, sitzen oder sich niederwerfen. Bei der für das islamische Gebet rituellen Reinigung ("Wudu") wäscht man sich unter anderem das Gesicht, die Hände und die Füße.
+
+** zakat – Armensteuer
+Prozentual nach dem Vermögen, dazu noch Almosen
+
+*** Grundlagen
+Jeder Muslim, dessen Vermögen ein bestimmtes Minimum übersteigt, ist verpflichtet, zumindest 2,5% seines Vermögens pro Jahr abzugeben. Diese Abgabe wird Zakat genannt und den Bedürftigen zur Verfügung gestellt oder für Zwecke verwendet, die der gesamten Gemeinschaft nützlich sind. Die Zwecke, für die Zakat-Gelder verwendet werden dürfen, sind im Qur’an genauso festgelegt.
+
+Der materielle Nutzen dieser religiösen Pflicht für die Gemeinschaft ist offensichtlich. Darüber hinaus hat sie die Bedeutung für die Glaubenshaltung des einzelnen. Denn diese Abgabe soll einzig und allein aus Pflichtgefühl gegenüber Allah (t) gezahlt werden, nicht, um als grosszügiger Spender dazustehen, Dank zu erwarten oder gar andere in seiner Schuld zu wissen. Wie Beten und Fasten ist der Verzicht auf einen kleinen Teil seines materiellen Besitzes für den einzelnen ein Mittel zur seelischen Läuterung; denn es hilft ihm, sich von Habgier, Eigenliebe und Gewinnsucht zu befreien. Es macht ihm deutlich, dass er nicht das Recht hat, sein gesamtes Hab und Gut für die eigene Bequemlichkeit auszugeben, während andere Menschen nicht einmal über das Existenzminimum verfügen. Vielmehr haben solche Menschen einen Rechtsanspruch darauf, von ihm, dem von Allah materiell Bessergestellten, unterstützt zu werden. So stärkt die Pflicht zur Vermögensabgabe das Verantwortungsgefühl, insbesondere gegenüber den hilfsbedürftigen Mitgliedern der Gemeinschaft und die Solidarität ihnen gegenüber.
+
+*** Zusammenfassung
+Eine der fünf Säulen des Islam ist die Unterstützung der Bedürftigen, auch "Zakat" genannt. Muslime, die nicht selbst hoch verschuldet sind oder unter dem Existenzminimum leben, sollen in der Regel 2,5 Prozent ihres "ruhenden Netto-Kapitalvermögens" spenden.
+
+Als ruhendes Vermögen gelten unter anderem Bargeld, Schmuck und Mieterträge. Ein Muslim muss mindestens ein Mondjahr lang im Besitz dieses Vermögens sein. Je nach Besitztümer (Bodenschätze, Tiere, landwirtschaftliche Produkte) ergibt sich eine unterschiedliche Höhe der "Zakat".
+
+Die soziale Pflichtabgabe soll in erster Linie an arme Menschen gehen, kann aber auch zum Beispiel als Werbung für den Islam verwendet werden. Die Spende fördert die soziale Sicherheit und das Gemeinschaftsgefühl zwischen den Menschen. Sie ist ein wichtiger Bestandteil jeder islamischen Gesellschaft, da sie jedem Menschen die Lebensgrundlage sichert, ohne dass sich der Empfänger jemandem verpflichtet fühlen muss. Die Spende wird gleichzeitig als eine Art Reinigung angesehen.
+
+** sawm – Fasten
+Während des Fastenmonats Ramadan tagsüber
+
+*** Grundlagen
+Das Fasten im Monat Ramadan ist die Glaubenspflicht der Muslime.
+
+Fasten bedeutet volle Enthaltsamkeit in Bezug auf körperliche Bedürfnisse von der Morgendämmerung bis zum Sonnenuntergang, und in dem man dies tut, bezeugt man, dass Allahs Gesetze Vorrang vor unseren Menschlichen Treiben haben. Dies – der Gehorsam Allah gegen über, indem man eine von Ihm auferlegte Pflicht erfüllt – ist der eigentliche Zweck des Fastens.
+
+Daneben hat das Fasten vielfältigen Nutzen: U.a. lehrt es Selbstbeherrschung, befreit aus der Abhängigkeit von der Macht der Gewohnheit und lässt den Menschen stattdessen anpassungsfähig in seinen Gewohnheiten werden. Es erweckt bei denen, die gewohnt sind, in Wohlstand und Überfluss zu leben, Verständnis und Mitgefühl für jene, für die Hunger und Durst alltäglich sind. Und es lehrt den Fastenden, dass seine Kraft nicht allein von warmen Mahlzeiten abhängt, sondern auch von innerer Stärke durch Rückbesinnung auf seelische Kräfte.
+
+Es ist Selbstverständlich, dass man sich während des Fastens bemüht, auch die anderen islamischen Normen besonders sorgfältig einzuhalten, und so lehrt das Fasten das Pflichtbewusstsein und die Geduld, die helden, auch in der übrigen Zeit des Jahres das Lebenganz auf die Unterwerfung unter den Willen Allahs auszurichten.
+
+Nach Beendigung des Monats Ramadan feiert die islamiche Welt das Fest des Fastenbrechens (‘Idu-l-fitr).
+
+Wer im Monat Ramadan aus bestimmten Gründen nicht fasten darf, kann die versaümten Tage später nachholen.
+
+*** Zusammenfassung
+Etwa 30 Tage soll ein Muslim während des Monats Ramadan fasten. Der Ramadan hat für Muslime eine besondere Bedeutung: In diesem Monat ist der Koran als Rechtleitung für die Menschen herabgesandt worden; dieser Zeitraum soll als ein Monat der inneren Einkehr und Besinnung für jeden einzelnen Muslim verstanden werden. Von Tagesanbruch bis Sonnenuntergang ist es zum Beispiel verboten zu essen, zu trinken, zu rauchen oder Geschlechtsverkehr zu haben.
+
+Die Dattel ist meist das erste Nahrungsmittel nach Sonnenuntergang.
+
+Der Ramadan ist der neunte Monat des islamischen Kalenders. Dieser richtet sich nach dem Mond. Er ist pro Jahr zehn oder elf Tage kürzer als der Sonnenkalender, deshalb findet der Ramadan jedes Jahr zu einer anderen Zeit statt. Das tägliche Fasten beginnt, so steht es im Koran, sobald man in der Morgendämmerung einen weißen von einem schwarzen Faden unterscheiden kann.
+
+Kranke Menschen, stillende Frauen und Reisende sind zum Beispiel vom Fasten befreit, sollten es aber später nachholen. Kleine Kinder fasten in der Regel auch nicht. Am Ende des Ramadans wird das Zuckerfest gefeiert, eines der zwei wichtigsten Feste im Islam.
+
+** hadj – Pilgerreise
+Einmal im Leben zur Kaa-ba in Mekka
+
+*** Grundlagen
+Die Pilgerfahrt zur Ka’ba in Makka ist jedem Muslim zumindest einmal im Leben zur Pflicht gemacht, sofern er die finanziellen Mittel dafür aufbringen kann und die Gesundheit und die Kraft dazu hat.
+
+Die Reise zum «Haus Allahs» und zur Stätte des Glaubensvaters Abraham darf nicht zum reinen “Höflichkeitsbesuch” degradiert werden. Deshalb ist auch die Pilgerfahrt an feste Riten und Voraussetzungen gebunden, deren Erfüllung dem  Muslim hilft, das religiöse Bewusstsein zu erreichen, das der Bedeutung dieser Reise angemessen ist.
+
+Auf der Pilgerfahrt treffen die Muslime mit Glaubensbrüdern und -schwestern aus aller Welt zusammen und erleben das Gefühl einer internationalen Bruderschaft. Unabhängig on dem Rang, den sie in der Welt einnehmen, und on ihrer geographischen Herkunft usw. sind alle gleich bekleidet. Denn vor Allah sind sie alle gleich – das einzige Unterscheidungsmerkmal für Ihn ist die Aufrichtigkeit des Herzens und die Frömmigkeit des einzelnen Menschen. Diese Erlebnisse sollten die Pilgerfahrt für den Muslim zu einem unauslöschlichen Eindruck werden lassen und ihn in seinem Glauben bestärken.
+
+Zum Abschluss der Pilgerzeit feiern die Muslime ihr Opferfest (‘Idu-l-adha). 
+
+*** Zusammenfassung
+Einmal im Leben sollten Muslime eine Pilgerfahrt nach Mekka unternehmen, wenn sie dazu körperlich und finanziell in der Lage sind. Jedes Jahr im zwölften Monat des islamischen Kalenders treffen sich bis zu drei Millionen Muslime in Mekka und umrunden gemeinsam sieben Mal die Kaaba, ein wichtiges Heiligtum des Islam. Die Muslime glauben, dass dies ein Rest des ursprünglichen Tempels ist. Gott, so die Überlieferung, befahl Abraham und seinem Sohn Ismael die Kaaba zu bauen.
+
+Die Männer tragen während der Pilgerfahrt besonders einfache Kleidung, um soziale Unterschiede nicht zu zeigen. Alle sollen vor Gott gleich sein. Die Pilgerfahrt nennt man Hadsch. Hadschi ist der Ehrentitel für Moslems, die die Reise absolviert haben. Das Ende der Pilgerfahrt wird im großen Stil gefeiert. Es ist das wichtigste Fest im Islam.

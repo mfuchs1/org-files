@@ -1,0 +1,57 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Kogler.2008}{collection}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=e292ab0b8512f7a6d6e52d8a967dc0c9}{%
+           family={\textsc{Kogler}},
+           familyi={K\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Freiburg im Breisgau}%
+      }
+      \list{publisher}{1}{%
+        {Herder Verlag GmbH}%
+      }
+      \strng{namehash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \strng{fullhash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \strng{bibnamehash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \strng{editorbibnamehash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \strng{editornamehash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \strng{editorfullhash}{e292ab0b8512f7a6d6e52d8a967dc0c9}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783451321504}
+      \field{title}{{Herders Neues Bibellexikon}}
+      \field{year}{2008}
+      \keyw{Bibel; Bible; Dictionaries; German; Wörterbuch}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

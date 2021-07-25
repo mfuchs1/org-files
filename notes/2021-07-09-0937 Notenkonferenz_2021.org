@@ -1,0 +1,131 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+OPTIONS: broken-links:t
+#+FILETAGS: hide
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: Notenkonferenz_2021
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Begrüßung
+Großer Dank für großartige Leistung aller. Besonders für die tolle Unterstützung für mich (Birgit). Speziell DANKE an Elfi und Christoph. 
+
+* Covid Maßnahmen
+Schulschlussfeier:
+
+ - Testkit / Lesezeichen für jeden Schüler
+ - Testkontrolle durch MS und GV
+ - Danke für Aufwand
+
+* Personelles
+Bernhard Moser kommt zu uns mit 22 Stunden
+
+Lehrfächerverteilung: war sehr schwierig; die meisten Wünsche wurden berücksichtigt.
+Shared Leadership: Aufgaben verteilen / delegieren. 
+Mitarbeitergespräche geplant
+Stundenplan bauen: EP, CR, CV, BM
+KVs 1. Klassen: 1a Bernhard Moser; 1b Wolfi; 1c Daniela
+
+Erstellung eines Schulprofils
+
+* Amtlicher Posteingang
+IKM verpflichtend, 7. Schulstufe
+
+QMs und siQe
+
+MINT-Schwerpunktklasse - Schulversuch 2022/2023, ein Jahr Vorbereitung. 
+
+PH-Fortbildung; 8 Punkte Plan; MINT? 
+
+Internetsicherheit / Recht auf eigenes Bild: Workshops durch Polizei. 
+
+Wg. Kommunikation: jeden Monat eine Konferenz (2. Woche); Terminkalender (analog und digital). 
+
+* Notenkonferenz
+Problematik mit AO-Schülern: erhalten Schulbesuchsbestätigung - bei einem Nicht Beurteilt muss der Schüler die Klasse wiederholen. Bei einem Nicht Genügend - darüber abstimmen. 
+
+AO Schüler: Mahmud, Ivana, Maria, Patricia, Kevin, (?). 
+
+Ivana und Maria: alle Lehrer müss(t)en ihr ein NG eintragen. Ist aber sehr riskant ... oder: sie bleiben alle sitzen? Am besten wäre es wohl, wenn wir uns klar ans Gesetz halten - Bsp.: Christoph (hätte in der 1. Klasse schon wiederholen sollen). 
+
+Patricia ist ein besonders schwieriger Fall: sie muss bei uns in die Schule gehen; sie ist 13J; kann sie überhaupt in eine Regelschule gehen? Ohne Attest bei uns. Bleibt sie sitzen? P. verweigert die Schule ... sie müsste eigentlich in die Psychiatrie, es gibt aber keinen Platz. Dieser Fall ist für uns als Schule zu schwer - welche übergeordnete Stelle kann uns helfen? 
+
+Einen Platz in einer Heilstättenschule ist so schwierig.
+
+AO Schüler darf man benoten, wenn man sie benoten kann. Aber ein AO Schüler kann eigentlich nix zum Unterricht beitragen (weil er die dt. Sprache nicht beherrscht). 
+
+** Klassen
+1a:
+ - Mahmud: bleibt auf jeden Fall sitzen
+ - Ivana: mangelhaft
+ - Mahmud: NG - Mathematik
+ - WZ: Daniel (Lügen, Unterschrift fälschen, ...); Mahmud (Weglaufen).
+
+1b:
+ - keine NG
+ - NZ: Marcus
+ - WZ: Leon benötigt auch in der Pause Aufsicht ...
+
+1c:
+ - kein NG
+ - Zlatko: große Mängel in Deutsch; faul; ...
+
+2a:
+ - NG: ein Schüler in D
+ - WZ: alle wg der Handy-Sache - Lara, Emily, Benjamin, Milos, ...
+
+2b:
+ - NG: 5x Safia
+
+3a:
+ - NG: 5x Fabio; geht ins Poly
+ - NG: Viktoria in Englisch
+ - Shevval: Nicht Beurteilt ... daher eine Prüfung - positiv: darf aufsteigen. Sie will kein Poly ... Schließt sie die Schule bei uns ab? S. kommt und geht, wie sie will. Dh. eigentlich passiert gar nix! 8. Schuljahr, keine VH Note. Welche Konsequenzen? Viele unentschuldigte Schultage (!); 3x hintereinander - fast 400 Euro. prinzipiell tut die Schülerin, was sie will. Mutter noch einmal ins Gewissen reden.
+
+   Ansuchen auf ein freiwilliges 10. Schuljahr (Formular); Zustimmen: Gemeinde, Schulbehörde, ... Wenn Shevval nicht ansucht, MUSS sie ins Poly gehen.
+
+3b:
+ - NG: 3x Dalal D,M,E
+
+4a:
+ - Colin: nur Genügend (weil - er "hat ja brav mitgrarbeitet!")
+
+4b:
+ - kein NG
+ - Kevin, AO: kommt nicht ins Poly.
+
+4c:
+ - NG: ein Schüler in Deutsch (Christoph)
+
+Bei Schulverweigerer hat man als Schule keine Handhabe, v.a. weil z.B. Colin immer ein ärztliches Attest vorlegen konnte. 
+Protokolle bitte ausfüllen
+
+* Allfälliges
+Keine Berichte
+Unterwegs (Di und Mi); ...
+
+** Donnerstag
+Schulgottesdienst + mit Eltern
+Entlassung nach dem Gottesdienst
+anschließend Abschlussfeier 4. Klassen
+12:00 Essen beim Abfalter
+
+** Freitag
+Erste Stunde KV
+9h30 Abschlusskonferenz
+
+Besprechungen wie Lfv sind vor Fixierung an die Eltern gekommen - es gab Aufregungen von Seiten der Eltern; eigentlich (!) Dienstrechtsverletzung / Geheimhaltungspflicht. So eine G'schicht ist am Schulschluss nicht gerade super. Als Elternvertreter bist du Sprachrohr der Eltern. (...)
+
+Bei Anfragen ist die beste Antwort: "Wissen wir noch nicht - wird erst im Herbst entschieden!" Welcher Lehrer welche Klasse unterrichtet - geht weder Schüler noch Eltern etwas an. Eltern können sich nicht Eltern und KVs aussuchen.
+
+**** Cathrin
+Lehrfächerverteilung - Beschwerden kommen aus einem bestimmten Eck wg meiner Mithilfe.
+Birgit / vollste Unterstützung: 8 Stunden frei ... Hatte keine Entscheidungsgewalt; ... 
+Meine Vorschläge wurden entweder umgesetzt oder eben nicht. Mein Engagement ist kein Wichtigmachen; bei welchen L wird Engagement akzeptiert?
+
+Dank von Irina. Gertraud: Oft ein Problem der Kommunikation - vieles geht zu schnell; war bei Sepp nicht anders, was nicht besser war. Aus diesen Fehlern müssen wir lernen, daher die regelmäßige Konferenz. Fixe Helfer z.B. Lfv? Dann ist's von vornherein klar, oder? Aber: wir haben doch klare Kommunkationskanäle, ja? *MS Teams / Konferenzzimmer* Vage Informationen bergen Konfliktpotenzial. 

@@ -1,0 +1,11 @@
+#+title: 2021-03-07
+* School notes
+Hier mein erster Eintrag zur Schuke
+** Hier mein erster Eintrag [org-roam-dailies / Schule]
+Das könnten z.B. Notizen zu Stunden, Schülern, u.ä. sein.
+
+* Journal
+** Mein erster Eintrag in org-roam-dailies [journal]
+Dieses "Ding" kann mir in meiner täglichen Arbeit nützlich werden. Es gibt ja noch die Möglichkeit über org-capture einen Tagebuch-Eintarg zu schreiben. Das ergibt ein großes org-file. Die Einträge sind nach Jahr, Monat, Tag, ... strukturiert.
+
+Wie dies hier aussehen wird - weiß ich noch nicht. 

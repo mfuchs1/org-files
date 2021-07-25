@@ -1,0 +1,15 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TITLE: index_zetteldeft
+
+* Wie organizere ich meine Notizen?
+
+Ich verwende Deft / Zetteldeft.
+Zetteldeft hat zum Unterschied zu Deft die Möglichkeit, die Notizen durch Links miteinander zu verbinden. Org-mode verwende ich für die Stundenvorbereitung und -planung. In org-mode kann ich natürlich auch Notizen zu einzelnen Stunden machen. Dafür verwende ich aber eigentlich org-capture, um Aufzeichnungen zu Schüler (Mitarbeit, Heft, Verhalten) festzuhalten. 
+
+Das bedeutet, dass ich für alles übrige ambesten Zetteldeft verwende werde.
+
+org-brain organisiert die verschiedensten Notizen.
+

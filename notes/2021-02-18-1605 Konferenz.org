@@ -1,0 +1,83 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+TITLE: Konferenz
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+Konferenz
+
+* Begrüßung
+Yunus stellt stellt sich vor: geboren in NÖ, türkischer Hintergrund; kann Türkisch. 27 Jahre alt, verheiratet.
+
+* Neues IT-System
+Teacher Assistent
+
+MS Teams / neues System: wird von der Bildungsdirektion empfohlen. Bitte nicht mehr darüber diskutieren oder das neue System grundsätzlich in Frage stellen. Wir müssen uns (eben) darauf einstellen und ab jetzt damit arbeiten. 
+
+* Personelles
+Wer kann jene S betreuen, die Distance Learning in der Schule?
+Es gibt drei erste Klassen: Wolfi / Manu Singer / ein KV wird noch gesucht.
+
+* Schularbeiten
+Welche Möglichkeiten gibt es?
+
+1. im Schichtbetrieb (sehr aufwändig; Schummeln möglich)
+2. am selben Tag (die andere Gruppe kommt extra in die Schule und wird getestet)
+3. bitte nicht am Freitag!
+
+Bei der 2. Möglichkeit braucht es getrennte Räume. Daher nicht alle 4. Klassen am selben Tag Schularbeit ansetzen, sonst braucht es sehr viele freie Räume. 
+
+* Corona Tests
+Warum (nicht) in der Klasse? So wie es jetzt ist: zu viel Stress, viele kommen zu spät, ...
+
+Dh. der Lehrer der ersten Stunde ist am Montag und Mittwoch 10 Minuten vor Unterrichtsbeginn in der Klasse.
+
+* Sommerschule 2021
+D und M
+Unterricht von Studenten der Pädak.
+
+Auch für I-Kinder? Noch nicht geklärt. Das ist keine Sommerbetreuung / kein Sommer Camp.
+
+* SQA heißt jetzt QMS (juhuu)
+
+* AO Kinder
+Sie realisieren noch nicht, dass sie in allen Fächern etwas zu leisten zu haben: Geografie / Geschichte / Religion / ... Sie lernen Deutsch in allen Fächern.
+
+* Pädak
+Fortbildungen ab jetzt online
+
+* Schuljahr 2021 / 2022
+Voraussätzlich 3 Klassen
+
+* Fachkoordiantionen Mathematik / Englisch
+* Schülerberater
+werden bald vakant
+
+* Schulbuch
+Kollegin Weiß (Abtenau) wird sich noch melden.
+
+Ab 5.4.2021 wird die Stelle neu ausgeschrieben - Birgit erfuhr erst über Facebook darüber. Sie muss das Hearing neu machen. 
+
+* Umstellung im IT Bereich
+Die Umstellung hat (für mich) toll funktioniert.
+Der nächste Schritt: jeder Schüler bekommt einen Schul-Account im Office365. 
+Zum Unterrichtende den PC abschalten / oder alle PCs werden um 18h00 Uhr automatisch abgeschaltet.
+
+Zusätzlich zu Julia sollte noch jemand den Server / das IT System betreuen betreuen: ich habe mich gemeldet.
+
+* Allfälliges
+4A: zwei Schüler (Simon und Gabriel) bleiben Zuhause - weil Wattestäbchen kontaminiert seien! Nein, keine Videoaufzeichnung des Unterrichts, bitte. Die Schüler bekommen das Material.
+
+2B: Gabriel Siller - Schüler geht zur Nachbarin, fotografiert die HÜ und macht alles nach; schließlich sind sie 7 Personen Zuhause. Hier gibt's keine Probleme.
+
+3B: Jakob Mayr bleibt Zuhause.
+
+Freitag: Videokonferenz erste Stunde 1B
+
+Viele Eltern sind unmutig über die Gruppeneinteilung; da rennen sie bei uns L offene Türen ein. Bitte diesen Unmut bei der Bildungsdirektion abgeben. Jene Schüler, die Zuhause bleiben: wie legen sie ihre Prüfungen ab? Wie kann ich sie als L bewerten? Hat der S seine Aufgaben wirklich alleine gemacht.
+
+Lehrer-Demo? 
+
+1B: Leon ist "ziemlich gut drauf"; zu zweit aufs Klo, einer muss kontrollieren (am Besten in allen Klassen). Pausenaufsicht 2. Stock sehr genau nehmen. 

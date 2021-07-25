@@ -1,0 +1,25 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+FILETAGS: hide
+#+OPTIONS: broken-links:t
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
+#+SETUPFILE: ~/org/latex_setup.org
+#+TITLE: Avorion
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+Mein Schiff wurde gestern zerstört. Es hat nur vier Slots - das ist ist echt nicht viel. In den ersten Sektoren stellt das kein Problem dar. Aber auch eines meiner Schiffe mit sechs Slots wurde mind. zweimal zerstört.
+
+* Welche Waffen?
+Zu Beginn genügen Maschinenkanonen (va jene mit hohem DPS Wert). Später sind Railguns sehr stark. Plasma-Kanonen fügen großen Schaden den Schilden zu. Ein guter Mix aus Plasma und Bolter / Kanonen / Railguns. Was ist DPS = damage per second.
+
+
+
+* Mehr Slots?
+Mehr Volumen, Computer-Kerne. Vielleicht schaffe ich's, einen Computer-Kern einzubauen. Oder ich baue mir ein eigenes Schiff? Vorbild z.B. der Lego Galaxy Explorer.
+
+Am PC habe ich ich ein rotes, elegantes Schiff gespeichert. Das könnte mir als Vorbild dienen. Ein Schiff mit eher flachen, dünnen Flügeln ist nicht ideal - es mangelt an Volumen. Eher ein massives Schiff bauen, das ich erweitern kann. 
