@@ -1,16 +1,5 @@
  
 
-* Essen
-:PROPERTIES:
-:ETag:     "3250720426109000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6srj2dpo70r3ab9ncks3eb9kc4rjebb16lhmabb668q64dhl6ksmaob2c4/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2021-06-25 Fr 19:00-20:00>
-:END:
-
 * Gabriel abholen - MacDonald
 :PROPERTIES:
 :ETag:     "3252163276554000"
@@ -33,4 +22,16 @@ Anschließend vom Maci Isabelle im Coq abholen
 :END:
 :org-gcal:
 <2021-08-11 Mi 18:30-21:30>
+:END:
+
+* Treffen KPH
+:PROPERTIES:
+:ETag:     "3254969531118000"
+:LOCATION: Bierheuriger - im Eder, Gaisbergstraße 20, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 75gj8or2cdj62b9l6gp30b9k65i3cb9p69j32bb568s38d3670rj6c3164/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-07-29 Do 12:00-13:00>
 :END:
