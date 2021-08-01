@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fee5a6cf-bc05-4fc5-bbb7-f702bc2fc9c7
+:END:
+#+title: Neue Notiz
+
+Juhu, das klappt.
