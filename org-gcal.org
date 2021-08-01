@@ -35,3 +35,42 @@ Anschließend vom Maci Isabelle im Coq abholen
 :org-gcal:
 <2021-07-29 Do 12:00-13:00>
 :END:
+* Lesen 
+:PROPERTIES:
+:ETag:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:END:
+:org-gcal:
+<2021-08-01 So 23:00>
+:END:
+* Beten 
+:PROPERTIES:
+:ETag:
+:calendar-id: matthiasfuchs01@gmail.com
+:ID:
+:org-gcal-managed: org
+:END:
+:org-gcal:
+<2021-08-01 So 23:15>
+:END:
+* Lesen 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3255701992366000"
+:entry-id: 9ukabigk9t7sl7j2atfslj2gkk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-01 So 23:30>
+:END:
+* Arbeit 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3255702205214000"
+:entry-id: b0a8npjnq31rj5v3mfsnphvr54/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-02 Mo 08:00-09:00>
+:END:
