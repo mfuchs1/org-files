@@ -7,7 +7,7 @@
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+SETUPFILE: ~/org/latex_setup.org
+#+SETUPFILE: ~/org/config/latex_setup.org
 #+TITLE: 01_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
@@ -99,6 +99,8 @@ Beispiel:
 [[https://www.reli.ch/schuhe-mit-alltagsgegenstaenden-religion-lernen/]]
 
 Nach den obigen Texten aus dem Lehrplan - die ich den Schülern durchaus vorlesen kann -, stehen sowohl Jesus Christus als auch die Schüler in der Mitte des RU. Welche religiöse Erfahrungen, welches religiöse Wissen bringen die Schüler mit? Was ist ihnen neu? Wie können wir unsere Erfahrungen im Lichte des Evangeliums deuten? Gott offenbart sich in Jesus Christus.
+
+[[id:734cb1fc-3d8f-4cb1-b937-e0f9707a34b1][Kompendium der soziallehre der kirche]]
 
 [Ich weiß nicht, wieviel die Schüler (in allen Klassen) von der aktuellen Krise innerhalb der katholischen Kirche mitbekommen. Ein unfassbares Skandal in der katholischen Kirche in den USA, Täter waren Priester, Ordensleute und Bischöfe (?); Vertuschung durch Priester und Bischöfe; Papst Franziskus hat(te) unter seinen Beratern Kardinal McCarrick, der von dem Skandal wusste, selbst Täter war(?); Papst B16 erlegte McCarrick Sanktionen auf; Papst Franziskus hob diese wieder auf; etc ... Es ist keine Krise des Vertrauens, sondern des Glaubens. Der Papst ist auch dann der Papst, wenn er ein grottenschlechter Papst ist.]
 
@@ -796,14 +798,13 @@ DEADLINE: <2022-01-07 Fr>
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:40]
 :END:
 
-**** Ziele LP 2000
-[[#07]] Weihnachtsfestkreis
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 
-**** Kompetenzen
-[[#7a]] [[#7b]] [[#7c]] Was bedeutet Weihnachten? / Advent- und Weihnachtsgeschichten vorlesen (Eltern fragen)
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]] vielfältige Zugänge zum Feiern von Weihnachten 
 
 **** Wiederholung
 
@@ -843,9 +844,9 @@ Ein Suchsel zum Thema:
 *** TODO [SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?
 DEADLINE: <2021-01-11 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: sterndeuter
-:ID:       01_SW18
-    :END:
+:CUSTOM_ID: Sterndeuter_Weg
+:ID: 01_SW18
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:12]
 - State "DONE"       from "TODO"       [2020-01-11 Sa 09:08]
@@ -855,17 +856,14 @@ DEADLINE: <2021-01-11 Mo>
       Sehr guet Stunden zum Thema der "Heiligen Drei Könige"
     :END:
 
-**** Ziele LP 2000
-[[#07]] Weihnachtsfestkreis
-    Brauchtum
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 
-**** Kompetenzen
-[[#7a]] Christliche Feste benennen und deuten können.
-[[#7b]] Christliche Feste in Bezug zum eigenen Leben setzen und mitgestalten.
-[[#7c]] Aufbau des Kirchenjahres kennen und verstehen.
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#C5_UH1]] vielfältige Zugänge zum Feiern von Weihnachten
+
 
 **** Wiederholung
 Kinder erzählen von ihren Ferien, eventuelle Erfahrungen beim Sternsingen aufpassen: Kinder werden über Geschenke wetteifern. Und die wenigsten werden bei den Sternsingern mitgewirkt haben. Fragen kann ich sie immer.
@@ -958,9 +956,9 @@ Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht n
 *** TODO [SW19] Was bedeutet Freundschaft
 DEADLINE: <2021-01-18 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Freundschaft
+:CUSTOM_ID: Freundschaft
 :ID:       01_SW19
-    :END:
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
 - State "DONE"       from "TODO"       [2020-01-18 Sa 10:15]
@@ -972,14 +970,12 @@ DEADLINE: <2021-01-18 Mo>
       Ich habe auch darauf hingewiesen, dass unsere europäische Gesellschaft auf drei Säulen steht: christlic-jüdische Tradition / griechisch / römisch.
     :END:
 
-**** Ziele LP 2000
-[[#04]] Situationen des Gegen- und Miteinander von Menschen reflektieren: Freundschaft
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
 
-**** Kompetenzen
-[[#4c]] Wertschätzenden Umgang mit Menschen in ihrer Freiheit und Verantwortung pflegen können.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH 
+[[#A1_UH1]] Ich und die amderen: Freundschaft
 
 **** Wiederholung
 
@@ -996,9 +992,9 @@ Gemeinsam mit den Schülern über das Thema "Freundschaft" nachdenken.
 *** TODO [SW20] Für einen treuen Freund gibt es keinen Preis
 DEADLINE: <2021-01-25 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: treuer Freund
-:ID:       01_SW20
-    :END:
+:CUSTOM_ID: treuer Freund
+:ID: 01_SW20
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
@@ -1014,14 +1010,12 @@ DEADLINE: <2021-01-25 Mo>
       wichtigstes Gebot "Sch'ma Israel"
     :END:
 
-**** Ziele LP 2000
-[[#04]] Situationen des Gegen- und Miteinander von Menschen reflektieren: Freundschaft
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
 
-**** Kompetenzen
-[[#4c]] Wertschätzenden Umgang mit Menschen in ihrer Freiheit und Verantwortung pflegen können.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH 
+[[#A1_UH1]] Ich und die amderen: Freundschaft
 
 **** Wiederholung
 Was bedeutet dir Freundschaft?
@@ -1057,9 +1051,9 @@ Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Kna
 *** TODO [SW21] David und Jonathan
 DEADLINE: <2021-02-01 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: David Jonathan
-:ID:       01_SW21
-    :END:
+:CUSTOM_ID: David Jonathan
+:ID: 01_SW21
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:08]
 - State "DONE"       from "TODO"       [2020-02-02 So 16:14]
@@ -1071,14 +1065,12 @@ DEADLINE: <2021-02-01 Mo>
       Auf der biblischen Botschaft beruht unsere Gesellschaft, somit ist die Kenntnis über die Heilige Schrift wesentlich und gnaz wichtig.
     :END:
 
-**** Ziele LP 2000
-[[#04]] Situationen des Gegen- und Miteinander von Menschen reflektieren: biblische Beispiele für Freundschaft
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten.
 
-**** Kompetenzen
-[[#4c]] Wertschätzenden Umgang mit Menschen in ihrer Freiheit und Verantwortung pflegen können.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH 
+[[#B3_UH1]] Altes Testament; biblische Motive im Alltag: eigene Erfahrungen und Populärkultur
 
 **** Wiederholung
 
@@ -2294,64 +2286,82 @@ CLOSED: [2021-07-09 Fr 08:38] DEADLINE: <2021-07-05 Mo>
 
 
 
-** Kompetenzbereiche und Kompetenzdimensionen
+* Kompetenzbereiche und Kompetenzdimensionen
 
 ** Kompetenzmodell und -bereiche
 Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
 
 **** A Menschen und ihre Lebensorientierungen
 :PROPERTIES:
-:CUSTOM_ID: Ave Maria
+:CUSTOM_ID: A
+:ID:       6b68956f-aff0-48b7-8b7a-8352ffd83ea6
 :END:
 ***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
 :PROPERTIES:
 :CUSTOM_ID: A1
+:ID:       78dc1f2b-f2f0-4b14-9b57-2db17bc10edc
 :END:
 ****** Kompetenzbeschreibung:
 :PROPERTIES:
 :CUSTOM_ID: A1_KB1
+:ID:       633ff781-4a7b-41d9-a50c-1d470d29dcf9
 :END:
 Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: A1_AB1
+:ID:       c470b3f6-0462-4ca9-93ee-bb308dc3de3a
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: A1_UH1
+:ID:       22cd8479-45a9-4274-9d57-f2143f13feda
 :END:
 Ich und die anderen:
  - Selbstvertrauen,
- - Freundschaft,
+ - Freundschaft, [[#Freundschaft]] [[#treuer Freund]]
  - Empathie und Perspektivenwechsel, [[#Schuhe des Anderen]] 
  - Teamfähigkeit,
  - Nähe und Distanz,
  - Zärtlichkeit und Sexualität
 
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       b708f918-fcec-4f12-8a1f-1477eee3b382
+:END:
 ****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       3e9b622d-27c5-41ca-a2ac-396c15ca3e8e
+:END:
 ****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       dc3759a8-aa6f-449a-a598-3b36f7dd20d8
+:END:
 
 ***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 :PROPERTIES:
 :CUSTOM_ID: A2
+:ID:       1b855fa1-537a-4d14-af4e-4db124066a28
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: A2_KB1
+:ID:       e43fcd56-1bbc-4d49-8177-29bbca2204b5
 :END:
 Die Schülerinnen und Schüler können für sie bedeutsame Fragen diskutieren und über existentielle Lebensfragen philosophieren und theologisieren.  
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: A2_AB1
+:ID:       f63585d7-167b-41e0-b890-4a64789a47bb
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: A2_UH1
+:ID:       abce94a7-090d-40a6-87f7-7d1f2c2f1712
 :END:
 Beantwortbare und letztlich unbeantwortbare Fragen:
 - Wer ist Gott? Existiert Gott?
@@ -2363,76 +2373,96 @@ Beantwortbare und letztlich unbeantwortbare Fragen:
 
 
 ****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       9a88f216-edc2-4d93-83b8-ade69ab32f9b
+:END:
 ****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       1212b27e-4e79-4aae-ae4a-dec9dc19cff5
+:END:
 ****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       4df40b65-bb7c-4edc-8765-e9f2ca13f0ec
+:END:
 
 **** B Gelehrte und gelebte Bezugsreligion
 :PROPERTIES:
 :CUSTOM_ID: A1_AB1
+:ID:       d3e26f28-04ab-4caf-929b-30f8104a6f94
 :END:
 ***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
 :CUSTOM_ID: B3
-:ID:       B3
+:ID:       5a06e31e-7c5f-40e6-8f40-1c52abe8ac85
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: B3_KB1
+:ID:       ab8712e8-e47c-4041-b35f-f2bfce72d9c5
 :END:
 Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: B3_AB1
+:ID:       83b05343-cbd8-424a-b9ce-a9bd614834b5
 :END:
 Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel [[#Bibel_NT]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B3_UH1
+:ID:       efc71c11-8d7b-409e-826f-3b3fa266987e
 :END:
  - Altes Testament
  - Neues Testament, [[#Entstehung NT Evangelien]]
  - historisch-geografisches Umfeld; [[#Leben Schreiben NT]] [[#Welt des NT]]
- - biblische Motive im Alltag: eigene Erfahrungen und Populärkultur
+ - biblische Motive im Alltag: eigene Erfahrungen und Populärkultur [[#David Jonathan]]
 
 
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: B3_KB2
+:ID:       95fc3b05-097d-4eab-835b-58f0f33a744b
 :END:
 Die Schülerinnen und Schüler können Leben und Handeln Jesu in Grundlinien beschreiben und als Basis christlichen Glaubens kommunizieren.
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: B3_AB2
+:ID:       9d409c4f-9998-447a-84f7-2200b98cfeab
 :END:
 Historischer Jesus – Christus des Glaubens 
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B3_UH2
+:ID:       3f1238e5-4484-4cfd-a3f9-6f92fe3feebf
 :END:
 Lukasevangelium in Auswahl 
 
 ***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
 :PROPERTIES:
 :CUSTOM_ID: B4
+:ID:       c95753a7-df03-42fa-bad6-379d4fa492b3
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: B4_KB1
+:ID:       43fa526e-1311-4f84-82e2-8e060b51cfec
 :END:
 Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: B4_AB1
+:ID:       2584b2ea-3528-4b91-9ee2-17fb3522ad6b
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B4_UH1
+:ID:       889a212d-c6d9-49a6-9676-fab4daf9bcd8
 :END:
  - Kurzformeln des  Glaubens, [[#Regeln_Beten]]
  - Grundgebete, [[#Vater Unser]] [[#Ave Maria]]
@@ -2444,18 +2474,21 @@ Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und lit
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: B4_KB2
+:ID:       e5bae3b3-693a-4ff9-a5bb-f67b93286435
 :END:
 Die Schülerinnen und Schüler können Taufe und Eucharistie als Ausdruck der Zugehörigkeit zur kirchlichen Gemeinschaft verstehen. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: B4_AB2
+:ID:       bdd62bea-22b6-4a9f-a6a5-ab46e9102a9a
 :END:
 Das Glaubensbekenntnis
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B4_UH2
+:ID:       b533284a-4f28-4966-94e8-2029045b2495
 :END:
  - Zeichen und Formen von Zugehörigkeit,
  - Jesu Mahlgemeinschaften und die Feier der Eucharistie 
@@ -2464,67 +2497,79 @@ Das Glaubensbekenntnis
 **** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
 :PROPERTIES:
 :CUSTOM_ID: C
+:ID:       3a74a64c-c5f4-422b-a41c-21d29c51a389
 :END:
 ***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 :PROPERTIES:
 :CUSTOM_ID: C5
+:ID:       ef1da82c-65f3-41bf-b3da-0a42b8bca3dd
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: C5_KB1
+:ID:       77e07b32-82b3-4c7a-bdf4-87b0b3477d60
 :END:
 Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.  
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: C5_AB1
+:ID:       4413ef13-dd55-4af2-bbf9-526c226e63e5
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: C5_UH1
+:ID:       19dcea2d-e073-47d7-8b94-a93354aa3010
 :END:
  - Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft, 
  - Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender), [[#Kirchenjahr]] [[#Feste Kirchenjahr]]
  - Marienfeste, [[#Advent_Maria]]
- - vielfältige Zugänge zum Feiern von Weihnachten [[#Advent]] [[#Weihnachten]]
+ - vielfältige Zugänge zum Feiern von Weihnachten [[#Advent]] [[#Weihnachten]] [[#Sterndeuter]] [[#Sterndeuter_Weg]] [[id:01_SW18][[SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?]] [[id:01_SW17][[SW17] Ferien / Sterndeuter]] [[id:01_SW12][[SW12] Beginn Advent - Singen von Adventliedern]] 
  - Ostern
 
 
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: C5_KB2
+:ID:       34334035-529e-4423-a3c3-195fe66ffdb0
 :END:
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: C5_AB2
+:ID:       84fe8b02-8d36-471f-ac39-718fec481ce8
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: C5_UH2
+:ID:       0d64d603-6d96-4f40-8a05-efc9dd82d71f
 :END:
 
 ***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
 :PROPERTIES:
 :CUSTOM_ID: C6
+:ID:       a208bd4f-fc32-44e4-83cf-f0b0576b30d0
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: C6_KB1
+:ID:       1576269f-8eec-4642-a767-2f60b7379865
 :END:
 Die Schülerinnen und Schüler können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: C6_AB1
+:ID:       9e459664-5a74-48f2-8b9b-7dd1918fad0b
 :END:
 
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: C6_UH1
+:ID:       9b1194dc-9111-44d2-ac51-9f320bf6c7d1
 :END:
  - Einheit in Vielfalt,
  - Respekt, Toleranz,
@@ -2533,16 +2578,19 @@ Die Schülerinnen und Schüler können Gemeinsames und Unterscheidendes, Verbind
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: C6_KB2
+:ID:       7a4ab7f6-5d04-4a52-89d6-a3766987a5e8
 :END:
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: C6_AB2
+:ID:       3c261ba5-3587-4c8a-8354-29cd34360224
 :END:
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: C6_UH2
+:ID:       c8d1a73d-cbd9-4705-b75f-5e9b12da732b
 :END:
 
 

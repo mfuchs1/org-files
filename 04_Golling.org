@@ -7,7 +7,7 @@
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+SETUPFILE: ~/org/latex_setup.org
+#+SETUPFILE: ~/org/config/latex_setup.org
 #+TITLE: 04_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
@@ -76,7 +76,7 @@ DEADLINE: <2020-09-14 Mo>
 - CLOSING NOTE [2019-09-16 Mo 21:47] \\
   Diese vierten Klassen sind einigermaßen angenehm. In der 4A haben sich leider vier Schüler abgemeldet - ohne mir Gründe zu sagen. Jedoch wurde dadurch der Unterricht wesentlich ruhiger.
     - CLOSING NOTE [2018-09-24 Mo 09:56] \\
-      Diese vierten Klassen sind okay --> wieder gilt das Gleiche wie in den dritten Klassen: kein Leerlauf, gute Struktur, etc.
+      Diese vierten Klassen sind okay; wieder gilt das Gleiche wie in den dritten Klassen: kein Leerlauf, gute Struktur, etc.
     - CLOSING NOTE [2017-09-26 Die 01:05] \\
       Nix großartig Neues - Schulgottesdienst
     :END:
@@ -2037,334 +2037,391 @@ CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-07-05 Mo>
 
 
 
-** Kompetenzbereiche und Kompetenzdimensionen
+* Kompetenzbereiche und Kompetenzdimensionen
+
+** Kompetenzmodell und -bereiche
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
+
+**** A Menschen und ihre Lebensorientierungen
 :PROPERTIES:
-   :CUSTOM_ID: kompetenz
-   :END:
+:CUSTOM_ID: A
+:ID:       ad67e93a-16ee-4140-bde3-48d128f72003
+:END:
+***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+:PROPERTIES:
+:CUSTOM_ID: A1
+:ID:       cb7d26ee-c001-4769-9d3b-25efd9eb1fb6
+:END:
+****** Kompetenzbeschreibung:
+:PROPERTIES:
+:CUSTOM_ID: A1_KB1
+:ID:       1cfd37af-88e0-4712-9d42-cfe1bc93c9d5
+:END:
+Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln. 
 
-*** prozessbezogene Kompetenzbereiche
-Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark betont. 
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: A1_AB1
+:ID:       14961d3d-c15d-4747-8ca5-f630e5825bef
+:END:
+ - (Biblische) Propheten und Prophetinnen,
+ - Chancen- und Verteilungsgerechtigkeit 
 
-**** <<A>> Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
-     :PROPERTIES:
-     :CUSTOM_ID: perzeption
-     :END:
-[[#01]] [[#02]] [[#03]] [[#04]] [[#05]] [[#06]] [[#07]]
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: A1_UH1
+:ID:       7b74684d-3d33-4fd1-a543-f5a2d311004c
+:END:
+ - Zivilcourage,
+ - Friede,
+ - Gewaltfreiheit,
+ - Menschenrechte,
+ - nachhaltige Entwicklungsziele der UNO
+ - (un-)gerechte Wirtschaftsmodelle 
 
-[[#Menschenrechte]] [[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]] [[#Bibel Propheten]] [[#moderne Propheten]] [[#ewiges Leben]] [[#Apokalypse]] [[#Schöpfung]] [[#Naturwissenschaft]] [[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]] [[#Ökumene]] [[#Jesus befreit]] [[#Kreuzweg]] [[#Osterliturgie]] [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]] [[#Biblische Sprache]] [[#Buch der Offenbarung]] [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Sakrament der Weihe]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]] [[#Kirche fremde Länder]]
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       8777b77d-cce7-48b4-9b0c-fa0eb74027b1
+:END:
+Die Schüler können das Verhältnis von geltenden Normen und per- sönlichen Gewissens- entscheidungen analysieren und anhand von Beispielen diskutieren. 
 
-**** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
-     :PROPERTIES:
-     :CUSTOM_ID: kognition
-     :END:
-[[#01]] [[#02]] [[#03]] [[#05]] [[#06]] [[#07]]
+****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       de75133f-56eb-4129-8b89-66be05c7b0b0
+:END:
+Bildung des eigenen Gewissens 
 
-[[#ewiges Leben]] [[#Apokalypse]] [[#Gott wird Mensch]] [[#Gott wird Mensch 2]] [[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]] [[#Ökumene]] [[#Jesus befreit]] [[#Kreuzweg]] [[#Osterliturgie]] [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]] [[#Biblische Sprache]] [[#Buch der Offenbarung]] [[#Pfingsten]]
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       7ecfb539-2ed9-4073-897e-ddaad44f8fcd
+:END:
+ - Orientierungskriterien bei Entscheidungen,
+ - Gruppendruck,
+ - sexualethische Fragestellungen,
+ - Gesetzesauslegung Jesu (z. B. Sabbatgebot) 
 
-**** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
-     :PROPERTIES:
-     :CUSTOM_ID: performanz
-     :END:
-[[#03]] [[#04]] [[#05]] [[#06]]
 
-[[#Sinn der Arbeit]] [[#Arbeit Plage Dienst]] [[#Bibel Propheten]] [[#moderne Propheten]] [[#Fastenzeit]] [[#Fasten Sinne]] [[#Osterliturgie]] [[#Sakramente]] [[#Kraftquelle Gebet]]
-[[#Kirche fremde Länder]]
+***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+:PROPERTIES:
+:CUSTOM_ID: A2
+:ID:       dbb88755-07b4-41ab-acf8-340bdb801e28
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: A2_KB1
+:ID:       c6a11f83-7141-46b4-9394-f33d9e433871
+:END:
+Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
 
-**** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
-     :PROPERTIES:
-     :CUSTOM_ID: interaktion
-     :END:
-[[#02]] [[#03]] [[#05]] [[#07]]
 
-[[#Schöpfung]] [[#Naturwissenschaft]] [[#Fastenzeit]] [[#Fasten Sinne]] [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Sakrament der Weihe]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]]
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: A2_AB1
+:ID:       0d1f2e35-a1cb-46a6-8b1a-c0a22ebdbf58
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: A2_UH1
+:ID:       2b37efff-74cf-4fcb-8be4-dcc0da73040a
+:END:
+ - Sehnsüchte und Lebensträume,
+ - persönliche und berufliche Ziele,
+ - Utopien und Dystopien 
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       9ae56f4a-2585-4f12-a10f-8577722b0b0c
+:END:
+Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       8716faa9-eed0-46aa-9533-a112ad6efa83
+:END:
+ - Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       39c699c0-be13-4a35-b023-2a39a8b1cace
+:END:
+
+**** B Gelehrte und gelebte Bezugsreligion
+:PROPERTIES:
+:CUSTOM_ID: A1_AB1
+:ID:       a6533a59-ae26-4205-9ed2-ede4afde8380
+:END:
+***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+:PROPERTIES:
+:CUSTOM_ID: B3
+:ID:       deec55c1-64f2-4553-880b-2cc980c3febe
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B3_KB1
+:ID:       19520774-5868-45c5-b485-56ab047c3301
+:END:
+Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren. 
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B3_AB1
+:ID:       ee053a90-11c2-41d7-ad23-dc6a8e4648e5
+:END:
+
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH1
+:ID:       b24af8be-4ba0-4763-b861-02a47777bb27
+:END:
+ - Erfahrungen von Scheitern und Neubeginn,
+ - Passionsgeschichte und Osterevangelium,
+ - Bedeutung des Kreuzes,
+ - österlicher Glaube als christliche Lebens haltung 
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B3_KB2
+:ID:       6b799913-c2bd-42e7-a0dd-5bcf603a9bd0
+:END:
+Die Schüler können das vielfältige Wirken des Heiligen Geistes ent- decken und charakte- risieren. 
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B3_AB2
+:ID:       98567417-91c4-436e-ab5c-632ab26e45cb
+:END:
+ - Biblische Symbolik für den Geist Gottes,
+ - Vielfalt der Charismen 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH2
+:ID:       f70b2a63-1f6e-4017-9d12-e84cf5770dee
+:END:
+ - Pfingstereignis (Apg 2),
+ - Ängste überwinden und Begabungen leben 
+
+
+***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+:PROPERTIES:
+:CUSTOM_ID: B4
+:ID:       b132c38f-4ac5-4b06-a360-6b03dcf24ca7
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB1
+:ID:       c10aceaa-4e69-4b96-85f0-44f26ffe29af
+:END:
+Die Schüler können die Firmung als Befähigung und Beauftragung zum Mitwirken an den Grundvollzügen der Kirche erläutern. 
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB1
+:ID:       6fa59e0d-d0d5-46ff-85fe-a97c87bf1c92
+:END:
+Verkündigung – Liturgie – Diakonie - Gemeinschaft 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH1
+:ID:       e5c3460b-3a60-4963-ac2c-081c15cc3c9d
+:END:
+ - Sakrament: Firmung – Entscheidung zur (Nicht-)Teilhabe;
+ - Möglichkeiten des Mitwirkens junger Menschen in der Kirche,
+ - Compassion 
+
+
+   
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB2
+:ID:       467426d7-9999-415b-8c4f-a06e703aa06f
+:END:
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB2
+:ID:       4bc8287e-0e3a-4a80-a267-a5c8f4b75243
+:END:
+
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH2
+:ID:       238b1339-4a6b-4737-84bb-03f6af587857
+:END:
+
+
+**** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
+:PROPERTIES:
+:CUSTOM_ID: C
+:ID:       424c486b-eb3b-445e-8f89-ea7a237ca305
+:END:
+***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+:PROPERTIES:
+:CUSTOM_ID: C5
+:ID:       047a6ac4-28bd-4b1a-ae05-4f2dcf656d98
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB1
+:ID:       bfe411bb-0f0c-4f19-b0ed-0f081b66307b
+:END:
+Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung ver- stehen und ihr eigenes kreatives Potential entfalten. 
  
-**** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
-     :PROPERTIES:
-     :CUSTOM_ID: partizipation
-     :END:
-[[#01]] [[#04]] [[#05]] [[#06]]
 
-[[#Jesus Quelle des Lebens]] [[#Berufung]] [[#Sinn der Arbeit]] [[#Arbeit Plage Dienst]] [[#Menschenrechte]] [[#Osterliturgie]] [[#Sakramente]] [[#Geistesgaben]] [[#Kraftquelle Gebet]]
-
-*** inhaltsbezogene Kompetenzdimensionen
-Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die Schüler "angesichts des Phänomens der Individualisierung und Pluralisierung von Religion kompetent verhalten können."
-
-Schüler ...
-
-**** Ad Ziel [[#01]]
-***** können aufgrund der persönlichen Gotteserfahrung Spuren Gottes im Leben entdecken, Sehnsüchte realisieren und vielfältige Gottesbilder erfassen.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 1a
+:CUSTOM_ID: C5_AB1
+:ID:       b9bc6ae2-3955-4779-82a3-679f162c7086
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       8a6d6eb5-c86d-4332-8525-1bc5cd5e6b41
+:CUSTOM_ID: C5_UH1
+:END:
+ - Begegnung mit Kunst im religiösen Kontext,
+ - verschiedene Formen und Funktionen von Kunst,
+ - Religion in der Populärkultur 
+
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB2
+:ID:       0dd441aa-f152-4c33-ba4a-334a3e224b87
+:END:
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB2
+:ID:       52bfeec8-a213-4314-bb8d-e84654647253
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH2
+:ID:       3392d789-5838-44b2-930c-dc50207f772d
+:END:
+
+***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+:PROPERTIES:
+:CUSTOM_ID: C6
+:ID:       26987d80-8833-4106-9842-efe01e5dbad2
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB1
+:ID:       cecbcf92-831d-48f7-98ee-5ee8614a74bf
+:END:
+Die Schülerinnen und Schüler kennen Charakteristika asiati- scher Glaubenstraditi- onen und können diese mit dem christlichen Glaubensverständnis vergleichen. 
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB1
+:ID:       42297147-05ed-4e35-a8ae-63fcfe01f874
 :END:
 
 
-***** können, ausgehend von der christlichen Botschaft von Vater, Sohn und Heiliger Geist, Begeisterung für das Leben gegenüber Resignation wachhalten.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 1b
+:CUSTOM_ID: C6_UH1
+:ID:       1d0eeb49-dbcd-45c1-9b12-f454885c4cac
 :END:
-[[#Jesus Quelle des Lebens]] [[#Berufung]] [[#Geistesgaben]]
+ - Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesischen Religionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege 
 
-***** können den Kern des christlichen Glaubens begreifen.
+
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 1c
+:CUSTOM_ID: C6_KB2
+:ID:       0971b876-a524-453b-a101-b6c28586443e
 :END:
-[[#ewiges Leben]] [[#Gott wird Mensch]] [[#Gott wird Mensch 2]] [[#Jesus ist auferstanden]] [[#Pfingsten]]
+Die Schülerinnen und Schüler können lebens- förderliche und lebens- feindliche Aspekte in Religionen und Welt- anschauungen benen- nen und beurteilen. 
 
-**** Ad Ziel [[#02]]
-***** können die religiöse Praxis und die Grundüberzeugungen der östlichen Glaubenstraditionen erläutern und sie wertschätzen.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 2a
-:END:
-[[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]]
-
-***** erkennen die Ambivalenz religiöser Phänomene und können lebensförderliche und lebensfeindliche Formen von Religiosität sowie Kennzeichen von religiösen Sondergruppen identifizieren und kritisieren.
-:PROPERTIES:
-:CUSTOM_ID: 2b
+:CUSTOM_ID: C6_AB2
+:ID:       e1949525-53a0-4165-9486-63033a965016
 :END:
 
-***** Die Schüler können die religiöse Praxis und die Grundüberzeugungen der jüdischen Glaubenstradition erläutern, wertschätzen und den Bezug zum Christentum herstellen.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 2c
+:CUSTOM_ID: C6_UH2
+:ID:       7ab1da03-0f2d-4e2d-96fd-7b92b5bfd91b
 :END:
-
-**** Ad Ziel [[#03]]
-***** können sich kritisch mit Sinnangeboten in der Gesellschaft auseinandersetzen und positive Wege der Lebensgestaltung bestimmen sowie für das eigene Leben modifizieren.
-:PROPERTIES:
-:CUSTOM_ID: 3a
-:END:
-[[#Fastenzeit]] [[#Fasten Sinne]]
-
-***** können die befreiende Wirkung des Lebens, des Sterbens und der Auferstehung Jesu für unser Dasein abstrahieren und Spuren der Auferstehung in unserem Alltag konkretisieren.
-:PROPERTIES:
-:CUSTOM_ID: 3b
-:END:
-[[#Jesus befreit]] [[#Kreuzweg]] [[#Osterliturgie]] [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]]
-
-**** Ad Ziel [[#04]]
-***** kennen Kinderrechte, Menschenrechte und Menschenrechtsorganisationen und können sich angesichts der Verletzung von Menschenrechten für den Einsatz für Menschenwürde begeisternund Modelle dafür entwerfen.
-:PROPERTIES:
-:CUSTOM_ID: 4a
-:END:
-[[#Menschenrechte]]
-
-***** können auf Basis der Botschaft biblischer und moderner Propheten - ihrem Ruf nach Gerechtigkeit - für Zivilcourage eintreten sowie die kirchliche Forderung der „Option für die Armen“ implementieren.
-:PROPERTIES:
-:CUSTOM_ID: 4b
-:END:
-[[#Bibel Propheten]] [[#Kirche fremde Länder]]
-
-**** Ad Ziel [[#05]]
-***** verstehen die biblischen Schöpfungstexte und können daraus ihre persönliche Verantwortung für den Erhalt der Schöpfung ableiten.
-:PROPERTIES:
-:CUSTOM_ID: 5a
-:END:
-[[#Schöpfung]]
-
-***** können die Frage nach Herkunft, Zukunft und Sinn der Welt und des Menschen stellen und divergente Antworten aus der Sicht von Naturwissenschaft und Glauben kritisch reflektieren und zusammenführen.
-:PROPERTIES:
-:CUSTOM_ID: 5b
-:END:
-[[#Naturwissenschaft]]
-
-***** können die christliche Hoffnung von dem neuen Himmel und der neuen Erde als Bild von Heil und Erlösung deuten.
-:PROPERTIES:
-:CUSTOM_ID: 5c
-:END:
-[[#ewiges Leben]] [[#Apokalypse]] [[#Buch der Offenbarung]]
-
-***** können den Sinn der Arbeit als Mitwirken am Schöpfungswerk Gottes und an der Erlösungstat Christi erfassen.
-:PROPERTIES:
-:CUSTOM_ID: 5d
-:END:
-[[#Sinn der Arbeit]] [[#Arbeit Freizeit Beruf]] [[#Arbeit Plage Dienst]]
- 
-**** Ad Ziel [[#06]]
-***** können verbale und nonverbale Sprachformen in Alltag und Lebenspraxis ermitteln, diese differenziert wahrnehmen und erläutern.
-:PROPERTIES:
-:CUSTOM_ID: 6a
-:END:
-
-***** können den Reichtum der biblischen Sprach- und Symbolwelt deuten und die Sprachwelt des Religiösen interpretieren.
-:PROPERTIES:
-:CUSTOM_ID: 6b
-:END:
-[[#Biblische Sprache]]
-
-***** können Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
-:PROPERTIES:
-:CUSTOM_ID: 6c
-:END:
-[[#Osterliturgie]] [[#Kraftquelle Gebet]]
-
-**** Ad Ziel [[#07]]
-***** können diverse Formen gelebten Glaubens beschreiben.
-:PROPERTIES:
-:CUSTOM_ID: 7a
-:END:
-[[#Ordensleben 1]] [[#Ordensleben 2]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]]
-
-***** können Aufgaben und Struktur der Weltkirche definieren und das Sakrament des Ordo erklären.
-:PROPERTIES:
-:CUSTOM_ID: 7b
-:END:
-[[#Sakrament der Weihe]]
-
-***** können die verschiedenen christlichen Konfessionen mit deren Geschichte und Entwicklung charakterisieren und die Intention ökumenischer Bewegungen realisieren.
-:PROPERTIES:
-:CUSTOM_ID: 7c
-:END:
-[[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]] [[#Ökumene]]
-
-** Unterrichtsprinzip
-Korrelation: Erfahrungen der Schüler zur Sprache bringen, diese werden auf religiöse Bedeutung erschlossen und mit der christlichen / biblischen / kirchlichen Botschaft bzw Überlieferung (Tradition) wechselseitig in Beziehung gesetzt. Fachspezifische Bildungsinhalte: für Schüler oft neu und fremd, stellen das Leben in Frage / ermöglichen neue Erfahrungen für die Schüler.
-
-**  Jahresübergreifende Kompetenzen (nach Schulplan 2000, revidierte Fassung von 18. April 2017)
-
-*** <<K01>> Vielfältige Gottesbilder - der sich in Jesus Christus offenbarende Gott [[#1a]] [[#1b]] [[#1c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 01
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:33] \\
-      Sehnsüchte und vielfältige Gottesbilder wahrnehmen können, sich mit der persöhnlichen Gottesahnung auseinandersetzen und diese in Beziehung zur christlichen Botschaft von Vater, Sohn und Heiliger Geist setzen können.
-    :END:
-
-   - Gottessehnsucht der Menschen wahrnehmen und die Spuren Gottes im Leben entdecken können ([[A]],[[B]])
-     /Vielfalt der Gottesvorstellungen in Kulturen und Religionen/
-
-   - Die Begeisterung für das Leben gegen Resignation wach halten ([[E]]) [[#Jesus Quelle des Lebens]]
-     /Wirken des Heiligen Geistes (Apg 2; 1 Kor 12)/ 
-     /Vielfalt der Geistesgaben heute/ [[#Geistesgaben]]
-     /Das Sakrament der Firmung/ 
-     /Gottessehnsucht und Geistbegabung in exemplarischen Lebensgeschichten/ [[#Berufung]]
-
-   - Den Kern des christlichen Glaubens verstehen (siehe oben) ([[B]])
-     /Gott wird Mensch/ [[#Gott wird Mensch]] [[#Gott wird Mensch 2]]
-     /Leiden und Auferstehung unseres Herrn Jesus Christus/ [[#Jesus ist auferstanden]]
-     /Begeisterung - Wirken des Heiligen Geistes/ [[#Pfingsten]]
-     /Die heilige Dreifaltigkeit - Gott Vater/ 
-     /Die letzten Dinge/ [[#ewiges Leben]]
-     
-    
-*** <<K02>> Toleranz und Wertschätzung angesichts der Vielfalt von Kulturen und Religionen [[#2a]] [[#2b]]
-    :PROPERTIES:
-    :CUSTOM_ID: 02
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:08] \\
-      Unterschiedliche Lebens- und Glaubensformen in Kulturen und Religionen kennen, sich im Geist Jesu kritisch mit ihnen auseinandersetzen sowie Toleranz und Wertschätzung praktizieren.
-    :END:
-
-   - Grundlagen östlicher Glaubenstraditionen kennen ([[A]])
-     /Hinduismus: Kultur, religiöse Praxis und Grundüberzeugungen/ [[#Hinduismus]]
-     /Buddhismus: Kultur, religiöse Praxis und Grundüberzeugungen/ [[#Buddhismus]]
-     /Chinesische Traditionen/ [[#Chinesische Traditionen]]
-
-   - Die Ambivalenz religiöser Phänomene aufzeigen können ([[B]],[[D]]) 
-     /Lebensförderliche und lebensfeindliche Formen von Religiosität/ 
-     /Kennzeichen von religiösen Sondergruppen/
-
-*** <<K03>> Leben und Hoffen angesichts von Schuld, Leid und Tod [[#3a]] [[#3b]]
-    :PROPERTIES:
-    :CUSTOM_ID: 03
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:15] \\
-      Schuld, Leid und Tod im persönlichen Leben und in der Gesellschaft wahrnehmen, unterschiedliche Bewältigungsversuche udn Sinndeutungen kennen und mit der befreienden Wirkenung des Lebens, des Sterbens und der Auferstehung Jesu in Beziehung setzen können.
-    :END:
-
-   - Sinnangebote in der Gesellschaft kritisch einschätzen und positive Wege der Lebensgestaltung aufzeigen können ([[C]],[[D]])
-     /Kultur des Genießens und der Askese/ [[#Fastenzeit]] [[#Fasten Sinne]]
-     /Selbstentfaltung und Engagement versus Abhängigkeiten (Drogen und Süchte)/
-
-   - Die befreiende Botschaft der Auferstehung Jesu für unser Leben darlegen können ([[A]],[[B]])
-     /Befreiungserzählungen im NT (z.B. Dämonenaustreibungen)/ [[#Jesus befreit]]
-     /Spuren der Auferstehung in unserem Alltag - Symbole von Tod und Auferstehung/ [[#Jesus ist auferstanden]] [[#Auferstehung in meinem Leben]]
-     /Passionsgeschichte und Osterevangelium/ [[#Kreuzweg]] [[#Osterliturgie]] 
-
-*** <<K04>> Würde des Menschen in Freiheit und Verantwortung [[#4a]] [[#4b]]
-    :PROPERTIES:
-    :CUSTOM_ID: 04
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:18] \\
-      Die eigene Würde und die der anderen anerkennen und reflektieren, was sie im Zusammenleben födert und gefährdet, und sich im solidarischen Handeln am Beispiel Jesu orientieren können.
-    :END:
-
-   - Verletzungen von Menschenrechten erkennen und sich für die Menschenwürde einsetzen ([[A]],[[E]])
-     /Kinderrechte, Menschenrechte, Menschenrechtskonvention/ [[#Menschenrechte]]
-     /Ethische Fragen/
-     
-   - Die Botschaft der Propheten und ihren Ruf anch Gerechtigkeiten kennen ([[A]],[[C]]) 
-     /Biblische Propheten (z.B. Amos)/ [[#Bibel Propheten]]
-     /Prophetische Menschen heute/ [[#moderne Propheten]]
-     /Zivilcourage/
-     /Option für die Armen/ [[#Kirche fremde Länder]]
+ - Lebensgestaltung in Freiheit,
+ - Befähigung zur oder Verlust der Eigenverantwortung,
+ - Gewaltstrukturen in Ideologien
+ - Missbrauch von Religion und Autorität,
+ - Fundamentalismus 
 
 
-*** <<K05>> Welt und Mensch - Schöpfung Gottes [[#5a]] [[#5b]] [[#5c]] [[#5d]]
-    :PROPERTIES:
-    :CUSTOM_ID: 05
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:21] \\
-      Sich selbst und die Welt als entwicklungsfähig und gefährdet erkennen, die Schöpfung und sich selbst als Geschöpf in Dankbarkeit und Verantwortung verstehen und die Sehnsucht nach Vollendung offen halten.
-    :END:
 
-   - Fragen nach der Herkunft und Zukunft der Welt stellen können und verschiedene Antworten aus der Sicht von Naturwissenschaften und Glauben diskutieren können ([[A]],[[D]])
-     /Naturwissenschaftliche Fragestellungen/ [[#Naturwissenschaft]]
-     /Biblische Schöpfungstexte/ [[#Schöpfung]]
+**** Kompetenzdimensionen 
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+ - Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+ - Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+ - Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+ - Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+ - Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
 
-   - Die christliche Hoffnung von dem neuen Himmel und der neuen Erde beschreiben können ([[A]],[[B]])
-     /Bilder von Heil und Erlösung/ [[#ewiges Leben]]
-     /Apokalyptische Vorstellungen und Endzeiterwartungen/ [[#Apokalypse]] [[#Buch der Offenbarung]]
+*** Zentrale fachliche Konzepte
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
 
-   - Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können ([[C]],[[E]])
-     /Ungerechtigkeit - Option für die Armen/
-     /Arbeit, Beruf, Schule, Freizeit/ [[#Sinn der Arbeit]] [[#Arbeit Freizeit Beruf]] [[#Arbeit Plage Dienst]]
-     /Einsatz für soziale Gerechtigkeit/ [[#Nahost-Konflikt]]
-     /Ökologie und Nachhaltigkeit/ 
+**** Lebensrealitäten und Transzendenz
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
 
-*** <<K06>> Symbole - Rituale - Sakramente [[#6a]] [[#6b]]
-    :PROPERTIES:
-    :CUSTOM_ID: 06
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:24] \\
-      Symbole und Rituale in Kommunikation, in der Bilder- und Medienwelt beschreiben und interpretieren können, religiöse Ausdrucksformen erklären können und die Bedeutung der Sakramente verstehen.
-    :END:
+**** Gottesliebe und Menschenliebe
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
 
-   - Verbale und nonverbale Sprache differenziert wahrnehmen und analysieren können ([[A]],[[B]])
-     /Sprachformen in Alltag und Lebenspraxis (privates Umfeld, Öffentlichkeit, Werbung, ...)/
+**** Jesus der Christus
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
 
-   - Den Reichtum der biblischen Sprache- und Symbolwelt kennen ([[A]],[[B]]) 
-     /Die Sprachwelt des Religiösen/ 
-     /Biblische Sprachformen/ [[#Biblische Sprache]]
+**** Freiheit und Offenbarung
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
 
-   - Verschiedene Formen des Gebets ([[C]],[[E]])
-     /Grundgebete/
-     /Stille, betrachtendes Gebet/ [[#Kraftquelle Gebet]]
-     /Gebet der Kirche/ [[#Osterliturgie]]
-     /Orte und Zeiten des Gebets/ 
-     /Sakramente/ [[#Sakramente]]
+**** Zusage und Verantwortung
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
 
-*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]] [[#7c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 07
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:26] \\
-      Zeugnisse des Christlichen in der Kultur entdecken, Feste als Unterbrechung des Alltags verstehen, am kirchlichen Leben in seinen vielfältigen Formen und Traditionen teilhaben können.
-    :END:
+*** Didaktische Grundsätze
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
 
-   - In das Leben der Orts- und Weltkirche Einblick geben können ([[A]],[[D]])
-     /Verschiedene Formen gelebten Glaubens (Ordensgemeinschaften, Basisgemeinden, Erneuerungsbewgungen, ...)/ [[#Ordensleben 1]] [[#Ordensleben 2]] [[#Christus Nachfolge]] [[#Weisung Christi]] [[#Kraftquelle Gebet]] [[#Kinder fremde Länder]]
-     /Aufgaben und Struktur der Weltkirche/ 
-     /Das Sakrament des Ordo (Bischof, Priester, Diakon)/ 
-          
-   - Die Entwicklung der Kirchen skizzieren können und das Besondere anderer Konfessionen beschreiben können ([[A]],[[B]])
-     /Ökumenische Bewegung/ [[#Ökumene]]
-     /Christliche Kirchen (Besonderheiten, Gemeinsamketien, Trennendes)/ [[#2000 Jahre Christentum]] [[#Orthodoxe Kirchen]]
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des „Ganzen im Fragment“, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
+
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
+
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
+
+*Fokus: Religiöse Sprache und Symbole*
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
+
+*Fokus: Philosophieren und Theologisieren*
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
+
+*Fokus: Actio und Contemplatio*
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
+
+*Fokus: Beziehung und Resonanz*
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+
+*** Hinweise zum Lehrplan
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** KB – Kompetenzbeschreibungen
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** AB – Anwendungsbereiche
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+
+**** UH – Unterrichtshinweise
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
 
 
 ** TODO Themengebiete (nach Kirchenjahr, Heilige Schrift, ...)

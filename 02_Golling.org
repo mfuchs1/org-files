@@ -7,7 +7,7 @@
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+SETUPFILE: ~/org/latex_setup.org
+#+SETUPFILE: ~/org/config/latex_setup.org
 #+TITLE: 02_Golling
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
@@ -31,8 +31,7 @@ Eine Planung für die zweiten Klassen, sechste Schulstufe, Sekundarstufe I, NMS 
 *** Inhalt und Anliegen des Religionsunterrichts
 "/In der Mitte des Religionsunterrichts stehen die Schülerinnen und Schüler, ihr Leben und ihr Glaube. Daher sind Inhalt des Religionsunterrichts sowohl das menschliche Leben als auch der christliche Glaube, wie er sich im Laufe der Geschichte entfaltet hat und in den christlichen Gemeinden gelebt wird. Lebens-, Glaubens- und Welterfahrungen der Schülerinnen und Schüler, Lehrerinnen und Lehrer werden dabei aus der Perspektive des christlichen Glaubens reflektiert und gedeutet. Dieser Glaube hat in Jesus Christus seine Mitte./
 
-Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So 
-trägt er auch zur Gestaltung des Schullebens bei./"
+/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So trägt er auch zur Gestaltung des Schullebens bei./"
 
 *** Stellung des Religionsunterrichts an der Sekundarstufe I
 "/Der Religionsunterricht ist Teil des Bildungs- und Erziehungsauftrages der betreffenden Schulart. Religiöse Bildung ist Bestandteil von Allgemein-, wie von Persönlichkeitsbildung. Durch seinen spezifischen Beitrag zur religiös-ethisch-philosophischen Bildungsdimension unterstützt der konfessionelle Religionsunterricht grundlegend alle Aufgabenbereiche der Schule. Durch Wissensvermittlung im Bereich der christlichen Religion, anderer Religionen und Weltanschauungen trägt der Religionsunterricht zum Verstehen unserer Kultur bei, die stark von der jüdisch-christlichen Tradition geprägt ist. Junge Menschen lernen Werte zu entdecken, moralisch zu urteilen und zu handeln./"
@@ -42,16 +41,15 @@ trägt er auch zur Gestaltung des Schullebens bei./"
 
 "/Zum anderen sind jene fachspezifischen Bildungsinhalte zur Sprache zu bringen, die möglicherweise den Schülerinnen und Schülern vorerst neu und fremd sind. Diese können bisher Selbstverständliches im Leben der Schülerinnen und Schüler in Frage stellen und neue Erfahrungs- und Deutungsmöglichkeiten eröffnen. Ein solcher Religionsunterricht intendiert, dass in den Unterrichtsprozessen die christliche Botschaft erfahrbar wird. Religiöse Übungen bieten im Rahmen der Schule einen Raum, der für religiöse Erfahrungen förderlich ist./"
 
-
 vollständiger Text des Lehrplans (online):
 
 
 ** Jahres- / Wochenplanung 
 
-*** TODO [SW01] Besprechung des Jahresstoffes / Im Kleinen liegt das Große
+*** TODO [SW01] Besprechung des Jahresstoffes / Welchen Platz habe ich in der Klasse?
 DEADLINE: <2020-09-14 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: im kleinen das Große
+    :CUSTOM_ID: mein Platz
     :ID: 02_SW01
     :END:
 :LOGBOOK:
@@ -62,36 +60,29 @@ DEADLINE: <2020-09-14 Mo>
       Die erste Woche im Schuljahr 2018 / 2019 verlief toll. Dieses Schuljahr könnte ruhiger verlaufen...
     :END:
 
-**** Ziele LP 2000
-[[#02]] Gott als den verstehen, der das Heil aller Menschen will und in diesem Geist Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen ernst nehmen und achten; Staunen über die Wunder der Schöpfung
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
 
-
-**** Kompetenzen
-[[#2b]] Schüler können Gott als den, der das Heil aller will, begreifen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH
+[[#A1_AB1]] Kommunikationsformen
+- Emotionale Ausdrucksfähigkeit,
+- Rollen innerhalb einer Gemeinschaft,
 
 **** Wiederholung
  
 
 **** Erarbeitung
-Will Gott ALLE Menschen erretten? Was bedeutet das für den Menschen? Darf er machen, was er will - weil "eh" in den Himmel kommt? Genügt es ein, ein "guter" Mensch zu sein? 
 
-Gott will das Heil aller Menschen - wie gehe ich daher mit meinen Mitmenschen um? Wie soll das Heil Gottes zu meinem Nächsten kommen - wenn nicht durch mich? 
-
-Zuerst: das Gebet. Daran erkennt man einen Christen. 
-
-"Im Kleinen liegt das Große": Beispiele als Natur und dem Leben des Menschen (ev. Ausschnitte aus BBC Filme). 
 
 **** Hefteintrag
 
 
 
-*** TODO [SW02] Den Schöpfer erahnen
+*** TODO [SW02] Wie sage ich's?
 DEADLINE: <2020-09-21 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Schöpfer erahnen
+    :CUSTOM_ID: wie sage ichs
     :ID: 02_SW02
     :END:
 :LOGBOOK:
@@ -106,42 +97,19 @@ DEADLINE: <2020-09-21 Mo>
       War eine gute Woche mit schönen Stunden
     :END:
 
-**** Ziele LP 2000
-[[#01]] Gottesbilder im AT (z.B. Ps 23), das Gottesbild Jesu (z.B. Lk 15)
-[[#02]] Gott als den verstehen, der das Heil aller Menschen will und in diesem Geist Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen ernst nehmen und achten; Den Schöpfer erahnen
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
 
-**** Kompetenzen
-[[#1c]] Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
-[[#2c]] Schüler können die Sehnsucht nach einem Leben in Fülle, wie es Jesus in seiner Botschaft vom Reich Gottes zusagt, wahrnehmen, selbst empfinden und ihr weiteres Leben danach ausrichten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH
+[[#A1_AB1]] Kommunikationsformen
+- Emotionale Ausdrucksfähigkeit,
+- Rollen innerhalb einer Gemeinschaft,
 
 **** Wiederholung
 
 
 **** Erarbeitung 
-Gott als ...: Schöpfer, Hirte, ...? Was ist das Gottesbild der Bibel?
-
-[[https://www.bibelwissenschaft.de/fileadmin/buh_bibelmodul/media/wibi/pdf/Gott_Gottesbild_AT___2018-09-20_06_20.pdf]]
-
-Die Bibel setzt die Existenz Gottes voraus. Gottes Wesen wird durch sein Handeln in der Geschichte Israels sichtbar: von der Schöpfung bis zur Entstehung eines Gemeinwesens um den Tempel in persischer Zeit. 
-
-Gott als Schöpfer: das Verb "bara" (?) wird einzig und allein für Gott verwendet. 
-
-Bund mit Noah: gilt für die gesamte Menschheit - auch für die Tiere.
-
-Gott schließt auch einen Bund mit einzelnen Menschen: Abraham; Isaak / nicht Ismael; Jakob / nicht Esau: Gott ist in seiner Wahl frei, in seiner Verheißung treu. 
-
-Gott, der Heilige
-
-Gott, der Schöpfer
-
-Gott, der Retter und Erbarmer
-
-Gott, der Gerechte
-
 
 
 **** Hefteintrag
@@ -163,15 +131,14 @@ DEADLINE: <2020-09-28 Mo>
       Biblische Beispiele: Jona, Jeseja, Jeremia (AT); Maria (NT). Unterschiede: Persönlichkeit des Propheten, Auftrag, Reaktion / Antwort auf den Ruf Gottes, ... Bedeutung für uns?
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Wesentliche Aspekte der Entstehung des AT und der Geschichte Israels
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
 
-**** Kompetenzen
-[[#1b]] Sich mit der Entstehung des AT - von der mündlichen Überlieferung bis zur Schriftwerdung - auseinandersetzen.
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: Geschichte des Volkes Israel im Überblick
+[[#B3_UH1]] Geschichte als Heilsgeschichte am Beispiel der Erzeltern 
 
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
- 
 **** Erarbeitung
 Anhand der Geschichte von Abraham offenbart sich Gott. Er schließt einen Bund mit ihm - Bundeszeichen: die Beschneidung. "Zieh weg aus deinem Land!" Dh verlasse deine Sicherheiten. "Ein neues Land" - auch wir sind unterwegs auf ein neues Land hin (ist das der Himmel? Gilt das auch für das Leben hier auf der Erde?). Der jüdische Glaube ist sehr diesseits-verhaftet, im Hier und Jetzt. 
 
@@ -211,17 +178,15 @@ DEADLINE: <2020-10-05 Mo>
       Für die 2a muss ich dies besser vorbereiten: Welche Symbole sollen erforscht werden? Welche Bücher, Internet, ...?
     :END:
 
-**** Ziele LP 2000
-[[#01]] Berufungserzählungen aus dem AT (Abraham und Sara; David)
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
 
-**** Kompetenzen
-[[#1a]] Schüler können Berufungserzählungen als Ausdruck von Erfahrungen der Zuwendung Gottes deuten und sie als Herausforderung für die persönliche Lebensgestaltung verstehen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: Geschichte des Volkes Israel im Überblick
+[[#B3_UH1]] Geschichte als Heilsgeschichte am Beispiel der Erzeltern 
 
 **** Wiederholung
-
 
 **** Erarbeitung 
 Film über Abraham (Puppen)
@@ -248,14 +213,13 @@ DEADLINE: <2020-10-12 Mo>
       In den beiden Stunden haben wir uns einen guten Überblick über die Sakramente gemacht. Es kamen schöne Gedanken und Reflexionen von den Kindern - sie sind nicht gerade sehr kirchlich sozialisiert.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Berufungserzählungen aus dem AT (Abraham und Sara; David)
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
 
-**** Kompetenzen
-[[#1a]] Schüler können Berufungserzählungen als Ausdruck von Erfahrungen der Zuwendung Gottes deuten und sie als Herausforderung für die persönliche Lebensgestaltung verstehen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen 
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: Geschichte des Volkes Israel im Überblick
+[[#B3_UH1]] Geschichte als Heilsgeschichte am Beispiel der Erzeltern
 
 **** Wiederholung
 
@@ -283,14 +247,13 @@ DEADLINE: <2020-10-19 Mo>
       Diese Stunden waren okay.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Wesentliche Aspekte der Entstehung des AT und der Geschichte Israels
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt.
 
-**** Kompetenzen
-[[#1b]] Sich mit der Entstehung des AT - von der mündlichen Überlieferung bis zur Schriftwerdung - auseinandersetzen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B3_AB1]] Biblisch-hermeneutische Kompetenz: literarische Gattungen in der Bibel;
+[[#B3_UH1]] Geschichte als Heilsgeschichte am Beispiel der Erzeltern
 
 **** Wiederholung
 
@@ -313,9 +276,9 @@ Eigenen Psalm schreiben; Prophetischen Text lesen; ...
 *** TODO [SW07] Herbstferien
 DEADLINE: <2020-10-26 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Herbstferien
-:ID:       02_SW07
-    :END:
+:CUSTOM_ID: Herbstferien
+:ID: 02_SW07
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
     - CLOSING NOTE [2018-10-27 Sa 12:57] \\
@@ -329,12 +292,12 @@ DEADLINE: <2020-10-26 Mo>
     :END:
 
 
-*** TODO [SW08] Gotteswort in Menschenwort
+*** TODO [SW08] Sakramente
 DEADLINE: <2020-11-02 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Wort Gottes
-:ID:       02_SW08
-    :END:
+:CUSTOM_ID: Sakramente
+:ID: 02_SW08
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
     - CLOSING NOTE [2017-11-05 Son 15:26] \\
@@ -343,14 +306,13 @@ DEADLINE: <2020-11-02 Mo>
       Abraham / Sarah erst nächste Woche ...
     :END:
 
-**** Ziele LP 2000
-[[#01]] Biblisches Basiswissen: Wesentliche Aspekte der Entstehung des AT und der Geschichte Israels
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
 
-**** Kompetenzen
-[[#1b]] Sich mit der Entstehung des AT - von der mündlichen Überlieferung bis zur Schriftwerdung - auseinandersetzen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B4_AB1]] Religiöse Sprachkompetenz: Symbolsprache und Metaphern
+[[#B4_UH1]] sakramentale Zeichenhandlungen
 
 **** Wiederholung
 
@@ -367,12 +329,12 @@ Doppelseite gestalten im Heft zum Thema "Bibel".
 **** Hefteintrag
 
 
-*** TODO [SW09] Sakramente
+*** TODO [SW09] Sakramente Taufe
 DEADLINE: <2020-11-09 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Taufe
-:ID:       02_SW09
-    :END:
+:CUSTOM_ID: Taufe
+:ID: 02_SW09
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
     - CLOSING NOTE [2018-11-11 So 22:05] \\
@@ -381,13 +343,12 @@ DEADLINE: <2020-11-09 Mo>
       Diese Stunden haben mich überrascht: die 2A hat gerne und mit Freude Rosenkranz gebetet. In der 2B wiederum klappte es gar nicht: hier müssen die Schüler mehr selbständig arbeiten...
     :END:
 
-**** Ziele LP 2000
-[[#06]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
 
-**** Kompetenzen
-[[#6b]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B4_UH2]] Zeichen und Formen von Zugehörigkeit - Taufe
 
 **** Wiederholung
 
@@ -398,12 +359,12 @@ YouCat...
 **** Hefteintrag
 
 
-*** TODO [SW10] Sakramente der Initiation
+*** TODO [SW10] Das Glaubensbekenntnis
 DEADLINE: <2020-11-16 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Taufe
-:ID:       02_SW10
-    :END:
+:CUSTOM_ID: Credo
+:ID: 02_SW10
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
 - CLOSING NOTE [2019-11-15 Fr 16:23] \\
@@ -418,13 +379,12 @@ DEADLINE: <2020-11-16 Mo>
       Die Stunden waren okay ...
     :END:
 
-**** Ziele LP 2000
-[[#06]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
 
-**** Kompetenzen
-[[#6b]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B4_AB2]] Das Glaubensbekenntis
 
 **** Wiederholung
 
@@ -442,9 +402,9 @@ Eine Erinnerungsseite an meine eigene Taufe / Erstkommunion gestalten.
 *** TODO [SW11] Sakrament der Eucharistie
 DEADLINE: <2020-11-23 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Eucharistie
-:ID:       02_SW11
-    :END:
+:CUSTOM_ID: Eucharistie
+:ID: 02_SW11
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
 - State "DONE"       from "TODO"       [2019-11-25 Mo 21:40]
@@ -456,19 +416,18 @@ DEADLINE: <2020-11-23 Mo>
       okay
     :END:
 
-**** Ziele LP 2000
-[[#06]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
 
-**** Kompetenzen
-[[#6b]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B4_UH2]] Jesu Mahlgemeinschaften und die Feier der Eucharistie
 
 **** Wiederholung
 
 
 **** Erarbeitung
-YouCat + Arbeitsblatt
+YouCat + Arbeitsblatt 
 
 [[https://www.dw.com/de/stichwort-eucharistie/a-16857524?maca=de-twitter_de_kultur-4004-xml-mrss]]
 
@@ -491,14 +450,9 @@ DEADLINE: <2020-11-30 Mo>
       Zu kurz, um dieses Thema einigermaßen gut behandeln zu können...
     :END:
 
-**** Ziele LP 2000
-[[#04]] Sich selbst als Bub und Mädchen annehmen können und andere in ihrer Einzigartigkeit achten; Meine Persönlichkeit: Stärken und Schwächen
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#4b]] Sich selbst als Frau (Mädchen) oder Mann (Bub) annehmen und ihre Mitmenschen sich in Freiheit und Selbstverantwortung entfalten lassen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+**** AB / UH
 
 **** Wiederholung
 
@@ -526,14 +480,9 @@ DEADLINE: <2020-12-07 Mo>
       8.12.
     :END:
 
-**** Ziele LP 2000
-[[#07]] Mit religiösem und kirchlichem Brauchtum vertraut werden
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#7b]] Schüler können christliches Brauchtum deuten und pflegen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+**** AB / UH
 
 **** Wiederholung
 
@@ -595,14 +544,9 @@ DEADLINE: <2020-12-14 Mo>
       Schöne Stunden mit Bibelarbeit - die interessantesten Stunden sind immer noch jene mit der Bibel!
     :END:
 
-**** Ziele LP 2000
-[[#01]] Die Berufung Mariens und ihre Bedeutung im Heilsplan Gottes 
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#1a]] Schüler können Berufungserzählungen als Ausdruck von Erfahrungen der Zuwendung Gottes deuten und sie als Herausforderung für die persönliche Lebensgestaltung verstehen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
 
 **** Wiederholung
 
@@ -660,14 +604,9 @@ DEADLINE: <2020-12-21 Mo>
       schöne Stunden! 
     :END:
 
-**** Ziele LP 2000
-[[#01]] Gott offenbart sich in seinem Sohn Jesus Christus - Menschwerdung Gottes
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#1c]] Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
 
 **** Wiederholung
 
@@ -702,15 +641,9 @@ DEADLINE: <2021-01-04 Mo>
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:45]
 :END:
 
-**** Ziele LP 2000
-[[#01]] Gott offenbart sich in seinem Sohn Jesus Christus - Menschwerdung Gottes
-[[#07]] Christliches Brauchtum in regionaler Ausformung
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#1c]] Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
 
 **** Wiederholung
 
@@ -745,14 +678,9 @@ DEADLINE: <2021-01-11 Mo>
       Die Schüler waren interessiert.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Lebensträume - Lebensglück
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#5a]] Schüler können die Sehnsucht nach einem Leben in Fülle, wie es Jesus in seiner Botschaft vom Reich Gottes zusagt, wahrnehmen, selbst empfinden und ihr weiteres Leben danach ausrichten.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH
 
 **** Wiederholung
 
@@ -780,14 +708,9 @@ DEADLINE: <2021-01-18 Mo>
       Biblische Themen finden zu Beginn wenig Zuspruch, im Laufe der Stunden zeigen dioe Schüler jedoch großes Interesse.
     :END:
 
-**** Ziele LP 2000
-[[#04]] Sich selbst als Bub und Mädchen annehmen können und andere in ihrer Einzigartigkeit achten
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#4b]] Sich selbst als Frau (Mädchen) oder Mann (Bub) annehmen und ihre Mitmenschen sich in Freiheit und Selbstverantwortung entfalten lassen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+**** AB / UH
 
 **** Wiederholung
 
@@ -835,13 +758,9 @@ DEADLINE: <2021-01-25 Mo>
       ausgewählte Texte
     :END:
 
-**** Ziele LP 2000
-[[#06]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen: das Sakrament der Taufe
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#6b]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
 
 **** Wiederholung
 
@@ -867,13 +786,9 @@ DEADLINE: <2021-02-01 Mo>
       Diese Stunden, bzw dieses Thema hat die Schüler sehr interessiert - auch wenn sie zu Beginn ein wenig meckern. Es entwickeln sich daraus meist tolle Fragen und Diskussionen.
     :END:
 
-**** Ziele LP 2000
-[[#06]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#6b]] Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
 
 **** Wiederholung
 
@@ -1455,7 +1370,7 @@ CLOSED: [2021-04-24 Sa 22:12] DEADLINE: <2021-04-19 Mo>
 **** Erarbeitung
 Apostelgeschichte
 
-"Der Mund redet, wovon das Herz voll ist!"
+"Der Mund redet, wovon das Herz voll ist!" 
 
 YouCat über "Mission".
 
@@ -1748,7 +1663,7 @@ CLOSED: [2021-06-04 Fr 08:10] DEADLINE: <2021-05-31 Mo>
     - CLOSING NOTE [2018-06-03 So 22:17] \\
       Naja - die beiden Klassen waren sehr unruhig.
     - Note taken on [2018-05-28 Mo 12:18] \\
-      Montag, 2B: Eigentlich wollte ich mit den Schülern eine Stunde zum Thema "Apostel Paulus" halten. Die ganze Klasse war aber so unruhig! Ich habe dann die vielleicht falsche Entscheidung gestroffen: ich wurde sehr laut. Ich habe ihnen in letzter Konsequenz die Folgen ihres aktuellen Verhaltens aufgezeigt. Dass sich dadurch etwas ändert --> wahrscheinlich kaum. 
+      Montag, 2B: Eigentlich wollte ich mit den Schülern eine Stunde zum Thema "Apostel Paulus" halten. Die ganze Klasse war aber so unruhig! Ich habe dann die vielleicht falsche Entscheidung gestroffen: ich wurde sehr laut. Ich habe ihnen in letzter Konsequenz die Folgen ihres aktuellen Verhaltens aufgezeigt. Dass sich dadurch etwas ändert; wahrscheinlich kaum. 
       
       In den letzten 15 Minuten habe ich ihnen ein Video vom Pfingstkongress gezeigt - ein Zeugnis von Dino Bachmaier.
     :END:
@@ -1869,7 +1784,7 @@ CLOSED: [2021-06-28 Mo 00:22] DEADLINE: <2021-06-21 Mo>
     - CLOSING NOTE [2018-06-24 So 21:13] \\
       Hui, also in der 2A - die beiden I's sind echt furchtbar! Was sollen wir als Lehrer tun?
     - Note taken on [2018-06-18 Mo 11:37] \\
-      2B, Montag: YOUCAT Aids / Kondom: Gertraud Ellmauer "Die sollen zuerst einmal erwachsen werden ;)"
+      2B, Montag: YOUCAT Aids / Kondom: Gertraud Ellmauer "Die sollen zuerst einmal erwachsen werden"
       Ich habe es geschafft, dass die Schüler beim Thema bleiben, ohne blöde Witze zu machen.
       
       Ich habe die Schüler ein Thema aussuchen lassen. "Natürlich" kam dieses (siehe oben) Thema heraus. Das war zulässig, weil gegen Ende des Schuljahres. [HÜ gibt es bis zur letzten Stunde!] Sonst gebe ich das Thema vor.
@@ -1952,308 +1867,393 @@ CLOSED: [2021-07-09 Fr 08:39] DEADLINE: <2021-07-05 Mo>
 
 **** Hefteintrag
 
-** Kompetenzbereiche und Kompetenzdimensionen
 
-*** prozessbezogene Kompetenzbereiche
-Pro Schulstufe werden die verschiedenen Kompetenzbereiche unterschiedlich stark betont. 
+* Kompetenzbereiche und Kompetenzdimensionen
 
-**** <<A>> Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
-     :PROPERTIES:
-     :CUSTOM_ID: perzeption
-     :END:
-[[#03]] [[#06]] [[#07]]
+** Kompetenzmodell und -bereiche
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
 
-[[#Aschermittwoch - Not anderer]] [[#Theodizee]] [[#Klagepsalmen]]
-
-**** <<B>> Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
-     :PROPERTIES:
-     :CUSTOM_ID: kognition
-     :END:
-[[#01]] [[#02]] [[#06]] [[#07]]
-
-[[#Schöpfer erahnen]] [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]] [[#David]] [[#Berufung Stärken Schwächen]] [[#Maria Rosenkranz]] [[#Weihnachten]] [[#Taufe]] [[#Sakramente]] [[#Auferstehung]] [[#Botinnen Auferstehung]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Glaube ist]] [[#Gnade]] [[#Gebete Weltreligionen]] [[#Islam]]
-
-**** <<C>> Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
-     :PROPERTIES:
-     :CUSTOM_ID: performanz
-     :END:
-[[#01]] [[#03]] [[#04]] [[#05]] [[#06]] [[#07]]
-
-[[#im kleinen das Große]] [[#Schöpfer erahnen]] [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]] [[#David]] [[#Berufung Stärken Schwächen]] [[#Advent]] [[#Maria Rosenkranz]] [[#Weihnachten]] [[#Suche nach Glück]] [[#Aschermittwoch - Not anderer]] [[#im Leid nicht allein]] [[#Barmherzigkeit]] [[#Krankensalbung]] [[#Theodizee]] [[#Klagepsalmen]] [[#Auferstehung]] [[#Botinnen Auferstehung]] [[#Mission]] [[#Reich Gottes]] [[#Jesus offenbart Gott]] [[#Jesus im Mitmenschen]] [[#Warum beten]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Glaube ist]] [[#Gnade]]
-
-**** <<D>> Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
-     :PROPERTIES:
-     :CUSTOM_ID: interaktion
-     :END:
-[[#02]] [[#04]] [[#05]] [[#06]]
-
-[[#im kleinen das Große]] [[#Schöpfer erahnen]] [[#Suche nach Glück]] [[#Mission]] [[#Reich Gottes]] [[#Jesus offenbart Gott]] [[#Jesus im Mitmenschen]] [[#Gebete Weltreligionen]] [[#Islam]]
-
-**** <<E>> Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
-     :PROPERTIES:
-     :CUSTOM_ID: partizipation
-     :END:
-[[#03]] [[#04]] [[#06]] [[#07]]
-
-[[#Psalmen]] [[#Advent]] [[#im Leid nicht allein]] [[#Barmherzigkeit]] [[#Krankensalbung]] [[#Warum beten]]
-
-*** inhaltsbezogene Kompetenzdimensionen
-Eine ausgewogene Auswahl dieser Dimensionen ist deshalb wichtig, damit sich die Schüler "angesichts des Phänomens der Individualisierung und Pluralisierung von Religion kompetent verhalten können."
-
-**** Ad Ziel [[#01]]
-***** Schüler können Berufungserzählungen als Ausdruck von Erfahrungen der Zuwendung Gottes deuten und sie als Herausforderung für die persönliche Lebensgestaltung verstehen.
+**** A Menschen und ihre Lebensorientierungen
 :PROPERTIES:
-:CUSTOM_ID: 1a
+:CUSTOM_ID: A
+:ID:       3ff61f99-a118-450e-991d-757e759d8067
 :END:
- [[#Film Abraham 1]] [[#Film Abraham 2]] [[#David]]
-
-***** Sich mit der Entstehung des AT - von der mündlichen Überlieferung bis zur Schriftwerdung - auseinandersetzen.
+***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
 :PROPERTIES:
-:CUSTOM_ID: 1b
+:CUSTOM_ID: A1
+:ID:       a8413052-c447-44d3-b798-0d99a3ba39cc
 :END:
-[[#Ursprung Volk Israel]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]]
-
-***** Schüler können die unterschiedlichen Gottesbilder der Bibel als Bilder eines sich den Menschen zuwendenden Gottes deuten.
+****** Kompetenzbeschreibung:
 :PROPERTIES:
-:CUSTOM_ID: 1c
+:CUSTOM_ID: A1_KB1
+:ID:       53020bcc-91ae-4e91-918b-319c5c01cdb4
 :END:
-[[#Schöpfer erahnen]] [[#Weihnachten]] [[#Auferstehung]] [[#Botinnen Auferstehung]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Glaube ist]] [[#Gnade]]
-
-**** Ad Ziel [[#02]]
-***** Schüler können Konflikte erkennen und Lösungswege erarbeiten
+ Die Schüler können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
+ 
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 2a
+:CUSTOM_ID: A1_AB1
+:ID:       3bcc950c-41bb-478f-907b-0eb0009eb35b
 :END:
+ - Kommunikationsformen, [[#wie sage ichs]]
+ - Konflikt- und Streitkultur 
 
-***** Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen respektieren und wertschätzen
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 2b
+:CUSTOM_ID: A1_UH1
+:ID:       5e427aca-4f90-4062-96b7-1fbefafff5c9
 :END:
-[[#Gebete Weltreligionen]] [[#Islam]]
+ - Emotionale Ausdrucksfähigkeit, [[#wie sage ichs]]
+ - Rollen innerhalb einer Gemeinschaft, [[#mein Platz]]
+ - Peer-Mediation,
+ - digitale Kommunikation;
+ - Streitgespräche Jesu 
 
-***** Schüler können Gott als den, der das Heil aller will, begreifen.
+
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 2c
+:ID:       2b3a5547-8a30-4681-926d-95f8b545f3e0
+:CUSTOM_ID: A1_KB2
 :END:
-[[#im kleinen das Große]] [[#Schöpfer erahnen]]
+Die Schülerinnen und Schüler können vielfältige Formen von Liebe unterscheiden und sich mit der eigenen Geschlechtlichkeit auseinandersetzen. 
 
-
-**** Ad Ziel [[#03]]
-***** Mitmenschen und Gott als Ansprechpartner und Beistand im Leid erkennen.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 3a
+:ID:       8825e8b5-6afc-499c-b8a9-744cb4809943
+:CUSTOM_ID: A1_AB2
 :END:
-[[#im Leid nicht allein]] [[#Barmherzigkeit]] [[#Krankensalbung]] [[#Theodizee]] [[#Klagepsalmen]]
+Eros - Agape / Caritas 
 
-***** Schüler können sich leidenden Menschen zuwenden.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 3b
+:ID:       7039509b-138e-4ec0-a35a-5d29e97983dc
+:CUSTOM_ID: A1_UH2
 :END:
-[[#im Leid nicht allein]]
+ - Liebe als christliche Grundhaltung,
+ - Geschlechtergerechtigkeit,
+ - Sakrament: Ehe 
 
-***** Schüler können Leid wahrnehmen und empathisch nachempfinden.
+
+***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 :PROPERTIES:
-:CUSTOM_ID: 3c
+:CUSTOM_ID: A2
+:ID:       d3986c49-2225-4ab7-bc20-3ef5dcff3af0
 :END:
-[[#Aschermittwoch - Not anderer]] [[#Barmherzigkeit]] [[#Krankensalbung]]
-
-**** Ad Ziel [[#04]]
-***** Die Erfahrung von Freundschaft zur Sprache bringen und ausdrücken, sowie gegenseitiges Vertrauen als Grundvoraussetzung für Freundschaft begreifen.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 4a
+:CUSTOM_ID: A2_KB1
+:ID:       814c99f7-7084-4a04-9cea-2a86a8d27ae1
 :END:
+Die Schüler können leidvolle Erfahrungen zum Ausdruck bringen und (christliche) Wege des Umgangs mit menschlicher Begrenztheit aufzeigen.  
 
-***** Sich selbst als Frau (Mädchen) oder Mann (Bub) annehmen und ihre Mitmenschen sich in Freiheit und Selbstverantwortung entfalten lassen.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 4b
+:CUSTOM_ID: A2_AB1
+:ID:       b63c841d-b3ec-41f5-8890-da5c963857c3
 :END:
-[[#Berufung Stärken Schwächen]] [[#Gott liebt dich!]]
+Angenommen-Sein in Erfahrungen von Trennung, Verlust, Misserfolg und Krankheit 
 
-***** Schüler können in der Pluralität der Lebensorientierungen ihr Sein an der Botschaft Jesu ausrichten.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 4c
+:CUSTOM_ID: A2_UH1
+:ID:       f041bb7f-3bad-4059-9eab-15eb52386149
 :END:
-[[#Jesus offenbart Gott]] [[#Jesus im Mitmenschen]]
+ - Spiritualität,
+ - Hilfseinrichtungen,
+ - Barmherzigkeit, Kinderrechte,
+ - Sakrament: Krankensalbung 
 
-**** Ad Ziel [[#05]]
-***** Schüler können die Sehnsucht nach einem Leben in Fülle, wie es Jesus in seiner Botschaft vom Reich Gottes zusagt, wahrnehmen, selbst empfinden und ihr weiteres Leben danach ausrichten.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 5a
+:ID:       5048b0bd-0d37-4464-8025-f2f3a0ab45ef
+:CUSTOM_ID: A2_KB2
 :END:
-[[#im kleinen das Große]] [[#Suche nach Glück]] [[#Mission]] [[#Reich Gottes]]
+Die Schüler können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaftes Verhalten erkennen und sich mit Möglichkeiten der Vergebung auseinandersetzen. 
 
 
-**** Ad Ziel [[#06]]
-***** Schüler können Symbole erschließen, sie deuten und interpretieren.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 6a
+:ID:       18256818-7d7b-41f1-82f5-ca0cc3fc3e4b
+:CUSTOM_ID: A2_AB2
 :END:
 
-
-***** Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen deuten.
+****** Unterrichtshinweise
 :PROPERTIES:
-:CUSTOM_ID: 6b
+:ID:       bb4d8ecd-67d9-4254-aa68-d890c7c46086
+:CUSTOM_ID: A2_UH2
 :END:
-[[#Taufe]] [[#Sakramente]] 
+ - (Un-)gerechte Strukturen,
+ - Verantwortungsbewusstsein,
+ - Jesu Umgang mit Sündern,
+ - (sakramentale) Formen von Vergebung 
 
-***** Schüler können die verschiedene Formen des Gebets benennen und in ihr eigenes Leben integrieren. 
+
+**** B Gelehrte und gelebte Bezugsreligion
 :PROPERTIES:
-:CUSTOM_ID: 6c
+:CUSTOM_ID: A1_AB1
+:ID:       98c1e464-5259-4b6e-ad28-567838aea71c
 :END:
-[[#Psalmen]] [[#Warum beten]]
-
-**** Ad Ziel [[#07]]
-***** Schüler können Spuren des Christentums in Kultur und Gesellschaft erkennen und deuten.
+***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
-:CUSTOM_ID: 7a
+:CUSTOM_ID: B3
+:ID:       bfa9d9cf-fa1e-4527-8bde-8fd5cbae6132
 :END:
-
-
-***** Schüler können christliches Brauchtum deuten und pflegen.
+****** Kompetenzbeschreibungen
 :PROPERTIES:
-:CUSTOM_ID: 7b
+:CUSTOM_ID: B3_KB1
+:ID:       51f2ed27-f51d-4f34-a8e0-2f2158c553bc
 :END:
+Die Schüler verfügen über vertiefte Grundkenntnisse zum Alten Testament und zur Vielfalt der biblischen Sprachwelt. 
 
-
-***** Sich mit Formen christlichen Lebens auseinandersetzen.
+****** Anwendungsbereiche
 :PROPERTIES:
-:CUSTOM_ID: 7c
+:CUSTOM_ID: B3_AB1
+:ID:       a90e916b-7f08-455d-b871-d2eed915f141
 :END:
+Biblisch-hermeneutische Kompetenz:
+ - literarische Gattungen in der Bibel; [[#Bibel AT]]
+ - Geschichte des Volkes Israel im Überblick [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]]
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH1
+:ID:       7fb13d8b-bbe3-4e1a-a009-f80559673b1a
+:END:
+ - Ausgewählte Textsorten, [[#Bibel AT]]
+ - Geschichte als Heilsgeschichte am Beispiel der Erzeltern [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]]
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B3_KB2
+:ID:       b7743af3-0fef-4abe-982c-6466464d707c
+:END:
+Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B3_AB2
+:ID:       48b9f84f-7f7d-495b-8175-7d7b1fc662a3
+:END:
+Trinität – Gott in Beziehung 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH2
+:ID:       6046d819-4000-48af-bb73-c733a523295d
+:END:
+ - Die Selbstoffenbarung Gottes (Ex 3),
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15);
+ - persönliche Glaubensentwicklung 
 
 
-** Unterrichtsprinzip
-Korrelation Erfahrungen der Schüler zur Sprache bringen, diese werden auf religiöse Bedeutung erschlossen und mit der christlichen / biblischen / kirchlichen Botschaft bzw Überlieferung (Tradition) wechselseitig in Beziehung gesetzt. Fachspezifische Bildungsinhalte; für Schüler oft neu und fremd, stellen das Leben in Frage / ermöglichen neue Erfahrungen für die Schüler.
+***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+:PROPERTIES:
+:CUSTOM_ID: B4
+:ID:       bcce820f-30ac-4542-ac0a-83fbc5f8a614
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB1
+:ID:       ba44fb9c-9ebb-4a3d-86d7-50da0f4e4b98
+:END:
+Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben. [[#Sakramente]]  
 
-** Jahresübergreifende Kompetenzen (nach Schulplan 2000, revidierte Fassung von 18. April 2017)
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB1
+:ID:       37d619b3-0a68-44ae-9490-c40c9e5c8994
+:END:
+Religiöse Sprachkompetenz: Symbolsprache und Metaphern 
 
-*** <<K01>> Vielfältige Gottesbilder - der sich in Jesus Christus offenbarende Gott [[#1a]] [[#1b]] [[#1c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 01
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:33] \\
-      Sehnsüchte und vielfältige Gottesbilder wahrnehmen können, sich mit der persöhnlichen Gottesahnung auseinandersetzen und diese in Beziehung zur christlichen Botschaft von Vater, Sohn und Heiliger Geist setzen können.
-    :END:
-
-   - Gott als Freund des Lebens und als Herausforderung für die persönliche Lebensgestaltung verstehen können ([[B]],[[C]])
-     /Berufungserzählungen aus dem AT (Abraham und Sara; David) und NT (Paulus)/ [[#Film Abraham 1]] [[#Film Abraham 2]] [[#David]]
-     /Die Berufung Mariens und ihre Bedeutung im Heilsplan Gottes/ [[#Maria Rosenkranz]]
-     /Gottesbilder im AT (z.B. Ps 23), das Gottesbild Jesu (z.B. Lk 15)/ [[#Schöpfer erahnen]]
-     /Biblisches Basiswissen: Wesentliche Aspekte der Entstehung des AT und der Geschichte Israels; zentrale Evangeliumstexte/ [[#Ursprung Volk Israel]] [[#Film Abraham 1]] [[#Film Abraham 2]] [[#Bibel AT]] [[#Wort Gottes]] [[#Psalmen]] [[#Botinnen Auferstehung]]
-     /Gott offenbart sich in seinem Sohn Jesus Christus/ [[#Weihnachten]] [[#Weisen aus dem Morgenland]] [[#Auferstehung]] [[#Pfingsten]] [[#Dreifaltigkeit]] [[#Gnade]]
-     /Der Mensch antwortet Gott im Glauben/ [[#Glaube ist]]
-     
-*** <<K02>> Toleranz und Wertschätzung angesichts der Vielfalt von Kulturen und Religionen [[#2a]] [[#2b]] [[#2c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 02
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:08] \\
-      Unterschiedliche Lebens- und Glaubensformen in Kulturen und Religionen kennen, sich im Geist Jesu kritisch mit ihnen auseinandersetzen sowie Toleranz und Wertschätzung praktizieren.
-    :END:
-
-   - Gott als den verstehen, der das Heil aller Menschen will und in diesem Geist Menschen mit ihren unterschiedlichen Lebens- und Glaubensformen ernst nehmen und achten ([[B]],[[D]])
-     /Konflikt, Toleranz und Wertschätzung in der Lebenswelt der Schüler (vgl. II. Vaticanum Nostra aetate)/ 
-     /Gebete verschiedener Religionen/ [[#Gebete Weltreligionen]] [[#Islam]]
-     /Erzählungen (z.B. Jona) und Bilder (z.B. Propheten) vom Heilswillen Gottes/
-     /Zuwendung Gottes erahnen/ [[#Schöpfer erahnen]]
-     /Staunen über die Wunder der Schöpfung/ [[#im kleinen das Große]]
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH1
+:ID:       5ad30fd0-2813-4327-a69c-1c3d4f7bd804
+:END:
+ - Kreative Symbolgestaltung (im digitalen Bereich),
+ - sakramentale Zeichenhandlungen [[#Sakramente]]
     
-*** <<K03>> Leben und Hoffen angesichts von Schuld, Leid und Tod [[#3a]] [[#3b]] [[#3c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 03
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:15] \\
-      Schuld, Leid und Tod im persönlichen Leben und in der Gesellschaft wahrnehmen, unterschiedliche Bewältigungsversuche udn Sinndeutungen kennen und mit der befreienden Wirkenung des Lebens, des Sterbens und der Auferstehung Jesu in Beziehung setzen können.
-    :END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB2
+:ID:       f569635c-927e-4a27-b361-db0995efe3dd
+:END:
+Die Schülerinnen und Schüler können Taufe und Eucharistie als Ausdruck der Zugehörigkeit zur kirchlichen Gemeinschaft verstehen. [[#Taufe]]
 
-   - Möglichkeiten kennen, sich im Leid an Mitmenschen und an Gott zu wenden ([[A]],[[C]]) [[#Aschermittwoch - Not anderer]]
-     /Hilfseinrichtungen: Caritas, Diakonie, Kindertelefon, .../ 
-     /Klagepsalmen (z.B. Ps 22)/ [[#Klagepsalmen]]
-     /Die Theodizee-Frage: Gott ist gut, warum gibt es Leid in der Welt?/ [[#Theodizee]]
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB2
+:ID:       4695b542-67eb-4115-af49-10d786d88ce6
+:END:
+Das Glaubensbekenntnis [[#Credo]]
 
-   - Möglichkeiten entwerfen, sich leidenden Mitmenschen zuzuwenden ([[C]],[[E]]) [[#im Leid nicht allein]]
-     /Die Werke der Barmherzigkeit (Mt 25,31-40)/ [[#Barmherzigkeit]] [[#Mutter Teresa]]
-     /Das Sakrament der Krankensalbung/ 
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH2
+:ID:       1abfd3b8-72a6-4be3-bded-0bbc3f635ab2
+:END:
+ - Zeichen und Formen von Zugehörigkeit, [[#Taufe]]
+ - Jesu Mahlgemeinschaften und die Feier der Eucharistie [[#Eucharistie]]
 
-*** <<K04>> Würde des Menschen in Freiheit und Verantwortung [[#4a]] [[#4b]] [[#4c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 04
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:18] \\
-      Die eigene Würde und die der anderen anerkennen und reflektieren, was sie im Zusammenleben födert und gefährdet, und sich im solidarischen Handeln am Beispiel Jesu orientieren können.
-    :END:
 
-   - Über die Erfahrung der Freundschaft reflektieren und dazu Stellung nehmen ([[D]])
-     /Freundschaft: Grundbedürftnis, Gefährdung, Gelingen, .../
+**** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
+:PROPERTIES:
+:CUSTOM_ID: C
+:ID:       f3d2cdab-3c3b-40a5-99fa-1db453947574
+:END:
+***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+:PROPERTIES:
+:CUSTOM_ID: C5
+:ID:       9af90d5b-a81b-413b-9f71-0d331c311042
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB1
+:ID:       b58a9064-e757-459b-a40b-069bbddfb33d
+:END:
+Die Schüler können christliche Motive in ihrer Lebenswelt wahrnehmen und sakrale Räume in ihrer Bedeutung für Menschen erschließen. 
+  
 
-   - In der Pluralität der Lebensorientierung sich an der Botschaft Jesu ausrichten können ([[C]],[[D]]) 
-     /Die Menschenfreundlichkeit Gottes in der Lebenspraxis Jesu/ [[#Jesus offenbart Gott]]
-     /Jesu Umgang mit Menschen am Rande/ [[#Jesus im Mitmenschen]]
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB1
+:ID:       a1496578-eb81-4b6c-8e9c-0f3e039b1ef9
+:END:
 
-   - Sich selbst als Bub und Mädchen annehmen können und andere in ihrer Einzigartigkeit achten ([[C]],[[E]])
-     /Meine Persönlichkeit: Stärken und Schwächen/ [[#Berufung Stärken Schwächen]] [[#Gott liebt dich!]]
-     /Frauenrollen - Männerrollen/
-     /Biblische Frauen- und Männergestalten/ 
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH1
+:ID:       0a0380d4-a65f-45dc-ba86-688a491ef99b
+:END:
+ - Religiös Bedeutsames in Medien, Literatur, Politik, Musik und Werbung;
+ - Maria in Kunst und spiritueller Lebenswelt;
+ - Brauchtum, Pilgern 
 
-*** <<K05>> Welt und Mensch - Schöpfung Gottes [[#5a]]
-    :PROPERTIES:
-    :CUSTOM_ID: 05
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:21] \\
-      Sich selbst und die Welt als entwicklungsfähig und gefährdet erkennen, die Schöpfung und sich selbst als Geschöpf in Dankbarkeit und Verantwortung verstehen und die Sehnsucht nach Vollendung offen halten.
-    :END:
 
-   - Die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und mit der Zusage der Reich-Gottes-Botschaft Jesu in Beziehung setzen können ([[C]],[[D]])
-     /Lebensträume - Lebensglück/ [[#Suche nach Glück]]
-     /Bilder und Gleichnisse vom Reich Gottes/ [[#Reich Gottes]]
-     /Der missionarische Auftrag der Kirche/ [[#Mission]]
 
-*** <<K06>> Symbole - Rituale - Sakramente [[#6a]] [[#6b]] [[#6c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 06
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:24] \\
-      Symbole und Rituale in Kommunikation, in der Bilder- und Medienwelt beschreiben und interpretieren können, religiöse Ausdrucksformen erklären können und die Bedeutung der Sakramente verstehen.
-    :END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB2
+:ID:       3dc8cceb-f8ed-4f29-b362-f902344944d6
+:END:
 
-   - Symbole beschreiben und deuten ([[A]],[[B]]) 
-     /Handlungssymbole im Leben der Menschen/ 
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB2
+:ID:       5bf69686-a5b9-41d0-a605-24467f37e9a4
+:END:
 
-   - Sakramente als Zeichen der Liebe und Nähe Gottes im Leben der Menschen verstehen ([[B]])
-     /Die 7 Sakramente - eine Zusammenschau/ [[#Sakramente]] [[#Eucharistie]]
-     /Das Sakrament der Taufe/ [[#Taufe]]
-     /Das Sakrament der Buße, Beichte, .../ 
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH2
+:ID:       c1e61394-fa45-49a7-a80c-0cfa912bc8e5
+:END:
 
-   - Verschiedene Formen des Gebets ([[C]],[[E]]) 
-     /Grundgebete/ [[#Warum beten]]
-     /Stille, betrachtendes Gebet/ [[#Psalmen]]
-     /Gebet der Kirche/ [[#Psalmen]]
-     /Orte und Zeiten des Gebets/ [[#Warum beten]]
+***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+:PROPERTIES:
+:CUSTOM_ID: C6
+:ID:       40462cc0-bfae-4a71-b5eb-2c290bb41700
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB1
+:ID:       3caf8629-0d43-4d1f-b678-a86a9e4a7022
+:END:
+Die Schüler können Grundzüge des Judentums beschreiben und die Nähe des Christentums zum Judentum darlegen.    
 
-*** <<K07>> Christentum in Kultur und Geschichte - Kirche, Ökumene [[#7a]] [[#7b]] [[#7c]]
-    :PROPERTIES:
-    :CUSTOM_ID: 07
-    :END:
-    :LOGBOOK:
-    - Note taken on [2017-09-29 Fre 10:26] \\
-      Zeugnisse des Christlichen in der Kultur entdecken, Feste als Unterbrechung des Alltags verstehen, am kirchlichen Leben in seinen vielfältigen Formen und Traditionen teilhaben können.
-    :END:
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB1
+:ID:       31991499-6f47-44ba-b75b-4e443d12a565
+:END:
 
-   - An christlichem Brauchtum und kirchlichem Leben teilhaben können ([[C]],[[E]])  
-     /Christliches Brauchtum in regionaler Ausformung/ [[#Advent]] [[#Weisen aus dem Morgenland]]
-     /Leben der Pfarrgemeinde, .../
-     /Aufgaben und Struktur der Diözese/ 
-     /Osterfestkreis/
 
-   - Das Christliche in Kultur und Gesellschaft entdecken können ([[A]],[[B]])
-     /Kirche in Österreich (Persönlichkeiten, soziale Einrichtungen, Bauten, Geschichte, ...)/ 
-     /Spuren des Christlichen/ 
-     /Diakonisches Handeln/ 
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH1
+:ID:       ec98864f-8e6a-4e04-bb9e-08037d786f6e
+:END:
+ - Wesentliche Glaubensinhalte und religiöse Praxis (Feste und Gebet),
+ - erwähltes Volk, Messiasvorstellungen und Messiaserwartung 
+
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB2
+:ID:       b20185be-c375-491b-b383-cb0a87b5249f
+:END:
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB2
+:ID:       0f84caac-1744-404e-8d7d-77f1cf8e9538
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH2
+:ID:       25c144a4-e802-49f3-878d-2d05a5880e7a
+:END:
+
+
+**** Kompetenzdimensionen 
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+ - Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+ - Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+ - Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+ - Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+ - Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+
+*** Zentrale fachliche Konzepte
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
+
+**** Lebensrealitäten und Transzendenz
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
+
+**** Gottesliebe und Menschenliebe
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
+
+**** Jesus der Christus
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
+
+**** Freiheit und Offenbarung
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
+
+**** Zusage und Verantwortung
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
+
+*** Didaktische Grundsätze
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
+
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des Ganzen im Fragment, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
+
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
+
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
+
+*Fokus: Religiöse Sprache und Symbole*
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
+
+*Fokus: Philosophieren und Theologisieren*
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
+
+*Fokus: Actio und Contemplatio*
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
+
+*Fokus: Beziehung und Resonanz*
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+
+*** Hinweise zum Lehrplan
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** KB – Kompetenzbeschreibungen
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** AB – Anwendungsbereiche
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+
+**** UH – Unterrichtshinweise
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
 
 
 ** Themengebiete (Kirchenjahr, Heilige Schrift, ...)

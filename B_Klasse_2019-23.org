@@ -6,7 +6,7 @@
 #+SELECT_TAGS: BS
 #+BIBLIOGRAPHY: ~/org/Bibliography/Literatur authoryear-ibid
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) ZKTO(z) CANCELED(c@)
-#+SETUPFILE: ~/org/latex_setup.org
+#+SETUPFILE: ~/org/config/latex_setup.org
 #+TITLE: 3B
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
