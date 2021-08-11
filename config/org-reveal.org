@@ -1,0 +1,43 @@
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+STARTUP: hidestars
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js/
+#+OPTIONS: num:nil toc:nil
+#+TITLE: Präsentation
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Erste Folie
+Darunter ein Text.
+
+* Zweite Seite
+und der Text
+
+#+BEGIN_NOTES
+Meine Notizen als Vortragender.
+#+END_NOTES
+
+** und hier eine Unterseite
+mit dem Text
+
+#+BEGIN_NOTES
+Meine Notizen als Vortragender.
+#+END_NOTES
+
+** eine zweite Unterseite
+und dem Text
+
+* dritte Seite
+und der Text
+
+#+BEGIN_NOTES
+Meine Notizen als Vortragender.
+#+END_NOTES
+
+* 
+:PROPERTIES:
+:reveal_background: images/felsengrab.jpg
+:reveal_background_size: 640px
+:reveal_background_trans: slide
+:END:

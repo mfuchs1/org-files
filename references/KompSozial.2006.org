@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       734cb1fc-3d8f-4cb1-b937-e0f9707a34b1
+:ROAM_REFS: cite:KompSozial.2006
+:END:
+#+title: Kompendium der soziallehre der kirche
+#+PROPERTY: type collection
+#+FILETAGS: Glaube
+#+PROPERTY: authors 
+
+In this collection  concluded that blabla
+
+fullcite:collection

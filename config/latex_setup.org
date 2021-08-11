@@ -1,0 +1,204 @@
+#+LATEX_CLASS: org-plain-latex
+#+LATEX_CLASS_OPTIONS: [pdftex,a4paper,12pt,bibliography=totoc,draft]
+#+LATEX_HEADER: \usepackage[top=2.5cm, bottom=2.5cm, left=4.0cm, right=3.0cm]{geometry}
+#+LATEX_HEADER: \usepackage{nicefrac}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: %\usepackage{ucs}
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: \usepackage[style=authoryear-ibid,backend=biber,dashed=false,isbn=false]{biblatex}
+#+LATEX_HEADER: \DeclareLanguageMapping{ngerman}{ngerman-apa}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \renewbibmacro*{bbx:editor}[1]{%
+#+LATEX_HEADER:   \ifthenelse{\ifuseeditor\AND\NOT\ifnameundef{editor}}
+#+LATEX_HEADER:     {\ifthenelse{\iffieldequals{fullhash}{\bbx@lasthash}\AND
+#+LATEX_HEADER:                  \NOT\iffirstonpage\AND
+#+LATEX_HEADER: 		 \(\NOT\boolean{bbx@inset}\OR
+#+LATEX_HEADER: 		   \iffieldequalstr{entrysetcount}{1}\)}
+#+LATEX_HEADER:        {\bibnamedash}
+#+LATEX_HEADER:        {\printnames{editor}%
+#+LATEX_HEADER: 	\setunit{\addspace}% GEÄNDERT
+#+LATEX_HEADER: 	\usebibmacro{bbx:savehash}}%
+#+LATEX_HEADER:      \printtext[parens]{\usebibmacro{#1}}% GEÄNDERT
+#+LATEX_HEADER:      \clearname{editor}%
+#+LATEX_HEADER:      \setunit{\addspace}}%
+#+LATEX_HEADER:     {\global\undef\bbx@lasthash
+#+LATEX_HEADER:      \usebibmacro{labeltitle}%
+#+LATEX_HEADER:      \setunit*{\addspace}}%
+#+LATEX_HEADER:   \usebibmacro{date+extradate}}
+#+LATEX_HEADER: \makeatother
+#+LATEX_HEADER: 
+#+LATEX_HEADER: \DeclareBibliographyDriver{incollection}{%
+#+LATEX_HEADER:   \usebibmacro{bibindex}%
+#+LATEX_HEADER:   \usebibmacro{begentry}%
+#+LATEX_HEADER:   \usebibmacro{author/translator+others}%
+#+LATEX_HEADER:   \setunit{\labelnamepunct}\newblock
+#+LATEX_HEADER:   \usebibmacro{title}%
+#+LATEX_HEADER:   \newunit
+#+LATEX_HEADER:   \printlist{language}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{byauthor}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{in:}%
+#+LATEX_HEADER:   \begingroup% NEU
+#+LATEX_HEADER:   \renewbibmacro*{date+extradate}{}% NEU
+#+LATEX_HEADER:   \usebibmacro{editor+others}% NEU
+#+LATEX_HEADER:   \newunit{\addcolon\addspace}\newblock% NEU
+#+LATEX_HEADER:   \endgroup% NEU
+#+LATEX_HEADER:   \usebibmacro{maintitle+booktitle}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER: %  \usebibmacro{byeditor+others}%
+#+LATEX_HEADER: %  \newunit\newblock
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{chapter+pages}%
+#+LATEX_HEADER:   \printfield{edition}%
+#+LATEX_HEADER:   \newunit
+#+LATEX_HEADER:   \iffieldundef{maintitle}
+#+LATEX_HEADER:     {\printfield{volume}%
+#+LATEX_HEADER:      \printfield{part}}
+#+LATEX_HEADER:     {}%
+#+LATEX_HEADER:   \newunit
+#+LATEX_HEADER:   \printfield{volumes}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{series+number}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \printfield{note}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{publisher+location+date}%
+#+LATEX_HEADER:   %\newunit\newblock
+#+LATEX_HEADER:   %\usebibmacro{chapter+pages}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \iftoggle{bbx:isbn}
+#+LATEX_HEADER:     {\printfield{isbn}}
+#+LATEX_HEADER:     {}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{doi+eprint+url}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{addendum+pubstate}%
+#+LATEX_HEADER:   \newunit\newblock
+#+LATEX_HEADER:   \usebibmacro{pageref}%
+#+LATEX_HEADER:   \usebibmacro{finentry}}
+#+LATEX_HEADER:   
+#+LATEX_HEADER: % \DeclareBibliographyDriver{article}{
+#+LATEX_HEADER: %   \usebibmacro{bibindex}%
+#+LATEX_HEADER: %   \usebibmacro{begentry}%
+#+LATEX_HEADER: %   \usebibmacro{author/translator+others}%
+#+LATEX_HEADER: %   \setunit{\labelnamepunct}\newblock
+#+LATEX_HEADER: %   \usebibmacro{title}%
+#+LATEX_HEADER: %   \newunit
+#+LATEX_HEADER: %   \printlist{language}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \usebibmacro{byauthor}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \usebibmacro{byeditor+others}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \printfield{version}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: % %  \usebibmacro{in:}%   SO KLAPPT DAS!
+#+LATEX_HEADER: %   \usebibmacro{journal+issuetitle}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \printfield{note}%
+#+LATEX_HEADER: %   \setunit{\bibpagespunct}%
+#+LATEX_HEADER: %   \printfield{pages}
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \printfield{issn}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \printfield{doi}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \usebibmacro{eprint}
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \usebibmacro{url+urldate}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER: %   \printfield{addendum}%
+#+LATEX_HEADER: %   \newunit\newblock
+#+LATEX_HEADER:  %   \usebibmacro{pageref}%
+#+LATEX_HEADER: %   \usebibmacro{finentry}
+#+LATEX_HEADER: % }
+#+LATEX_HEADER:  
+#+LATEX_HEADER: \DefineBibliographyStrings{german}{%
+#+LATEX_HEADER:     byeditor = {Hrsg\adddot},%
+#+LATEX_HEADER:     byeditor = {Hrsg\adddot},%
+#+LATEX_HEADER:     andothers={et \addabbrvspace al\adddot},
+#+LATEX_HEADER: }
+#+LATEX_HEADER: 
+#+LATEX_HEADER: %\DeclareNameAlias{sortname}{last-first}
+#+LATEX_HEADER: %\DeclareNameAlias{default}{last-first}
+#+LATEX_HEADER: \DeclareNameAlias[incollection]{editor}{default}
+#+LATEX_HEADER: %\DeclareFieldFormat{namelast}{\mkbibacro{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[incollection]{title}{\mkbibitalic{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[incollection]{booktitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[incollection]{pages}{\parentext{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[incollection]{editor}{#1\addcolon}
+#+LATEX_HEADER: \DeclareFieldFormat[article]{title}{\mkbibitalic{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[article]{journaltitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[article]{urldate}{\brackettext{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[article]{note}{#1\addcolon\addspace}
+#+LATEX_HEADER: \DeclareFieldFormat[collection]{urldate}{\brackettext{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[collection]{note}{#1\addcolon\addspace}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{urldate}{\brackettext{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{note}{#1\addcolon\addspace}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: \AtBeginBibliography{%
+#+LATEX_HEADER: 	\renewcommand{\nametitledelim}{\addcolon\space}
+#+LATEX_HEADER: 	\renewcommand{\finalnamedelim}{\addcomma\space}
+#+LATEX_HEADER: 	
+#+LATEX_HEADER: }
+#+LATEX_HEADER: %\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+#+LATEX_HEADER: \renewcommand{\labelnamepunct}{\addcolon\addspace}
+#+LATEX_HEADER: \renewcommand{\nameyeardelim}{\addcomma\space}
+#+LATEX_HEADER: \renewcommand{\subtitlepunct}{\adddot\space}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: %\renewcommand{\nametitledelim}{\addcolon\addspace}
+#+LATEX_HEADER: %\addbibresource{Literatur.bib} %% Einbinden der bib-Datei
+#+LATEX_HEADER: \bibliography{../Bibliography/Literatur}
+#+LATEX_HEADER: \providecommand{\apashortdash}{-}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: %\makeatletter
+#+LATEX_HEADER: %\renewcommand\@biblabel[1]{}
+#+LATEX_HEADER: %\makeatother
+#+LATEX_HEADER: \usepackage[babel,german=quotes]{csquotes}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{rm}
+#+LATEX_HEADER: \usepackage[pdftex]{graphicx}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \usepackage{cjhebrew}
+#+LATEX_HEADER: \renewcommand{\figurename}{Abbildung}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \renewcommand{\familydefault}{\rmdefault}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \addtokomafont{sectioning}{\rmfamily}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: %\renewcommand{\familydefault}{\sfdefault}
+#+LATEX_HEADER: %\usepackage{helvet}
+#+LATEX_HEADER: %\usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{ragged2e}
+#+LATEX_HEADER: \RequirePackage{processkv}
+#+LATEX_HEADER: \usepackage{parcolumns}
+#+LATEX_HEADER: \usepackage{blindtext}
+#+LATEX_HEADER: \setcounter{tocdepth}{3}
+#+LATEX_HEADER: \setcounter{secnumdepth}{3}
+#+LATEX_HEADER: \usepackage{xpatch}
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: 
+#+LATEX_HEADER: %Kopfzeile
+#+LATEX_HEADER: \usepackage[draft=false,automark,headsepline,plainheadsepline]{scrlayer-scrpage}
+#+LATEX_HEADER: %\KOMAoptions{onpsinit=\linespread{1}\selectfont
+#+LATEX_HEADER: \pagestyle{scrheadings}
+#+LATEX_HEADER: \clearmainofpairofpagestyles
+#+LATEX_HEADER: \clearplainofpairofpagestyles
+#+LATEX_HEADER: \ihead{\headmark}
+#+LATEX_HEADER: \ohead{\pagemark}
+#+LATEX_HEADER: \automark{section}
+#+LATEX_HEADER: \onehalfspacing

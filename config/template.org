@@ -1,0 +1,7 @@
+#+PROPERTY: type %^{entry-type}
+#+FILETAGS: %^{keywords}
+#+PROPERTY: authors %^{author}
+
+Aus diesem %\1 %\3 können wir den Schluss ziehen, dass %?
+
+fullcite:%\1

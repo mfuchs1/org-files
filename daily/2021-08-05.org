@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c3277ad0-0979-48ea-920d-9d0e961d81ae
+:END:
+#+title: 2021-08-05
+* Aha - so geht ein Tagebuch Eintrag in org-roam
+Hier kommt der Text hin.
