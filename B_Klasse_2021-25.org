@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: B_Klasse_2021-25
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -10,6 +13,10 @@
 #+TITLE: 1B
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
+
+
+* Jahresplanung
+[[id:01_Goling][01_Golling]]
 
 * Mitarbeit
 

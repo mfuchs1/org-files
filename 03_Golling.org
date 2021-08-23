@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: 03_Goling
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -35,12 +38,13 @@ vollständiger Text des Lehrplans (online):
 
 
 ** Welche Klasse
-Eine Planung für die dritten Klassen der NMS Golling: 3a, 3b, Sekundarstufe I. Die beiden Klassen sind recht unterschiedlich. 
+[[id:A_Klasse_2019-23][3A]]
 
-Die 3a ist als sehr schwierig in der ganzen NMS bekannt, die Leistungen der Schüler liegen unter dem Durchschnitt der Schule. Ein paar Schüler fallen regelmäßig negativ durch ihr Verhalten auf. Die 3b ist eine i-Klasse, auch finden sich "verhaltensauffällige" Schüler. Da es jedoch auch sehr, sehr gute Schüler unter ihnen gibt, ist das Unterrichten hier weniger "anstrengend". In beiden Klassen muss der Lehrer recht streng sein, sonst tanzen die Kinder dem Lehrer auf der Nase herum. 
+[[id:B_Klasse_2019-23][3B]]
 
 
 ** Jahresplanung
+
 
 *** TODO [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
 DEADLINE: <2020-09-14 Mo>

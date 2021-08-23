@@ -15,11 +15,27 @@
 * Inbox
 
 ** TODO Geistliche Lektüre
-DEADLINE: <2021-06-14 Mo +1w>
+DEADLINE: <2021-08-09 Mo +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-06-09 Mi 10:57]
+:LAST_REPEAT: [2021-08-13 Fr 13:51]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
 - State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
 - State "DONE"       from "TODO"       [2021-06-09 Mi 10:57]
@@ -120,11 +136,15 @@ CLOSED: [2021-04-13 Di 07:57] DEADLINE: <2021-04-04 So>
 Artikel und Beiträge aus diversen Büchern und Lexika rezipieren.
 
 ** TODO [#A] Isabelle regelmäßig überraschen
-DEADLINE: <2021-07-25 So +1w -2d>
+DEADLINE: <2021-08-08 So +1w -2d>
 :PROPERTIES:
-:LAST_REPEAT: [2021-07-20 Di 16:11]
+:LAST_REPEAT: [2021-08-13 Fr 13:51]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
@@ -183,11 +203,15 @@ DEADLINE: <2021-07-25 So +1w -2d>
 :END:
 
 ** TODO [#A] Ein gutes Buch lesen
-DEADLINE: <2021-07-26 Mo +1w>
+DEADLINE: <2021-08-09 Mo +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-07-20 Di 16:11]
+:LAST_REPEAT: [2021-08-13 Fr 13:51]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
 - State "DONE"       from "TODO"       [2021-07-20 Di 16:11]
@@ -296,7 +320,14 @@ CLOSED: [2021-07-20 Di 16:10]
  - Mail wg Planer an Mann v. Barbara.
 
 ** TODO [#A] Vorbereitung des Unterrichtsstoffes nach dem neuen Lehrplan
-DEADLINE: <2021-07-31 Sa>
+DEADLINE: <2021-08-07 Sa +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2021-08-13 Fr 13:51]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
+:END:
 Der Unterrichtsstoff für nächstes Schuljahr 2021 / 2022 wird nach dem neuen Lehrplan vorbereitet. Für die ersten Klassen gibt es bereits die neuen Schulbücher, die anderen Klassen werden noch nach dem alten Lehrplan unterrichtet. Nach vier Jahren gilt der neue Lehrplan für alle Schulstufen. Der neue Lehrplan gilt von der ersten Klasse VS bis zur vierten Klasse MS; er ist aufbauend, ...
 
 Neuer Lehrplan: [[file:~/Downloads/Lehrplan_A4_210209.pdf]]
@@ -383,10 +414,42 @@ CLOSED: [2021-07-20 Di 16:10] DEADLINE: <2021-07-05 Mo>
 Es gab heute zwei komische Anrufe, leider habe ich einem Anrufer zurückgeschrieben; den zweiten Anrufer habe ich (unabsichtlich) uzrückgerufen! Upps!
 
 ** TODO Schulbücher werden geliefert
-DEADLINE: <2021-08-31 Di>
+DEADLINE: <2021-08-31 Di 7:00 -2d>
+Fahrt nach Golling!
 
 ** TODO org-roam Manual durcharbeiten
-DEADLINE: <2021-07-20 Di +1d>
+DEADLINE: <2021-08-08 So +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2021-08-13 Fr 13:49]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:49]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:49]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
+:END:
 Die neue Version von org-roam (V2) ist viel besser, schneller, ... genial. Ich denke, dass dieses Werkzeug mir große Dienste leisten kann. ich großes Danke an den genialen Entwickler.
 
 
@@ -443,6 +506,9 @@ CLOSED: [2021-07-20 Di 16:13]
 - State "DONE"       from "WAITING"    [2021-07-20 Di 16:13]
 :END:
 Auf dieses tolle Mail von P. Karl Wallner sollte ich noch antworten.
+
+** TODO [#A] Rechnung bezahlen , Link: [[mu4e:msgid:FileMaker.6107bafe.a2.13b@skulima.de][Zahlungserinnerung 1X6923]]
+DEADLINE: <2021-08-15 So>
 
 *  Meetings
 

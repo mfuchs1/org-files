@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: B_Klasse_2019-23
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -10,6 +13,10 @@
 #+TITLE: 3B
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
+
+* Jahresplanung
+[[id:03_Goling][03_Golling]]
+
 
 * Bernhofer Sophie                                                       :BS:
 ** Mitarbeit

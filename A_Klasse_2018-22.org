@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: A_Klasse_2018-22
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -11,6 +14,10 @@
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
 
+* Jahresplanung
+[[id:04_Goling][04_Golling]]
+
+
 * Mitarbeit
 
 ** Gesamte Klasse  
@@ -18,7 +25,6 @@
 [[file:~/org/03_Golling.org::#Pfingsten][file:~/org/03_Golling.org::#Pfingsten]]
 Beide dritten Klassen sind diese Woche in Verkehrsbeschränkung.
 
-* Verhalten
 
 * Heftführung
 

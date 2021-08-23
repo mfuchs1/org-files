@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: 04_Goling
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -37,17 +40,15 @@ vollständiger Text des Lehrplans (online):"
 
 
 ** DONE Welche Klasse
-   CLOSED: [2017-09-21 Don 21:52]
-   :LOGBOOK:
+CLOSED: [2017-09-21 Don 21:52]
+:LOGBOOK:
    - CLOSING NOTE [2017-09-21 Don 21:52] \\
      Beschreibung der einzelnen Klassen. Grundsätzlich ist anzumerken, dass die heurigen vierten Klassen einfacher sind als die letzten beiden Jahre - mit Ausnhame der 4b.
    :END:
   
-Eine Planung für die vierten Klassen der NMS Golling: 4A, 4B, Sekundarstufe I. Die beiden Klassen sind recht unterschiedlich. In der 4A besuchen alle Schüler den RU, in der 4B gibt es einige muslimische Schüler, bzw ein Schüler hat sich vom katholischen RU abgemeldet. 
+[[id:A_Klasse_2018-22][4A]]
 
-Die 4A ist relativ groß / 4B eher klein. Die 4A wird gerne als super brav angesehen, die 4B als "schlimm". Stimmt so nicht ganz, obwohl der Unterricht in der 4A prinzipiell angenehmer verläuft. Für beide Klassen gilt: sie müssen / wollen herausgefordert werden. Ein fader, langweiliger RU wäre ganz schrecklich für sie: die 4A, weil sie qualitativen Unterricht gewohnt / gewöhnt ist; die 4B, weil sie sonst zum "Stören" anfängt.
-
-In der 4B kam letztes Schuljar ein neuer Schüler hinzu - Mark. Er musste ein Gymnasium wegen schlechten Benehmens verlassen. Er hat in die ohnehin schon unruhige Klasse noch mehr Unfrieden hineingebracht.
+[[id:B_Klasse_2018-22][4B]]
 
 
 ** Wochenplanung

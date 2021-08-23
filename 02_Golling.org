@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: 02_Golling
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -18,13 +21,9 @@
 
 
 ** Welche Klasse
-Eine Planung für die zweiten Klassen, sechste Schulstufe, Sekundarstufe I, NMS Golling. 
+[[id:A_Klasse_2020-24][2A]]
 
-2A: 
-
-2B: Ich bin mir nicht sicher, aber mir scheint, dass das Unterrichten hier besser geht, oder?
-
-2C - iKlasse: sehr schwierig! mehrere, sehr lernschwache Kinder. Mehr Buben als Mädchen, die sehr still sind. Einige Buben sind richtig schlimm! 
+[[id:B_Klasse_2020-24][2B]]
 
 ** Zitate aus dem Lehrplan
 
@@ -256,6 +255,7 @@ DEADLINE: <2020-10-19 Mo>
 [[#B3_UH1]] Geschichte als Heilsgeschichte am Beispiel der Erzeltern
 
 **** Wiederholung
+Hier kommt ein neuer Text hin. Die Schrift ist sehr schön, aber leider ist sie nicht mit der org-Überschrift align.
 
 
 **** Erarbeitung
@@ -436,11 +436,12 @@ YouCat + Arbeitsblatt
 **** Hefteintrag
 
   
-*** TODO [SW12] Berufen mit Stärken und Schwächen
+*** TODO [SW12] Sakrament der Eucharistie - Teil 2
 DEADLINE: <2020-11-30 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Berufung Stärken Schwächen
-    :END:
+:CUSTOM_ID: Eucharistie 2
+:ID: 02_SW12
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
 - State "DONE"       from "TODO"       [2019-11-30 Sa 09:33]
@@ -451,8 +452,11 @@ DEADLINE: <2020-11-30 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können Symbole deuten und entwerfen und die Sakramente als Zeichen für die Nähe Gottes beschreiben.
 
 **** AB / UH
+[[#B4_UH2]] Jesu Mahlgemeinschaften und die Feier der Eucharistie
 
 **** Wiederholung
 
@@ -481,8 +485,13 @@ DEADLINE: <2020-12-07 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen. 
 
 **** AB / UH
+[[#B3_UH2]]
+ - Die Selbstoffenbarung Gottes (Ex 3)
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15)
 
 **** Wiederholung
 
@@ -545,8 +554,11 @@ DEADLINE: <2020-12-14 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur -  Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können christliche Motive in ihrer Lebenswelt wahrnehmen und sakrale Räume in ihrer Bedeutung für Menschen erschließen.
 
 **** AB / UH
+[[#C5_UH1]] Maria in Kunst und spiritueller Lebenswelt
 
 **** Wiederholung
 
@@ -605,9 +617,15 @@ DEADLINE: <2020-12-21 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen. 
 
 **** AB / UH
-
+[[#B3_AB2]] Trinität – Gott in Beziehung
+[[#B3_UH2]]
+ - Die Selbstoffenbarung Gottes (Ex 3)
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15)
+   
 **** Wiederholung
 
 **** Erarbeitung
@@ -633,7 +651,7 @@ DEADLINE: <2020-12-28 Mo>
 *** TODO [SW17] Ferien / Die Weisen aus dem Morgenland
 DEADLINE: <2021-01-04 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Weisen aus dem Morgenland
+:CUSTOM_ID: Weisen Morgenland
 :ID:       02_SW17
 :END:
 :LOGBOOK:
@@ -642,8 +660,14 @@ DEADLINE: <2021-01-04 Mo>
 :END:
 
 **** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen. 
 
 **** AB / UH
+[[#B3_AB2]] Trinität – Gott in Beziehung
+[[#B3_UH2]]
+ - Die Selbstoffenbarung Gottes (Ex 3)
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15)
 
 **** Wiederholung
 
@@ -1993,6 +2017,8 @@ Die Schüler können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaftes Ve
 :CUSTOM_ID: A1_AB1
 :ID:       98c1e464-5259-4b6e-ad28-567838aea71c
 :END:
+
+
 ***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
 :CUSTOM_ID: B3
@@ -2034,15 +2060,15 @@ Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition be
 :CUSTOM_ID: B3_AB2
 :ID:       48b9f84f-7f7d-495b-8175-7d7b1fc662a3
 :END:
-Trinität – Gott in Beziehung 
+Trinität – Gott in Beziehung [[#Weihnachten]] [[#Weisen Morgenland]] [[#Ostern]] [[#Pfingsten]] [[#Dreifatligkeitssonntag]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: B3_UH2
 :ID:       6046d819-4000-48af-bb73-c733a523295d
 :END:
- - Die Selbstoffenbarung Gottes (Ex 3),
- - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15);
+ - Die Selbstoffenbarung Gottes (Ex 3), [[#Advent]] [[#Weihnachten]] [[#Weisen Morgenland]]
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15); [[#Advent]] [[#Weihnachten]] [[#Weisen Morgenland]]
  - persönliche Glaubensentwicklung 
 
 
@@ -2093,7 +2119,7 @@ Das Glaubensbekenntnis [[#Credo]]
 :ID:       1abfd3b8-72a6-4be3-bded-0bbc3f635ab2
 :END:
  - Zeichen und Formen von Zugehörigkeit, [[#Taufe]]
- - Jesu Mahlgemeinschaften und die Feier der Eucharistie [[#Eucharistie]]
+ - Jesu Mahlgemeinschaften und die Feier der Eucharistie [[#Eucharistie]] [[#Eucharistie 2]]
 
 
 **** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
@@ -2101,6 +2127,8 @@ Das Glaubensbekenntnis [[#Credo]]
 :CUSTOM_ID: C
 :ID:       f3d2cdab-3c3b-40a5-99fa-1db453947574
 :END:
+
+
 ***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 :PROPERTIES:
 :CUSTOM_ID: C5
@@ -2126,7 +2154,7 @@ Die Schüler können christliche Motive in ihrer Lebenswelt wahrnehmen und sakra
 :ID:       0a0380d4-a65f-45dc-ba86-688a491ef99b
 :END:
  - Religiös Bedeutsames in Medien, Literatur, Politik, Musik und Werbung;
- - Maria in Kunst und spiritueller Lebenswelt;
+ - Maria in Kunst und spiritueller Lebenswelt; [[#Maria Rosenkranz]]
  - Brauchtum, Pilgern 
 
 

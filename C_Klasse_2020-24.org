@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: C_Klasse_2020-24
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone

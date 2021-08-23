@@ -1,0 +1,160 @@
+ 
+
+* Halbzeit Feier
+:PROPERTIES:
+:ETag:     "3259088405136000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c4rjccr3ckqmab9n60o62b9k6pijibb16sqm8b9p6kq3ep9p75gjcdr470/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-08-11 Mi 18:30-21:30>
+:END:
+
+* Treffen KPH
+:PROPERTIES:
+:ETag:     "3254969531118000"
+:LOCATION: Bierheuriger - im Eder, Gaisbergstraße 20, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 75gj8or2cdj62b9l6gp30b9k65i3cb9p69j32bb568s38d3670rj6c3164/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-07-29 Do 12:00-13:00>
+:END:
+* Lesen 
+:PROPERTIES:
+:ETag:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:END:
+:org-gcal:
+<2021-08-01 So 23:00>
+:END:
+* Beten 
+:PROPERTIES:
+:ETag:
+:calendar-id: matthiasfuchs01@gmail.com
+:ID:
+:org-gcal-managed: org
+:END:
+:org-gcal:
+<2021-08-01 So 23:15>
+:END:
+* Lesen 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3255701992366000"
+:entry-id: 9ukabigk9t7sl7j2atfslj2gkk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-01 So 23:30>
+:END:
+* Arbeit 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3255702205214000"
+:entry-id: b0a8npjnq31rj5v3mfsnphvr54/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-02 Mo 08:00-09:00>
+:END:
+* Isabelle in die Arbeit bringen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3256141754614000"
+:entry-id: r4o6ppe14dpqcjhcd2kmdptvn4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-04 Mi 16:00>
+:END:
+* Leopold zu Großeltern und Einkäufe (Gewand + Farben)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3256141946458000"
+:entry-id: t286jfgu3bj479rpf7u4ahbptk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-06 Fr 09:00-12:00>
+:END:
+* Mit Isabelle + Gabriel: Einkauf, Test, Arbeit
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3257712089858000"
+:entry-id: 6ddsotuv7b230qaunsmkha1uv8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-13 Fr 15:00-17:00>
+:END:
+Leopold abholen
+Lego: graue Teile
+
+* Geburtstag Julia
+:PROPERTIES:
+:ETag:     "3078647970481000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c4sjad3568sj4b9h75gm8b9kc4sj2bb2cpij4bb474rm6c9iclgj4e9o74_20211012/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-10-12 Di>
+:END:
+
+* Gabriel
+:PROPERTIES:
+:ETag:     "3236989082414000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 70q36cpncpgm8b9o6pj6ab9kchh36b9pc4sjgbb468oj6o9kcdij0eb16k/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-10-13 Mi 15:30-16:30>
+:END:
+
+* Schulbeginn
+:PROPERTIES:
+:ETag:     "3251636063034000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c5i36or46gsmcb9p6gs30b9k65j6cb9p71ij6b9i75ij6pj668sj0p3274/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-09-13 Mo 07:45-09:55>
+:END:
+
+* Eröffnungskonferenz
+:PROPERTIES:
+:ETag:     "3251636126098000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6tj3ad336cpjib9l60qmab9k6kr66bb2cpgmcb9j68sjic1h64pmccplc8/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-09-13 Mo 10:00-12:00>
+:END:
+
+* Schulgottesdienst
+:PROPERTIES:
+:ETag:     "3251636231450000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 74om4pb46osjib9n6cp3ab9k64sjibb1c8rm2b9j64r66p9k6orj4cr160/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-09-14 Di 08:00-09:00>
+:END:
+* Schlafen gehen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3259344855024000"
+:entry-id: 086e0s35vh2p6d2h0itgjf4qdk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2021-08-23 Mo 00:50>
+:END:

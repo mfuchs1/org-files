@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: A_Klasse_2021-25
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -9,7 +12,11 @@
 #+SETUPFILE: ~/org/config/latex_setup.org
 #+TITLE: 1A
 #+AUTHOR: Matthias Fuchs
-#+EMAIL: matthiasfuchs01@gmail.com 
+#+EMAIL: matthiasfuchs01@gmail.com
+
+
+* Jahresplanung
+[[id:01_Goling][01_Golling]]
 
 * Mitarbeit
 

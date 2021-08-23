@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID: A_Klasse_2020-24
+:END:
 #+STARTUP: showall
 #+STARTUP: logdone
 #+STARTUP: lognotedone
@@ -14,8 +17,10 @@
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com 
 
-* Mitarbeit
+* Jahresplanung
+[[id:02_Golling][02_Golling]]
 
+* Mitarbeit
 
 * Verhalten
 
