@@ -3,7 +3,7 @@
 #+STARTUP: lognotedone
 #+STARTUP: hidestars
 #+FILETAGS: hide
-#+OPTIONS: num:nil toc:nil
+#+OPTIONS: num:nil toc:nilmu4e-compose-complete-addresses 
 #+REVEAL_THEME: moon
 #+Title: Schüler
 #+Author: Matthias Fuchs

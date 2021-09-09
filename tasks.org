@@ -452,7 +452,14 @@ DEADLINE: <2021-08-08 So +1w>
 :END:
 Die neue Version von org-roam (V2) ist viel besser, schneller, ... genial. Ich denke, dass dieses Werkzeug mir große Dienste leisten kann. ich großes Danke an den genialen Entwickler.
 
+** TODO [#A] Neuen Token für Github erstellen
+DEADLINE: <2021-09-22 Mi>
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
+** TODO Unterricht vorbereiten
+DEADLINE: <2021-08-29 So>
+
+Für das nächste Schuljahr muss ich - zumindest für das erste Semester - den Jahresstoff vorbereiten.
 * Notizen
 
 ** NOTIZ Vorbilder, Influencer, ...?

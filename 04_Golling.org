@@ -19,7 +19,7 @@
 
 
 * Unterrichtsvorbereitung
-"
+
 ** Zitate aus dem Lehrplan
 
 *** Inhalt und Anliegen des Religionsunterrichts
@@ -36,7 +36,7 @@
 "/Zum anderen sind jene fachspezifischen Bildungsinhalte zur Sprache zu bringen, die möglicherweise den Schülerinnen und Schülern vorerst neu und fremd sind. Diese können bisher Selbstverständliches im Leben der Schülerinnen und Schüler in Frage stellen und neue Erfahrungs- und Deutungsmöglichkeiten eröffnen. Ein solcher Religionsunterricht intendiert, dass in den Unterrichtsprozessen die christliche Botschaft erfahrbar wird. Religiöse Übungen bieten im Rahmen der Schule einen Raum, der für religiöse Erfahrungen förderlich ist./"
 
 
-vollständiger Text des Lehrplans (online):"
+
 
 
 ** DONE Welche Klasse

@@ -61,14 +61,12 @@ DEADLINE: <2020-09-14 Mo>
     :END:
 
 
-**** Ziele LP 2000
-[[#05]] Das Leben und die Mitwelt als Geschenk verstehen; Die Liebe Gottes zur eigenen Person erkennen
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
 
-**** Kompetenzen
-[[#5d]] Schüler können die Liebe Gottes zur eigenen Person erkennen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#A1_UH1]] Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
 
 **** Wiederholung
 
@@ -87,9 +85,9 @@ Mein Leben ist in Gottes Hand geschrieben
 *** TODO [SW02] Für andere da sein / ein Leben in Gottes neuer Welt 
 DEADLINE: <2020-09-21 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: für andere da sein
-    :ID: 03_SW02
-    :END:
+:CUSTOM_ID: für andere da sein
+:ID: 03_SW02
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:37]
 - CLOSING NOTE [2019-09-27 Fr 15:40] \\
@@ -102,13 +100,12 @@ DEADLINE: <2020-09-21 Mo>
       Das waren "relativ" gute Stunden.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Vom Angebot des Lebens verantwortungsvoll Gebrauch machen können
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
 
-**** Kompetenzen
-[[#5b]] Schüler können vom Angebot des Lebens verantwortungsvoll Gebrauch machen.
-
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A1_UH1]] Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
 
 **** Wiederholung
 
@@ -129,9 +126,9 @@ Beispiele aus dem NT - Jesus heilt, vergibt; Gleichnisse vom Reich Gottes.
 *** TODO [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
 DEADLINE: <2020-09-28 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: ich ein Original
-:ID:       03_SW03
-    :END:
+:CUSTOM_ID: ich ein Original
+:ID: 03_SW03
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 13:56]
 - CLOSING NOTE [2019-09-27 Fr 15:41] \\
@@ -146,15 +143,13 @@ DEADLINE: <2020-09-28 Mo>
       "Logische" Konsequenz, falls Tiere eine geistige Seele haben sollten: Nina nimmt ihr Haustier und bittet den nächsten Pfarrer, ihr Tier zu taufen. Dann darf das Tier zur Erstkommunion, zur Firmung, es darf kirchlich heiraten / oder Priester werden? Unsere Erfahrung zeigt, dass Tiere nicht vernunftbegabt sind bzw ein Gewissen haben.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Das Leben und die Mitwelt als Geschenk verstehen; Suche nach der Wahrheit
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
 
-**** Kompetenzen
-[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
-[[#5d]] Schüler können die Liebe Gottes zur eigenen Person erkennen.
+**** AB / UH
+[[#A1_UH1]] Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
 
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 
 **** Wiederholung
 
@@ -2063,9 +2058,9 @@ Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem
 :CUSTOM_ID: A1_UH1
 :ID:       74ebe212-4c88-4dc4-9af6-d0a243caf286
 :END:
- - Wunder der Schöpfung,
- - Leben als Gabe und Aufgabe,
- - Verdankt-Sein,
+ - Wunder der Schöpfung, [[#Gott liebt mich]]
+ - Leben als Gabe und Aufgabe, [[#für andere da sein]]
+ - Verdankt-Sein, [[#ich ein Original]]
  - Klimaschutz,
  - Erhalt der Artenvielfalt  
 
@@ -2074,10 +2069,12 @@ Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem
 :PROPERTIES:
 :ID:       2d8fdd2f-36c9-4a13-b3e9-ff3e54630eb4
 :END:
+
 ****** Anwendungsbereiche
 :PROPERTIES:
 :ID:       95cea4bd-5dd2-48f9-9131-c11f55b3def0
 :END:
+
 ****** Unterrichtshinweise
 :PROPERTIES:
 :ID:       cea441fb-b35e-4f90-8266-ceda254877c5
@@ -2100,7 +2097,7 @@ Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorst
 :CUSTOM_ID: A2_AB1
 :ID:       b73aee0a-d5a3-4e66-ba46-83e263aebe03
 :END:
-Biblisch-hermeneuti- sche Kompetenz: mythologische Sprache, Weltbilder 
+Biblisch-hermeneutische Kompetenz: mythologische Sprache, Weltbilder 
 
 ****** Unterrichtshinweise
 :PROPERTIES:
@@ -2108,8 +2105,8 @@ Biblisch-hermeneuti- sche Kompetenz: mythologische Sprache, Weltbilder
 :ID:       b1e725e0-0df1-48aa-a57f-d1637d66c727
 :END:
  - Dialog zwischen Theologie und Naturwissenschaften;
- - Schöpfungsmythen in den Welt- religionen 
-
+ - Schöpfungsmythen in den Weltreligionen 
+ 
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :ID:       ef8e5f2f-5e2d-4f60-8640-da45e9e96a21
@@ -2225,7 +2222,7 @@ Die Schüler können die Bedeutung des Sonntags für das Leben des Einzelnen und
 :ID:       71c6ee74-2a13-48ce-9ade-99d3b1fe6c78
 :END:
  - Actio und contemplatio,
- - Rhythmus des Lebens (Arbeit, Frei-  zeit),
+ - Rhythmus des Lebens (Arbeit, Freizeit),
  - Sonntagsgebot, Sonntagskultur, Sonntagsöffnung  
 
    
@@ -2290,8 +2287,8 @@ Religiosität in virtuellen Welten und Social Media
 :END:
  - Kritische und kreative Nutzung von Medien, (Daniele Ganser)
  - Information und Manipulation, (Daniele Ganser)
- - Enter- tainment,
- - Kommunika- tion und Isolation 
+ - Entertainment,
+ - Kommunikation und Isolation 
 
 
 ****** Kompetenzbeschreibungen

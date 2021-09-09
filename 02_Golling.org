@@ -315,7 +315,7 @@ DEADLINE: <2020-11-02 Mo>
 [[#B4_UH1]] sakramentale Zeichenhandlungen
 
 **** Wiederholung
-
+Siehe ... [[id:02_SW21][[SW21] Sakramente - wirksame Zeichen]]
 
 **** Erarbeitung
 Arbeitsmaterial im folgenden Verzeichnis:
@@ -329,7 +329,7 @@ Doppelseite gestalten im Heft zum Thema "Bibel".
 **** Hefteintrag
 
 
-*** TODO [SW09] Sakramente Taufe
+*** TODO [SW09] Sakrament Taufe
 DEADLINE: <2020-11-09 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Taufe
@@ -351,7 +351,7 @@ DEADLINE: <2020-11-09 Mo>
 [[#B4_UH2]] Zeichen und Formen von Zugehörigkeit - Taufe
 
 **** Wiederholung
-
+Siehe [[id:02_SW20][[SW20] Christus schenkt neues Leben - die Taufe]]
 
 **** Erarbeitung
 YouCat...
@@ -703,16 +703,33 @@ DEADLINE: <2021-01-11 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition beschreiben und sie mit der eigenen Gottesvorstellung in Verbindung bringen. 
 
 **** AB / UH
+[[#B3_AB2]] Trinität – Gott in Beziehung
+[[#B3_UH2]]
+ - Die Selbstoffenbarung Gottes (Ex 3)
+ - Jesus als Mensch gewordenes Bild Gottes (Kol 1,15)
 
 **** Wiederholung
 
-
 **** Erarbeitung
-Gott will mehr als unser Glück!
+Die "Dreikönigsaktion" ist dieses Jahr ausgefallen. Die letzten Jahre haben die Sternsinger für verschiedene Projekte Geld gesammelt. Die drei Videos geben einen Einblick in diese Projekte:
+
+[[https://www.youtube.com/watch?v=Y69VzAp67Fk&feature=youtu.be][Unterwegs für die Sternsinger: Willi in Kenia - YouTube]]
+
+[[https://www.youtube.com/watch?v=lgS1CXvt3Ms&feature=youtu.be][Unterwegs für die Sternsinger: Willi auf den Philippinen - YouTube]]
+
+[[https://www.youtube.com/watch?v=9iYyC29UBho&feature=youtu.be][Unterwegs für die Sternsinger: Willi in Tansania - YouTube]]
+
+Ein sehr gut gestaltete und informative Internetseite zum Thema der Hl. Drei Könige:
+[[https://www.heilige-dreikoenige.de/de/][Heilige Drei Könige]]
 
 **** Hefteintrag
+Ein Suchsel zum Thema:
+[[file:Schule/drei_könige_suchsel.pdf]]
+
 
 
 *** TODO [SW19] Die Liebe Gottes für die eigene Person erkennen
@@ -733,8 +750,13 @@ DEADLINE: <2021-01-18 Mo>
     :END:
 
 **** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich in ihrer Interaktion mit der Mitwelt differenziert wahrnehmen und zu einem wertschätzenden Kommunizieren beitragen.
+[[#A1_KB2]] Die Schülerinnen und Schüler können vielfältige Formen von Liebe unterscheiden und sich mit der eigenen Geschlechtlichkeit auseinandersetzen.
 
 **** AB / UH
+[[#A1_AB2]] Eros - Agape / Caritas
+[[#A1_UH1]] Gott liebt mich!
 
 **** Wiederholung
 
@@ -787,7 +809,7 @@ DEADLINE: <2021-01-25 Mo>
 **** AB / UH
 
 **** Wiederholung
-
+Siehe SW09 ... [[id:02_SW09][[SW09] Sakrament Taufe]]
 
 **** Erarbeitung
 
@@ -815,7 +837,7 @@ DEADLINE: <2021-02-01 Mo>
 **** AB / UH
 
 **** Wiederholung
-
+Siehe SW08 ... [[id:02_SW08][[SW08] Sakramente]]
 
 **** Erarbeitung
 
@@ -1931,7 +1953,8 @@ Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulst
  - Rollen innerhalb einer Gemeinschaft, [[#mein Platz]]
  - Peer-Mediation,
  - digitale Kommunikation;
- - Streitgespräche Jesu 
+ - Streitgespräche Jesu
+ - Gott liebt mich! [[#Gott liebt dich!]]
 
 
 ****** Kompetenzbeschreibungen
@@ -1946,7 +1969,7 @@ Die Schülerinnen und Schüler können vielfältige Formen von Liebe unterscheid
 :ID:       8825e8b5-6afc-499c-b8a9-744cb4809943
 :CUSTOM_ID: A1_AB2
 :END:
-Eros - Agape / Caritas 
+Eros - Agape / Caritas [[#Gott liebt dich!]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
@@ -2017,8 +2040,6 @@ Die Schüler können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaftes Ve
 :CUSTOM_ID: A1_AB1
 :ID:       98c1e464-5259-4b6e-ad28-567838aea71c
 :END:
-
-
 ***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 :PROPERTIES:
 :CUSTOM_ID: B3
@@ -2060,7 +2081,7 @@ Die Schüler können Gottesvorstellungen aus Bibel und christlicher Tradition be
 :CUSTOM_ID: B3_AB2
 :ID:       48b9f84f-7f7d-495b-8175-7d7b1fc662a3
 :END:
-Trinität – Gott in Beziehung [[#Weihnachten]] [[#Weisen Morgenland]] [[#Ostern]] [[#Pfingsten]] [[#Dreifatligkeitssonntag]]
+Trinität – Gott in Beziehung [[#Weihnachten]] [[#Weisen Morgenland]] [[#Suche nach Glück]] [[#Ostern]] [[#Pfingsten]] [[#Dreifatligkeitssonntag]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
@@ -2127,8 +2148,6 @@ Das Glaubensbekenntnis [[#Credo]]
 :CUSTOM_ID: C
 :ID:       f3d2cdab-3c3b-40a5-99fa-1db453947574
 :END:
-
-
 ***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 :PROPERTIES:
 :CUSTOM_ID: C5

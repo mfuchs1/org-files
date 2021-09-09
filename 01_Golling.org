@@ -16,11 +16,10 @@
 #+EMAIL: matthiasfuchs01@gmail.com
 
 
-(
 * Unterrichtsvorbereitung
 Das ist eine Planung des Religionsunterrichts für die fünfte Schulstufe / die ersten Klassen (NMS Golling). Die Jahres- / Wochenplanung wird immer wieder aktualisiert. Weiter unten folgen die fünf Kompetenzbereiche (A - E), die für die gesamte NMS gültig sind. Die vier Kompetenzdimensionen (1-4) gelten besonders für den Religionsunterricht. Der Lehrplan ist nach sieben Kompetenzen aufgeteilt, die den Anforderungen und Bedürfnissen der jeweiligen Schulstufe angepasst werden.
 
-Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik / Religion erleben / ...
+Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik / Religion erleben / ... 
 
 ** Welche Klasse
 [[id:A_Klasse_2021-25][1A]]
@@ -37,7 +36,7 @@ Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik 
 "/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So
 trägt er auch zur Gestaltung des Schullebens bei./"
 
-*** Stellung des Religionsunterrichts an der Sekundarstufe I
+*** Stellung des Religionsunterrichts an der Sekundarstufe I 
 "/Der Religionsunterricht ist Teil des Bildungs- und Erziehungsauftrages der betreffenden Schulart. Religiöse Bildung ist Bestandteil von Allgemein-, wie von Persönlichkeitsbildung. Durch seinen spezifischen Beitrag zur religiös-ethisch-philosophischen Bildungsdimension unterstützt der konfessionelle Religionsunterricht grundlegend alle Aufgabenbereiche der Schule. Durch Wissensvermittlung im Bereich der christlichen Religion, anderer Religionen und Weltanschauungen trägt der Religionsunterricht zum Verstehen unserer Kultur bei, die stark von der jüdisch-christlichen Tradition geprägt ist. Junge Menschen lernen Werte zu entdecken, moralisch zu urteilen und zu handeln./"
 
 *** Das Prinzip des Religionsunterrichts
@@ -126,13 +125,13 @@ Hm, den RU auf diese Art zu beginnen, wird für die Kinder zu abstrakt sein. Bes
 
 In der ersten Stunde: 1. Heftseite wunderschön gestalten ("Jesus Christus", Themen-ABC, ...): zum Thema "Jesus" Wörter von A bis Z finden.
 
-SOFORT Aufzeichnungen machen: Mitarbeit, Heft, Schulsachen vollständig?
+SOFORT Aufzeichnungen machen: Mitarbeit, Heft, Schulsachen vollständig? 
 
 Immer gemeinsam beten: Lieder, Gebete, Stille, ...
 
 **** Hefteintrag
 Jahresfestkreis ins Heft zeichnen
-Farblich gestalten
+Farblich gestalten 
 
 *** TODO [SW02] Das Kirchenjahr (Kalender)
 DEADLINE: <2021-09-20 Mo>
