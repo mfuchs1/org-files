@@ -1,3 +1,7 @@
+#+STARTUP: showeverything
+* Birthdays
+%%(org-contacts-anniversaries)
+
 * Gerda Schlager
 :PROPERTIES:
 :EMAIL: gerda.schlager@gmx.net
@@ -8,7 +12,7 @@
 :PROPERTIES:
 :EMAIL: j.neuner@tsn.at
 :NICK:
-:BIRTHDAY:
+:BIRTHDAY: 1977-09-18
 :END:
 * Grödig Info
 :PROPERTIES:
@@ -44,7 +48,7 @@
 :PROPERTIES:
 :EMAIL: ursula@dipfuchs.at
 :NICK:
-:BIRTHDAY:
+:BIRTHDAY: 1943-02-01
 :END:
 * mailbox@raiffeisen.at
 :PROPERTIES:
@@ -80,7 +84,7 @@
 :PROPERTIES:
 :EMAIL: isabelle.guilloudfuchs@gmail.com
 :NICK:
-:BIRTHDAY:
+:BIRTHDAY: 1969-05-25
 :END:
 * Atlas H
 :PROPERTIES:
@@ -110,7 +114,7 @@
 :PROPERTIES:
 :EMAIL: peter@dipfuchs.at
 :NICK:
-:BIRTHDAY:
+:BIRTHDAY: 1940-01-31
 :END:
 * Threema
 :PROPERTIES:
@@ -122,7 +126,7 @@
 :PROPERTIES:
 :EMAIL: michfu@gmx.at
 :NICK:
-:BIRTHDAY:
+:BIRTHDAY: 1977-03-11
 :END:
 * Christian Hager
 :PROPERTIES:
@@ -154,12 +158,6 @@
 :NICK:
 :BIRTHDAY:
 :END:
-* Peter Fuchs
-:PROPERTIES:
-:EMAIL: peter@dipfuchs.at
-:NICK:
-:BIRTHDAY:
-:END:
 * Hans Wiesböck
 :PROPERTIES:
 :EMAIL: hans.wiesboeck@aon.at
@@ -172,9 +170,5 @@
 :NICK:
 :BIRTHDAY:
 :END:
-* Isabelle Fuchs
-:PROPERTIES:
-:EMAIL: isabelle.guilloudfuchs@gmail.com
-:NICK:
-:BIRTHDAY:
-:END:
+
+

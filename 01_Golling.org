@@ -55,13 +55,14 @@ vollständiger Text des Lehrplans (online):
 ** Jahres- / Wochenplanung
 Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro Woche 2 Stunden). Im LOGBOOK vermerke ich, wie die jeweiligen Stunden verlaufen sind, was gut ging, worauf ich in Zukunft achten muss: meine Beobachtungen und Reflexionen.
 
-*** TODO [SW01] Jahresstoff / ich stehe in den Schuhen des Anderen
-DEADLINE: <2021-09-13 Mo>
+*** DONE [SW01] Jahresstoff / ich stehe in den Schuhen des Anderen
+CLOSED: [2021-09-18 Sa 15:18] DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schuhe des Anderen
      :ID: 01_SW01
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:18]
 - State "DONE"       from "DONE"       [2021-07-16 Fr 14:51]
 - CLOSING NOTE [2019-09-16 Mo 21:45] \\
   Die ersten Stunden verliefen sehr gut. Ich habe allerdings sehr wohl bemerkt, dass die beiden ersten Klassen eher lebhaft sind.
@@ -164,7 +165,7 @@ DEADLINE: <2021-09-20 Mo>
 
 
 **** Erarbeitung
-So, jetzt schreibe ich hier einen Text.
+Siehe erstes Kapitel im Schulbuch / oder das Kapitel über die Kirche 
 
 **** Hefteintrag
 
@@ -847,7 +848,7 @@ Ein Suchsel zum Thema:
 
 
 *** TODO [SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?
-DEADLINE: <2021-01-11 Mo>
+DEADLINE: <2022-01-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Sterndeuter_Weg
 :ID: 01_SW18
@@ -959,7 +960,7 @@ Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht n
 
 
 *** TODO [SW19] Was bedeutet Freundschaft
-DEADLINE: <2021-01-18 Mo>
+DEADLINE: <2022-01-17 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Freundschaft
 :ID:       01_SW19
@@ -995,7 +996,7 @@ Gemeinsam mit den Schülern über das Thema "Freundschaft" nachdenken.
 
 
 *** TODO [SW20] Für einen treuen Freund gibt es keinen Preis
-DEADLINE: <2021-01-25 Mo>
+DEADLINE: <2022-01-24 Mo>
 :PROPERTIES:
 :CUSTOM_ID: treuer Freund
 :ID: 01_SW20
@@ -1054,7 +1055,7 @@ Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Kna
 
 
 *** TODO [SW21] David und Jonathan
-DEADLINE: <2021-02-01 Mo>
+DEADLINE: <2022-01-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: David Jonathan
 :ID: 01_SW21
@@ -1088,7 +1089,7 @@ DEADLINE: <2021-02-01 Mo>
 
 
 *** TODO [SW22] Semesterferien
-DEADLINE: <2021-02-08 Mo>
+DEADLINE: <2022-02-07 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Semesterferien
 :ID:       01_SW22

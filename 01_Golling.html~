@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>[SW20] Für einen treuen Freund gibt es keinen Preis</title>
+<meta name="author" content="(Matthias Fuchs)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///home/matthias/Downloads/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="file:///home/matthias/Downloads/reveal.js/dist/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///home/matthias/Downloads/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">[SW20] Für einen treuen Freund gibt es keinen Preis</h1><h2 class="author">Matthias Fuchs</h2><p class="date">Created: 2021-09-15 Mi 13:38</p>
+</section>
+<section id="table-of-contents"><div id="table-of-contents">
+<h2>Inhaltsverzeichnis</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgcd00d1a">1. Kompetenzbeschreibung</a></li>
+<li><a href="#/slide-orgaacdc24">2. AB / UH</a></li>
+<li><a href="#/slide-orgeb274f0">3. Wiederholung</a></li>
+<li><a href="#/slide-orgff72bb5">4. Erarbeitung</a></li>
+<li><a href="#/slide-orgbcb005d">5. Hefteintrag</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-orgcd00d1a">
+<h2 id="orgcd00d1a"><span class="section-number-2">1.</span> Kompetenzbeschreibung</h2>
+<p>
+Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orgaacdc24">
+<h2 id="orgaacdc24"><span class="section-number-2">2.</span> AB / UH</h2>
+<p>
+Ich und die amderen: Freundschaft
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orgeb274f0">
+<h2 id="orgeb274f0"><span class="section-number-2">3.</span> Wiederholung</h2>
+<p>
+Was bedeutet dir Freundschaft?
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orgff72bb5">
+<h2 id="orgff72bb5"><span class="section-number-2">4.</span> Erarbeitung</h2>
+<p>
+Bsp aus der Bibel zum Thema "Freundschaft":
+</p>
+<ul>
+<li>Verse aus den Büchern Sprüchwörter, Jesus Sirach, Weisheit.</li>
+<li>David und Jonathan (2Sam 1,25); Rut und Noomi (Sir 6; 22,19-26;37,1-6)</li>
+<li>"Freund des Königs" ist ein festes Amt (2Sam 15,37)</li>
+<li>Abraham und Mose werden "Freunde Gottes" gennannt (2Chr 20,7; Ex 33,11)</li>
+<li>Jesus nennt seine Jünger Freunde (Lk 12,4; Joh 15,13)</li>
+<li>Lazarus, Martha und Maria sind Freunde Jesu (Joh 11)</li>
+<li>Johannes der Täufer als Bräutigam und Freund (Joh 3,29)</li>
+<li>Jesus und Johannes ("Jünger, den Jesus liebte")</li>
+<li>Jesus wird von seinem Freund Judas verraten und ausgeliefert (Mt 26,50)</li>
+
+</ul>
+
+<p>
+<a href="https://www.youtube.com/watch?v=3hR64GCyOg0">Woran erkenne ich eine ungesunde Beziehung - Johannes Hartl - YouTube</a>
+Das Gleiche wollen, das Gleiche nicht wollen - daraus entsteht Beziehung. Man kann aber auch gemeinsam das Schlechte wollen (Herodes / Pilatus).
+Das Gleiche wollen, heißt noch nicht, das es eine gute Beziehung ist.
+</p>
+
+<ul>
+<li>Woran erkenne ich, ob eine Beziehung gut ist?</li>
+<li>Mut haben es anderen zu sagen, dass deren Beziehung nicht gut ist</li>
+<li>Wo sind mögliche Baustellen in meiner Beziehung und wie kann ich sie "beheben"</li>
+
+</ul>
+
+<p>
+Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Knacks hat. Wir lernen Beziehung von Menschen, die selber einen Knacks haben. Nur einer lebte vollkommenene Beziehungen: Jesus. "Du bist mein geliebter Sohn." Jesus ist sehr unabhängig in seiner Bez. zu Menschen. Er kann selber stehen. Jesus hat auch keine Angst vor Nähe, er lässt sich berühren, es gibt nichts Kühles. Aber er bleibt frei. "Nein, ich muss weiter gehen, ich komme nicht in euer Dorf." Freiheit / Nähe. Er kann sogar erschreckend klar sein. Wahrheit.
+</p>
+
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgbcb005d">
+<h2 id="orgbcb005d"><span class="section-number-2">5.</span> Hefteintrag</h2>
+</section>
+</section>
+</div>
+</div>
+<script src="file:///home/matthias/Downloads/reveal.js/dist/reveal.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/markdown/markdown.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/zoom/zoom.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/notes/notes.js"></script>
+
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+plugins: [RevealMarkdown, RevealZoom, RevealNotes]
+});
+
+</script>
+</body>
+</html>

@@ -15,11 +15,23 @@
 * Inbox
 
 ** TODO Geistliche Lektüre
-DEADLINE: <2021-08-09 Mo +1w>
+DEADLINE: <2021-09-20 Mo +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-08-13 Fr 13:51]
+:LAST_REPEAT: [2021-09-15 Mi 23:07]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
@@ -136,11 +148,23 @@ CLOSED: [2021-04-13 Di 07:57] DEADLINE: <2021-04-04 So>
 Artikel und Beiträge aus diversen Büchern und Lexika rezipieren.
 
 ** TODO [#A] Isabelle regelmäßig überraschen
-DEADLINE: <2021-08-08 So +1w -2d>
+DEADLINE: <2021-09-19 So +1w -2d>
 :PROPERTIES:
-:LAST_REPEAT: [2021-08-13 Fr 13:51]
+:LAST_REPEAT: [2021-09-15 Mi 23:07]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
@@ -203,11 +227,23 @@ DEADLINE: <2021-08-08 So +1w -2d>
 :END:
 
 ** TODO [#A] Ein gutes Buch lesen
-DEADLINE: <2021-08-09 Mo +1w>
+DEADLINE: <2021-09-20 Mo +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-08-13 Fr 13:51]
+:LAST_REPEAT: [2021-09-15 Mi 23:08]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:07]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
@@ -320,11 +356,23 @@ CLOSED: [2021-07-20 Di 16:10]
  - Mail wg Planer an Mann v. Barbara.
 
 ** TODO [#A] Vorbereitung des Unterrichtsstoffes nach dem neuen Lehrplan
-DEADLINE: <2021-08-07 Sa +1w>
+DEADLINE: <2021-09-18 Sa +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2021-08-13 Fr 13:51]
+:LAST_REPEAT: [2021-09-15 Mi 23:08]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 - State "DONE"       from "TODO"       [2021-08-13 Fr 13:51]
 :END:
@@ -413,51 +461,26 @@ CLOSED: [2021-07-20 Di 16:10] DEADLINE: <2021-07-05 Mo>
 :END:
 Es gab heute zwei komische Anrufe, leider habe ich einem Anrufer zurückgeschrieben; den zweiten Anrufer habe ich (unabsichtlich) uzrückgerufen! Upps!
 
-** TODO Schulbücher werden geliefert
-DEADLINE: <2021-08-31 Di 7:00 -2d>
+** DONE Schulbücher werden geliefert
+CLOSED: [2021-09-15 Mi 23:08] DEADLINE: <2021-08-31 Di 7:00 -2d>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:08]
+:END:
 Fahrt nach Golling!
 
-** TODO org-roam Manual durcharbeiten
-DEADLINE: <2021-08-08 So +1w>
-:PROPERTIES:
-:LAST_REPEAT: [2021-08-13 Fr 13:49]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:49]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:49]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-- State "DONE"       from "TODO"       [2021-08-13 Fr 13:48]
-:END:
-Die neue Version von org-roam (V2) ist viel besser, schneller, ... genial. Ich denke, dass dieses Werkzeug mir große Dienste leisten kann. ich großes Danke an den genialen Entwickler.
 
-** TODO [#A] Neuen Token für Github erstellen
-DEADLINE: <2021-09-22 Mi>
+** DONE [#A] Neuen Token für Github erstellen
+CLOSED: [2021-09-15 Mi 23:09] DEADLINE: <2021-09-22 Mi>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:09]
+:END:
 https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
-** TODO Unterricht vorbereiten
-DEADLINE: <2021-08-29 So>
+** DONE Unterricht vorbereiten
+CLOSED: [2021-09-15 Mi 23:09] DEADLINE: <2021-08-29 So>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:09]
+:END:
 
 Für das nächste Schuljahr muss ich - zumindest für das erste Semester - den Jahresstoff vorbereiten.
 * Notizen
@@ -514,8 +537,11 @@ CLOSED: [2021-07-20 Di 16:13]
 :END:
 Auf dieses tolle Mail von P. Karl Wallner sollte ich noch antworten.
 
-** TODO [#A] Rechnung bezahlen , Link: [[mu4e:msgid:FileMaker.6107bafe.a2.13b@skulima.de][Zahlungserinnerung 1X6923]]
-DEADLINE: <2021-08-15 So>
+** DONE [#A] Rechnung bezahlen , Link: [[mu4e:msgid:FileMaker.6107bafe.a2.13b@skulima.de][Zahlungserinnerung 1X6923]]
+CLOSED: [2021-09-15 Mi 23:09] DEADLINE: <2021-08-15 So>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-15 Mi 23:09]
+:END:
 
 *  Meetings
 

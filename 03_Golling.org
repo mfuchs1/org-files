@@ -46,13 +46,14 @@ vollständiger Text des Lehrplans (online):
 ** Jahresplanung
 
 
-*** TODO [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
-DEADLINE: <2020-09-14 Mo>
+*** DONE [SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes
+CLOSED: [2021-09-18 Sa 15:19] DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gott liebt mich
     :ID: 03_SW01
     :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:19]
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
 - CLOSING NOTE [2019-09-16 Mo 21:47] \\
   Hm, da hat sich kaum etwas verändert - leider. Der Beginn war aber recht okay.
@@ -83,7 +84,7 @@ Mein Leben ist in Gottes Hand geschrieben
 
 
 *** TODO [SW02] Für andere da sein / ein Leben in Gottes neuer Welt 
-DEADLINE: <2020-09-21 Mo>
+DEADLINE: <2021-09-20 Mo>
 :PROPERTIES:
 :CUSTOM_ID: für andere da sein
 :ID: 03_SW02
@@ -124,7 +125,7 @@ Beispiele aus dem NT - Jesus heilt, vergibt; Gleichnisse vom Reich Gottes.
 
 
 *** TODO [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
-DEADLINE: <2020-09-28 Mo>
+DEADLINE: <2021-09-27 Mo>
 :PROPERTIES:
 :CUSTOM_ID: ich ein Original
 :ID: 03_SW03
@@ -173,11 +174,11 @@ Lesen: 1 Joh 3 + 4
 
 
 *** TODO [SW04] Sind Stars echte Wegbegleiter? / Eine ist zum Dienen bereit
-DEADLINE: <2020-10-05 Mo>
+DEADLINE: <2021-10-04 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Wegbegleiter
-:ID:       03_SW04
-    :END:
+:CUSTOM_ID: Wegbegleiter
+:ID: 03_SW04
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:46]
 - CLOSING NOTE [2019-10-13 So 12:05] \\
@@ -188,14 +189,13 @@ DEADLINE: <2020-10-05 Mo>
       Anhand von Dilemma-Geschichten das Wirken des Gewissens erspüren...
     :END:
 
-**** Ziele LP 2000
-[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können; Ungerechtigkeit - Option für die Armen
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+[[#A2_KB2]] Die Schüler können die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und vielfältige Sinnangebote bewerten.
 
-**** Kompetenzen
-[[#5c]] Schüler treten verantwortungsbewusst gegenüber sich selbst, den Mitmenschen und der Mitwelt auf.
+**** AB / UH
+[[#A2_UH2]] Soziales Engagement 
 
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 
 **** Wiederholung
 
@@ -215,10 +215,10 @@ Welche Personen begeistern dich? Wer inspiriert dich? Warum?
 
 
 *** TODO [SW05] Ich möchte, dass einer mit mir geht
-DEADLINE: <2020-10-12 Mo>
+DEADLINE: <2021-10-11 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: mein Wegbegleiter
-:ID:       03_SW05
+:CUSTOM_ID: mein Wegbegleiter
+:ID: 03_SW05
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
@@ -230,14 +230,12 @@ DEADLINE: <2020-10-12 Mo>
       Am Beispiel von Franz Jägerstätter zeigt sich in aller Konsequenz der Anspruch einer Gewissens-Entscheidung.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Hoffnung auf den Messias; Sich Jesus annähern
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+[[#A2_KB2]] Die Schüler können die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und vielfältige Sinnangebote bewerten.
 
-**** Kompetenzen
-[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH
+[[#A2_UH2]] Glück, Zufriedenheit, Erfüllung
 
 **** Wiederholung
 
@@ -257,10 +255,10 @@ Ziel: Könnte dieser treue Freund auch Jesus sein?
 
 
 *** TODO [SW06] Collage: Wie kann ich mich Jesus annähern?
-DEADLINE: <2020-10-19 Mo>
+DEADLINE: <2021-10-18 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: sich Jesus annähern
-:ID:       03_SW06
+:CUSTOM_ID: sich Jesus annähern
+:ID: 03_SW06
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-24 Sa 11:58]
@@ -272,13 +270,12 @@ DEADLINE: <2020-10-19 Mo>
       Bin gespannt auf die Präsentationen...
     :END:
 
-**** Ziele LP 2000
-[[#01]] Sich Jesus annähern
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-**** Kompetenzen
-[[#1a]] Schüler können die biblischen Befreiungserzählungen als Botschaft vom befreienden Gott erschließen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B3_AB1]] Reich Gottes-Gleichnisse
 
 **** Wiederholung
 
@@ -291,12 +288,15 @@ Sich Jesus annähern - Collage gestalten
  - Auf wen geht Jesus von sich aus zu?
  - ...
 
+
+Gleichnisse vom Reich Gottes
+
 **** Hefteintrag
 
 
 
 *** TODO [SW07] Herbstferien
-DEADLINE: <2020-10-26 Mo>
+DEADLINE: <2021-10-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
 :ID:       03_SW07
@@ -309,31 +309,30 @@ DEADLINE: <2020-10-26 Mo>
       Die einzelnen Gruppen sind in dieser Woche so gut wie fertig geworden. Das Thema hat den Schülern interessiert, sie arbeiten sehr gerne in Gruppen.
     :END:
 
-<2020-10-26 Mo> Nationalfeiertag
+<2021-10-26 Di> Nationalfeiertag
 
 
 *** TODO [SW08] Vergebung ohne Grenzen
-DEADLINE: <2020-11-02 Mo>
+DEADLINE: <2021-11-01 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Vergebung ohne Grenzen
-:ID:       03_SW08
-    :END:
+:CUSTOM_ID: Vergebung ohne Grenzen
+:ID: 03_SW08
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
     - CLOSING NOTE [2017-11-02 Don 16:21] \\
       Die Präsentation hat auch in dieser, sehr kurzen Woche nicht geklappt; ganz bestimmt aber nächste Woche!
     :END:
 
-<2020-11-02 Mo> Allerseelen (schulfrei) - Ende Herbstferien
+<2021-11-02 Di> Allerseelen (schulfrei) - Ende Herbstferien
 
-**** Ziele LP 2000
-[[#03]] Vergebung ohne Grenzen - sich von Jesus leiten lassen
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-**** Kompetenzen
-[[#3b]] Schüler kennen Formen der Vergebung und Versöhnung im Alltag, in der Bibel und im Leben der Kirche und können sich auf heilsame Veränderungen einlassen.
+**** AB / UH
+[[#B3_UH1]] Gnade als ein Geschenk der Befreiung
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
 
 **** Erarbeitung
 Bibelstellen zum Thema "Vergebung":
@@ -348,11 +347,11 @@ Bibelstellen zum Thema "Vergebung":
 **** Hefteintrag
 
 
-*** TODO [SW09] Judentum
-DEADLINE: <2020-11-09 Mo>
+*** TODO [SW09] Islam
+DEADLINE: <2021-11-08 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Judentum
-:ID:       03_SW09
+:CUSTOM_ID: Islam
+:ID: 03_SW09
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
@@ -373,33 +372,30 @@ DEADLINE: <2020-11-09 Mo>
       Die Präsentationen verliefen wirklich toll - ich war sehr zufrieden mit den Schülern. Einzige Ausnahme: die Gruppe vo Jakob Pilz (3B). Diese mickrige Präsentation verdient ein Nicht Genügend. Ich gab den Schülern eine zweite Chance (nächste Woche). Bleibt die Arbeit so mickrig - so bleibt der 5er.
     :END:
 
-**** Ziele LP 2000
-[[#02]] Judentum: Kultur, religiöse Praxis und Grundüberzeugungen
+**** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
 
-**** Kompetenzen
-[[#2a]] Schüler kennen die religiöse Praxis und Grundüberzeugungen der monotheistischen Religion Judentum und können sie wertschätzen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
 
 **** Wiederholung
 
 
 **** Erarbeitung
-Film "Faszination Glaube - Judentum"
 
-Bsp.: Synagoge in Budapest
-
-Material:
-[[/home/matthias/NMS_Golling/Weltreligionen/Judentum/]]
 
 **** Hefteintrag
 
 
-*** TODO [SW10] Islam
-DEADLINE: <2020-11-16 Mo>
+*** TODO [SW10] Islam_Film
+DEADLINE: <2021-11-15 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Islam
-:ID:       03_SW10
+:CUSTOM_ID: Islam_Film
+:ID: 03_SW10
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
@@ -417,13 +413,15 @@ DEADLINE: <2020-11-16 Mo>
       Film...
     :END:
 
-**** Ziele LP 2000
-[[#02]] Islam: Kultur, religiöse Praxis und Grundüberzeugungen
+**** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
 
-**** Kompetenzen
-[[2a]] Schüler kennen die religiöse Praxis und Grundüberzeugungen der monotheistischen Religion Islam und können sie wertschätzen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
 
 
 **** Wiederholung
@@ -442,12 +440,12 @@ Home-Schooling: Quiz zum Thema "Judentum und Islam". Den Film darf ich rechtlich
 **** Hefteintrag
 
 
-*** TODO [SW11] Christentum - Judentum - Islam
-DEADLINE: <2020-11-23 Mo>
+*** TODO [SW11] Christentum - Islam
+DEADLINE: <2021-11-22 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Monotheistische Weltreligionen
-:ID:       03_SW11
-    :END: 
+:CUSTOM_ID: Monotheistische Weltreligionen
+:ID: 03_SW11
+:END: 
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
 - CLOSING NOTE [2020-08-13 Do 16:58] \\
@@ -462,28 +460,31 @@ DEADLINE: <2020-11-23 Mo>
 - State "DONE"       from "TODO"       [2020-08-13 Do 16:45]
 :END:
 
-**** Ziele LP 2000
-[[#02]] Das Verhältnis Christentum - Judentum - Islam reflektieren
+**** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
 
-**** Kompetenzen
-[[#2b]] Schüler können anhand der Personen Jesus und Abraham das Verhältnis Judentum – Christentum – Islam begreifenund induzieren.
-
-[[#interaktion]] Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+**** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Jesus, Maria und Abraham in Koran und Bibel;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
 
 **** Wiederholung
 
 
 **** Erarbeitung
-Eine Doppelseite zum Islam und Judentum - Christentum gestalten. Ähnlichkeiten und Unterschiede.
+Eine Doppelseite zum Islam - Christentum gestalten. Ähnlichkeiten und Unterschiede.
 
 **** Hefteintrag
 
 
-*** TODO [SW12] Advent / Brauchen wir Gebote und Vorschriften
-DEADLINE: <2020-11-30 Mo>
+*** TODO [SW12] Advent / Gott führt in die Freiheit
+DEADLINE: <2021-11-29 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Gebote
-:ID:       03_SW12
+:CUSTOM_ID: Exodus
+:ID: 03_SW12
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
@@ -502,14 +503,15 @@ DEADLINE: <2020-11-30 Mo>
       In der zweiten Stunde wurde der Weihnachtsgottesdienst vorbereitet (3A); in der 3B ...?
     :END:
 
-**** Ziele LP 2000
-[[#04]] Christliche Grundregeln des Zusammenlebens kennen und anwenden
+<2021-11-28 So> Erster Adventsonntag
 
-**** Kompetenzen
-[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B3_AB1]] Exodus
+
 
 **** Wiederholung
 
@@ -521,10 +523,10 @@ DEADLINE: <2020-11-30 Mo>
 
 
 *** TODO [SW13] 10 Gebote
-DEADLINE: <2020-12-07 Mo>
+DEADLINE: <2021-12-06 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Dekalog
-:ID:       03_SW13
+:ID: 03_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -537,14 +539,13 @@ DEADLINE: <2020-12-07 Mo>
       Die 3B hat gut gearbeitet - und bastelt mit Barbara Essl die Sonne.
     :END:
 
-**** Ziele LP 2000
-[[#04]] Dekalog
 
-**** Kompetenzen
-[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B3_AB1]] Dekalog
 
 **** Wiederholung
 
@@ -571,7 +572,7 @@ Zweimal durch "gefährliches Gewässer" (Schilfmeer / Jordan); in der Mitte Berg
 
 
 *** TODO [SW14] Bergpredigt
-DEADLINE: <2020-12-14 Mo>
+DEADLINE: <2021-12-13 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Bergpredigt
 :ID:       03_SW14
@@ -587,14 +588,12 @@ DEADLINE: <2020-12-14 Mo>
       Die 3A bereitet mit Eifer den Weihanchtsgottesdienst vor / die 3B hat gut mit der Hl. Schrift gearbeitet.
     :END:
 
-**** Ziele LP 2000
-[[#04]] Bergpredigt
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-**** Kompetenzen
-[[#4b]] Schüler können christliche Grundregeln des Zusammenlebens wie Dekalog und Bergpredigt formulieren und praktizieren.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#B3_UH2]] Bergpredigt (Auswahl)
 
 **** Wiederholung
 
@@ -607,10 +606,9 @@ DEADLINE: <2020-12-14 Mo>
 
 
 *** TODO [SW15] Maria, von Gott auserwählt
-DEADLINE: <2020-12-21 Mo>
+DEADLINE: <2021-12-20 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Maria
-:ORDERED:  t
 :ID:       03_SW15
 :END:
 :LOGBOOK:
@@ -620,13 +618,13 @@ DEADLINE: <2020-12-21 Mo>
       Es waren tolle Stunden vor Weihnachten / 3A hat den Gottesdienst toll vorbereitet!
     :END:
 
-**** Ziele LP 2000
-[[#01]] Maria im Heilsplan Gottes
 
-**** Kompetenzen
-[[#1b]] Schüler können anhand der Kindheitsgeschichten Jesu Gott als den, der in Jesus Mensch geworden ist, begreifen.
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
 
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B4_UH2]] Frauen im frühen Christentum
 
 **** Wiederholung
 
@@ -638,33 +636,34 @@ DEADLINE: <2020-12-21 Mo>
 
 
 *** TODO [SW16] Ferien
-DEADLINE: <2020-12-28 Mo>
+DEADLINE: <2021-12-27 Mo>
 :PROPERTIES:
-:ID:       03_SW16
+:ID: 03_SW16
+:CUSTOM_ID: Ferien
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
 :END:
 
+
 *** TODO [SW17] Ferien / Gott wird Mensch; Kindheitsgeschichten Jesu
-DEADLINE: <2021-01-04 Mo>
+DEADLINE: <2022-01-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch
-:ID:       03_SW17
+:ID: 03_SW17
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-10 So 22:01]
 - State "DONE"       from "TODO"       [2019-12-27 Fr 22:42]
 :END:
 
-**** Ziele LP 2000
-[[#01]] Gott wird Mensch
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
 
-**** Kompetenzen
-[[#1b]] Schüler können anhand der Kindheitsgeschichten Jesu Gott als den, der in Jesus Mensch geworden ist, begreifen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B3_UH1]] Gnade als Geschenk der Befreiung
 
 **** Wiederholung
 
@@ -711,10 +710,10 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 
 *** TODO [SW18] Vergleich Wissenschaft und Schöpfungstexte
-DEADLINE: <2021-01-11 Mo>
+DEADLINE: <2022-01-10 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Schöpfung
-:ID:       03_SW18
+:CUSTOM_ID: Schöpfung_Wissenschaft
+:ID: 03_SW18
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-17 So 10:13]
@@ -727,14 +726,12 @@ DEADLINE: <2021-01-11 Mo>
       Der Film funktioniert in der 3B gar nicht; es kann sein, dass er "zu hoch" ist. Dennoch ... in Zukunft gibt es sog. "Schriebmeditaionen", eventuell Tests. Schade, wenn sich Schüler selbst schädigen. Ab jetzt wird geschrieben. Hm, muss mir Material suchen, Texte, Fragen, Freitexte, ...
     :END:
 
-**** Ziele LP 2000
-[[#05]] Welt und Mensch - Schöpfung Gottes / Das Leben und die Mitwelt als Geschenk verstehen: Staunen über Phänomene des Kosmos und der Natur
- 
-**** Kompetenzen
-[[#5a]] Schüler können im Staunen über Phänomene des Kosmos, der Natur, in der Kreativität und im schöpferischen Gestalten des Menschen das Leben und die Mitwelt als Geschenk annehmen und selbstverantwortlich mitgestalten.
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
 
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#A2_UH1]] Dialog zwischen Theologie und Naturwissenschaften 
 
 **** Wiederholung
 
@@ -764,11 +761,11 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 
 *** TODO [SW19] Urkirche
-DEADLINE: <2021-01-18 Mo>
+DEADLINE: <2022-01-17 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Urkirche
-:ID:       03_SW19
-    :END:
+:CUSTOM_ID: Urkirche
+:ID: 03_SW19
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
 - State "DONE"       from "TODO"       [2020-01-18 Sa 10:15]
@@ -782,14 +779,12 @@ DEADLINE: <2021-01-18 Mo>
       Sehr spannender Film zum Thema "Islam"
     :END:
 
-**** Ziele LP 2000
-[[#07]] Anfänge der Kirche (Apostelgeschichte, Paulus, ...)
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
 
-**** Kompetenzen
-[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#B4_UH2]] Urkirche
 
 **** Wiederholung
 
@@ -805,12 +800,12 @@ Franz Xaver Bischof "Einführung in die Kirchengechichte"
 
 
 
-*** TODO [SW20] Reformation / Gegenreformation
-DEADLINE: <2021-01-25 Mo>
+*** TODO [SW20] Christenverfolgungen damals und heute
+DEADLINE: <2022-01-24 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Reformation
-:ID:       03_SW20
-    :END:
+:CUSTOM_ID: Christenverfolgung 
+:ID: 03_SW20
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
 - State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
@@ -821,14 +816,13 @@ DEADLINE: <2021-01-25 Mo>
       3B - es klappt nicht. Ab heute git es Schreibmeditationen!
     :END:
 
-**** Ziele LP 2000
-[[#07]] Auswahl Kirchengeschichte - Reformation
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
 
-**** Kompetenzen
-[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
+**** AB / UH
+[[#B4_UH2]] Christenverfolgungen damals und heute
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
 
 **** Wiederholung
 
@@ -841,11 +835,11 @@ DEADLINE: <2021-01-25 Mo>
 **** Hefteintrag
 
 
-*** TODO [SW21] Neuzeit
-DEADLINE: <2021-02-01 Mo>
+*** TODO [SW21] Die gesellschaftskritische Kraft des frühen Christentums
+DEADLINE: <2022-01-31 Mo>
 :PROPERTIES:
-:CUSTOM_ID: Neuzeit
-:ID:       03_SW21
+:CUSTOM_ID: Kritk_Gesellschaft
+:ID: 03_SW21
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
@@ -860,17 +854,12 @@ DEADLINE: <2021-02-01 Mo>
       Der Film passt toll ...
     :END:
 
-**** Ziele LP 2000
-[[#07]] Auswahl Kirchengeschichte - Neuzeit
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
 
-**** Kompetenzen
-[[#7b]] Schüler können die Anfänge der Kirche, ihre Geschichte in Grundzügen und ihre prägenden Gestalten näher bezeichnen und präzisieren.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-
-**** Wiederholung
-
+**** AB / UH
+[[#B4_UH2]] Die gesellschaftskritische Kraft des frühen Christentums
 
 **** Erarbeitung
 
@@ -880,7 +869,7 @@ DEADLINE: <2021-02-01 Mo>
 
 
 *** TODO [SW22] Semesterferien
-DEADLINE: <2021-02-08 Mo>
+DEADLINE: <2022-02-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
 :ID:       03_SW22
@@ -2104,27 +2093,30 @@ Biblisch-hermeneutische Kompetenz: mythologische Sprache, Weltbilder
 :CUSTOM_ID: A2_UH1
 :ID:       b1e725e0-0df1-48aa-a57f-d1637d66c727
 :END:
- - Dialog zwischen Theologie und Naturwissenschaften;
+ - Dialog zwischen Theologie und Naturwissenschaften; [[#Schöpfung_Wissenschaft]]
  - Schöpfungsmythen in den Weltreligionen 
  
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :ID:       ef8e5f2f-5e2d-4f60-8640-da45e9e96a21
+:CUSTOM_ID: A2_KB2
 :END:
 Die Schüler können die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und vielfältige Sinnangebote bewerten. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :ID:       9cc680e0-1609-45e2-884f-9d3cd12e0dd5
+:CUSTOM_ID: A2_AB2
 :END:
 Selbstentfaltung und Abhängigkeiten 
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :ID:       1542b78f-eb03-4c04-be73-99a2a4bb916a
+:CUSTOM_ID: A2_UH2
 :END:
- - Glück, Zufriedenheit, Erfüllung,
- - soziales Engagement,
+ - Glück, Zufriedenheit, Erfüllung, [[#Wegbegleiter]] [[#mein Wegbegleiter]]
+ - soziales Engagement, [[#Wegbegleiter]]
  - Lebensstile,
  - Konsum und Sucht 
 
@@ -2152,9 +2144,9 @@ Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden H
 :CUSTOM_ID: B3_AB1
 :ID:       cb091fa6-858a-4d02-a7af-acaa542c4fdb
 :END:
- - Reich Gottes-Gleichnisse,
- - Exoduserfahrungen in Geschichte und Gegenwart,
- - Dekalog 
+ - Reich Gottes-Gleichnisse, [[#sich Jesus annähern]]
+ - Exoduserfahrungen in Geschichte und Gegenwart, [[#Exodus]]
+ - Dekalog [[#Dekalog]]
 
 
 ****** Unterrichtshinweise
@@ -2162,12 +2154,10 @@ Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden H
 :CUSTOM_ID: B3_UH1
 :ID:       da1a447a-98c4-4bb6-943c-83492f2a70be
 :END:
- - Gnade als Geschenk der Befreiung,
+ - Gnade als Geschenk der Befreiung, [[#Vergebung ohne Grenzen]] [[#Gott wird Mensch]]
  - Heilungserzählungen,
  - Mirjam-Lied,
  - Freiheit und Bindung als menschliche Grundbedürfnisse 
-
-
 
 
 ****** Kompetenzbeschreibungen
@@ -2176,7 +2166,6 @@ Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden H
 :ID:       fab5e010-9a42-4ecd-97d6-12a56536294d
 :END:
 Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln. 
-
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2191,7 +2180,7 @@ Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen 
 :CUSTOM_ID: B3_UH2
 :ID:       8d917afa-2797-47b1-8547-7a65e79c56c7
 :END:
- - Bergpredigt in Auswahl,
+ - Bergpredigt in Auswahl, [[#Bergpredigt]]
  - Goldene Regel,
  - Demokratieverständnis, (Daniele Ganser)
  - Friedenserziehung (Daniele Ganser) 
@@ -2208,7 +2197,6 @@ Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen 
 :ID:       cefec5c3-cde3-4d4a-863c-74d3a14ce3be
 :END:
 Die Schüler können die Bedeutung des Sonntags für das Leben des Einzelnen und der Gesellschaft wahrnehmen und reflektieren.  
- 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2246,9 +2234,10 @@ Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und
 :CUSTOM_ID: B4_UH2
 :ID:       027579cf-4b23-462c-9602-4d03664ab7a9
 :END:
- - Frauen im frühen Christentum,
- - Christenverfolgungen damals und heute,
- - die gesellschaftskritische Kraft des frühen Christentums,
+ - Frauen im frühen Christentum, [[#Maria]]
+ - Urkirche [[#Urkirche]]
+ - Christenverfolgungen damals und heute, [[#Christenverfolgung]]
+ - die gesellschaftskritische Kraft des frühen Christentums, [[#Kritik_Gesellschaft]]
  - Kirche als Volk Gottes,
  - Orden,
  - Sakrament: Weihe 
@@ -2319,7 +2308,7 @@ Religiosität in virtuellen Welten und Social Media
 :CUSTOM_ID: C6_KB1
 :ID:       503f24c8-5a72-424c-9d1d-ac6c2a9134f2
 :END:
-Die Schüler können Grundzüge des Islam beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten. 
+Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten. 
 
 
 ****** Anwendungsbereiche
@@ -2334,8 +2323,10 @@ Die Schüler können Grundzüge des Islam beschreiben und ausgehend von ihrem  W
 :CUSTOM_ID: C6_UH1
 :ID:       be1067ff-6327-4a9c-a6e6-3d456cdc67e5
 :END:
+
+Islam: [[#Islam]] [[#Islam_Film]]
  - Wesentliche Glaubensinhalte und religiöse Praxis;
- - Jesus, Maria und Abraham in Koran und Bibel;
+ - Jesus, Maria und Abraham in Koran und Bibel; [[#Monotheistische Weltreligionen]]
  - Umgang mit unterschiedlichen Sichtweisen,
  - Dialog in wertschätzender und kritischer Haltung 
 

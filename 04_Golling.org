@@ -66,13 +66,14 @@ Das Thema "Drogen und Süchte" wird als Gruppenarbeit gestrichen: Drogen werden 
 Welche gesellschaftlichen Auswirkungen hatten die verschiedenen Weltbilder? Rolle der Kirche? Und heute?
 
 
-*** TODO [SW01] Besprechung Jahresstoff / Jesus ist die Quelle unseres Lebens
-DEADLINE: <2020-09-14 Mo>
+*** DONE [SW01] Besprechung Jahresstoff / Jesus ist die Quelle unseres Lebens
+CLOSED: [2021-09-18 Sa 15:19] DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Jesus Quelle des Lebens
-    :ID: 04_SW01
-    :END:
+:CUSTOM_ID: Jesus Quelle des Lebens
+:ID: 04_SW01
+:END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:19]
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:25]
 - CLOSING NOTE [2019-09-16 Mo 21:47] \\
   Diese vierten Klassen sind einigermaßen angenehm. In der 4A haben sich leider vier Schüler abgemeldet - ohne mir Gründe zu sagen. Jedoch wurde dadurch der Unterricht wesentlich ruhiger.
@@ -82,13 +83,12 @@ DEADLINE: <2020-09-14 Mo>
       Nix großartig Neues - Schulgottesdienst
     :END:
 
-**** Ziele LP 2000
-[[#01]] Die Begeisterung für das Leben gegen Resignation wach halten: Gottessehnsucht und Geistbegabung in exemplarischen Lebensgeschichten
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
 
-**** Kompetenzen
-[[#1b]] Schüler können, ausgehend von der christlichen Botschaft von Vater, Sohn und Heiliger Geist, Begeisterung für das Leben gegenüber Resignation wachhalten.
-
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A2_UH1]] Sehnsüchte und Lebensträume
 
 **** Wiederholung
 
@@ -124,11 +124,11 @@ Die Frau kommt zu Mittag zum Brunnen, so sonst keiner kommt, da es zu heiß ist.
 
 
 *** TODO [SW02] Die Berufung als Quelle meines Lebens
-DEADLINE: <2020-09-21 Mo>
+DEADLINE: <2021-09-20 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Berufung
-    :ID: 04_SW02
-    :END:
+:CUSTOM_ID: Berufung
+:ID: 04_SW02
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-09-27 So 10:37]
 - CLOSING NOTE [2019-09-27 Fr 15:41] \\
@@ -139,13 +139,13 @@ DEADLINE: <2020-09-21 Mo>
       kath. Schöpfungsglaube versus Wissenschaft / Evolution; hat Schüler interessiert, gute Mitarbeit.
     :END:
 
-**** Ziele LP 2000
-[[#01]] Die Begeisterung für das Leben gegen Resignation wach halten: Gottessehnsucht und Geistbegabung in exemplarischen Lebensgeschichten
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
 
-**** Kompetenzen
-[[#1b]] Schüler können, ausgehend von der christlichen Botschaft von Vater, Sohn und Heiliger Geist, Begeisterung für das Leben gegenüber Resignation wachhalten.
+**** AB / UH
+[[#A2_UH1]] persönliche und berufliche Ziele
 
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
 
 **** Wiederholung
 
@@ -187,11 +187,11 @@ Y 340: Gottes Gnade zwingt uns nicht. Die Liebe Gottes will unsere freiwillige Z
 
 
 *** TODO [SW03] Sinn der Arbeit
-DEADLINE: <2020-09-28 Mo>
+DEADLINE: <2021-09-27 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Sinn der Arbeit
-    :ID: 04_SW03
-    :END:
+:CUSTOM_ID: Sinn der Arbeit
+:ID: 04_SW03
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-04 So 10:03]
 - CLOSING NOTE [2019-09-27 Fr 15:42] \\
@@ -202,14 +202,12 @@ DEADLINE: <2020-09-28 Mo>
       Waren gute Stunden.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
 
-**** Kompetenzen
-[[#5d]] Schüler können den Sinn der Arbeit als Mitwirken am Schöpfungswerk Gottes und an der Erlösungstat Christi erfassen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A2_UH1]] persönliche und berufliche Ziele
 
 **** Wiederholung
 
@@ -228,12 +226,12 @@ Supplierstunde:
 **** Hefteintrag
 
 
-*** TODO [SW04] Arbeit, Freizeit und Beruf
-DEADLINE: <2020-10-05 Mo>
+*** TODO [SW04] (Un-)gerechte Wirtschaftsmodelle
+DEADLINE: <2021-10-04 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Arbeit Freizeit Beruf
-    :ID: 04_SW04
-    :END:
+:CUSTOM_ID: Arbeit_Gerechtigkeit
+:ID: 04_SW04
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-11 So 09:46]
 - CLOSING NOTE [2019-10-13 So 12:06] \\
@@ -246,14 +244,12 @@ DEADLINE: <2020-10-05 Mo>
       Die Stunden waren ganz okay. Sie haben gut in der Gruppe gearbeitet. Ich weiß allerdings nicht, ob der Schuß hier nach hinten los geht und die Kinder von nun ab Drogen cool finden. Durch furchtbare Bilder lassen sie sich wahrscheinlich nicht abschrecken - weiß es nicht. Was ist zu tun? Auf jeden Fall eine gute Zeit aufwenden, um ihren Lerngewinn aufzuzeichnen. Die nächsten Stunden sollen ihnen eine positive Sicht auf das Leben geben können. Sport ist immer gut!
     :END:
 
-**** Ziele LP 2000
-[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
-**** Kompetenzen
-[[#5d]] Schüler können den Sinn der Arbeit als Mitwirken am Schöpfungswerk Gottes und an der Erlösungstat Christi erfassen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A1_UH1]] (Un-)gerechte Wirtschaftsmodelle
 
 **** Wiederholung
 
@@ -264,12 +260,12 @@ DEADLINE: <2020-10-05 Mo>
 **** Heftarbeit
     
 
-*** TODO [SW05] Arbeit als Plage oder Dienst
-DEADLINE: <2020-10-12 Mo>
+*** TODO [SW05] Nachhaltige Entwicklungsziele der UNO
+DEADLINE: <2021-10-11 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Arbeit Plage Dienst
-    :ID: 04_SW05
-    :END:
+:CUSTOM_ID: UNO
+:ID: 04_SW05
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
 - CLOSING NOTE [2019-10-13 So 12:07] \\
@@ -287,14 +283,12 @@ DEADLINE: <2020-10-12 Mo>
       In dieser Woche war kein RU in den vierten Klassen.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Die Verantwortung gegenüber sich selbst, den Mitmenschen und der Mitwelt wahrnehmen können
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
-**** Kompetenzen
-[[#5d]] Schüler können den Sinn der Arbeit als Mitwirken am Schöpfungswerk Gottes und an der Erlösungstat Christi erfassen.
-
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A1_UH1]] (Un-)gerechte Wirtschaftsmodelle der UNO
 
 **** Wiederholung
 
@@ -318,11 +312,11 @@ Material zum Thema "Menschenhandel":
 
 
 *** TODO [SW06] Menschenrechte
-DEADLINE: <2020-10-19 Mo>
+DEADLINE: <2021-10-18 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Menschenrechte
-:ID:       04_SW06
-    :END:
+:CUSTOM_ID: Menschenrechte
+:ID: 04_SW06
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-18 Mi 10:26]
     - CLOSING NOTE [2018-10-21 So 22:26] \\
@@ -331,14 +325,12 @@ DEADLINE: <2020-10-19 Mo>
       Das waren sehr gute Stunden. Den Schülern amcht Gruppenarbeit Spaß und Freude - und sie gestalten ihre Plakate wirklich toll!
     :END:
 
-**** Ziele LP 2000
-[[#04]] Kinderrechte, Menschenrechte, Menschenrechtskonvention
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
-**** Kompetenzen
-[[#4a]] Schüler kennen Kinderrechte, Menschenrechte und Menschenrechtsorganisationen und können sich angesichts der Verletzung von Menschenrechten für den Einsatz für Menschenwürde begeistern und Modelle dafür entwerfen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#partizipation]] Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+**** AB / UH
+[[#A1_UH1]] Menschenrechte
 
 **** Wiederholung
 
@@ -371,7 +363,7 @@ Geschichte der EKMR:
 
 
 *** TODO [SW07] Herbstferien
-DEADLINE: <2020-10-26 Mo>
+DEADLINE: <2021-10-25 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Herbstferien
 :ID:       04_SW07
@@ -388,29 +380,23 @@ DEADLINE: <2020-10-26 Mo>
 
 
 *** TODO [SW08] Geschaffen für das ewige Leben
-DEADLINE: <2020-11-02 Mo>
+DEADLINE: <2021-11-01 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: ewiges Leben
-:ID:       04_SW08
-    :END:
+:CUSTOM_ID: ewiges Leben
+:ID: 04_SW08
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
     - CLOSING NOTE [2017-11-02 Don 16:14] \\
       In der Woche war keine Stunde - da am Dienstag in der ersten Stunde im Rahmen der BO-Tage die Vorstellung der Kleßheim-Schule stattfand.
     :END:
 
-<2020-11-02 Mo> Allerseelen (schulfrei) - Ende der Herbstferien
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
 
-**** Ziele LP 2000
-[[#01]] Den Kern des christlichen Glaubens verstehen - die letzten Dinge
-[[#05]] Die christliche Hoffnung von dem neuen Himmel und der neuen Erde beschreiben können
-
-**** Kompetenzen
-[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
-
-[[#5c]] Schüler können die christliche Hoffnung von dem neuen Himmel und der neuen Erde als Bild von Heil und Erlösung deuten.
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#B3_UH1]] österlicher Glaube als christliche Lebenshaltung
 
 **** Wiederholung
 
@@ -437,11 +423,11 @@ Ausarbeitung bleibt bei mir "hängen".
 
 
 *** TODO [SW09] Hinduismus
-DEADLINE: <2020-11-09 Mo>
+DEADLINE: <2021-11-08 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Hinduismus
-:ID:       04_SW09
-    :END:
+:CUSTOM_ID: Hinduismus
+:ID: 04_SW09
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
     - CLOSING NOTE [2018-11-11 So 22:07] \\
@@ -463,13 +449,12 @@ DEADLINE: <2020-11-09 Mo>
       Bsp.: Im neuen Lehrplan der VS kommt Ostern und Pfingsten nur jeweils einmal in 4 Jahren vor! Sie behandelt diese äußerst wichtigen Themen aber jedes Jahr in allen Klassen.
     :END:
 
-**** Ziele LP 2000
-[[#02]] Hinduismus: Kultur, religiöse Praxis und Grundüberzeugungen
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
 
-**** Kompetenzen
-[[#2a]] Schüler können die religiöse Praxis und die Grundüberzeugungen der östlichen Glaubenstraditionen erläutern und sie wertschätzen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in Hinduismus: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
 
 **** Wiederholung 
 
@@ -493,11 +478,11 @@ Arbeitsblätter
 
 
 *** TODO [SW10] Buddhismus
-DEADLINE: <2020-11-16 Mo>
+DEADLINE: <2021-11-15 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Buddhismus
-:ID:       04_SW10
-    :END:
+:CUSTOM_ID: Buddhismus
+:ID: 04_SW10
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-11-22 So 17:25]
 - CLOSING NOTE [2019-11-15 Fr 16:24] \\
@@ -509,13 +494,13 @@ DEADLINE: <2020-11-16 Mo>
       Präsentation / Film?
     :END:
 
-**** Ziele LP 2000
-[[#02]] Buddhismus: Kultur, religiöse Praxis und Grundüberzeugungen
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
 
-**** Kompetenzen
-[[#2a]] Schüler können die religiöse Praxis und die Grundüberzeugungen der östlichen Glaubenstraditionen erläutern und sie wertschätzen.
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in Buddhismus: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
 
 **** Wiederholung
 
@@ -532,7 +517,7 @@ Bei Home-Schooling: Quiz zum Thema Weltreligionen. Film online stellen? Rechtlic
 
 
 *** TODO [SW11] Chinesische Traditionen
-DEADLINE: <2020-11-23 Mo>
+DEADLINE: <2021-11-22 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Chinesische Traditionen
 :ID:       04_SW11
@@ -547,13 +532,12 @@ DEADLINE: <2020-11-23 Mo>
       Film fertig
     :END:
 
-**** Ziele LP 2000
-[[#02]] Chinesische Traditionen
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
 
-**** Kompetenzen
-[[#2a]] Schüler können die religiöse Praxis und die Grundüberzeugungen der östlichen Glaubenstraditionen erläutern und sie wertschätzen.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in den chinesischen Traditionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
 
 **** Wiederholung
 
@@ -566,11 +550,11 @@ Suche im Internet Weisheitssprüche von Konfuzius und aus dem Taoismus (Laotse) 
 
 
 *** TODO [SW12] Biblische Propheten
-DEADLINE: <2020-11-30 Mo>
+DEADLINE: <2021-11-29 Mo>
 :PROPERTIES:
-    :CUSTOM_ID: Bibel Propheten
-:ID:       04_SW12
-    :END:
+:CUSTOM_ID: Bibel Propheten
+:ID: 04_SW12
+:END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
 - State "DONE"       from "TODO"       [2019-11-30 Sa 09:33]
@@ -582,16 +566,12 @@ DEADLINE: <2020-11-30 Mo>
       Zweite Stunde: ?
     :END:
 
-<2020-11-29 So> 1. Adventsonntag
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
-**** Ziele LP 2000
-[[#04]] Die Botschaft der Propheten und ihren Ruf anch Gerechtigkeiten kennen: Biblische Propheten (z.B. Amos)
-
-**** Kompetenzen
-[[#4b]] Schüler können auf Basis der Botschaft biblischer und moderner Propheten - ihrem Ruf nach Gerechtigkeit - für Zivilcourage eintreten sowie die kirchliche Forderung der „Option für die Armen“ implementieren.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
+**** AB / UH
+[[#A1_AB1]] (Biblische) Propheten und Prophetinnen
 
 **** Wiederholung
 
@@ -606,10 +586,10 @@ Material hier:
 
 
 *** TODO [SW13] Moderne Propheten
-DEADLINE: <2020-12-07 Mo>
+DEADLINE: <2021-12-06 Mo>
 :PROPERTIES:
 :CUSTOM_ID: moderne Propheten
-:ID:       04_SW13
+:ID: 04_SW13
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
@@ -628,14 +608,13 @@ DEADLINE: <2020-12-07 Mo>
       Mit allen vierten Klassen Stunden zur Bedeutung von Advent und Weihnachten ...
     :END:
 
-**** Ziele LP 2000
-[[#04]] Die Botschaft der Propheten und ihren Ruf anch Gerechtigkeiten kennen: Propheten heute
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
 
-**** Kompetenzen
-[[#4b]] Schüler können auf Basis der Botschaft biblischer und moderner Propheten - ihrem Ruf nach Gerechtigkeit - für Zivilcourage eintreten sowie die kirchliche Forderung der „Option für die Armen“ implementieren.
+**** AB / UH
+[[#A1_AB1]] (Biblische) Propheten und Prophetinnen
 
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#performanz]] Gestalten und handeln in religiösen und ethischen Fragen
 
 **** Wiederholung
 
@@ -647,7 +626,7 @@ DEADLINE: <2020-12-07 Mo>
 
 
 *** TODO [SW14] Ein neuer Himmel, eine neue Erde
-DEADLINE: <2020-12-14 Mo>
+DEADLINE: <2021-12-13 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Apokalypse
 :ID:       04_SW14
@@ -663,14 +642,12 @@ DEADLINE: <2020-12-14 Mo>
       In der 4A hat es nicht so gut geklappt, die Schüler "schlafen" wieder einmal, sind träge. Es ist wohl besser, sie selbständig in Kleingruppen arbeiten lassen. Dafür braucht es klare Arbeitsanweisungen.
     :END:
 
-**** Ziele LP 2000
-[[#05]] Die christliche Hoffnung von dem neuen Himmel und der neuen Erde beschreiben können
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB2]] Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben.
 
-**** Kompetenzen
-[[#5c]] Schüler können die christliche Hoffnung von dem neuen Himmel und der neuen Erde als Bild von Heil und Erlösung deuten.
-
-[[#perzeption]] Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
+[[#A2_AB2]] Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube
 
 **** Wiederholung
 
@@ -684,7 +661,7 @@ DEADLINE: <2020-12-14 Mo>
 
 
 *** TODO [SW15] Gott wird Mensch
-DEADLINE: <2020-12-21 Mo>
+DEADLINE: <2021-12-20 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch
 :ID:       04_SW15
@@ -696,13 +673,9 @@ DEADLINE: <2020-12-21 Mo>
       Waren tolle letzte Stunden vor den Ferien...
     :END:
 
-**** Ziele LP 2000
-[[#01]] Den Kern des christlichen Glaubens verstehen: Gott wird Mensch (Inkarnation)
+**** Kompetenzbeschreibung
 
-**** Kompetenzen
-[[#1c]] Schüler können den Kern des christlichen Glaubens begreifen.
-
-[[#kognition]] Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+**** AB / UH
 
 **** Wiederholung
 
@@ -712,7 +685,7 @@ DEADLINE: <2020-12-21 Mo>
 
 
 *** TODO [SW16] Ferien
-DEADLINE: <2020-12-28 Mo>
+DEADLINE: <2021-12-27 Mo>
 :PROPERTIES:
 :ID:       04_SW16
 :END:
@@ -722,7 +695,7 @@ DEADLINE: <2020-12-28 Mo>
 :END:
 
 *** TODO [SW17] Ferien / Gott wird Mensch (Teil 2)
-DEADLINE: <2021-01-04 Mo>
+DEADLINE: <2022-01-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Gott wird Mensch 2
 :ID:       04_SW17
@@ -783,7 +756,7 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 **** Hefteintrag
 
 *** TODO [SW18] Schöpfungstexte
-DEADLINE: <2021-01-11 Mo>
+DEADLINE: <2022-01-10 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Schöpfung
 :ID:       04_SW18
@@ -841,7 +814,7 @@ Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wet
 
 
 *** TODO [SW19] Naturwissenschaftliche Fragestellungen
-DEADLINE: <2021-01-18 Mo>
+DEADLINE: <2022-01-17 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Naturwissenschaft
 :ID:       04_SW19
@@ -886,7 +859,7 @@ Der Sinn des Lebens besteht ...
 
 
 *** TODO [SW20] 2000 Jahre Christentum
-DEADLINE: <2021-01-25 Mo>
+DEADLINE: <2022-01-24 Mo>
 :PROPERTIES:
     :CUSTOM_ID: 2000 Jahre Christentum
 :ID:       04_SW20
@@ -931,7 +904,7 @@ DEADLINE: <2021-01-25 Mo>
 
 
 *** TODO [SW21] Orthodoxe Kirchen
-DEADLINE: <2021-02-01 Mo>
+DEADLINE: <2022-01-31 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Orthodoxe Kirchen
 :ID:       04_SW21
@@ -964,7 +937,7 @@ DEADLINE: <2021-02-01 Mo>
 
 
 *** TODO [SW22] Semesterferien
-DEADLINE: <2021-02-08 Mo>
+DEADLINE: <2022-02-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
 :ID:       04_SW22
@@ -2065,7 +2038,7 @@ Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenle
 :CUSTOM_ID: A1_AB1
 :ID:       14961d3d-c15d-4747-8ca5-f630e5825bef
 :END:
- - (Biblische) Propheten und Prophetinnen,
+ - (Biblische) Propheten und Prophetinnen, [[#Bibel Propheten]] [[#Moderne Propheten]]
  - Chancen- und Verteilungsgerechtigkeit 
 
 ****** Unterrichtshinweise
@@ -2076,15 +2049,17 @@ Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenle
  - Zivilcourage,
  - Friede,
  - Gewaltfreiheit,
- - Menschenrechte,
- - nachhaltige Entwicklungsziele der UNO
- - (un-)gerechte Wirtschaftsmodelle 
+ - Menschenrechte, [[#Menschenrechte]]
+ - nachhaltige Entwicklungsziele der UNO [[#UNO]]
+ - (un-)gerechte Wirtschaftsmodelle [[#Arbeit_Gerechtigkeit]]
 
+
+ 
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :ID:       8777b77d-cce7-48b4-9b0c-fa0eb74027b1
 :END:
-Die Schüler können das Verhältnis von geltenden Normen und per- sönlichen Gewissens- entscheidungen analysieren und anhand von Beispielen diskutieren. 
+Die Schüler können das Verhältnis von geltenden Normen und persönlichen Gewissensentscheidungen analysieren und anhand von Beispielen diskutieren. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2099,21 +2074,25 @@ Bildung des eigenen Gewissens
  - Orientierungskriterien bei Entscheidungen,
  - Gruppendruck,
  - sexualethische Fragestellungen,
- - Gesetzesauslegung Jesu (z. B. Sabbatgebot) 
+ - Gesetzesauslegung Jesu (z. B. Sabbatgebot)
 
-
+   
 ***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
 :PROPERTIES:
 :CUSTOM_ID: A2
 :ID:       dbb88755-07b4-41ab-acf8-340bdb801e28
+:ARCHIVE_TIME: 2021-09-10 Fr 17:32
+:ARCHIVE_FILE: ~/org/04_Golling.org
+:ARCHIVE_OLPATH: Kompetenzbereiche und Kompetenzdimensionen/Kompetenzmodell und -bereiche/A Menschen und ihre Lebensorientierungen
+:ARCHIVE_CATEGORY: 04_Golling
+:ARCHIVE_ITAGS: hide
 :END:
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: A2_KB1
 :ID:       c6a11f83-7141-46b4-9394-f33d9e433871
 :END:
-Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
-
+Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2126,26 +2105,32 @@ Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne 
 :CUSTOM_ID: A2_UH1
 :ID:       2b37efff-74cf-4fcb-8be4-dcc0da73040a
 :END:
- - Sehnsüchte und Lebensträume,
- - persönliche und berufliche Ziele,
- - Utopien und Dystopien 
+ - Sehnsüchte und Lebensträume, [[#Jesus Quelle des Lebens]]
+ - persönliche und berufliche Ziele, [[#Berufung]] [[#Sinn der Arbeit]]
+ - Utopien und Dystopien
 
+
+ 
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :ID:       9ae56f4a-2585-4f12-a10f-8577722b0b0c
+:CUSTOM_ID: A2_KB2
 :END:
 Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
 :ID:       8716faa9-eed0-46aa-9533-a112ad6efa83
+:CUSTOM_ID: A2_AB2
 :END:
- - Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube 
+ - Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube [[#Apokalypse]]
 
 ****** Unterrichtshinweise
 :PROPERTIES:
 :ID:       39c699c0-be13-4a35-b023-2a39a8b1cace
+:CUSTOM_ID: A2_UH2
 :END:
+
 
 **** B Gelehrte und gelebte Bezugsreligion
 :PROPERTIES:
@@ -2164,13 +2149,11 @@ Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschr
 :END:
 Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren. 
 
-
 ****** Anwendungsbereiche
 :PROPERTIES:
 :CUSTOM_ID: B3_AB1
 :ID:       ee053a90-11c2-41d7-ad23-dc6a8e4648e5
 :END:
-
 
 ****** Unterrichtshinweise
 :PROPERTIES:
@@ -2180,15 +2163,15 @@ Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungs
  - Erfahrungen von Scheitern und Neubeginn,
  - Passionsgeschichte und Osterevangelium,
  - Bedeutung des Kreuzes,
- - österlicher Glaube als christliche Lebens haltung 
+ - österlicher Glaube als christliche Lebenshaltung [[#ewiges Leben]]
 
+   
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: B3_KB2
 :ID:       6b799913-c2bd-42e7-a0dd-5bcf603a9bd0
 :END:
-Die Schüler können das vielfältige Wirken des Heiligen Geistes ent- decken und charakte- risieren. 
-
+Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2274,7 +2257,7 @@ Verkündigung – Liturgie – Diakonie - Gemeinschaft
 :CUSTOM_ID: C5_KB1
 :ID:       bfe411bb-0f0c-4f19-b0ed-0f081b66307b
 :END:
-Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung ver- stehen und ihr eigenes kreatives Potential entfalten. 
+Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten. 
  
 
 ****** Anwendungsbereiche
@@ -2311,6 +2294,7 @@ Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung ver- stehen 
 :ID:       3392d789-5838-44b2-930c-dc50207f772d
 :END:
 
+
 ***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
 :PROPERTIES:
 :CUSTOM_ID: C6
@@ -2321,8 +2305,7 @@ Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung ver- stehen 
 :CUSTOM_ID: C6_KB1
 :ID:       cecbcf92-831d-48f7-98ee-5ee8614a74bf
 :END:
-Die Schülerinnen und Schüler kennen Charakteristika asiati- scher Glaubenstraditi- onen und können diese mit dem christlichen Glaubensverständnis vergleichen. 
-
+Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:
@@ -2330,21 +2313,20 @@ Die Schülerinnen und Schüler kennen Charakteristika asiati- scher Glaubenstrad
 :ID:       42297147-05ed-4e35-a8ae-63fcfe01f874
 :END:
 
-
 ****** Unterrichtshinweise
 :PROPERTIES:
 :CUSTOM_ID: C6_UH1
 :ID:       1d0eeb49-dbcd-45c1-9b12-f454885c4cac
 :END:
- - Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesischen Religionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege 
+ - Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesischen Religionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege [[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]]
 
-
+   
 ****** Kompetenzbeschreibungen
 :PROPERTIES:
 :CUSTOM_ID: C6_KB2
 :ID:       0971b876-a524-453b-a101-b6c28586443e
 :END:
-Die Schülerinnen und Schüler können lebens- förderliche und lebens- feindliche Aspekte in Religionen und Welt- anschauungen benen- nen und beurteilen. 
+Die Schülerinnen und Schüler können lebensförderliche und lebensfeindliche Aspekte in Religionen und Weltanschauungen benennen und beurteilen. 
 
 ****** Anwendungsbereiche
 :PROPERTIES:

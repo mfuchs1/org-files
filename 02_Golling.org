@@ -45,13 +45,15 @@ vollständiger Text des Lehrplans (online):
 
 ** Jahres- / Wochenplanung 
 
-*** TODO [SW01] Besprechung des Jahresstoffes / Welchen Platz habe ich in der Klasse?
-DEADLINE: <2020-09-14 Mo>
+*** DONE [SW01] Besprechung des Jahresstoffes / Welchen Platz habe ich in der Klasse?
+CLOSED: [2021-09-18 Sa 15:18] DEADLINE: <2021-09-13 Mo>
 :PROPERTIES:
     :CUSTOM_ID: mein Platz
     :ID: 02_SW01
     :END:
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2021-09-18 Sa 15:19]
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:18]
 - State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
 - CLOSING NOTE [2019-09-16 Mo 21:46] \\
   So wie letztes Jahr: mit diesen Klassen lässt sich wunderbar arbeiten.
@@ -79,7 +81,7 @@ DEADLINE: <2020-09-14 Mo>
 
 
 *** TODO [SW02] Wie sage ich's?
-DEADLINE: <2020-09-21 Mo>
+DEADLINE: <2021-09-20 Mo>
 :PROPERTIES:
     :CUSTOM_ID: wie sage ichs
     :ID: 02_SW02
@@ -109,13 +111,24 @@ DEADLINE: <2020-09-21 Mo>
 
 
 **** Erarbeitung 
+Welche Gefühle tregen wir uns?
 
+Wie drücken wir diese Gefühle aus?
+Kann / darf ich jede Gefühle ausdrücken?
+
+Wie gehe ich z.B. mit Gefühlen um, die andere verletzen könn(t)en?
+
+Welche "Rollen" gibt es in unserer Klasse? Anführer (Alpha-Tier), zweiter Chef, Mitläufer, Außenseiter, beachtet, missachtet, ...
+
+Wie kann ich meinen Mitschüler so wahrnehmen, dass dieser wertgeschätzt ist? Wie rede ich meinen Mitschüler an, sodass ...
+
+Wie anders ist der andere?
 
 **** Hefteintrag
 
 
 *** TODO [SW03] Der Urspung eines großen Volkes (Abraham)
-DEADLINE: <2020-09-28 Mo>
+DEADLINE: <2021-09-27 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Ursprung Volk Israel
     :ID: 02_SW03
@@ -160,7 +173,7 @@ am Besten etwas zum Ausmalen, Ausschneiden und Einkleben.
 
 
 *** TODO [SW04] Film Abraham (1. Teil)
-DEADLINE: <2020-10-05 Mo>
+DEADLINE: <2021-10-04 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Film Abraham 1
     :ID: 02_SW04
@@ -197,7 +210,7 @@ Gen 12f weiterlesen; Weg Abrahams zeichnen;
 
 
 *** TODO [SW05] Film Abraham (2. Teil)
-DEADLINE: <2020-10-12 Mo>
+DEADLINE: <2021-10-11 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Film Abraham 2
 :ID:       02_SW05
@@ -233,7 +246,7 @@ Josefs Geschichte.
 
 
 *** TODO [SW06] AT und seine Unterteilung
-DEADLINE: <2020-10-19 Mo>
+DEADLINE: <2021-10-18 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Bibel AT
 :ID:       02_SW06
@@ -274,7 +287,7 @@ Eigenen Psalm schreiben; Prophetischen Text lesen; ...
 
 
 *** TODO [SW07] Herbstferien
-DEADLINE: <2020-10-26 Mo>
+DEADLINE: <2021-10-25 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Herbstferien
 :ID: 02_SW07
@@ -293,7 +306,7 @@ DEADLINE: <2020-10-26 Mo>
 
 
 *** TODO [SW08] Sakramente
-DEADLINE: <2020-11-02 Mo>
+DEADLINE: <2021-11-01 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Sakramente
 :ID: 02_SW08
@@ -330,7 +343,7 @@ Doppelseite gestalten im Heft zum Thema "Bibel".
 
 
 *** TODO [SW09] Sakrament Taufe
-DEADLINE: <2020-11-09 Mo>
+DEADLINE: <2021-11-08 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Taufe
 :ID: 02_SW09
@@ -360,7 +373,7 @@ YouCat...
 
 
 *** TODO [SW10] Das Glaubensbekenntnis
-DEADLINE: <2020-11-16 Mo>
+DEADLINE: <2021-11-15 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Credo
 :ID: 02_SW10
@@ -400,7 +413,7 @@ Eine Erinnerungsseite an meine eigene Taufe / Erstkommunion gestalten.
 
 
 *** TODO [SW11] Sakrament der Eucharistie
-DEADLINE: <2020-11-23 Mo>
+DEADLINE: <2021-11-22 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Eucharistie
 :ID: 02_SW11
@@ -437,7 +450,7 @@ YouCat + Arbeitsblatt
 
   
 *** TODO [SW12] Sakrament der Eucharistie - Teil 2
-DEADLINE: <2020-11-30 Mo>
+DEADLINE: <2021-11-29 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Eucharistie 2
 :ID: 02_SW12
@@ -469,7 +482,7 @@ DEADLINE: <2020-11-30 Mo>
 
 
 *** TODO [SW13] Advent / Zeichen und Symbole des Advents
-DEADLINE: <2020-12-07 Mo>
+DEADLINE: <2021-12-06 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Advent
 :ID:       02_SW13
@@ -537,7 +550,7 @@ Wer kann ... mitbringen:
  - Holzstern 
 
 *** TODO [SW14] Maria Empfängnis - Freudenreicher Rosenkranz 
-DEADLINE: <2020-12-14 Mo>
+DEADLINE: <2021-12-13 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Maria Rosenkranz
 :ID:       02_SW14
@@ -604,7 +617,7 @@ Rosenkranz zeichnen / gemeinsam beten;
 Die Schüler notieren zu einem Rosenkranz die Bibelstellen (z.B. die freudenreichen Geheimnisse). Zusatzaufgabe: zu einem der Geheimnisse eine kleine Zeichnung verfassen.
 
 *** TODO [SW15] Jesus ist geboren / Weihnachtsgottesdienst
-DEADLINE: <2020-12-21 Mo>
+DEADLINE: <2021-12-20 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weihnachten
 :ID:       02_SW15
@@ -638,7 +651,7 @@ DEADLINE: <2020-12-21 Mo>
 **** Hefteintrag
 
 *** TODO [SW16] Ferien
-DEADLINE: <2020-12-28 Mo>
+DEADLINE: <2021-12-27 Mo>
 :PROPERTIES:
 :ID:       02_SW16
 :CUSTOM_ID: Ferien
@@ -649,7 +662,7 @@ DEADLINE: <2020-12-28 Mo>
 :END:
 
 *** TODO [SW17] Ferien / Die Weisen aus dem Morgenland
-DEADLINE: <2021-01-04 Mo>
+DEADLINE: <2022-01-03 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Weisen Morgenland
 :ID:       02_SW17
@@ -688,7 +701,7 @@ Ein Suchsel zum Thema:
 [[file:Schule/drei_könige_suchsel.pdf]]
 
 *** TODO [SW18] Auf der Suche nach dem Glück
-DEADLINE: <2021-01-11 Mo>
+DEADLINE: <2022-01-10 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Suche nach Glück
 :ID:       02_SW18
@@ -733,7 +746,7 @@ Ein Suchsel zum Thema:
 
 
 *** TODO [SW19] Die Liebe Gottes für die eigene Person erkennen
-DEADLINE: <2021-01-18 Mo>
+DEADLINE: <2022-01-17 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Gott liebt dich!
 :ID:       02_SW19
@@ -783,7 +796,7 @@ Aufwendiger:
 
 
 *** TODO [SW20] Christus schenkt neues Leben - die Taufe
-DEADLINE: <2021-01-25 Mo>
+DEADLINE: <2022-01-24 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Taufe 1
 :ID:       02_SW20
@@ -818,7 +831,7 @@ Siehe SW09 ... [[id:02_SW09][[SW09] Sakrament Taufe]]
 
 
 *** TODO [SW21] Sakramente - wirksame Zeichen
-DEADLINE: <2021-02-01 Mo>
+DEADLINE: <2022-01-31 Mo>
 :PROPERTIES:
     :CUSTOM_ID: Sakramente 1
 :ID:       02_SW21
@@ -845,7 +858,7 @@ Siehe SW08 ... [[id:02_SW08][[SW08] Sakramente]]
 **** Hefteintrag
 
 *** TODO [SW22] Semsterferien
-DEADLINE: <2021-02-08 Mo>
+DEADLINE: <2022-02-07 Mo>
 :PROPERTIES:
 :CUSTOM_ID: Semesterferien
 :ID:       02_SW22

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>[SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes</title>
+<meta name="author" content="(Matthias Fuchs)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///home/matthias/Downloads/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="file:///home/matthias/Downloads/reveal.js/dist/theme/moon.css" id="theme"/>
+
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">[SW01] Besprechung Jahresstoff / Ich bin ein Lieblingsgedanke Gottes</h1><h2 class="author">Matthias Fuchs</h2><p class="date">Created: 2021-09-15 Mi 23:17</p>
+</section>
+<section id="table-of-contents"><div id="table-of-contents">
+<h2>Inhaltsverzeichnis</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgf759776">1. Kompetenzbeschreibung</a></li>
+<li><a href="#/slide-orga3f6bf7">2. AB / UH</a></li>
+<li><a href="#/slide-orgb7527cc">3. Wiederholung</a></li>
+<li><a href="#/slide-orgd730262">4. Erarbeitung</a></li>
+<li><a href="#/slide-org799b4e6">5. Hefteintrag</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-orgf759776">
+<h2 id="orgf759776"><span class="section-number-2">1.</span> Kompetenzbeschreibung</h2>
+<p>
+Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orga3f6bf7">
+<h2 id="orga3f6bf7"><span class="section-number-2">2.</span> AB / UH</h2>
+<p>
+Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-orgb7527cc">
+<h2 id="orgb7527cc"><span class="section-number-2">3.</span> Wiederholung</h2>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgd730262">
+<h2 id="orgd730262"><span class="section-number-2">4.</span> Erarbeitung</h2>
+<p>
+Gott liebt mich. Juhuu!
+</p>
+
+<p>
+Im NT steht es "schwarz auf weiß" (Jes 43 / Joh 15 / 1 Joh 4). Gott liebt nicht nur - er IST die Liebe, sie ist sein Wesen. 
+</p>
+
+<p>
+Bibelstellen lesen und darüber beten. 
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-org799b4e6">
+<h2 id="org799b4e6"><span class="section-number-2">5.</span> Hefteintrag</h2>
+<p>
+Mein Leben ist in Gottes Hand geschrieben
+</p>
+</section>
+</section>
+</div>
+</div>
+<script src="file:///home/matthias/Downloads/reveal.js/dist/reveal.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/markdown/markdown.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/zoom/zoom.js"></script>
+<script src="file:///home/matthias/Downloads/reveal.js/plugin/notes/notes.js"></script>
+
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+plugins: [RevealMarkdown, RevealZoom, RevealNotes]
+});
+
+</script>
+</body>
+</html>

@@ -1,0 +1,2713 @@
+% Created 2021-09-15 Mi 13:35
+% Intended LaTeX compiler: pdflatex
+\documentclass[pdftex,a4paper,12pt,bibliography=totoc,draft]{scrartcl}
+                              \usepackage[top=2.5cm, bottom=2.5cm, left=4.0cm, right=3.0cm]{geometry}
+\usepackage{nicefrac}
+\usepackage{amsmath}
+%\usepackage{ucs}
+\usepackage[germanb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+
+\usepackage[style=authoryear-ibid,backend=biber,dashed=false,isbn=false]{biblatex}
+\DeclareLanguageMapping{ngerman}{ngerman-apa}
+
+\makeatletter
+\renewbibmacro*{bbx:editor}[1]{%
+\ifthenelse{\ifuseeditor\AND\NOT\ifnameundef{editor}}
+{\ifthenelse{\iffieldequals{fullhash}{\bbx@lasthash}\AND
+\NOT\iffirstonpage\AND
+\(\NOT\boolean{bbx@inset}\OR
+\iffieldequalstr{entrysetcount}{1}\)}
+{\bibnamedash}
+{\printnames{editor}%
+\setunit{\addspace}% GEÄNDERT
+\usebibmacro{bbx:savehash}}%
+\printtext[parens]{\usebibmacro{#1}}% GEÄNDERT
+\clearname{editor}%
+\setunit{\addspace}}%
+{\global\undef\bbx@lasthash
+\usebibmacro{labeltitle}%
+\setunit*{\addspace}}%
+\usebibmacro{date+extradate}}
+\makeatother
+
+\DeclareBibliographyDriver{incollection}{%
+\usebibmacro{bibindex}%
+\usebibmacro{begentry}%
+\usebibmacro{author/translator+others}%
+\setunit{\labelnamepunct}\newblock
+\usebibmacro{title}%
+\newunit
+\printlist{language}%
+\newunit\newblock
+\usebibmacro{byauthor}%
+\newunit\newblock
+\usebibmacro{in:}%
+\begingroup% NEU
+\renewbibmacro*{date+extradate}{}% NEU
+\usebibmacro{editor+others}% NEU
+\newunit{\addcolon\addspace}\newblock% NEU
+\endgroup% NEU
+\usebibmacro{maintitle+booktitle}%
+\newunit\newblock
+%  \usebibmacro{byeditor+others}%
+%  \newunit\newblock
+\newunit\newblock
+\usebibmacro{chapter+pages}%
+\printfield{edition}%
+\newunit
+\iffieldundef{maintitle}
+{\printfield{volume}%
+\printfield{part}}
+{}%
+\newunit
+\printfield{volumes}%
+\newunit\newblock
+\usebibmacro{series+number}%
+\newunit\newblock
+\printfield{note}%
+\newunit\newblock
+\usebibmacro{publisher+location+date}%
+%\newunit\newblock
+%\usebibmacro{chapter+pages}%
+\newunit\newblock
+\iftoggle{bbx:isbn}
+{\printfield{isbn}}
+{}%
+\newunit\newblock
+\usebibmacro{doi+eprint+url}%
+\newunit\newblock
+\usebibmacro{addendum+pubstate}%
+\newunit\newblock
+\usebibmacro{pageref}%
+\usebibmacro{finentry}}
+
+% \DeclareBibliographyDriver{article}{
+%   \usebibmacro{bibindex}%
+%   \usebibmacro{begentry}%
+%   \usebibmacro{author/translator+others}%
+%   \setunit{\labelnamepunct}\newblock
+%   \usebibmacro{title}%
+%   \newunit
+%   \printlist{language}%
+%   \newunit\newblock
+%   \usebibmacro{byauthor}%
+%   \newunit\newblock
+%   \usebibmacro{byeditor+others}%
+%   \newunit\newblock
+%   \printfield{version}%
+%   \newunit\newblock
+% %  \usebibmacro{in:}%   SO KLAPPT DAS!
+%   \usebibmacro{journal+issuetitle}%
+%   \newunit\newblock
+%   \printfield{note}%
+%   \setunit{\bibpagespunct}%
+%   \printfield{pages}
+%   \newunit\newblock
+%   \printfield{issn}%
+%   \newunit\newblock
+%   \printfield{doi}%
+%   \newunit\newblock
+%   \usebibmacro{eprint}
+%   \newunit\newblock
+%   \usebibmacro{url+urldate}%
+%   \newunit\newblock
+%   \printfield{addendum}%
+%   \newunit\newblock
+%   \usebibmacro{pageref}%
+%   \usebibmacro{finentry}
+% }
+
+\DefineBibliographyStrings{german}{%
+byeditor = {Hrsg\adddot},%
+byeditor = {Hrsg\adddot},%
+andothers={et \addabbrvspace al\adddot},
+}
+
+%\DeclareNameAlias{sortname}{last-first}
+%\DeclareNameAlias{default}{last-first}
+\DeclareNameAlias[incollection]{editor}{default}
+%\DeclareFieldFormat{namelast}{\mkbibacro{#1}}
+\DeclareFieldFormat[incollection]{title}{\mkbibitalic{#1}}
+\DeclareFieldFormat[incollection]{booktitle}{#1}
+\DeclareFieldFormat[incollection]{pages}{\parentext{#1}}
+\DeclareFieldFormat[incollection]{editor}{#1\addcolon}
+\DeclareFieldFormat[article]{title}{\mkbibitalic{#1}}
+\DeclareFieldFormat[article]{journaltitle}{#1}
+\DeclareFieldFormat[article]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[article]{note}{#1\addcolon\addspace}
+\DeclareFieldFormat[collection]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[collection]{note}{#1\addcolon\addspace}
+\DeclareFieldFormat[misc]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[misc]{note}{#1\addcolon\addspace}
+
+
+\AtBeginBibliography{%
+\renewcommand{\nametitledelim}{\addcolon\space}
+\renewcommand{\finalnamedelim}{\addcomma\space}
+
+}
+%\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+\renewcommand{\labelnamepunct}{\addcolon\addspace}
+\renewcommand{\nameyeardelim}{\addcomma\space}
+\renewcommand{\subtitlepunct}{\adddot\space}
+
+
+
+
+%\renewcommand{\nametitledelim}{\addcolon\addspace}
+%\addbibresource{Literatur.bib} %% Einbinden der bib-Datei
+\bibliography{../Bibliography/Literatur}
+\providecommand{\apashortdash}{-}
+
+
+%\makeatletter
+%\renewcommand\@biblabel[1]{}
+%\makeatother
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage{url}
+\urlstyle{rm}
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref}
+\usepackage{cjhebrew}
+\renewcommand{\figurename}{Abbildung}
+\usepackage{pdfpages}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage{times}
+\addtokomafont{sectioning}{\rmfamily}
+\usepackage{setspace}
+%\renewcommand{\familydefault}{\sfdefault}
+%\usepackage{helvet}
+%\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{ragged2e}
+\RequirePackage{processkv}
+\usepackage{parcolumns}
+\usepackage{blindtext}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\usepackage{xpatch}
+
+
+
+%Kopfzeile
+\usepackage[draft=false,automark,headsepline,plainheadsepline]{scrlayer-scrpage}
+%\KOMAoptions{onpsinit=\linespread{1}\selectfont
+\pagestyle{scrheadings}
+\clearmainofpairofpagestyles
+\clearplainofpairofpagestyles
+\ihead{\headmark}
+\ohead{\pagemark}
+\automark{section}
+\onehalfspacing
+\usetheme{default}
+\author{Matthias Fuchs}
+\date{\today}
+\title{01\textsubscript{Golling}}
+\begin{document}
+
+\maketitle
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+
+
+
+\begin{frame}[label={sec:orga25d631}]{Unterrichtsvorbereitung}
+Das ist eine Planung des Religionsunterrichts für die fünfte Schulstufe / die ersten Klassen (NMS Golling). Die Jahres- / Wochenplanung wird immer wieder aktualisiert. Weiter unten folgen die fünf Kompetenzbereiche (A - E), die für die gesamte NMS gültig sind. Die vier Kompetenzdimensionen (1-4) gelten besonders für den Religionsunterricht. Der Lehrplan ist nach sieben Kompetenzen aufgeteilt, die den Anforderungen und Bedürfnissen der jeweiligen Schulstufe angepasst werden.
+
+Vor der genaueren Planung werde ich ein paar Bücher lesen: Religionspädagogik / Religion erleben / \ldots{} 
+
+\begin{block}{Welche Klasse}
+\href{A_Klasse_2021-25.org}{1A}
+
+\href{B_Klasse_2021-25.org}{1B}
+
+\href{C_Klasse_2021-25.org}{1C}
+\end{block}
+
+\begin{block}{Zitate aus dem Lehrplan}
+\begin{block}{Inhalt und Anliegen des Religionsunterrichts}
+"\emph{In der Mitte des Religionsunterrichts stehen die Schülerinnen und Schüler, ihr Leben und ihr Glaube. Daher sind Inhalt des Religionsunterrichts sowohl das menschliche Leben als auch der christliche Glaube, wie er sich im Laufe der Geschichte entfaltet hat und in den christlichen Gemeinden gelebt wird. Lebens-, Glaubens- und Welterfahrungen der Schülerinnen und Schüler, Lehrerinnen und Lehrer werden dabei aus der Perspektive des christlichen Glaubens reflektiert und gedeutet. Dieser Glaube hat in Jesus Christus seine Mitte.}"
+
+"\emph{Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So
+trägt er auch zur Gestaltung des Schullebens bei.}"
+\end{block}
+
+\begin{block}{Stellung des Religionsunterrichts an der Sekundarstufe I}
+"\emph{Der Religionsunterricht ist Teil des Bildungs- und Erziehungsauftrages der betreffenden Schulart. Religiöse Bildung ist Bestandteil von Allgemein-, wie von Persönlichkeitsbildung. Durch seinen spezifischen Beitrag zur religiös-ethisch-philosophischen Bildungsdimension unterstützt der konfessionelle Religionsunterricht grundlegend alle Aufgabenbereiche der Schule. Durch Wissensvermittlung im Bereich der christlichen Religion, anderer Religionen und Weltanschauungen trägt der Religionsunterricht zum Verstehen unserer Kultur bei, die stark von der jüdisch-christlichen Tradition geprägt ist. Junge Menschen lernen Werte zu entdecken, moralisch zu urteilen und zu handeln.}"
+\end{block}
+
+\begin{block}{Das Prinzip des Religionsunterrichts}
+"\emph{Religionsunterricht zielt Korrelation als wechselseitige Erschließung von Leben und christlicher Tradition an. Zum einen sind die Erfahrungen der Schülerinnen und Schüler und Lehrerinnen und Lehrer zur Sprache zu bringen. Diese werden vielfältig zum Ausdruck gebracht, reflektiert, auf ihre  religiöse Sinndimension hin erschlossen und mit der biblischen sowie kirchlichen Überlieferung wechselseitig in Beziehung gesetzt.}"
+
+"\emph{Zum anderen sind jene fachspezifischen Bildungsinhalte zur Sprache zu bringen, die möglicherweise den Schülerinnen und Schülern vorerst neu und fremd sind. Diese können bisher Selbstverständliches im Leben der Schülerinnen und Schüler in Frage stellen und neue Erfahrungs- und Deutungsmöglichkeiten eröffnen. Ein solcher Religionsunterricht intendiert, dass in den Unterrichtsprozessen die christliche Botschaft erfahrbar wird. Religiöse Übungen bieten im Rahmen der Schule einen Raum, der für religiöse Erfahrungen förderlich ist.}"
+
+
+vollständiger Text des Lehrplans (online):
+
+\url{http://www.schulamt.at/attachments/article/130/Lehrpla\%CC\%88ne\%20SeSt+Poly\_Web.pdf}
+
+\url{http://www.schulamt.at/attachments/article/130/LP\_Sek\_I.pdf}
+\end{block}
+\end{block}
+
+
+\begin{block}{Jahres- / Wochenplanung}
+Hier notiere ich meine Vor- und Nachüberlegungen zu den konkreten Stunden (pro Woche 2 Stunden). Im LOGBOOK vermerke ich, wie die jeweiligen Stunden verlaufen sind, was gut ging, worauf ich in Zukunft achten muss: meine Beobachtungen und Reflexionen.
+
+\begin{block}{[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org218fc33} Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+\ref{sec:org3d055aa} Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org72fd5e7} Ich und die anderen: Empathie und Perspektivenwechsel
+\end{block}
+
+\begin{block}{Wiederholung}
+Hier kommt ein neuer Text hin. - Nachher verwende ich magit \ldots{} Und jetzt füge ich noch etwas hinzu.
+
+Vorstellen des RU in der NMS Golling.
+
+\begin{itemize}
+\item Organisatorisches: Heft / Überprüfung
+\item Anforderungen bzgl Benotung: Mitarbeit (jede Stunde), Heftführung (regelmäßig kontrolliert; vollständig? sauber? kreativ? \ldots{}); eventuell LKZ / Test
+\item Themen
+\item Was ist mir als Lehrer wichtig?
+\item Was erwarten sich die Schüler?
+\end{itemize}
+
+Im RU kann und werde ich den Schülern Glaubens*wissen* vermitteln. Aber nicht nur das. Es muss um die Schüler gehen; wie können die Schüler eine Verbindung zwischen ihrem Leben und dem christlichen Glauben herstellen? Wie sehr (oder: wie wenig) sind die Schüler christlich-kirchlich sozialisiert? Der christliche Glaube ist kein Hut, den man sich am Sonntag beim Kirchgang aufsetzt. Er ist integraler Bestandteil meiner Person (wenn ich getauft bin). Jesus Christus - Er muss in der Mitte des RU stehen. Ich muss als RL das Evangelium Jesu Christi verkünden, Zeuge der Wahrheit sein. Ja, es gibt sie: DIE Wahrheit. Nicht ich - als Mensch - werde sie finden, sondern es ist die Wahrheit, die mich finden wird; denn die Wahrheit ist eine Person: Jesus Christus, der Sohn Gottes (c) Ambrosius, im Film "Augustinus".
+
+Der Ablauf der Stunde muss klar sein.
+
+Beispiel:
+
+\begin{itemize}
+\item Gebet
+\item Rückblick / Whg von letzter Stunde / Aufzeichnungen der Mitarbeit
+\item Hinführung
+\item Schüler erarbeiten neues Thema / Aufzeichnungen der Heftarbeit
+\item Zusammenfassung
+\item Hefteintrag / Aufzeichnungen
+\item Offene Fragen / Was habt ihr gelernt?
+\end{itemize}
+
+\url{https://www.reli.ch/schuhe-mit-alltagsgegenstaenden-religion-lernen/}
+
+Nach den obigen Texten aus dem Lehrplan - die ich den Schülern durchaus vorlesen kann -, stehen sowohl Jesus Christus als auch die Schüler in der Mitte des RU. Welche religiöse Erfahrungen, welches religiöse Wissen bringen die Schüler mit? Was ist ihnen neu? Wie können wir unsere Erfahrungen im Lichte des Evangeliums deuten? Gott offenbart sich in Jesus Christus.
+
+
+
+[Ich weiß nicht, wieviel die Schüler (in allen Klassen) von der aktuellen Krise innerhalb der katholischen Kirche mitbekommen. Ein unfassbares Skandal in der katholischen Kirche in den USA, Täter waren Priester, Ordensleute und Bischöfe (?); Vertuschung durch Priester und Bischöfe; Papst Franziskus hat(te) unter seinen Beratern Kardinal McCarrick, der von dem Skandal wusste, selbst Täter war(?); Papst B16 erlegte McCarrick Sanktionen auf; Papst Franziskus hob diese wieder auf; etc \ldots{} Es ist keine Krise des Vertrauens, sondern des Glaubens. Der Papst ist auch dann der Papst, wenn er ein grottenschlechter Papst ist.]
+\end{block}
+
+\begin{block}{Erarbeitung}
+Einander kennenlernen - Namensschilder? fixer Sitzplan für mich; Schüler immer mit Vornamen anreden.
+
+Grundlagen:
+\begin{itemize}
+\item Was ist Glaube?
+\item Jesus
+\item Gott
+\item Hl. Schrift
+\item Kirche
+\item Jahresfestkreis verstehen
+\item etc\ldots{}
+\end{itemize}
+
+Hm, den RU auf diese Art zu beginnen, wird für die Kinder zu abstrakt sein. Besser ist es, die Kinder zu fragen, was sie sich vom RU erwarten bzw welche Themen sie auf welche Art in der VS erarbeitet haben (Sitzkreis etc). Andererseits werde ich die Schüler bitten, bei Unklarheiten sofort Fragen zu stellen.
+
+In der ersten Stunde: 1. Heftseite wunderschön gestalten ("Jesus Christus", Themen-ABC, \ldots{}): zum Thema "Jesus" Wörter von A bis Z finden.
+
+SOFORT Aufzeichnungen machen: Mitarbeit, Heft, Schulsachen vollständig? 
+
+Immer gemeinsam beten: Lieder, Gebete, Stille, \ldots{}
+\end{block}
+
+\begin{block}{Hefteintrag}
+Jahresfestkreis ins Heft zeichnen
+Farblich gestalten 
+\end{block}
+\end{block}
+
+\begin{block}{[SW02] Das Kirchenjahr (Kalender)}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+\ref{sec:orga57638b} Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62}
+\begin{itemize}
+\item Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+\item Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
+\end{itemize}
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+So, jetzt schreibe ich hier einen Text.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW03] Das Kirchenjahr (Feste)}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+\ref{sec:orga57638b} Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62}
+\begin{itemize}
+\item Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+\item Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender),
+\end{itemize}
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+kjdslkjflsj
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+
+\begin{block}{[SW04] Die Bibel / die 27 Bücher des NT}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orgc7e28fe} Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+\ref{sec:orgf525e4e} Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6a04ab0} Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+\ref{sec:org32006cf} Neues Testament
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Auf dieser Homepage finden ich und eventuell auch die Schüler gutes Hintergrundwissen. Die Schüler können damit vielleicht weniger etwas anfangen.
+
+Allgemein:
+\url{https://www.bibelwissenschaft.de/bibelkunde/neues-testament/} [folgende Kapitel]
+
+\url{https://www.die-bibel.de/bibeln/bibelkenntnis/inhalt-und-aufbau-der-bibel/neues-testament/}
+
+Textbeispiele aus Evangelium, Brief und Apokalypse
+Brief:
+\begin{itemize}
+\item Frage aus dem Leben der Kinder; aws steht dazu in einem Paulusbrief?
+\item Leben des Paulus: er kommt in eine Stadt, verkündet Jesus (Predigt, Wunder); gründet eine Gemeinde; er setzt Verantwortliche ein; die Gemeinde hat Fragen; Paulus schreibt einen Brief; dieser Brief wird vorgelesen, abgeschrieben und in anderen Gemeinden verlesen; \ldots{}
+\end{itemize}
+\end{block}
+
+\begin{block}{Hefteintrag}
+Zeichnen einer Bibliothek - fertig stellen
+\end{block}
+\end{block}
+
+\begin{block}{[SW05] Das NT und seine Entstehung / die vier Evangelien}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orgc7e28fe} Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+\ref{sec:orgf525e4e} Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6a04ab0} Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+\ref{sec:org32006cf} Neues Testament
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+\begin{block}{Erarbeitung}
+Heilige Schrift - 2 Teile (AT / NT) Kontinuität / Neubeginn.
+Was ist die Bibel? Das Besondere? Eine christliche Verkündigung kann es ohne das AT nicht geben. Ohne das AT lässt sich das NT nicht verstehen. Für die ersten Christen war die "Heilige Schrift" das hebräische AT. Sie verkündeten Jesus als den Messias / Christus durch die Bibel (=AT) und von ihr her. Ab dem 2. Jhdt als Gegenreaktion auf Irrlehren: Kirche legt 2teilige Bibel als Hl. Schrift fest. "Alt" bedeutet NICHT "überholt"! "Neuer Bund" einmal in Jer 31,31 / Paulus "Alter Bund" in 2 Kor 3,14  Korrelationspaar. Lassen sich im Bezug aufeinander verstehen. Alt geht neu voraus! Das Neue lässt sich ohne das Alte nicht verstehen. Im Lichte des Neuen lassen sich bestimmte Ereignisse des Alten erst "richtig" erfassen.
+
+(Göttliche) Inspiration
+Die Heilige Schrift ist Gottes Wort in Menschenwort.
+Wie ist die Bibel entstanden?
+Mündliche Überlieferung, schriftliche Überlieferung:
+AT: ab ca. 1000 v. Chr. (Frühkönigszeit) Beginn der Verschriftlichung
+NT: ab 50 n. Chr.; Briefe (1. Thess), Evangelien (50-70); Offb (100)
+
+Was ist für die Kinder wichtig zu wissen? Was müssen sie wissen (Basiswissen)?
+Wie bringe ich das Thema den Kindern nahe?
+
+\alert{\alert{\alert{**}}}
+
+Hefteintrag:
+Überlieferung
+Gott offenbart sich durch Wort und Tat - wechselseitiger Bezug
+Tradition ohne Tradition keine Heilige Schrift dh Schrift ja / Tradition nein ist eigentlich Unfug.
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Entstehung des NT (Lehrfilm)
+
+Bedeutung der Bibel, ein Buch aus Büchern; Entstehungszeitraum: ca 1200 bis 1400 Jahren.
+
+Aufbau: AT / NT; 2 Quellen Theorie für das NT.  nachprüfen: was ist \alert{aktueller} Stand der Wissenschaft?
+
+Arbeitsblätter - Auswahl!
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Verklärung: Vergleich der Texte in Mt, Mk, Lk.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW06] Das Leben und Schreibmaterial im NT}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orgc7e28fe} Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+\ref{sec:orgf525e4e} Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6a04ab0} Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+\ref{sec:org32006cf} Neues Testament
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Film?
+
+Papirus besorgen? Schreibgriffel?
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW07] Herbstferien}
+\end{block}
+
+
+\begin{block}{[SW08] Die Welt des Neuen Testaments}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orgc7e28fe} Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+\ref{sec:orgf525e4e} Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6a04ab0} Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel
+\ref{sec:org32006cf} Neues Testament
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Arbeitsblätter im folgenden Verzeichnis:
+\url{file:///home/matthias/NMS\_Golling/Bibel\_NT/}
+
+\begin{itemize}
+\item Entstehung NT
+\item Leben Jesus
+\item Paulus
+\end{itemize}
+
+
+\href{file:///home/matthias/NMS\_Golling/Leben\_Zeit\_Jesu.ppt}{PPP über Umwelt Jesu}
+
+\url{https://schuldekan-schorndorf.de/index.php?id=799}
+
+Ein Haus zur Zeit Jesu: meist einräumig, zwei Wohnebenen (Menschen, Tiere).
+Schüler beschreiben das Haus
+
+Aufmerksam auf besondere Eigenheiten machen: kleine und wenig Fenster, Kochstelle, Backofen, Öllampe, Flachdach, Schlafmatten, Vorratsgefäße, Mesusa (Höre Israel).
+
+"Wimmelbuch" zur Bibel
+
+Ich hab in der Medienstelle zwei Filme ausgeborgt (DVD+), enthält auch Arbeitsmaterial. Ich werde beide Filme sowohl in der 1. als auch in der zweiten Klasse einsetzen (auch wenn sie für ältere Kinder gedacht sind).
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Verklärung aus einer Evangelien-Synopse kopieren
+Texte vergleichen:
+\begin{itemize}
+\item Unterschiede
+\item Gemeinsamkeiten
+\item Warum Elija und Mose?
+\item (..)
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW09] Vorschule des Betens}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orga0f08cb} Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+\ref{sec:orgc5ae5a7} Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6c64f70} Stille, Meditation
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+YouCat: Was ist Gebet? Wie lernen wir von Jesus, Maria, \ldots{} beten? Formen des Gebets? Körperhaltungen? Das Vaterunser, das Gegrüßet seist du Maria und andere Grundgebete. Verfassen eines persönlichen Gebets; Beten in der Familie; persönlich beten, gemeinsam beten.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW10] 10 Regeln für das Gebet}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orga0f08cb} Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+\ref{sec:orgc5ae5a7} Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6c64f70} Kurzformeln des Glaubens
+
+i1lI
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+YouCat Firmbuch (S. 71-74) bzw. Jugendgebetsbuch (aus der Schule holen?)
+
+\begin{enumerate}
+\item Entscheide dich; bewusste Entscheidung: dann und dann will ich beten
+\item Sei im Kleinen treu
+\item Nimm dir Zeit zum Beten: eine feste Zeit; eine ruhige Zeit (frühe Morgen, später Abend); eine wertvolle Zeit.
+\item Bereite dir einen Ort
+\item Ritualisiere und strukturiere dein Gebetsleben: Ordnung, Ritus. Trete in Gottes Gegenwart ein; Danke Gott am Ende und bitte um seinen Segen.
+\item Lass den ganzen Menschen beten; Körper, Gefühle, Gedanken, \ldots{}
+\item Bete auf vielfältige Weise: vorformulierte Gebete, persönliches Gebet; singen, schweigen; ein kurzer Gebetsruf; inneres Gebet; \ldots{}
+\item Nutze die Gelegenheiten (für zwischendurch);
+\item Lass Gott zu Wort kommen: Hl. Schrift, die Heiligen; im Herzen; \ldots{}
+\item Bete mit der himmlischen und irdischen Kirche: bete mit der Familie, den Freunden; bete mit den Heiligen; bitte sie um ihr Gebet.
+\end{enumerate}
+
+Home-Schooling: Jeder Schüler versucht, die ersten vier Punkte umzusetzen.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW11] Vater Unser}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orga0f08cb} Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+\ref{sec:orgc5ae5a7} Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6c64f70} Grundgebete
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Eine schöne Seite zum Vater Unser im Heft gestalten: zB ein paar der Bitten mit kleinen Zeichnungen gestalten.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW12] Beginn Advent - Singen von Adventliedern}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+\ref{sec:orga57638b} Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62} Vielfältige Zugänge zum Feiern von Weihnachten
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Im Heft eine Seite zu den Bräuchen des Advents gestalten.
+
+Zeichnen und manche Bräuche erklären: woher kommt z.B. der Adventkranz?
+\end{block}
+
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW13] Maria Empfängnis (8.12.)}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+\ref{sec:orga57638b} Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62} Marienfeste
+\end{block}
+
+\begin{block}{Wiederholung}
+Wiederholung / Hinführung zum Kirchenjahr: Aufbau, Struktur, Bedeutung, \ldots{}
+
+Auf den Weihnachtsfestkreis wird genauer eingegangen: das dreifache Kommen Jesu. Daraus ergeben sich drei verscchiedene Haltungen für den Advent. Wir staunen über Gottes Geheimnis, das Hervorgehen des Sohnes aus dem Vater. Wir danken Gott für das Kommen Jesu vor 2000 Jahren. Wir bereiten unsere Herzen durch Umkehr auf Kommen Jesu in uns vor. Wir erwarten voller Sehnsucht das (Wieder)kommen Jesu in Herrlichkeit am Ende der Zeiten.
+\end{block}
+
+\begin{block}{Erarbeitung}
+\href{https://www.youtube.com/watch?v=J5uV\_QY-uUA}{Advent: Warum, woher, wie, was? - kathmedia}
+
+\href{https://www.youtube.com/watch?v=SAeQMmpI9G8}{Ein katholisches Halloween? Bräuche im Advent - kathmedia}
+
+P. Johannes erklärt in "coolen" Videos den katholischen Glauben.
+
+\href{https://de.wikipedia.org/wiki/Kirchenjahr}{Wikipedia: das Kirchenjahr}
+
+Rituale sind wichtig: Der kleine Prinz
+
+Der Sonntag: ein Osterfest im Kleinen.
+
+Die Schüler sollen das Kirchenjahr neu entdecken: Wie ist es aufgeteilt? \url{https://www.festjahr.de/de/}
+
+Und: warum ist es auf diese Weise strukturiert? Gott wird Mensch in Jesus (Weihnachten), um uns zu erlösen (Ostern). Daher ist das Kirchenjahr von Weihnachten auf Ostern hin ausgerichtet. Vor großen Festen gibt es Vorbereitungszeiten (Advent, Fastenzeit, Bitttage vor Christi Himmelfahrt). Nach den großen Festen gibt es mehrere Tage bzw Wochen des Feierns: Weihnachtszeit und Osterzeit. Die Zeit des Jahreskreises steht im Zeichen der Hoffnung (Farbe grün) und der Mission.
+
+Welche Bedeutung haben die liturgischen Farben? \url{https://www.festjahr.de/de/die-farben.html} \url{http://www.medienwerkstatt-online.de/lws\_wissen/vorlagen/showcard.php?id=5730}
+
+Welche Rangordnung haben die Feste?
+
+Advent - Wir "warten" auf Jesus; er kommt 4x.
+\begin{itemize}
+\item In Ewigkeit geht der Sohn aus dem Vater heraus.
+\item Menschwerdung;
+\item jetzt; in den Sakramenten
+\item am Ende der Zeit in den Wolken
+\end{itemize}
+
+Lesungen des 1. Adventsonntags
+\begin{itemize}
+\item Jes 33,14-16: Gott ist unsere Gerechtigkeit. Gott erfüllt das Heilswort. Ein gerechter Spross sprießt für David auf.
+\item 1 Thess 3,12-4,2: (ist der älteste Paulus-Brief); Gabe und Aufgabe gehören zusammen; "Gott zu gefallen"; den Alltag heiligen; so leben, dass die Gottesbeziehung immer stärker wird Barmherzigkeit und Nächstenliebe;
+\item Lk 21,25-28.34-36: apokalyptische Vostellungen (Römer, Krieg von 66-70); Menschensohn in der Wolke Buch Exodus, Gotteserscheinungen;
+\end{itemize}
+
+Symbole des Advents: Adventkranz, Kerze, Weihrauch, Farbe: violett, \ldots{}
+
+Warum überhaupt "warten", warum die ganze Vorbereitung? Je wichtiger ein Fest oder ein Besuch, umso länger und intensiver ist die Vorbereitung. Jedes Fest benötigt eine gründliche Vorbereitung - es ist eben ein Fest, und nicht der Alltag.
+\end{block}
+
+\begin{block}{Hefteintrag}
+Symbole des Advents und ihre Geschichte.
+Was wäre für dich ein besinnlicher Advent?
+Was würdest du dafür tun?
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW14] Ave Maria}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orga0f08cb} Gelehrte und gelebte Bezugsreligion: Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+\ref{sec:orgc5ae5a7} Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org6c64f70} Grundgebete
+\end{block}
+
+\begin{block}{Wiederholung}
+Brauchtum: Bräuche im Advent - Adventkranz, Barbarazweige, Adventkalender, Nikolaus, Weihrauch, Kerzen,\ldots{}
+
+Hören: Adventlieder, Lärm / Stille, Musikkapellen, Krampuss-Lärm, Knistern des Feuers, Christkindlmärkte, etc.
+Sehen: Licht, Farben, Dunkelheit, Schnee, \ldots{}
+Schmecken: Kekse, Punsch, \ldots{}
+Riechen: Weihrauch, Kekseduft, \ldots{}
+Tasten: Tannenzweige, Schnee, \ldots{}
+\end{block}
+
+\begin{block}{Erarbeitung}
+Johannes der Täufer - sein Leben / seine Botschaft
+\begin{itemize}
+\item Verkündigung seiner Geburt: Lk 1,5-25
+\item seine Geburt: Lk 1,57-80
+\item Leben in der Wüste: Joh 3
+\item seine Predigt: Lk 3,1-20
+\item Was sagt Jesus über Johannes: Mt 9,14-17; 11,2-19; Lk 7,18-35.
+\item sein Tod: Mk 6,14-29
+\end{itemize}
+
+Synoptiker und JohEv!
+
+Bibelarbeit zu den Lesungen des 2. Adventsonntags\footnote{\href{https://www.erzabtei-beuron.de/schott/schott\_anz/index.html}{Lesungen des zweiten Adventsonntags Lesejahr A}
+
+\bibliography{Bibliography/Literatur}}
+
+\begin{itemize}
+\item Jes 11,1-10
+\item Ps 72 (71), 1-2.7-8.12-13.17
+\item Röm 15,4-9
+\item Mt 3,1-12
+\end{itemize}
+
+Mit dem Evangelium am 2. Adventsonntag steigen wir einen Schritt weiter in die Vorbereitung auf die Erzählung von der Geburt des Christus ein. Am letzten Sonntag haben wir einen Text gehört, in dem der erwachsene Jesus zur Achtsamkeit mahnte. Heute gehen wir jetzt noch einen Schritt zurück in die Anfänge Jesus. Wir begegnen Johannes dem Täufer. Dem Vorläufer \ldots{} dem, der den Weg bereitet.
+
+Der Evangelist Lukas stellt hier die Predigt des Johannes als neuen Ruf zur Heimkehr aus dem Exil dar. Zunächst wird das Ereignis historisch eingeordnet, wie auch Exil und Heimkehr historisch einzuordnen sind, und wie Lukas im Kapitel zuvor schon die Geburt Jesu in einen großen weltpolitischen Horizont gestellt hat. Gleichzeitig ist vollkommen klar: Der "Herr der Welt", der Kaiser in Rom, ist nicht im Zentrum. Das eigentliche Zentrum ist auch nicht der Tempel in Jerusalem. Das Zentrum der Welt ist in der Wüste und dann am Jordan.
+In der Wüste ergeht das Wort Gottes an Johannes – wie damals an Mose. Was Gott gesagt hat, erzählt uns Lukas überraschenderweise nicht.
+Auf jeden Fall zieht Johannes an den Jordan und verkündet dort "eine Taufe der Umkehr zur Vergebung". Nicht Taufe und (!) Umkehr, wie die alte Einheitsübersetzung vereinfachte. Wie hängen aber Taufe, Umkehr und Vergebung zusammen? Auf jeden Fall scheint die Taufe nicht die Bedingung zur Umkehr und Sündenvergebung zu sein. Die eigentliche Predigt des Johannes wird von Lukas auch nicht zitiert. Seine Worte sind aber offensichtlich ähnlich denen des Propheten Jesaja (Jes 40,3-5):
+
+Ein Weg soll sich öffnen nach Hause.
+Das Heil Gottes soll sichtbar werden.
+
+Von Babylon aus ist der Blick frei nach Jerusalem. Vom Jordan aus ist der Blick frei nach Jerusalem. Das Heil Gottes schauen, kann
+ganz wörtlich heißen, den Tempel oder das Allerheiligste sehen können. Überträgt man das Bild ins Innere, öffnen sich noch weitere Perspektiven. Die innere Landschaft zu ebnen, damit man Gott sehen kann. Das ist der adventliche Impuls dieses Evangeliums.
+
+---
+
+Fragen:
+\begin{enumerate}
+\item Was sagt der Text über Jesus?
+\item Was sagt, tut Jesus?
+\item Was sagt, tut der Kranke, etc?
+\item Welche Eigenschaftswörter\ldots{}?
+\item Was sagt der Text dir persönlich?
+\end{enumerate}
+
+cf Skript von Fr. Kreinecker bzgl Fragen zu einem biblischen Text
+
+---
+Ideen aus der heutigen Predigt:
+Herkules und der Stall des Augias. - Augias besitzt 1000e Rinder, sein Stall wurde seit 30 Jahren nicht mehr gereinigt. Herkules leitet zwei Flüsse um und reinigt auf diese Weise den Stall. Augias lässt dies nicht gelten, denn nach seiner Meinung haben die Flüsse den Stall gereinigt, und nicht Herkules. Daraufhin tötet Herkules Augias. Die Olympischen Spiele beruhen auf dieser Geschichte.
+
+Der "Stall des Augias" steht für den Saustall der Sauställe - Dreck in der Politik und Wirtschaft, Korruption, etc \ldots{}
+
+Wo gibt es in meinem Leben einen stinkenden Winkel? Der Advent ist nicht nur Besinnung und Stille, Kerzenlicht und Nikolaus, sondern war und ist immer schon eine Zeit der Umkehr.
+
+Damit Gott zu mir kommen kann, muss mein Haus gereinigt werden.
+\end{block}
+
+\begin{block}{Hefteintrag}
+Johannes der Täufer in der Wüste - was würde er heute sagen?
+Welche Ungerechtigkeiten würde Johannes heute anprangern?
+Zeichne Johannes und schreibe daneben eine "scharfe" Predigt.
+
+Szenen als Zeichnungen darstellen?
+
+Bilder zum Ausmalen / Ergänzen?
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW15] Jesus ist geboren / Weihnachtsgottesdienst}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62} vielfältige Zugänge zum Feiern von Weihnachten
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Weihnachtsevangelium lesen.
+
+\url{https://www.kirchliche-medien.ch/sei-ein-licht-in-dieser-welt-3/}
+
+\url{https://www.kirchliche-medien.ch/the-power-of-words-a-girl-changed-a-blind-man-day-2/}
+
+\url{https://www.kirchliche-medien.ch/essen-mit-gott-eating-twinkies-with-god-2/}
+
+Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch.
+
+Buch "Varenka" vorlesen - Bilder zeigen.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+\begin{block}{[SW16] Ferien}
+\end{block}
+
+
+\begin{block}{[SW17] Ferien / Sterndeuter}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62} vielfältige Zugänge zum Feiern von Weihnachten 
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Weihnachtsevangelium lesen.
+
+\url{https://www.kirchliche-medien.ch/sei-ein-licht-in-dieser-welt-3/}
+
+\url{https://www.kirchliche-medien.ch/the-power-of-words-a-girl-changed-a-blind-man-day-2/}
+
+\url{https://www.kirchliche-medien.ch/essen-mit-gott-eating-twinkies-with-god-2/}
+
+Videos besprechen - auf christliche Bedeutung von Weihnachten hinweisen; Jesus ist wahrer Gott und wahrer Mensch.
+
+Buch "Varenka" vorlesen - Bilder zeigen.
+
+---
+
+Alternativ:
+Die "Dreikönigsaktion" ist dieses Jahr ausgefallen. Die letzten Jahre haben die Sternsinger für verschiedene Projekte Geld gesammelt. Die drei Videos geben einen Einblick in diese Projekte:
+
+\href{https://www.youtube.com/watch?v=Y69VzAp67Fk\&feature=youtu.be}{Unterwegs für die Sternsinger: Willi in Kenia - YouTube}
+
+\href{https://www.youtube.com/watch?v=lgS1CXvt3Ms\&feature=youtu.be}{Unterwegs für die Sternsinger: Willi auf den Philippinen - YouTube}
+
+\href{https://www.youtube.com/watch?v=9iYyC29UBho\&feature=youtu.be}{Unterwegs für die Sternsinger: Willi in Tansania - YouTube}
+
+Ein sehr gut gestaltete und informative Internetseite zum Thema der Hl. Drei Könige:
+\href{https://www.heilige-dreikoenige.de/de/}{Heilige Drei Könige}
+\end{block}
+
+\begin{block}{Hefteintrag}
+Ein Suchsel zum Thema:
+\begin{center}
+\includegraphics[width=.9\linewidth]{Schule/drei_könige_suchsel.pdf}
+\end{center}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org3952f17} Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur: Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org0bd5c62} vielfältige Zugänge zum Feiern von Weihnachten
+\end{block}
+
+
+\begin{block}{Wiederholung}
+Kinder erzählen von ihren Ferien, eventuelle Erfahrungen beim Sternsingen aufpassen: Kinder werden über Geschenke wetteifern. Und die wenigsten werden bei den Sternsingern mitgewirkt haben. Fragen kann ich sie immer.
+\end{block}
+
+\begin{block}{Erarbeitung}
+Heilige drei Könige:
+Text aus dem Evangelium Mt 2,1-12
+
+Das Wort "Sterndeuter / Magier" kann folgendes bedeuten:
+\begin{itemize}
+\item Angehörige der persischen Priesterklasse; "Walter einer eigentlichen Religion"; Philosophie;
+\item Inhaber; Ausüber eines übernatürlichen Wissens
+\item Zauberer
+\item Betrüger und Verführer
+\end{itemize}
+
+Das religiöse Suchen kann sich für Gott und Jesus öffnen - da spendet es Hoffnung und Heil. Wendet es sich gegen Gott, wird es dämonisch und zerstörerisch. Hier zeigt sich die Ambivalenz des Religiösen.
+
+Die Magier in Mt gehören den ersten beiden Möglichkeiten an: religiöses und oder philosophisches Wissen, das den Weg zur Erkenntnis Jesu öffnet. Weltall: Konjunktion von Jupiter und Saturn im Sternbild der Fische ("Stern") in den Jahren 7-6 v. Chr. Diese Magier könnten Sternkundige gewesen sein. Damit ein Stern auf einen neuen König verweist, muss es eine Verheißung gegeben haben. Zur Zeit Jesu gab es Erwartungen, dass aus Judäa der zukünftige Herr der Welt hervorgehen werde. Diese Menschen waren "Weise", Menschen der inneren Unruhe, der Hoffnung: auf der Suche nach dem Wahren, dem wahren Gott - also Philosophie im eigentlichen Sinn. Im Suchen nach Christus geht es um das Überschreiten jeder Wissenschaft. Ähnlich wie Abraham. Vgl. Ps 72,10 und Jes 60: aus den Magiern werden Könige (und damit die Kamele und Dromedare). Die drei Magier / Könige stellen die drei bekannte Kontinente dar: Europa, Afrika und Asien. Plus die drei Lebensalter: Jugend, Reife, Alter. Die drei Weisen sind ein Anfang - den Aufbruch der Menschheit auf Christus hin.
+Sie suchen Wahrheit; heute würden wir Wissenschaftler sagen. Auf jeden Fall sind es Menschen auf der Suche.
+
+Stern:
+gibt Orientierung; erfreut uns; weckt unser Staunen über die Größe des Weltalls;
+Zur Zeit Jesu, genauer: in den Jahren 7-6 v. Chr. gab es eine Konjunktion der Planeten Jupiter, Saturn und Mars (Johannes Kepler; wird auch von modernen Astronomen geteilt). Dieses Ereignis gab es auch im Jahre 1604, plus eine Supernova. In China entdeckte man im Jahre 4. v. Chr. einen hell leuchtenden Stern, der über längere Zeit hin sichtbar war. Jupiter steht für den babylonischen Hauptgott Marduk, Saturn für das Volk der Juden.
+Die drei Weisen müssen auch innerlich auf der Suche nach dem Stern gewesen sein.
+
+Der Kosmos spricht von Christus. Die Schöpfung gibt dem Menschen eine Ahnung vom Schöpfer - aber wir können sie nicht vollständig enträtseln. Die Hoffnung, dieser Gott möge sich zeigen. Der Mensch soll und kann diesem Gott entgegen gehen.
+
+Die Weisen kommen durch den Stern zunächst nur bis Judäa und gehen nach Jerusalem, denn nur dort kann der neue König geboren sein. Sie benötigen das Zeugnis der Heiligen Scrhiften, um endgültig den Weg zu finden. "König der Juden" ist heidnischer Ausdruck; Juden würden "König Israels" sagen. "Es erschrak \ldots{} ganz Jerusalem": verständlich - wenn es einen neuen König gibt, dann geht es Herodes an den Kragen; und dieser wird seinen Thron nicht kampflos überlassen, was nur Schlimmes für die Einwohner Jerusalems bedeuten kann. Gott stört die zufriedene Alltäglichkeit. Micha 5,1; 2 Sam 5,2. Das Große kommt aus dem irdisch Geringen. Warum erkennen zwar die Schriftgelehrten dies, ziehen daraus aber keine prakischen Konsequenzen?
+
+huldigen:
+verehren, sich niederwerfen. Die Weisen werden von großer Freude erfüllt: ihre Hoffnung bewahrheitet sich, sie finden und werden gefunden. Es fehlt Josef? Vll erinnert Mt an die Jungfrauengeburt Jesu und an seine Gottessohnschaft. Proskynese - Niederwerfen auf die Erde: nur vor dem Gott-König.
+Gaben: Gold (König; unser Herz), Weihrauch (Gott; unser Gebet), Myrrhe (Begräbnis; Heiland; was ist wund in uns?) Als die Frauen am Morgen Jesus salben wollen (dem Tod entegegenwirken), ist Jesus schon auferstanden: er braucht die Myrrhe nicht. Die Weisen gehen auf einem anderen Weg heim in ihr Land: die Begegnung mit Jesus verändert unser Leben.
+
+\alert{\alert{*}}
+
+\alert{WJT Köln 2005:}
+
+JP2: Botschaft - "Wir sind gekommen, um ihn anzubeten (um ihm zu huldigen)" (Mt 2,2)
+Könige ließen alles hinter sich, um dem Stern zu folgen; unbekannte, gefährliche Reise. Stern zog vor ihnen her: sie ließen sich vom Stern führen - Zeichen Gottes erkennen. Wer Gott folgt, erfährt eine echte und tiefe Freude.
+
+Dieses Kind ist anders: der eingeborene Sohn Gottes. Gott erniedrigt sich, wurde Mensch und starb am Kreuz Dankbarkeit gegenüber Gott?!
+
+Bethlehem: Haus des Brotes Eucharistie. Das Weizenkorn stirbt und bringt Frucht. "Ich bin das Brot des Lebens". Weg der Armut Jesu: von der Krippe bis zur Verlassenheit am Kreuz welche Liebe Gottes zu uns. Derselbe Erlöser der Krippe und des Kreuzes ist in der Eucharistie gegenwärtig. Jesus ist im Fleisch, im Blut, in der Seele und in der Gottheit anwesend Er gibt sich uns als Speise, wir beten ihn an.
+
+Zögere nicht, ihm in der Liebe zu antworten. In der Eucharistie Jesus als unseren Schöpfer, Herrn und Heiland anerkennen und anbeten, symbolisiert durch die drei Gaben:
+
+\begin{itemize}
+\item Gold: die königliche Gottheit Jesu das Gold unseres Lebens - die Freiheit darbringen, Gottes Ruf folgen.
+\item Weihrauch: Jesus ist Priester des Neuen Bundes Weihrauch unseres Gebets.
+\item Myrrhe: Jesus ist Prophet, der durch sein Blut die Menschen mit dem Vater versöhnt dankbare Zuneigung.
+\end{itemize}
+
+Wahre Anbeter Gottes sein - Gott hat die erste Stelle in meinem Leben.
+
+\href{http://w2.vatican.va/content/john-paul-ii/de/messages/youth/documents/hf\_jp-ii\_mes\_20040806\_xx-world-youth-day.html}{cf Botschaft JP2 für WJT Köln 2005}
+
+\alert{\alert{*}}
+
+\alert{B16 Ansprache / Predigt}
+
+Wenn die Weisen in Bethlehem ankommen, ist ihr äußerer Weg zu Ende, der innere Weg beginnt mit der Anbetung Jesu, welcher ihr ganzes Leben verändert: sie haben sich den neuen König sicher anders vorgestellt. Gott ist anders als wir ihn gewöhnlich uns vorstellen. Gottes Macht ist die wehrlose Macht seiner Liebe, die am Kreuz unterliegt und doch das Göttliche ist, Gottes Reich herauuführt. Gott ist anders wir müssen selbst anders werden, Gottes Art erlernen.
+
+Jesus als König fordert von uns als Gabe: wir selbst, unser Leben. Sie müssen Menschen der Wahrheit, des Rechts, der Güte, des Verzeihens, der Barmherzigkeit werden. Frage: Womit diene ich der Gegenwart Gottes in der Welt? (nicht mehr: was bringt das mir?). Wer sich verliert, der findet sich.
+
+Was bedeutet das für mich? Gott gibt Beispiele. Die große Schar der Heiligen. Sie haben nicht nach ihrem Glück gesucht, sondern erforscht, wie sie sich hingeben können. Sie waren vom Licht Christi getroffen worden. so wird man glücklich, ein Mensch.
+
+Die wahre Revolution kommt von Gott her. Wer Gott weglässt und menschliche Maßstäbe absolut setzt Totalitarismus. Dies macht den Menschen nicht frei, sondern versklavt ihn. Die wahre Revolution geschieht in der radikalen Hinwendung zu Gott.
+
+Das wahre Antlitz Gottes: "Wer mich sieht, sieht den Vater!" (Joh 14,9) Also kein privater Jesus, sondern jener Jesus der Heiligen Schrift, der Kirche. Jesus ist gleichzeitig mit uns und vor uns. Kirche ist eine menschliche Familie UND die Familie Gottes, mit dem Weizen \alert{und} dem Unkraut das ist tröstlich. Jesus hat die Sünder berufen.
+
+\href{http://w2.vatican.va/content/benedict-xvi/de/speeches/2005/august/documents/hf\_ben-xvi\_spe\_20050820\_vigil-wyd.html}{B16 WJT Köln 2005 Ansprache Vigil}
+
+\alert{\alert{**}}
+
+Taufe Jesu (Mk 1,7-11)
+
+Text lesen / versteckte Symbole entschlüsseln / "Du bist mein geliebter Sohn, an dem ich Gefallen gefunden habe." / Offenbarung der göttlichen Dreifaltigkeit.
+
+eigene Taufe: Christen durch Salbung (Öl) - Christus, der Gesalbte. Symbol des Öls: Heilung, dringt ein, bleibt, schützt Haut, \ldots{} Hl. Geist, Gottes Gnade dringt ein, bleibt, heilt; macht mich fähig, am Gottesdienst teilzunehmen / teilzuhaben. Geschenk des Glaubens.
+
+\alert{Was ist Gnade?} Cf \href{https://www.youtube.com/results?search\_query=3mc+gnade}{3MC YouTube "Gnade"}
+
+\noindent\rule{\textwidth}{0.5pt}
+\end{block}
+
+\begin{block}{Hefteintrag}
+(Text überlegen!):
+
+Geschichte vom vierten König vorlesen: Bilder einscannen.
+Zusammenhang erkennen zwischen Weihnachten und Ostern: sonst verkommt Weihnachten zum "Kitsch".
+Warum ist Gott in Jesus Mensch geworden? Um uns zu erlösen. Weihnachten steht nicht für sich allein, sondern ist auf Ostern hingeordnet. Das Hochfest der Epiphanie (Heilige Drei Könige) ist das älteste Fest des Kirchenjahres. Was fällt den Schülern zum Thema "Stern" ein? Hier offenbart sich Gott der ganzen Welt; die Geburt, das Kommen der Hirten - da blieb noch alles irgendwie "geheim".
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW19] Was bedeutet Freundschaft}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org218fc33} Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+\ref{sec:org3d055aa} Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org72fd5e7} Ich und die amderen: Freundschaft
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+\begin{center}
+\includegraphics[width=.9\linewidth]{Schule/stationenlernen-thema-freundschaft.pdf}
+\end{center}
+
+Gemeinsam mit den Schülern über das Thema "Freundschaft" nachdenken.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW20] Für einen treuen Freund gibt es keinen Preis}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:org218fc33} Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+\ref{sec:org3d055aa} Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org72fd5e7} Ich und die amderen: Freundschaft
+\end{block}
+
+\begin{block}{Wiederholung}
+Was bedeutet dir Freundschaft?
+\end{block}
+
+\begin{block}{Erarbeitung}
+Bsp aus der Bibel zum Thema "Freundschaft":
+\begin{itemize}
+\item Verse aus den Büchern Sprüchwörter, Jesus Sirach, Weisheit.
+\item David und Jonathan (2Sam 1,25); Rut und Noomi (Sir 6; 22,19-26;37,1-6)
+\item "Freund des Königs" ist ein festes Amt (2Sam 15,37)
+\item Abraham und Mose werden "Freunde Gottes" gennannt (2Chr 20,7; Ex 33,11)
+\item Jesus nennt seine Jünger Freunde (Lk 12,4; Joh 15,13)
+\item Lazarus, Martha und Maria sind Freunde Jesu (Joh 11)
+\item Johannes der Täufer als Bräutigam und Freund (Joh 3,29)
+\item Jesus und Johannes ("Jünger, den Jesus liebte")
+\item Jesus wird von seinem Freund Judas verraten und ausgeliefert (Mt 26,50)
+\end{itemize}
+
+\href{https://www.youtube.com/watch?v=3hR64GCyOg0}{Woran erkenne ich eine ungesunde Beziehung - Johannes Hartl - YouTube}
+Das Gleiche wollen, das Gleiche nicht wollen - daraus entsteht Beziehung. Man kann aber auch gemeinsam das Schlechte wollen (Herodes / Pilatus).
+Das Gleiche wollen, heißt noch nicht, das es eine gute Beziehung ist.
+
+\begin{itemize}
+\item Woran erkenne ich, ob eine Beziehung gut ist?
+\item Mut haben es anderen zu sagen, dass deren Beziehung nicht gut ist
+\item Wo sind mögliche Baustellen in meiner Beziehung und wie kann ich sie "beheben"
+\end{itemize}
+
+Es gibt eigentlich keine gesunde Beziehung, weil jeder Mensch irgendwo einen Knacks hat. Wir lernen Beziehung von Menschen, die selber einen Knacks haben. Nur einer lebte vollkommenene Beziehungen: Jesus. "Du bist mein geliebter Sohn." Jesus ist sehr unabhängig in seiner Bez. zu Menschen. Er kann selber stehen. Jesus hat auch keine Angst vor Nähe, er lässt sich berühren, es gibt nichts Kühles. Aber er bleibt frei. "Nein, ich muss weiter gehen, ich komme nicht in euer Dorf." Freiheit / Nähe. Er kann sogar erschreckend klar sein. Wahrheit.
+\end{block}
+
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW21] David und Jonathan}
+\begin{block}{Kompetenzbeschreibung}
+\ref{sec:orgc7e28fe} Gelehrte und gelebte Bezugsreligion: Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+\ref{sec:orgf525e4e} Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten.
+\end{block}
+
+\begin{block}{AB / UH}
+\ref{sec:org32006cf} Altes Testament; biblische Motive im Alltag: eigene Erfahrungen und Populärkultur
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+\end{block}
+
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW22] Semesterferien}
+\begin{block}{Wunschthemen}
+\begin{block}{1A}
+\begin{block}{Ostern}
+\end{block}
+\begin{block}{Namenspatrone}
+\end{block}
+\begin{block}{verschiedene Religionen}
+\end{block}
+\begin{block}{Geschichten von Heiligen}
+\end{block}
+\begin{block}{Bibelgeschichten}
+\end{block}
+\begin{block}{Mag Gott ich immer?}
+\end{block}
+\begin{block}{Tod und Auferstehung}
+\end{block}
+\begin{block}{Was ist nach dem Tod?}
+\end{block}
+\begin{block}{Gott}
+\end{block}
+\begin{block}{etwas über Gott,}
+\end{block}
+\begin{block}{ein film über Moose,}
+\end{block}
+\begin{block}{über Jesus was lernen,}
+\end{block}
+\begin{block}{Bibel lesen,}
+\end{block}
+\begin{block}{kurz Film wie es früher war}
+\end{block}
+\begin{block}{Film anschauen über Mose}
+\end{block}
+\begin{block}{Mit der Bibel arbeiten}
+\end{block}
+\begin{block}{Mehr über Jesus lernen}
+\end{block}
+\begin{block}{Partner arbeiten machen}
+\end{block}
+\begin{block}{Und lernen über Heilige}
+\end{block}
+\begin{block}{Etwas über Gott und Jesus,}
+\end{block}
+\begin{block}{über die Bibel,}
+\end{block}
+\begin{block}{über die Bräuche,}
+\end{block}
+\begin{block}{über Mose}
+\end{block}
+\begin{block}{Umweltschutz}
+\end{block}
+\begin{block}{Bibel}
+\end{block}
+\begin{block}{Gebete}
+\end{block}
+\begin{block}{Jesus}
+\end{block}
+\begin{block}{Freundschaft}
+\end{block}
+\begin{block}{Öfters film schauen}
+\end{block}
+\begin{block}{Über Jesus Geburt}
+\end{block}
+\begin{block}{Familie von Jesus}
+\end{block}
+\begin{block}{Wie er gestorben ist}
+\end{block}
+\begin{block}{Film Über Mose}
+\end{block}
+\begin{block}{Mehr Filme ansehen}
+\end{block}
+\begin{block}{Gewchuchten aus der Bibel lesen}
+\end{block}
+\begin{block}{Musik anhören beim Arbeiten}
+\end{block}
+\begin{block}{Dass Du (Lehrer) uns von der Bibel erzählst}
+\end{block}
+\begin{block}{Mehr Spaß haben in Religion}
+\end{block}
+\begin{block}{zehn Gebote}
+\end{block}
+\begin{block}{Einen Film von Checker Tobi anschauen}
+\end{block}
+\begin{block}{Von einem Thema eine Seite im Heft schön gestallten}
+\end{block}
+\begin{block}{Warum werden Flüchtlingskinder abgeschoben?}
+\end{block}
+\begin{block}{Über Jerusalem}
+\end{block}
+\begin{block}{Was haben die verschiedenen Glaubensrichtungen gemeinsam? Oder haben sie überhaupt etwas gemeinsam?}
+\end{block}
+\begin{block}{Ich wünsche mir dass, wir in Religion uns so hinsetzen dürfen wie wir wollen.}
+\end{block}
+\begin{block}{Ich wünsch mir dass, wir bald wieder ganz normal in die Schule gehen können.}
+\end{block}
+\begin{block}{Ich wünsche mir auch dass, wir mehr Filme ansehen.}
+\end{block}
+\begin{block}{Ich wünsche mir dass, wir nicht so viel ins Heft schreiben müssen.}
+\end{block}
+\begin{block}{Und ich wünsche mir dass, wir mehr mündlich machen.}
+\end{block}
+\begin{block}{Öfter Filme anschauen.}
+\end{block}
+\begin{block}{Mehr Geschichten Lesen.}
+\end{block}
+\begin{block}{Jesus zeichnen oder seine Begleiter.}
+\end{block}
+\begin{block}{Ein bisschen über andere Religion was erfahren.}
+\end{block}
+\begin{block}{Und weiter hin mehr über Jesus Zeiten lernen.}
+\end{block}
+\begin{block}{die Geschichte von Kain und Abel}
+\end{block}
+\begin{block}{Die Geschichte Isaaks}
+\end{block}
+\begin{block}{Der junge Josef}
+\end{block}
+\begin{block}{Mehr Videos anschauen}
+\end{block}
+\begin{block}{Vielleicht einmal etwas nur mündlich durchnehmen}
+\end{block}
+\begin{block}{Etwas was zu Religion passt zeichnen}
+\end{block}
+\begin{block}{Das wir uns in Religion vielleicht so hinsetzen dürfen wie wir wollen}
+\end{block}
+\begin{block}{Ostern}
+\end{block}
+\begin{block}{Pfingsten}
+\end{block}
+\begin{block}{Namenstage}
+\end{block}
+\begin{block}{Erntedank}
+\end{block}
+\begin{block}{Weinachten}
+\end{block}
+\begin{block}{Wünsche von den Menschen an Jesus}
+\end{block}
+\begin{block}{Themen mit Tieren}
+\end{block}
+\begin{block}{Religiöse Spiele}
+\end{block}
+\begin{block}{Die Fastenzeit}
+\end{block}
+\begin{block}{Warum geht man bei der Firmung in die Kirche?}
+\end{block}
+\end{block}
+
+\begin{block}{1B}
+\begin{block}{Mobbing}
+\end{block}
+\begin{block}{Umwelt (plastik im Meer)}
+\end{block}
+\begin{block}{Religionen der Welt}
+\end{block}
+\begin{block}{Indien (Leben dort)}
+\end{block}
+\begin{block}{Medien}
+\end{block}
+\begin{block}{Armut}
+\end{block}
+\begin{block}{Weltweite Religionen}
+\end{block}
+\begin{block}{Mobbing}
+\end{block}
+\begin{block}{Herodes (leben zur Zeit Jesu)}
+\end{block}
+\begin{block}{Internet}
+\end{block}
+\begin{block}{Rechte für Kinder}
+\end{block}
+\begin{block}{Arme Kinder}
+\end{block}
+\begin{block}{Mobbing}
+\end{block}
+\begin{block}{Umwelt, Plastik im Meer (Wie dass für die Menschen ist)}
+\end{block}
+\begin{block}{Leben in Indonesien (arme Leute, reiche Leute, Kinder)}
+\end{block}
+\begin{block}{andere Religionen}
+\end{block}
+\begin{block}{Welchen Sinn hat das Leben?}
+\end{block}
+\begin{block}{Film: Jesus von Nazareth fertig schauen}
+\end{block}
+\begin{block}{Warum steht in der Bibel so wenig über Kinder?}
+\end{block}
+\begin{block}{Medien}
+\end{block}
+\begin{block}{Religionen der Welt}
+\end{block}
+\begin{block}{Mose}
+\end{block}
+\begin{block}{Armut}
+\end{block}
+\begin{block}{Diebstahl (Gesetze Jugendschutz)}
+\end{block}
+\begin{block}{Nach dem Tod}
+\end{block}
+\begin{block}{altes Testament}
+\end{block}
+\begin{block}{Ägypten}
+\end{block}
+\begin{block}{Verschiedene Religionen}
+\end{block}
+\begin{block}{Ostern}
+\end{block}
+\begin{block}{Mobbing}
+\end{block}
+\begin{block}{Gefahren im Internet}
+\end{block}
+\begin{block}{10 Gebote}
+\end{block}
+\begin{block}{Sommerrodeln}
+\end{block}
+\begin{block}{wandern}
+\end{block}
+\begin{block}{schwimmen}
+\end{block}
+\begin{block}{Ausflug}
+\end{block}
+\begin{block}{Wie Kinder in anderen Ländern leben}
+\end{block}
+\begin{block}{Nahrung in anderem Ländern}
+\end{block}
+\begin{block}{Ausrottung Urwald}
+\end{block}
+\begin{block}{Mobbing}
+\end{block}
+\begin{block}{Medien (Internet)}
+\end{block}
+\begin{block}{Armut}
+\end{block}
+\begin{block}{höfliches, nettes Verhalten}
+\end{block}
+\begin{block}{Tod}
+\end{block}
+\begin{block}{Wie die Erde entstanden ist?}
+\end{block}
+\begin{block}{Die Geschichte von Mose}
+\end{block}
+\begin{block}{Die Geschichte von Maria und Josef}
+\end{block}
+\begin{block}{Die Weltreligionen}
+\end{block}
+\begin{block}{Die Kirche von den anderen Religionen}
+\end{block}
+\begin{block}{Umgang mit Medien}
+\end{block}
+\begin{block}{Christentum}
+\end{block}
+\begin{block}{Judentum}
+\end{block}
+\begin{block}{Gollinger Kirche besichtigen}
+\end{block}
+\begin{block}{Aberglauben}
+\end{block}
+\begin{block}{5 Weltreligionen}
+\end{block}
+\begin{block}{Tiere, die mit der Religion zu tun haben}
+\end{block}
+\begin{block}{Wie ist der Begriff Religion entstanden?}
+\end{block}
+\begin{block}{Religiöse Bräuche}
+\end{block}
+\begin{block}{heilige Menschen / Landschaften / \ldots{}}
+\end{block}
+\end{block}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW23] Aschermitwoch - Beginn der Fastenzeit}
+\textit{<2021-02-17 Mi> } Aschermittwoch
+
+\begin{block}{Ziele LP 2000}
+Das Kirchenjahr mit seinen Festen als Rhythmus christlichen Lebens kennen und verstehen: österliche Fastenzeit
+\end{block}
+
+\begin{block}{Kompetenzen}
+Christliche Feste benennen und deuten können.
+Aufbau des Kirchenjahres kennen und verstehen.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+\begin{block}{Erarbeitung}
+Was nehme ich mir vor - für Jesus?
+Was bist du für ein Mensch?
+
+---
+
+Mögliche Stundenüberschrift: "Wer ist der Kapitän meines Schiffes?"
+
+\begin{itemize}
+\item Evangelium (Mt 6): Fasten, Beten, Almosen
+\item Aschermittwoch / Ritus mit Asche: "Kehre um und glaube an das Evangelium!" "Bedenke, Mensch, du bist Staub und kehrst zurück zum Staub!"
+\item Unser, mein Leben ist einmalig  ich lebe nur einmal  Verantwortung, Ernst, Staunen, Würde über das menschliche Leben.
+\item Immer wieder brauchen wir Momente der Einkehr / Umkehr / Rückbesinnung auf unseren Ursprung, unsere Quelle, \ldots{}
+\item Der Alltag, die Routine deckt oft das Wesentliche zu.
+\item WOFÜR faste ich?
+\end{itemize}
+
+Kirchengeschichtlicher Hintergrund: Christen, die vom Glauben abfielen, weil sie dem Kaiser opferten, begannen am Aschermitwoch ihre Zeit der Buße, waren aber nicht von der kirchlichen Gemeinschaft ausgeschlossen. Am Ostersonntag durften sie wieder an der Eucharistiefeier teilnehmen.
+
+YouTube-Video von "Katholisch für Anfänger": \href{https://www.youtube.com/watch?v=FNGvSeT4WqM}{Fastenzeit}
+
+Was können die Schüler tun:
+ -\alert{Wofür} faste ich?  DAS ist die entscheidende Frage!
+\begin{itemize}
+\item Wie faste ich?
+\item Gebet, Almosen, \ldots{}
+\item Was gibt mir Kraft? Was ist wesentlich in meinem Leben? Nehme ich mir dafür Zeit? \cite{Matussek.2006} \href{Matussek.2006.org}{Die vaterlose gesellschaft}
+\end{itemize}
+
+Arbeitsblätter erstellen
+
+Fasten führt zu mehr Achtsamkeit, bewusstes DASEIN und Nein-Sagen zu gedankenlosem und automatischem Konsum. Der Mensch wird wieder zum Kapitän seines eigenen Schiffes und will sich nicht mehr durch Konsum und Leidenschaften bestimmen lassen.
+
+Bsp. Ausschnitt aus Film \href{https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html\#}{"planet schule"/Islam  Ramadan:} "Am Anfang war es schwierig, jetzt geht es leichter." Fasten stärkt den Willen.
+
+\alert{\alert{**}}
+
+\alert{Fastenzeit - die katholische Fastenordnung}
+Fasten bedeutet in der katholischen Kirche (so wie in allen anderen Religionen auch) der Verzicht auf Nahrung, konkret: eine einmalige, sättigende Speise (fleischlos) pro Tag. Kleine Sättigungen zwischendurch sind erlaubt und sinnvoll.
+
+Zusätzlich ist ein persönliches Opfer angebracht: der Verzicht auf andere Speisen, Vergnügungen, Rauchen, Alkohol, PC \& Medien-konsum einschränken, etc.
+
+Ziel von beidem ist: Freier werden FÜR Gott und den Nächsten, von unbemerkten oder bewussten Abhängigkeiten frei werden.
+
+Neben dem Fasten gehört daher das Gebet (gewonnene Freiheit führt zu intensiveren Beziehung mit Gott) und die tätige Nächstenliebe (gewonnene Zeit und erspartes Geld für Nächstenhilfe einsetzen) dazu.
+
+\alert{\alert{**}}
+
+Konkrete Ideen für den Unterricht:
+
+\begin{enumerate}
+\item MASKE
+\begin{itemize}
+\item Geschichte: Der Clown und das brennende Dorf  Wirkung der Maske!
+\item "Maske": sich hinter einer Maske verstecken, eine andere Identität annehmen.
+\item Fastenzeit: Maske ablegen, ungeschminkt vor Gott stehen.
+\item Maske basteln / zeichnen / mitbringen \ldots{}
+\end{itemize}
+\end{enumerate}
+
+ODER:
+
+\begin{enumerate}
+\item FASTEN
+\begin{itemize}
+\item Online-Quiz / Kreuzworträtsel zum Thema
+\item Arbeitsblatt / Infotext zu "Fastenzeit" (Achtung: umschreiben auf "katholisch"!)
+\item Infotext (s.o.) zum Fasten  ?
+\item Ausarbeiten eines konkreten, persönlichen Verzichts \ldots{}
+\end{itemize}
+\end{enumerate}
+
+\alert{\alert{**}}
+
+\alert{Aufbau / Ablauf der Stunde, Unterrichtseinheit:}
+
+\begin{itemize}
+\item Einstieg: \href{https://www.youtube.com/watch?v=FNGvSeT4WqM}{YouTube-Video "Fasten" (katholisch für Anfänger)}
+\item ODER: Bibeltexte zum Fasten (cf Lexikon)
+\item ODER: Fasten in verschiedenen Religionen
+\item Infotext zur Fastenzeit, Sinn / Bedeutung des Fastens
+\item Evangelium vom Aschermittwoch: Gebet, Fasten, Almosen
+\item Arbeitsblätter
+\end{itemize}
+
+
+\alert{Infotext Fasten}
+= zeitweiliger Verzicht auf Nahrung. Ziel: Abwehr dämonischer Kräfte, die "über den Weg der Nahrung Besitz vom Menschen ergreifen können". Fasten kann zu Ekstase führen  geistlicher Tradition, Offenheit für Gott.
+
+Biblisch: teilweiser oder gänzlicher Verzicht auf Nahrung / Trank (wie in jeder Religion). Der biblische Mensch sieht alles als Gabe Gottes und ist daher gut - auch die Nahrung. Fasten ist deshlab kein Ausdruck von Verachtung gegenüber der Nahrung. Fasten ist Zeichen der Unterwerfung und Demut: es unterstützt die Gebete auf Vergebung. Fasten stärkt den Willen und befreit von materiellen Abhängigkeiten. Es heiligt den Menschen und macht in offen und bereit für Gottes Offenbarung / neuen Auftrag Gottes für das Volk Gottes. Durch das Exil  vier neue Fasttage.
+
+Jesus begann sein öffentliches Wirken mit einem 40tägigen Fasten (ebenso Johannes der Täufer). Paulus fastete nach seiner Bekehrung. Jesus und Paulus stellen jedoch die tätige Nächstenliebe höher als das Fasten. Fasten soll demütig machen, nicht zum Selbstruhm führen.
+
+\alert{\alert{**}}
+
+Rechtes Fasten: steht im Dienst des Reiches Gottes, öffnet Augen und Herz für die Not des Bruders, schützt vor Maßlosigkeit und willenloser Abhängigkeit, dient eschatologisch orientiert dem Streben und Erreichen geistiger Werte und reift zu einem "Fasten des Geistes": Gott allein genügt. Fasten hat Dienstfuntkion, es genügt sich nie selbst.
+
+[Auch wenn Kinder / Jugendliche nicht zum Fasten verpflichtet sind, können sie nach ihren Möglichkeiten einen "Fastenbeitrag" leisten. Im RU geht es wohl weniger darum, einen Fastenvorsatz zu formulieren und in die Tat umzusetzen; sondern zuerst einmal wissen / erfahren / lernen, was Fasten bedeutet, etc.]
+
+\alert{\alert{**}}
+
+\begin{itemize}
+\item \href{https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html\#}{"planet schule"/Islam  Ramadan:} Junger Moslem fastet: "[..] zuerst war es schwer; jetzt geht es mir gut [..]"
+\item Infotext über Fasten: Nix Abnehmen, sondern frei werden FÜR Gott und die Menschen. Gewonnene Zeit und Geld für Gott und die Menschen investieren.
+\item Wie geht es Dir mit dem Fasten?
+\item Fasten-SMS des Papstes  Montag / Dienstag in die 4. Klassen gehen und diese Aktion vorstelln. Gedankenaustausch \ldots{}
+\begin{itemize}
+\item SMS "PAPST" an 0664 / 6606651
+\end{itemize}
+\item Fastenvorsatz überlegen: was kannst/willst du anders machen? Bsp. für die Schule (HÜ, Lernen, \ldots{}), zuhause (Abwasch, kein Streit, \ldots{}), weniger Zeit fürs Internet / Handy / PC-Game  dafür mehr Zeit für Gebet, etc.
+\item Plakat: jeder schreibt seinen Vorsatz plus Vornamen auf das Plakat (auch der L)
+\item Zu Beginn der nächsten Stunden: wie ist es dir/mir mit dem Vorsatz gegangen?
+\begin{itemize}
+\item gut: "+"
+\item so lala: "\textasciitilde{}"
+\item schlecht: "-"
+\end{itemize}
+\item S lernen Ehrlichkeit mit sich selbst
+\item Zum Schluss: Hefteintrag  das Wichtigste aus dem Infotext plus Vorsatz.
+\end{itemize}
+
+\alert{\alert{**}}
+
+\url{file:///home/matthias/Dokumente/Infotext\_Fasten.odt}
+
+Eventuell diesen Text von einem Lehrer lesen lassen / von Schülern  ist er verständlich?
+
+\noindent\rule{\textwidth}{0.5pt}
+
+\begin{itemize}
+\item Was erzählen die Evangelien?
+\item Tradition: Kreuzweg
+\item Leidensankündigungen Jesu (3x)
+\item Jesaja: Lieder des Gottesknechtes, besonders Jes 52/53
+\item Warum? Ziel?
+\end{itemize}
+
+Ausschnitte aus Jesus-Filmen?
+
+Zum Selbstudium:
+
+\begin{itemize}
+\item Klaus Berger "Jesus"
+\item Peter Seewald "Jesus Christus"
+\item Alexander Men "Der Menschensohn"
+\item Romano Guardini "Der Herr"
+\item Joseph Ratzinger "Jesus von Nazareth"
+\end{itemize}
+
+Leidensbereitschaft / Schenken-Können gehören zusammen.
+Jesus leidet um Gottes willen, die Jünger um Jesu und des Evangeliums willen  die bedingslose Liebe zu Gott. Wer zu Gott gehört, zieht den Hass gegen Gott auf sich. Um bei Jesus Karriere zu machen, muss man (be-)dienen.
+
+Bsp. \href{https://www.youtube.com/watch?v=C2Z4EwGiNJ0}{Selbstdisziplin Will Smith}
+Training bei Marcel Hirscher - bedingungsloser Einsatz
+
+Selbsthingabe aus Liebe zu Gott. Die Liebe fordert alles.
+
+Letzte Woche Jesu im Überblick
+\end{block}
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+\begin{block}{[SW24] Kinder in fremden Ländern}
+\begin{block}{Ziele LP 2000}
+Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen;
+    Menschen in anderen Ländern kennen lernen - Tag der Weltkirche
+\end{block}
+
+\begin{block}{Kompetenzen}
+Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Mose
+
+Befreiungserzählung aus der Bibel: Exodus
+
+oder: Kinder aus fremden Ländern (siehe Material von missio.at)
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW25] Aufgabe der Kirche in fremden Ländern (Weltkriche)}
+\begin{block}{Ziele LP 2000}
+Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen;
+    Menschen in anderen Ländern kennen lernen - Tag der Weltkirche
+\end{block}
+
+\begin{block}{Kompetenzen}
+Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Am Beispiel von Philippinen und Mynmar sollen die Kinder verstehen, welche Aufgaben die Kirche weltweit erfüllt. In den Philippinen sind 81\% der Bevölkerung römisch-katholisch. "Dennoch" werden jene Personen verfolgt, die sich kritisch über die Regierung äußern. Sie werden auf eine "schwarze" Liste gesetzt und als Terroristen / Kommunisten bezeichnet. In der Folge kann es passieren, dass diese Menschen sogar getötet werden. Priester und Ordensleute finden sich bereits auf dieser Liste. Eines der größten sozialen Probleme ist die Mangelernährung der Menschen, besonders der Kinder. Der Gegensatz zwischen arm und reich ist sehr groß, es gibt doch eine wachsende Mittelschicht. Die Kirche unterstützt mit vielen Projekten und Initiativen den Kampf gegen die schelchte Ernährung der Armen: in den Schulen gibt es Garten Projekte (die Eltern werden ebenso eingebunden); auf den Müllhalden kümmern sich Vereine um die ausgewogene Ernährung der Kinder; in einem Zentrum werden Nahrungsergänzungsmittel hergestellt und an die arme Bevölkerung verteilt.
+
+Zusätzlich werden kleine Kurse zur richtigen Ernährung angeboten und die Menschen direkt vor Ort aufgeklärt. Schließlich ist das Land sehr reich an Obst und Gemüse, leider wissen die Menschen zu wenig, welche Pflanzen sich wie zum Kochen eignen.
+
+In Myanmar ist die Situation eine ganz andere. Die Bewohner des Landes sind sehr religiös. Die Mehrheit ist buddhistisch; die Christen stellen 1\% der Bevölkerung, darunter ist der größte Teil zu den Baptisten zu zählen. Dennoch gibt es 3 Erzdiözesen und Diözesen.
+\end{block}
+
+\begin{block}{Hefteintrag}
+Die Doppelseite weiter gestalten.
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW26] Werke der Barmherzigkeit}
+\begin{block}{Ziele LP 2000}
+Innehalten: Weggeschichten Hl. Männer und Frauen
+\end{block}
+
+\begin{block}{Kompetenzen}
+Schüler können sich mit dem Bild eines zuwendenden Gottes auseinander setzen und es deuten.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Video über "Werke der Barmherzigkeit"
+Film über Mutter Teresa.
+\begin{itemize}
+\item Das Testament der Mutter Teresa
+\item Mutter Teresa - Ihr Glaube und Spiritualität
+\end{itemize}
+\end{block}
+
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW27] Warum wurde Jesus ausgestossen?}
+\begin{block}{Ziele LP 2000}
+Die Zuwendung Gottes wahrnehmen und Gott als einen, der mitgeht, beschreiben können - Biblisches Basiswissen: Person Jesu
+\end{block}
+
+\begin{block}{Kompetenzen}
+Schüler können sich mit dem Bild eines zuwendenden Gottes auseinander setzen und es deuten.
+Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Situationen des Konflikts zwischen Jesus und seinen Mitmenschen\ldots{} Warum?
+
+Warum wollen wir Jesus nicht? Wo stört er uns?
+
+Streitfragen:
+\begin{itemize}
+\item Sollen wir Steuern zahlen? "Gebt dem Kaiser, was dem Kaiser gehört, und Gott, was Gott gehört!"
+\item Ehescheidung?
+\item Erstes, wichtigstes Gebot?
+\item Sündenvergebung?
+\item Sabbatgebot
+\item Wie treibt Jesus Dämonen aus?
+\end{itemize}
+\end{block}
+
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW28] Leiden und Sterben Jesu}
+\begin{block}{Ziele LP 2000}
+Der Weg zum Äußersten
+Biblisches Basiswissen: Person Jesu
+\end{block}
+
+\begin{block}{Kompetenzen}
+Gott als Ansprechpartner und Begleiter in Leidsituationen wahrnehmen
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog
+\end{block}
+
+\begin{block}{Wiederholung}
+Bibel / Offenbarung / Evangelien / Johannes
+\end{block}
+
+\begin{block}{Erarbeitung}
+Joh 1 lesen:
+\begin{itemize}
+\item Lamm Gottes / Paschalamm
+\item Wo wohnst du? Wo hast du deine Bleibe? Jesu Aufforderung, über mein Leben Klarheit zu gewinnen.  Das erste Wort Jesu im Joh-Ev. Wo ich meine Wurzeln habe sagt aus, wer ich bin: Jesus bleibt beim Vater.
+\end{itemize}
+
+Bezug zum Leben / Hl. Messe  Eucharistie / Ostern
+
+Learning Apps 
+\end{block}
+
+\begin{block}{Hefteintrag}
+Jesus als Lamm zeichnen: Jesus geht am Wasser entlang / im Wasser sieht man an Jesu Stelle ein Lamm (Sorry, die Idee ist von Nathalie Fourmy).
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW29] Osterferien}
+\textit{<2021-03-28 So> } Palmsonntag
+
+\textit{<2021-04-01 Do> } Gründonnerstag
+
+\textit{<2021-04-02 Fr> } Karfreitag
+
+\textit{<2021-04-03 Sa> } Karsamstag
+
+\textit{<2021-04-04 So> } Ostersonntag
+\end{block}
+
+
+\begin{block}{[SW30] Kreuz und Auferstehung / der Weg nach Emmaus}
+\begin{block}{Ziele LP 2000}
+Osterfestkreis
+Biblisches Basiswissen: Person Jesu
+\end{block}
+
+\begin{block}{Kompetenzen}
+- 
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+\href{Schule\_Themen/auferstehung.org}{Auferstehung}
+
+Ostersymbole:
+
+\begin{itemize}
+\item Osterkerze
+\item Osterei
+\item Osterhase / Küken
+\item Leeres Grab
+\item Farben: Gold, weiß, gelb, helles grün, \ldots{}
+\item Osterlamm
+\item Jesus mit Siegesfahne
+\item Der Auferstandene mit den (verklärten) Wunden
+\item Sonne / Sonnenaufgang / früher Morgen
+\item Osterspaziergang
+\item Zweige vom Obstbaum, die blühen, geschmückt mit ausgeblasenen Ostereiern, bunten Vögeln (Holz), Bändern, \ldots{}
+\item etc.
+\end{itemize}
+
+Symbole beschreiben / Bedeutungen / \ldots{}
+
+Ostern ist nicht leicht für unseren Glauben: die Jünger brauchten 40 Tage mit Jesus, um die Realität der Auferstehung zu "begreifen". Jesus ist - \emph{in der alten Welt} - nicht mehr von dieser Welt.
+
+Auferstehung in meinem "Alltag":
+
+"Jesus ist auferstanden!" - "Er ist wahrhaft auferstanden!"  die Osterfreude ist die Summe der Freude aller Christen, sie stellt sich beim Weitersagen der Osterbotschaft ein.
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Die Auferstehung Jesu ist keine Erfindung, kein Symbol - sondern eine Tatsache.
+Cf Firmstunde aus dem YOU-Firmbuch, S. 50-51!
+
+Klasse, 4 Gruppen:
+
+\begin{enumerate}
+\item Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
+\item Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
+\item Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
+\item Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus "wirklich" auferstanden ist oder nur in einem symbolischen Sinn?
+\end{enumerate}
+
+Austausch der vier Gruppen - Raum für Rückfragen
+
+Youcat 106 + Austausch
+
+Bibelsession 1 Kor 15,12-22: zwei Punkte sind Paulus wichtig\ldots{}
+
+\begin{itemize}
+\item Jesus ist Gottes Sohn  nur so kann uns sein Tod am Kreuz erlösen.
+\item Wäre Jesus im Grab geblieben, gäbe es auch für uns keine Auferstehung und kein ewiges Leben.
+\end{itemize}
+
+Austausch: wie stellst du dir das ewige Leben vor?
+
+Youcat-Session: 153+154
+   Im ewigen Leben werden wir auch einen Leib haben, weil wir Menschen aus Leib und Seele bestehen und unsere gesamte Umwelt nur über den Körper wahrnehmen können. Ohne Leib würde uns etwas fehlen.
+   Langeweile? Nein - Gott sorgt für Abwechselung; Jesus spricht nicht umsonst von einer "einzigartigen Party" 
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW31] Die Taufe}
+\begin{block}{Ziele LP 2000}
+Mit Gesten und Rituale der Zusammengehörigkeit und des Glaubens vertraut werden: Sakramente
+    Elementare Symbole beschreiben und deuten können
+Anlässe für Feste
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Die Taufe als "Ostergeschenk" / Auftrag des Auferstandenen (Mt 28)
+
+Ostersonntag war / ist der Tauftermin schlechthin.
+
+\begin{block}{Artikel im YouCat [194 - 202]}
+Was ist die Taufe?
+Wie wird die Taufe gespendet?
+Wer kann getauft werden - was wird von einem Taufanwärter erwartet?
+Warum hält die Kirche an der Kindertaufe fest?
+Wer kann die Taufe spenden?
+Ist die Taufe tatsächlich der einzige Weg zum Heil?
+Was geschieht in der Taufe?
+Was bedeutet es, in der Taufe einen Namen zu erhalten?
+Warum sollten Christen bei der Taufe die Namen großer Heilige wählen?
+\end{block}
+
+\begin{block}{Videos auf kathmedia / YouTube:}
+\href{https://www.youtube.com/watch?v=7YmUHUbDyXs}{kathmedia [deutsch] - Was ist die Taufe? (3MC 36)}
+Vielleicht eher die DVD verwenden?
+
+Wie kommt die Gnade Gottes zu uns? Was ist die Gnade Gottes? 
+\end{block}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW32] Die Taufe und ihre Symbole}
+\begin{block}{Ziele LP 2000}
+Symbole wahrnehmen
+Mit Festen das Leben gestalten
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+\begin{block}{Erarbeitung}
+Aufbau und Ablauf der Heiligen Messe.
+
+\begin{enumerate}
+\item Eröffnung
+\begin{enumerate}
+\item Kreuzzeichen - Der Herr sei mit euch!
+\item Allgemeines Schuldbekenntnis
+\item Kyrie eleison
+\item Gloria
+\item Tagesgebet
+\end{enumerate}
+
+\item Wortgottesdienst
+\begin{enumerate}
+\item Lesung
+\item Psalm
+\item Evangelium - Der Herr sei mit euch!
+\item Predigt
+\item Glaubensbekenntnis
+\item Fürbitten
+\end{enumerate}
+\item Eucharistie
+\begin{enumerate}
+\item Gabenbereitung
+\item Eucharistisches Hochgebet - Der Herr sei mit euch!
+\item Heilig / Sanctus
+\item Wandlungsworte / Einsetzungsbericht
+\item Vaterunser
+\item Friedensgruß
+\item Lamm Gottes (Agnus Dei)
+\item Kommunion
+\item Stille
+\end{enumerate}
+\item Entlassung / Segen
+\begin{enumerate}
+\item Schluss- Dankgebet
+\item (Ansagen)
+\item Segen - Der Herr sei mit euch!
+\item Entlassung: Gehet hin in Frieden! - Dank sei Gott dem Herrn!
+\end{enumerate}
+\end{enumerate}
+
+Oder:
+\end{block}
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW33] Vom Beten / Formen}
+\begin{block}{Ziele LP 2000}
+Stille, Meditations- und Gebetsformen
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Bedeutung einiger Teile der Eucharistiefeier
+
+Jesus ist auf dreifache Weise im Gottesdienst gegenwärtig: Volk, Wort Gottes, Eucharistie - "Der Herr sei mit euch!"
+
+---
+
+Gebetsformen: mündlich / still; singen, sprechen; frei / vorformuliert; Dank, Bitte, Lob, Anbetung, Meditation, Fürbitte; \ldots{}
+
+Gebetshaltungen: stehen, sitzen, knien, niederwerfen, Hände falten, \ldots{}
+
+Beides einüben / ausprobieren.
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW34] 10 Regeln für das Beten}
+\begin{block}{Ziele LP 2000}
+Stille, Meditations- und Gebetsformen
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+\alert{Du kannst beten}\footnote{\url{https://www.youcat.org/de/gebet/}}
+
+Vielleicht hast Du schon lange nicht mehr gebetet, seitdem Du ein Kind warst. Vielleicht ist Dir das Beten überhaupt noch ganz fremd. Oder man hat Dir gesagt, es sei schwierig zu beten oder es würde sowieso nichts bringen. Ganz besonders in Krisenzeiten werden wir Menschen auf den Grund unserer Existenz geführt. Krisen bringen viele wieder dazu, das zu tun, was für unsere Großeltern noch selbstverständlich war. Vielleicht ist es ja so, dass Gebet gar nicht nur was für die „Alten“ ist? So viele Christen auf der Welt machen täglich die Erfahrung, dass Gott durch ihre Gebete zu ihnen spricht. Dass ihre Gebete erhört werden und ihnen Trost und Hilfe schenken in Notzeiten. Gebet ist eine persönliche Begegnung mit dem lebendigen, sprechenden Gott. Du kannst ihn bitten, loben, ihm erzählen was dich gerade bewegt. Mach dir keine Sorgen, wenn du nicht weißt wo du anfangen sollst, sei einfach du selbst und sprich, wie zu einem guten Freund. Hier findest du ein paar hilfreiche Tipps für den Start.
+
+\begin{enumerate}
+\item \alert{Entscheide Dich}
+Wenn Du es willst, entscheide Dich, ein betender Mensch zu werden und Deine Beziehung zu Gott zu gestalten
+\item \alert{Sei im Kleinen treu}
+Beginne mit festen kurzen Gebetszeiten. Und die halte in Treue durch. Dann können Deine Sehnsucht und auch Dein Gebet wachsen, wie es Dir, der Zeit und den Umständen gemäß ist.
+\item \alert{Nimm Dir Zeit zum Beten}
+Nimm eine feste Zeit (Gewohnheit hilft), eine ruhige Zeit (das sind oft der frühe Morgen und der Abend) und eine wertvolle Zeit, die Du gerne hast, aber auch gerne wegschenken magst (keine "Abfallzeit").
+\item \alert{Bereite Dir einen Ort}
+Der Ort, an dem Du betest, wirkt sich auch auf Dein Beten aus. Suche deshalb einen Ort, an dem Du gut beten kannst.
+\item \alert{Ritualisiere und strukturiere Dein Gebetsleben}
+Gib Deinem Beten eine feste Ordnung (einen Ritus). Diese soll Dich nicht einengen, sondern Dir helfen, nicht jeden Tag überlegen zu müssen, ob und wie Du beten willst.
+\item \alert{Lass den ganzen Menschen beten}
+Im Gebet darf sich der ganze Mensch mit Gott verbinden: Dein Leib, Deine innere und äußere Wahrnehmung, Deine Erinnerung, Dein Wollen, Denken und Fühlen oder der Traum der vergange- nen Nacht.
+\item \alert{Bete auf vielfältige Weise}
+Entdecke und übe die vielen Weisen des Gebetes, die je nach Zeit und eigener Verfassung und momenta- ner Situation anders sein können.
+\item \alert{Nutze die Gelegenheit}
+Du kannst auch die Gelegenheiten nutzen, die sich bieten, um zwischendurch zu beten (z.B. Stoßgebete, eine Bitte, ein kurzer Dank oder Lobpreis).
+\item \alert{Lass Gott zu Wort kommen}
+Beten bedeutet auch, auf die Stimme Gottes zu hören. Gott spricht am ausdrücklichsten in den Worten der Heiligen Schrift, die die Kirche Tag für Tag liest. Er spricht durch die Überlieferung der Kirche und das Zeugnis der Heiligen.
+\item \alert{Bete mit der irdischen und der himmlischen Kirche}
+Wer betet, stellt sich in die große Gemeinschaft der Betenden hinein. Sie reicht von der Erde bis in den Himmel und schließt die heute Lebenden wie auch die Engel, die Heiligen und die unbekannte Schar der bei Gott Lebenden ein.
+\end{enumerate}
+
+Besprechung der einzelnen Schritte und - ganz wichtig: Umsetzung in die Praxis. Wahrscheinlich werden wir nicht alle 10 Scrhitte in einer Stunde besprechen können.
+
+Cf Youcat-Firmbuch, Youcat-Gebetsbuch.
+\end{block}
+
+\begin{block}{Hefteintrag}
+Die 10 Schritte des Gebets ins Heft notieren - mit Zeichnungen; oder ich gebe den Schülern die Zeichnugnen, und sie schreiben die Schritte dazu + ihre eigenen Entscheidungen.
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW35] Marienmonat Mai: Gegrüßest seist du Maria}
+\textit{<2021-05-13 Do> } Christi Himmelfahrt
+
+\begin{block}{Ziele LP 2000}
+Kreuzzeichen und Grundgebete
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+\end{block}
+
+\begin{block}{Wiederholung}
+Vergleich: O-Bus ist ständig mit Oberleitung verbunden. Verlängerung der Linie 5 nach Grödig  durch Grödig in Batteriebetrieb. Wird der Bus es mit Batterie bis nach / durch Grödig schaffen?
+\end{block}
+
+\begin{block}{Erarbeitung}
+Wenn wir regelmäßig / täglich beten, sind wir wie der O-Bus, der ständig durch die Oberleitung mit Kraft versorgt wird. Wir leben zu oft "auf Batteriebetrieb" und merken es erst dann, wenn wir ausgepowert sind - oder merken es eben gar nicht, was noch schlimmer ist: wir denken, dass wir noch fahren können, obwohl schon längst gar nichts mehr geht.
+
+Joh 15,1-8 / 9-17 (?): Ich bin der Weinstock, ihr seid die Reben. Bleibt in mir, dann bleibe ich ihn euch.
+
+Gebetszeit - in Stille? In der Klasse? Weiß nicht, ob das in der 1c möglich ist
+
+Wiederholung: Gebet "Ave Maria" aufschreiben  Lk 1 (Verkündigung / Besuch bei Elisabeth)  Kommentar Youcat?
+
+Ein Gesätzchen RK miteinander beten?
+\end{block}
+
+\begin{block}{Hefteintrag}
+Die Stunden zum Thema "Maria" hole ich in der 1a und 1b nach. In der 1c habe ich heute 3 Stellen im NT zum Thema "Maria" angeschaut: Hochzeit von Kana, die wahren Verwandten Jesu, Magnifikat.
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW36] Grundgebete Vater Unser}
+\begin{block}{Ziele LP 2000}
+Kreuzzeichen und Grundgebete
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren
+
+Gestalten und handeln in religiösen und ethischen Fragen
+Teilhaben und entscheiden begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Verschiedene "Stationen" zu den einzelnen Bitten des Vaterunser.
+\begin{enumerate}
+\item Vater unser im Himmel,
+\item geheiligt werde dein Name.
+\item Dein Reich komme.
+\item Dein Wille geschehe, wie im Himmel so auch auf Erden.
+
+Male ein passendes Bild dazu. Welche Gedanken gehen dir dabei durch den Kopf? Notiere sie.
+
+\item Unser tägliches Brot gib uns heute.
+
+Brot ist ein elementares Nahrungsmittel und wird deshalb oft als Wort für Nahrung im Allgemeinen benutzt. Aber was bedeutet der Begriff "tägliches Brot" in diesem Zusammenhang noch? Was benötigst du wirklich in deinem Leben?
+
+\item Und vergib uns unsere Schuld, wie auch wir vergeben unseren Shuldigern.
+\begin{itemize}
+\item Schreibe unter die Bilder, was du erkennen kannst, und verbinde sie mit den Begriffen „Schuld“ und „Versöhnung“. Überlege dir anschließend zu den beiden Begriffen ein eigenes Bild.
+
+\item Überlege, wann du dich einmal schuldig gefühlt hast. Was hast du gemacht, damit ihr euch wieder versöhnt habt? Schreibe auf.
+\end{itemize}
+\end{enumerate}
+
+
+\begin{enumerate}
+\item und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen.
+
+\alert{Eine schwere Entscheidung}
+Als Marc vor Ende der Pause in den Klassenraum kommt, sieht er auf Lisas Tisch ihre Geldbörse liegen. Er erkennt einen roten 10-€-Schein und ein paar glitzernde Münzen. Er schaut sich gründlich um. Außer ihm ist aber weit und breit kein Mitschüler oder die Lehrerin zu sehen. Er überlegt hin und her und grübelt vor sich hin. „Soll ich das Geld nehmen oder lass ich es auf Lisas Tisch liegen – schließlich gehört es nicht mir.“ Doch plötzlich greift er zur gelben Geld-börse,  öffnet sie, zieht das Geld heraus und versteckt es blitzschnell in seiner kleinen  Hosentasche. Nachdem es geklingelt hat und die Pause zu Ende ist, kommen alle Kinder gemeinsam in ihre Klasse zurück. Marc sitzt bereits auf seinem Platz, als Lisa aufgeregt bemerkt, dass ihr Geld verschwunden ist. „Jemand muss mein Geld gestohlen haben. Ich bin mir ganz sicher, dass es vor der Pause noch da war.“ Lisa weint schrecklich. Zusammen mit den Kindern versucht die Lehrerin, den Täter zu finden. Doch keiner will es gewesen sein. Auch Marc schüttelt den Kopf und behauptet, dass er mit der Tat nichts zu tun habe. Am Nachmittag geht er in die Stadt, um sich mit dem Geld im nahe gelegenen Kiosk ein paar leckere Süßigkeiten zu kaufen. Er kauft Schokolade und viele verschiedene Sorten Gummibärchen. Das ganze Geld ist schnell ausgegeben. Am nächsten Tag in der Schule zeigt er seinen neidischen Mitschülern die Tüte mit den vielen Leckereien. Er behält alles für sich und teilt nicht. Außerdem erklärt er, dass er lange dafür gespart habe. Als Lisa ihm traurig erzählt, dass sie ebenfalls ihr Taschengeld gespart habe, um Süßigkeiten für sich und Marc zu kaufen, bekommt er ein schlechtes Gewissen. Jetzt überlegt er, was er machen kann, um seine schlechten Taten wieder gut zu machen. Er wünscht sich, dass er nie wieder verführt wird und dass Lisa ihm verzeiht.
+
+\begin{enumerate}
+\item Wie würdest du dich in dieser Situation verhalten?
+\item Hast du selbst schon einmal eine ähnliche Situation erlebt oder davon gehört?
+\item Welche schlechten Taten hat Marc gemacht? Wie viele findest du?
+\item Finde Lösungen für Marcs schlechte Taten. Schreibe auf.
+\end{enumerate}
+\end{enumerate}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW37] Pfingsten}
+\textit{<2021-05-23 So> } Pfingstsonntag
+
+\begin{block}{Ziele LP 2000}
+Symbole wahrnehmen und deuten
+Kirchenjahr
+\end{block}
+
+\begin{block}{Kompetenzen}
+Symbole, Stille, Meditation und Gebetsformen als Grundvoraussetzungen auf dem Weg zur religiösen Erfahrung erschließen, deuten und interpretieren.
+
+- Christliche Feste benennen und deuten können. / Aufbau des Kirchenjahres kennen und verstehen.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+\url{https://www.youcat.org/de/credopedia/minicat/pfingsten/}
+Ohne Pfingsten ergäbe die Menschwerdung Christi kaum einen Sinn. Die Sendung des Heiligen Geistes, die den Geburtstag der Kirche markiert, zeigt den eigentlichen Grund der Erlösung: Gott will die gesamte Menschheit in einer einzigen Familie versammeln, indem er seinen Geist auf sie ausgießt. Die Kirche ist der Plan Gottes für die Menschheit schon seit vor der Grundlegung der Schöpfung (vgl. Epheser 1). Von allem Ursprung an war es Gottes Sehnsucht und Plan, sich eine Familie zu schaffen.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=.9\linewidth]{./images/Minicat-Cover-7.jpg}
+\caption{\label{fig:org2b22e47}Pfingsten}
+\end{figure}
+
+Pfingsten:
+Apg 2,1-13
+Ps 104
+1 Kor 12, 3b–7.12–13
+Joh 20,19-23
+
+Wie führe ich Erstklässler in das Geheimnis des Heiligen Geistes ein? Symbole, Gebete, Menschen, die sich vom Heiligen Geist haben leiten lasse etc.
+
+Symbole: Taube (neues Leben), Feuer (Liebe, reinigt, \ldots{}), Wind (unsichtbar, erkennbar an seiner Wirkung). Feuer und Sturm sind alt. Begleiterscheinungen einer Theophanie (Gottesoffenbarung). Christentum: Gott offenbart sich SELBST; hier geht es um eine Selbstoffenbarung Gottes.
+
+Erfahrung von Jesus vor Ostern / als Auferstandener; Erfahrung des Heiligen Geistes.
+
+Der Hl. Geist ist die eschatologische Gabe Gottes an alle Glaubenden, die als Anzahlung (2 Kor 1,22; 5,5) oder Anfang (Röm 8,23) gleichzeitig die Vorläufigkeit der gegenwärtigen Existenz markiert und so auf die endzeitliche Erfüllung verweist. Der Geist bringt Frucht, die zuallererst in der Liebe besteht (Gal 5,22). 1 Kor 12-14: die Charismen gwährleisten das kirchliche Zusammenwirken aller Glaubenden. Nach Johannes bleibt der Beistand (Paraklet) dauernd bei der Gemeinde bleibt.
+
+Pfingsten: 50 Tage nach Ostern (Pascha) das einzige jüdische Fest, das die Kirche übernommen hat. Ursprünglich ein Erntedankfest (erste Weizenernte), wurde später als Erinnerung an die Offenbarung Gottes auf dem Berg Sinai und die Übergabe der Zehn Gebote gefeiert. Hier: neues Gesetz in den Herzen der Menschen, Ursprung der Kirche; Erfüllung der Prophetie Joels, dass Gott seinen Geist auf alle Menschen ausgießt. Das Sprachenwunder ist der Kontrapunkt zur Sprachenverwirrung beim Turm von Babel. Der Hl. Geist befähigt, das Evangelium überall verständlich zu machen.
+
+\url{https://blogs.rpi-virtuell.de/h5pdev/2020/06/04/pfingsten/}
+Bunte 10-Seiten-Sammlung von interaktiven  Lernelementen zu Pfingsten. Bei den Videos, Bildern, Quizzen, Arbeitsfragen, Bibel als Audio und Direktlink ist für fast jede Altersstufe was dabei. 
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW38] Drei Religionen in der einen Welt}
+\begin{block}{Ziele LP 2000}
+Unterschiedliche kulturelle und religiöse Lebensformen in der Lebenswelt der Schüler kennen: Präsenz anderer Religionen in der Lebenswelt der Schüler: Schule, Feste, Gottes- und Gebetshäuser, Medien
+\end{block}
+
+\begin{block}{Kompetenzen}
+In der eigenen Lebenswelt unterschiedliche religiöse und weltanschauliche Überzeugungen wahrnehmen und beschreiben können.
+Unterschiedliche religiöse Werte kennen und ihre Bedeutung erörtern.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Christentum - Judentum - Islam
+
+Gemeinsamkeiten / Unterschiede / Ursprung
+Heilige Bücher
+Glaube / Glaubenspraxis / Feste / Gebete / Gotteshäuser
+
+Glauben die drei Religionen an den gleichen / selben Gott? Ist das eine berechtigte Frage: Wer hat recht? Wo liegt die Wahrheit? 
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW39] Der hl. Apostel Paulus}
+\begin{block}{Ziele LP 2000}
+Die Zuwendung Gottes wahrnehmen und Gott als einen, der mitgeht, beschreiben können: Paulus
+\end{block}
+
+\begin{block}{Kompetenzen}
+Schüler können mit der Bibel als schriftliche Quelle des Glaubens umgehen und sie als Wort Gottes deuten.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Christentum - Judentum - Islam
+
+Gemeinsamkeiten / Unterschiede / Ursprung
+Heilige Bücher
+Glaube / Glaubenspraxis / Feste / Gebete / Gotteshäuser
+
+Glauben die drei Religionen an den gleichen / selben Gott? Ist das eine berechtigte Frage: Wer hat recht? Wo liegt die Wahrheit?
+
+Arbeitsblätter:
+\url{file:///home/matthias/NMS\_Golling/Weltreligionen/}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW40] Weltreligionen - Islam}
+\begin{block}{Ziele LP 2000}
+Präsenz anderer Religionen in der Lebenswelt der Schüler: Schule, Feste, Gottes- und Gebetshäuser, Medien
+\end{block}
+
+\begin{block}{Kompetenzen}
+In der eigenen Lebenswelt unterschiedliche religiöse und weltanschauliche Überzeugungen wahrnehmen und beschreiben können.
+
+Wahrnehmen und beschreiben religiös bedeutsamer Phänomene
+Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Islam
+Film "planet schule": \url{https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen/islam.html}
+Arbeitsblätter: (siehe \ldots{})
+
+Alle Sendungen: \url{https://www.planet-schule.de/wissenspool/weltreligionen/inhalt/sendungen.html}
+
+\href{Isalm.org}{Isalm}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW41] Unsere Diözese / Diakon, Priester, Bischof}
+\begin{block}{Ziele LP 2000}
+Apostolische Nachfolge, Aufbau der Kirche
+\end{block}
+
+\begin{block}{Kompetenzen}
+\end{block}
+
+
+\begin{block}{Erarbeitung}
+Ikone "Dreifaltigkeit"
+
+Betrachtung:
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{/home/matthias/Downloads/57_1984_3_183_192_Evdokimov_12.pdf}
+\end{center}
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+\begin{block}{[SW42] Wiederholung des Jahresstoffes}
+\begin{block}{Ziele LP 2000}
+\end{block}
+
+\begin{block}{Kompetenzen}
+\end{block}
+
+\begin{block}{Wiederholung}
+\href{KompSozial.2006.org}{KompSozial.2006: Kompendium der soziallehre der kirche}
+\end{block}
+
+\begin{block}{Erarbeitung}
+Wer ist Jesus dür Dich?
+
+Hl. Petrus und Hl. Paulus:
+\url{https://www.youcat.org/de/credopedia/minicat/heiliger-petrus-und-paulus/}
+Die Schlüsselgewalt des heiligen Petrus umfasst drei Momente:
+
+Das wichtigste ist die Vergebung der Sünden: Petrus hat die Vollmacht jede Sünde, und wenn sie noch so grauenhaft wäre, im Namen Jesu zu vergeben, weil Jesus will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit gelangen.
+
+Darüber hinaus die Glaubensverkündigung: Petrus hat ein Charisma in Bezug auf Glaubenswahrheiten und Sitten. Wir müssen nämlich zwei Dinge wissen, um das ewige Leben zu gelangen: Einerseits, was uns über Gott offenbart wurde — also, was wir über Ihn wissen dürfen— und zweitens, wie ich als Christ Leben zu leben habe.
+
+Drittens umfass die Schlüsselgewalt d disziplinarischen Aspekte. Die dem Petrus anvertraute Vollmacht ist so groß, dass selbst Paulus - dem Jesus selbst erschienen ist und der nie eine menschliche Offenbarung brauchte, sondern alles vom Herrn selbst erfahren hat - zu Petrus ging und um eine Bestätigung seiner Lehren bat, um sicher zu gehen, dass er — wie er sagt — nicht ins Leere läuft oder gelaufen ist (vgl. Gal 2,2). Erst nachdem Petrus seine Lehre bestätigt hatte, ging Paulus in die Welt hinaus und verkündete diese den Heiden.
+
+\url{https://www.youcat.org/de/credopedia/minicat/heiligsten-herzens-jesu/}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{[SW43] Schulgottesdienst}
+\begin{block}{Ziele LP 2000}
+\end{block}
+
+\begin{block}{Kompetenzen}
+\end{block}
+
+\begin{block}{Wiederholung}
+\end{block}
+
+\begin{block}{Erarbeitung}
+\end{block}
+
+\begin{block}{Hefteintrag}
+\end{block}
+\end{block}
+\end{block}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:org89e5c9a}]{Kompetenzbereiche und Kompetenzdimensionen}
+\begin{block}{Kompetenzmodell und -bereiche}
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
+
+\begin{block}{A Menschen und ihre Lebensorientierungen}
+\begin{block}{A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung}
+\begin{block}{Kompetenzbeschreibung:}
+Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+Ich und die anderen:
+\begin{itemize}
+\item Selbstvertrauen,
+\item Freundschaft, \ref{sec:org2ffd948} \ref{sec:org5b1e2f8}
+\item Empathie und Perspektivenwechsel, \ref{sec:org10f87ff}
+\item Teamfähigkeit,
+\item Nähe und Distanz,
+\item Zärtlichkeit und Sexualität
+\end{itemize}
+\end{block}
+
+\begin{block}{Kompetenzbeschreibungen}
+\end{block}
+\begin{block}{Anwendungsbereiche}
+\end{block}
+\begin{block}{Unterrichtshinweise}
+\end{block}
+\end{block}
+
+\begin{block}{A2 Sich mit den großen Fragen der Menschen auseinandersetzen können}
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler können für sie bedeutsame Fragen diskutieren und über existentielle Lebensfragen philosophieren und theologisieren.  
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+Beantwortbare und letztlich unbeantwortbare Fragen:
+\begin{itemize}
+\item Wer ist Gott? Existiert Gott?
+\item Existiert überhaupt etwas?
+\item Wer ist der Mensch?
+\item Gott ist gut, warum gibt es das Böse?
+\item Der Sinn des Lebens?
+\item \ldots{}
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Kompetenzbeschreibungen}
+\end{block}
+\begin{block}{Anwendungsbereiche}
+\end{block}
+\begin{block}{Unterrichtshinweise}
+\end{block}
+\end{block}
+\end{block}
+
+\begin{block}{B Gelehrte und gelebte Bezugsreligion}
+\begin{block}{B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können}
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler verfügen über erweiterte Grundkenntnisse zur Bibel und können sie als inspiriertes Zeugnis des Dialogs Gottes mit den Menschen deuten. 
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+Biblisch-hermeneutische Kompetenz: die biblischen Schriften und ihre Entstehung, Zeugnisse der Lebensrelevanz der Bibel \ref{sec:orga19d27e}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\begin{itemize}
+\item Altes Testament
+\item Neues Testament, \ref{sec:orgb179b77}
+\item historisch-geografisches Umfeld; \ref{sec:orga2911a5} \ref{sec:org33e568b}
+\item biblische Motive im Alltag: eigene Erfahrungen und Populärkultur \ref{sec:org1ea8f0c}
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler können Leben und Handeln Jesu in Grundlinien beschreiben und als Basis christlichen Glaubens kommunizieren.
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+Historischer Jesus – Christus des Glaubens 
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+Lukasevangelium in Auswahl 
+\end{block}
+\end{block}
+
+\begin{block}{B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können}
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler kennen Reichtum und Vielfalt spiritueller und liturgischer Ausdrucksformen und können sie in ihrer Bedeutung nachvollziehen und gestalten. 
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\begin{itemize}
+\item Kurzformeln des  Glaubens, \ref{sec:org7bc3a60}
+\item Grundgebete, \ref{sec:org9462e0f} \ref{sec:orgec6ecd7}
+\item Stille, Meditation, \ref{sec:orge4966d9}
+\item Psalmen, Lieder,
+\item körperliche Ausdrucksformen des Gebets
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler können Taufe und Eucharistie als Ausdruck der Zugehörigkeit zur kirchlichen Gemeinschaft verstehen. 
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+Das Glaubensbekenntnis
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\begin{itemize}
+\item Zeichen und Formen von Zugehörigkeit,
+\item Jesu Mahlgemeinschaften und die Feier der Eucharistie
+\end{itemize}
+\end{block}
+\end{block}
+\end{block}
+
+
+\begin{block}{C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur}
+\begin{block}{C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können}
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler können das Kirchenjahr mit seinen Festen als Rhythmus des Lebens verstehen und mitgestalten.  
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\begin{itemize}
+\item Fest- und Feierkultur in Familie, Gemeinschaft und Gesellschaft,
+\item Strukturierung und Prägung der Zeit durch säkulare und religiöse Feste (Kalender), \ref{sec:org99ce6f7} \ref{sec:org8ef106e}
+\item Marienfeste, \ref{sec:org9fb1f5c}
+\item vielfältige Zugänge zum Feiern von Weihnachten \ref{sec:org4f8b94b} \ref{sec:orgf00403d} \ref{sec:orgb8779e1} \ref{sec:orgf377874} \hyperlink{sec:orgf377874}{[SW18] Die Sterndeuter machen sich auf den Weg / Welcher Zweck - welche Organisation?} \hyperlink{sec:orgb8779e1}{[SW17] Ferien / Sterndeuter} \hyperlink{sec:org4f8b94b}{[SW12] Beginn Advent - Singen von Adventliedern}
+\item Ostern
+\end{itemize}
+\end{block}
+
+
+\begin{block}{Kompetenzbeschreibungen}
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\end{block}
+\end{block}
+
+\begin{block}{C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können}
+\begin{block}{Kompetenzbeschreibungen}
+Die Schülerinnen und Schüler können Gemeinsames und Unterscheidendes, Verbindendes und Trennendes von Konfessionen und Religionen benennen und sich damit respektvoll auseinandersetzen. 
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+
+\begin{block}{Unterrichtshinweise}
+\begin{itemize}
+\item Einheit in Vielfalt,
+\item Respekt, Toleranz,
+\item Umgang mit Intoleranz und Vorurteilen
+\end{itemize}
+\end{block}
+
+\begin{block}{Kompetenzbeschreibungen}
+\end{block}
+
+\begin{block}{Anwendungsbereiche}
+\end{block}
+
+\begin{block}{Unterrichtshinweise}
+\end{block}
+\end{block}
+\end{block}
+
+
+
+\begin{block}{Kompetenzdimensionen}
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+\begin{itemize}
+\item Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+\item Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+\item Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+\item Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+\item Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+\end{itemize}
+\end{block}
+
+\begin{block}{Zentrale fachliche Konzepte}
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
+
+\begin{block}{Lebensrealitäten und Transzendenz}
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
+\end{block}
+
+\begin{block}{Gottesliebe und Menschenliebe}
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
+\end{block}
+
+\begin{block}{Jesus der Christus}
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
+\end{block}
+
+\begin{block}{Freiheit und Offenbarung}
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
+\end{block}
+
+\begin{block}{Zusage und Verantwortung}
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
+\end{block}
+\end{block}
+
+\begin{block}{Didaktische Grundsätze}
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
+
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des „Ganzen im Fragment“, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
+
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
+
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
+
+\alert{Fokus: Religiöse Sprache und Symbole}
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
+
+\alert{Fokus: Philosophieren und Theologisieren}
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
+
+\alert{Fokus: Actio und Contemplatio}
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
+
+\alert{Fokus: Beziehung und Resonanz}
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+\end{block}
+
+\begin{block}{Hinweise zum Lehrplan}
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+\begin{block}{KB – Kompetenzbeschreibungen}
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+\end{block}
+
+\begin{block}{AB – Anwendungsbereiche}
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+\end{block}
+
+\begin{block}{UH – Unterrichtshinweise}
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
+\end{block}
+\end{block}
+\end{block}
+
+\begin{block}{Themengebiete (Kirchenjahr, Heilige Schrift, \ldots{})}
+\end{block}
+
+
+\begin{block}{Ziele formulieren}
+\end{block}
+
+
+\begin{block}{Methoden entwickeln}
+Beispiel 4a: Ich hatte eine gute Diskussion mit den Schülern; sie wünschen sich eine andere Art von Unterricht. Sie wollen ein Thema selbständig erarbeiten. Das klappt vielleicht nicht in jeder Klasse. Bei den vierten Klassen liegt dies sicher mehr auf der Hand.
+\end{block}
+\end{frame}
+
+
+\begin{frame}[label={sec:org19b1d94}]{Ablauf einer Stunde}
+\begin{enumerate}
+\item Andocken an letzte Stunde / Whg / Aufzeichnungen
+\item Hinführung zu neuem Thema
+\item Erarbeitung durch Schüler
+\item Verinnerlichung / Heftarbeit
+\item Was habt ihr gelernt? - offene Fragen.
+\end{enumerate}
+\end{frame}
+
+
+
+\begin{frame}[label={sec:org185c797}]{Checkbox [0/8]}
+\begin{itemize}
+\item[{$\square$}] Klasse?
+\item[{$\square$}] Ideen
+\item[{$\square$}] Themen
+\item[{$\square$}] Ziele
+\item[{$\square$}] Methoden
+\item[{$\square$}] Materialen
+\item[{$\square$}] Gitarre
+\item[{$\square$}] Ablauf der Stunde
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[label={sec:org3ae0f17}]{Aufzeichnungen / Mitarbeit}
+In diesem org.-file zeichne ich die Mitarbeit der einzelnen Schüler auf.
+
+Pro Schüler:
+\begin{itemize}
+\item Datum
+\item schriftliche Aufzeichnungen MIT tags :Mitarbeit: :Heft: :Verhalten:
+\end{itemize}
+\end{frame}
+\end{document}

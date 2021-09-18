@@ -1,29 +1,5 @@
  
 
-* Halbzeit Feier
-:PROPERTIES:
-:ETag:     "3259088405136000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: c4rjccr3ckqmab9n60o62b9k6pijibb16sqm8b9p6kq3ep9p75gjcdr470/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2021-08-11 Mi 18:30-21:30>
-:END:
-
-* Mit Isabelle + Gabriel: Einkauf, Test, Arbeit
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3260161674064000"
-:entry-id: 6ddsotuv7b230qaunsmkha1uv8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2021-08-13 Fr 15:00-17:00>
-:END:
-Leopold abholen
-Lego: graue Teile
-
 * Geburtstag Julia
 :PROPERTIES:
 :ETag:     "3078647970481000"
@@ -48,7 +24,7 @@ Lego: graue Teile
 
 * Schulbeginn
 :PROPERTIES:
-:ETag:     "3251636063034000"
+:ETag:     "3263617722544000"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: c5i36or46gsmcb9p6gs30b9k65j6cb9p71ij6b9i75ij6pj668sj0p3274/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -59,7 +35,7 @@ Lego: graue Teile
 
 * Eröffnungskonferenz
 :PROPERTIES:
-:ETag:     "3251636126098000"
+:ETag:     "3263617723088000"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 6tj3ad336cpjib9l60qmab9k6kr66bb2cpgmcb9j68sjic1h64pmccplc8/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -70,7 +46,7 @@ Lego: graue Teile
 
 * Schulgottesdienst
 :PROPERTIES:
-:ETag:     "3251636231450000"
+:ETag:     "3263617722012000"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 74om4pb46osjib9n6cp3ab9k64sjibb1c8rm2b9j64r66p9k6orj4cr160/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -87,4 +63,16 @@ Lego: graue Teile
 :END:
 :org-gcal:
 <2021-08-23 Mo 00:50>
+:END:
+
+* Rückgabe Bücher
+:PROPERTIES:
+:ETag:     "3262852961190000"
+:LOCATION: Stadtbibliothek Salzburg, Schumacherstraße 14, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6hh3ed1p6ksj8b9g6tj30b9k74sj4bb26hi64bb26gsm2d1ic5h62cj56g/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2021-09-22 Mi 15:00-19:00>
 :END:
